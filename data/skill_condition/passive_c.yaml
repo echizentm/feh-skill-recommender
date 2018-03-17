@@ -1,0 +1,111 @@
+- name: 攻撃の紫煙3
+  deny:
+    weapon_type_list: [杖]
+- name: 速さの紫煙3
+  deny:
+    weapon_type_list: [杖]
+- name: 騎刃の鼓舞
+  allow:
+    movement_type_list: [騎馬]
+- name: 騎盾の鼓舞
+  allow:
+    movement_type_list: [騎馬]
+- name: 騎刃の紋章
+  allow:
+    movement_type_list: [騎馬]
+- name: 騎盾の紋章
+  allow:
+    movement_type_list: [騎馬]
+- name: 重刃の鼓舞
+  allow:
+    movement_type_list: [重装]
+- name: 重盾の鼓舞
+  allow:
+    movement_type_list: [重装]
+- name: 重刃の紋章
+  allow:
+    movement_type_list: [重装]
+- name: 重盾の紋章
+  allow:
+    movement_type_list: [重装]
+- name: 飛刃の鼓舞
+  allow:
+    movement_type_list: [飛行]
+- name: 飛盾の鼓舞
+  allow:
+    movement_type_list: [飛行]
+- name: 飛刃の紋章
+  allow:
+    movement_type_list: [飛行]
+- name: 飛盾の紋章
+  allow:
+    movement_type_list: [飛行]
+- name: 竜刃の鼓舞
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+- name: 竜盾の鼓舞
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+- name: 竜刃の紋章
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+- name: 竜盾の紋章
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+- name: 歩行の鼓動3
+  allow:
+    movement_type_list: [歩行]
+- name: 重装の行軍3
+  allow:
+    movement_type_list: [重装]
+- name: 空からの先導3
+  allow:
+    movement_type_list: [飛行]
+- name: 剣の技量3
+  allow:
+    weapon_type_list: [剣]
+- name: 剣の経験3
+  allow:
+    weapon_type_list: [剣]
+- name: 槍の技量3
+  allow:
+    weapon_type_list: [槍]
+- name: 槍の経験3
+  allow:
+    weapon_type_list: [槍]
+- name: 斧の技量3
+  allow:
+    weapon_type_list: [斧]
+- name: 斧の経験3
+  allow:
+    weapon_type_list: [斧]
+- name: 赤魔の技量3
+  allow:
+    weapon_type_list: [赤魔]
+- name: 赤魔の経験3
+  allow:
+    weapon_type_list: [赤魔]
+- name: 青魔の技量3
+  allow:
+    weapon_type_list: [青魔]
+- name: 青魔の経験3
+  allow:
+    weapon_type_list: [青魔]
+- name: 緑魔の技量3
+  allow:
+    weapon_type_list: [緑魔]
+- name: 緑魔の経験3
+  allow:
+    weapon_type_list: [緑魔]
+- name: 弓の技量3
+  allow:
+    weapon_type_list: [弓]
+- name: 弓の経験3
+  allow:
+    weapon_type_list: [弓]
+- name: 暗器の技量3
+  allow:
+    weapon_type_list: [暗器]
+- name: 暗器の経験3
+  allow:
+    weapon_type_list: [暗器]

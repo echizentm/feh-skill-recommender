@@ -1,0 +1,78 @@
+- name: リカバー+
+  allow:
+    weapon_type_list: [杖]
+- name: セインツ+
+  allow:
+    weapon_type_list: [杖]
+- name: リバース+
+  allow:
+    weapon_type_list: [杖]
+- name: リブロー+
+  allow:
+    weapon_type_list: [杖]
+- name: 相互援助
+  deny:
+    weapon_type_list: [杖]
+- name: 献身
+  deny:
+    weapon_type_list: [杖]
+- name: 体当たり
+  deny:
+    weapon_type_list: [杖]
+- name: ぶちかまし
+  deny:
+    weapon_type_list: [杖]
+- name: 引き戻し
+  deny:
+    weapon_type_list: [杖]
+- name: 回り込み
+  deny:
+    weapon_type_list: [杖]
+- name: 引き寄せ
+  deny:
+    weapon_type_list: [杖]
+- name: 入れ替え
+  deny:
+    weapon_type_list: [杖]
+- name: 一喝
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 速さの応援
+  deny:
+    weapon_type_list: [杖]
+- name: 守備の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 魔防の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃速さの応援
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃守備の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃魔防の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 速さ守備の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 速さ魔防の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 守備魔防の応援
+  deny:
+    weapon_type_list: [杖]
+- name: 歌う
+  allow:
+    name_list: [ニニアン, オリヴィエ, オリヴィエ2, アズール2]
+- name: 踊る
+  allow:
+    name_list: [アクア, アクア2, アクア3, シグレ2]
+- name: 癒しの手
+  allow:
+    name_list: [ミカヤ]

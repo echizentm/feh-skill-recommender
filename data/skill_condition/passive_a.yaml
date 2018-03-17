@@ -1,0 +1,69 @@
+- name: 鬼神の一撃3
+  deny:
+    weapon_type_list: [杖]
+- name: 飛燕の一撃3
+  deny:
+    weapon_type_list: [杖]
+- name: 金剛の一撃3
+  deny:
+    weapon_type_list: [杖]
+- name: 明鏡の一撃3
+  deny:
+    weapon_type_list: [杖]
+- name: 鬼神飛燕の一撃2
+  deny:
+    weapon_type_list: [杖]
+- name: 鬼神金剛の一撃2
+  deny:
+    weapon_type_list: [杖]
+- name: 鬼神明鏡の一撃2
+  deny:
+    weapon_type_list: [杖]
+- name: 飛燕金剛の一撃2
+  deny:
+    weapon_type_list: [杖]
+- name: 飛燕明鏡の一撃2
+  deny:
+    weapon_type_list: [杖]
+- name: 金剛明鏡の一撃2
+  deny:
+    weapon_type_list: [杖]
+- name: 鬼神の構え3
+  deny:
+    weapon_type_list: [杖]
+- name: 金剛の呼吸
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 明鏡の呼吸
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 獅子奮迅3
+  deny:
+    weapon_type_list: [杖]
+- name: 相性激化3
+  deny:
+    weapon_type_list: [弓, 暗器, 杖, 無竜]
+- name: 剛剣3
+  deny:
+    weapon_type_list: [杖]
+- name: 柔剣3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 近距離反撃
+  deny:
+    weapon_type_list: [剣, 槍, 斧, 赤竜, 青竜, 緑竜, 無竜]
+- name: 遠距離反撃
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: スヴェルの盾
+  deny:
+    movement_type_list: [歩行, 騎馬, 飛行]
+- name: アイオテの盾
+  deny:
+    movement_type_list: [歩行, 騎馬,重装]
+- name: グラニの盾
+  deny:
+    movement_type_list: [歩行, 重装, 飛行]

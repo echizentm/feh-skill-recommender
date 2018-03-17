@@ -1,0 +1,128 @@
+- name: 剣殺し3
+  deny:
+    weapon_type_list: [斧, 緑魔, 緑竜]
+- name: 槍殺し3
+  deny:
+    weapon_type_list: [剣, 赤魔, 赤竜]
+- name: 斧殺し3
+  deny:
+    weapon_type_list: [槍, 青魔, 青竜]
+- name: 赤魔殺し3
+  deny:
+    weapon_type_list: [斧, 緑魔, 緑竜]
+- name: 青魔殺し3
+  deny:
+    weapon_type_list: [剣, 赤魔, 赤竜]
+- name: 緑魔殺し3
+  deny:
+    weapon_type_list: [槍, 青魔, 青竜]
+- name: 弓殺し3
+  deny:
+    movement_type_list: [飛行]
+- name: 攻撃隊形3
+  allow:
+    movement_type_list: [重装]
+- name: 迎撃隊形3
+  allow:
+    movement_type_list: [重装]
+- name: 守備隊形3
+  allow:
+    movement_type_list: [重装]
+- name: 業火の舞い3
+  deny:
+    weapon_type_list: [杖]
+- name: 疾風の舞い3
+  deny:
+    weapon_type_list: [杖]
+- name: 大地の舞い3
+  deny:
+    weapon_type_list: [杖]
+- name: 大地静水の舞い2
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃封じ3
+  deny:
+    weapon_type_list: [杖]
+- name: 速さ封じ3
+  deny:
+    weapon_type_list: [杖]
+- name: 守備封じ3
+  deny:
+    weapon_type_list: [杖]
+- name: 魔防封じ3
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃速さ封じ2
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃守備封じ2
+  deny:
+    weapon_type_list: [杖]
+- name: すり抜け3
+  deny:
+    weapon_type_list: [杖]
+- name: 引き込み
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 切り込み
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 叩き込み
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 一撃離脱
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 編隊飛行3
+  allow:
+    movement_type_list: [飛行]
+- name: 怒り3
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 風薙ぎ3
+  deny:
+    weapon_type_list: [杖]
+- name: 水薙ぎ3
+  deny:
+    weapon_type_list: [杖]
+- name: 盾の鼓動3
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 蛇毒3
+  deny:
+    weapon_type_list: [杖]
+- name: ご奉仕の喜び3
+  allow:
+    weapon_type_list: [杖]
+- name: 幻惑の杖3
+  allow:
+    weapon_type_list: [杖]
+- name: 神罰の杖3
+  allow:
+    weapon_type_list: [杖]
+- name: 氷の封印
+  allow:
+    name_list: [スリーズ]
+- name: 聖騎士の加護
+  allow:
+    name_list: [シグルド]
+- name: 追撃リング
+  allow:
+    name_list: [アーダン]
+- name: リカバーリング
+  allow:
+    name_list: [アルヴィス]
+- name: 太陽の腕輪
+  allow:
+    name_list: [エフラム2]
+- name: 転移の粉
+  allow:
+    name_list: [ゼルギウス]
+- name: サカの加護
+  allow:
+    name_list: [リン3]
+- name: ベオクの加護
+  allow:
+    name_list: [アイク2]

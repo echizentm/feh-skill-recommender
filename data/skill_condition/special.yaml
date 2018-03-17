@@ -1,0 +1,111 @@
+- name: 凶星
+  deny:
+    weapon_type_list: [杖]
+- name: 流星
+  deny:
+    weapon_type_list: [杖]
+- name: 疾風迅雷
+  deny:
+    weapon_type_list: [杖]
+- name: 月虹
+  deny:
+    weapon_type_list: [杖]
+- name: 月光
+  deny:
+    weapon_type_list: [杖]
+- name: 夕陽
+  deny:
+    weapon_type_list: [杖]
+- name: 太陽
+  deny:
+    weapon_type_list: [杖]
+- name: 天空
+  deny:
+    weapon_type_list: [杖]
+- name: 竜裂
+  deny:
+    weapon_type_list: [杖]
+- name: 竜穿
+  deny:
+    weapon_type_list: [杖]
+- name: 緋炎
+  deny:
+    weapon_type_list: [杖]
+- name: 華炎
+  deny:
+    weapon_type_list: [杖]
+- name: 氷蒼
+  deny:
+    weapon_type_list: [杖]
+- name: 氷華
+  deny:
+    weapon_type_list: [杖]
+- name: 血讐
+  deny:
+    weapon_type_list: [杖]
+- name: 復讐
+  deny:
+    weapon_type_list: [杖]
+- name: 爆火
+  deny:
+    weapon_type_list: [杖]
+- name: 烈火
+  deny:
+    weapon_type_list: [杖]
+- name: 爆雷
+  deny:
+    weapon_type_list: [杖]
+- name: 烈雷
+  deny:
+    weapon_type_list: [杖]
+- name: 爆風
+  deny:
+    weapon_type_list: [杖]
+- name: 烈風
+  deny:
+    weapon_type_list: [杖]
+- name: 爆光
+  deny:
+    weapon_type_list: [杖]
+- name: 烈光
+  deny:
+    weapon_type_list: [杖]
+- name: 長盾
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 大盾
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 聖兜
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 聖盾
+  deny:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+- name: 天照
+  allow:
+    weapon_typee_list: [杖]
+- name: 業火の祝福
+  allow:
+    weapon_typee_list: [杖]
+- name: 疾風の祝福
+  allow:
+    weapon_typee_list: [杖]
+- name: 大地の祝福
+  allow:
+    weapon_typee_list: [杖]
+- name: 静水の祝福
+  allow:
+    weapon_typee_list: [杖]
+- name: 氷の聖鏡
+  allow:
+    name_list: [フィヨルム]
+- name: 剣姫の流星
+  allow:
+    name_list: [アイラ]
+- name: 黒の月光
+  allow:
+    name_list: [漆黒の騎士, ゼルギウス]
+- name: 蒼の天空
+  allow:
+    name_list: [アイク3]
