@@ -57,15 +57,18 @@ def main():
         if re.fullmatch(r'(男|女|紋章|覚醒)?{}[0-9]*'.format(args.unit_name), unit.name)
     ]
     searched_unit_list = sorted(searched_unit_list, key=lambda x: x.name)
-    recommended_skill_dict = recommender.predict(searched_unit_list)
-    for i, unit in enumerate(searched_unit_list):
-        print('name: {}'.format(unit.name))
-        for skill_type in SkillType:
-            current_value = getattr(unit, skill_type.value)
-            if skill_type in recommended_skill_dict and current_value == NO_SKILL_LABEL:
-                print('{}: {} => {}'.format(skill_type.value, current_value, recommended_skill_dict[skill_type][i]))
-            else:
-                print('{}: {}'.format(skill_type.value, current_value))
+    if len(searched_unit_list) > 0:
+        recommended_skill_dict = recommender.predict(searched_unit_list)
+        for i, unit in enumerate(searched_unit_list):
+            print('name: {}'.format(unit.name))
+            for skill_type in SkillType:
+                current_value = getattr(unit, skill_type.value)
+                if skill_type in recommended_skill_dict and current_value == NO_SKILL_LABEL:
+                    print('{}: {} => {}'.format(skill_type.value, current_value, recommended_skill_dict[skill_type][i]))
+                else:
+                    print('{}: {}'.format(skill_type.value, current_value))
+    else:
+        print('unit not found.')
 
 
 if __name__ == '__main__':
