@@ -166,6 +166,19 @@
   special: 血讐
   passive_a: 明鏡の一撃3
   passive_b: 暗器殺し3
+- name: カゲロウ2
+  weapon_type: 暗器
+  movement_type: 飛行
+  hp: 36
+  attack: 47
+  speed: 34
+  defence: 18
+  resist: 27
+  weapon: ベビーキャロット+
+  special: 凶星
+  passive_a: 速さ魔防の絆3
+  passive_b: 栄誉の喜び
+  passive_c: 飛刃の紋章
 - name: ヒノカ
   weapon_type: 槍
   movement_type: 飛行

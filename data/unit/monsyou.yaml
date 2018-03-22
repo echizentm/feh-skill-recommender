@@ -226,6 +226,18 @@
   special: 月光
   passive_a: 金剛の一撃3
   passive_b: 攻撃封じ3
+- name: カチュア2
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 36
+  attack: 46
+  speed: 35
+  defence: 18
+  resist: 26
+  weapon: フギンの魔卵
+  assist: 引き寄せ
+  passive_b: 魔防の封印3
+  passive_c: 速さの大紋章2
 - name: エスト
   weapon_type: 槍
   movement_type: 飛行
