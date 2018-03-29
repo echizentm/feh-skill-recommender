@@ -67,3 +67,6 @@
 - name: グラニの盾
   deny:
     movement_type_list: [歩行, 重装, 飛行]
+- name: 邪竜の鱗
+  allow:
+    name_list: [女ルフレ3]

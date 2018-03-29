@@ -107,6 +107,19 @@
   assist: 引き戻し
   passive_a: HP守備2
   passive_c: 槍の技量3
+- name: 女ルフレ3
+  weapon_type: 無竜
+  movement_type: 飛行
+  hp: 40
+  attack: 48
+  speed: 35
+  defence: 30
+  resist: 25
+  weapon: 邪竜のブレス
+  special: 緋炎
+  passive_a: 邪竜の鱗
+  passive_b: 相性相殺3
+  passive_c: 魔防の紫煙3
 - name: リズ
   weapon_type: 杖
   movement_type: 歩行
