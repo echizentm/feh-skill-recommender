@@ -126,3 +126,6 @@
 - name: ベオクの加護
   allow:
     name_list: [アイク2]
+- name: Sドリンク
+  allow:
+    name_list: [リーフ]

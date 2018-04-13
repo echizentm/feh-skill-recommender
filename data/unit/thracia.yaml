@@ -1,3 +1,29 @@
+- name: リーフ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 48
+  speed: 38
+  defence: 33
+  resist: 23
+  weapon: 光の剣
+  special: 烈光
+  passive_a: 飛燕金剛の一撃2
+  passive_b: Sドリンク
+  passive_c: 攻撃の大紋章2
+- name: ナンナ
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 36
+  attack: 34
+  speed: 36
+  defence: 21
+  resist: 28
+  weapon: アブゾーブ+
+  assist: レスト+
+  special: 天照
+  passive_a: 速さ魔防2
+  passive_c: 守備の大紋章2
 - name: ラインハルト
   weapon_type: 青魔
   movement_type: 騎馬
@@ -10,6 +36,19 @@
   special: 烈雷
   passive_b: 待ち伏せ3
   passive_c: 騎刃の紋章
+- name: ラインハルト2
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 40
+  attack: 46
+  speed: 18
+  defence: 31
+  resist: 28
+  weapon: マスターソード
+  special: 大盾
+  passive_a: 鬼神の一撃3
+  passive_b: 待ち伏せ3
+  passive_c: 攻撃守備の紋章2
 - name: オルエン
   weapon_type: 青魔
   movement_type: 騎馬
@@ -22,3 +61,16 @@
   assist: 引き戻し
   passive_a: 明鏡の一撃3
   passive_c: 騎盾の紋章
+- name: オルエン2
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 34
+  attack: 44
+  speed: 35
+  defence: 19
+  resist: 27
+  weapon: 雷旋の書
+  special: 烈風
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 回復3
+  passive_c: 緑魔の経験3

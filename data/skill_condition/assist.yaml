@@ -10,6 +10,9 @@
 - name: リブロー+
   allow:
     weapon_type_list: [杖]
+- name: レスト+
+  allow:
+    weapon_type_list: [杖]
 - name: 相互援助
   deny:
     weapon_type_list: [杖]
