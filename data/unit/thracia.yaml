@@ -11,6 +11,18 @@
   passive_a: 飛燕金剛の一撃2
   passive_b: Sドリンク
   passive_c: 攻撃の大紋章2
+- name: フィン
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 44
+  speed: 28
+  defence: 34
+  resist: 18
+  weapon: 勇者の槍+
+  special: 祈り
+  passive_a: 攻撃守備2
+  passive_c: 騎刃の紋章
 - name: ナンナ
   weapon_type: 杖
   movement_type: 騎馬
@@ -74,3 +86,15 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 回復3
   passive_c: 緑魔の経験3
+- name: サイアス
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 36
+  attack: 47
+  speed: 30
+  defence: 18
+  resist: 34
+  weapon: 軍神の書
+  special: 氷華
+  passive_b: 離脱の行路3
+  passive_c: 速さの謀策3
