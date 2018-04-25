@@ -191,6 +191,19 @@
   special: 烈風
   passive_a: 守備の覚醒3
   passive_c: 飛刃の鼓舞
+- name: ヒノカ2
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 37
+  attack: 46
+  speed: 38
+  defence: 17
+  resist: 29
+  weapon: 戦姫の和弓
+  special: 月光
+  passive_a: 攻撃速さの絆3
+  passive_b: 編隊飛行3
+  passive_c: 飛行の先導3
 - name: アサマ
   weapon_type: 杖
   movement_type: 歩行
@@ -540,7 +553,7 @@
   assist: ぶちかまし
   passive_a: 鬼神の一撃3
   passive_b: 守備隊形3
-- name: シャーロッテ2
+- name: シャーロッテ
   weapon_type: 槍
   movement_type: 歩行
   hp: 46
@@ -552,7 +565,19 @@
   assist: ぶちかまし
   passive_a: 生命の疾風3
   passive_c: 攻撃の威嚇3
-- name: シグレ2
+- name: 女カンナ
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 40
+  attack: 44
+  speed: 34
+  defence: 33
+  resist: 26
+  weapon: 水のブレス+
+  special: 竜裂
+  passive_a: 鬼神の構え3
+  passive_c: 竜刃の紋章
+- name: シグレ
   weapon_type: 青魔
   movement_type: 歩行
   hp: 34
@@ -564,6 +589,18 @@
   assist: 歌う
   passive_b: 大地静水の舞い3
   passive_c: 青魔の技量3
+- name: シグレ2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 40
+  attack: 46
+  speed: 37
+  defence: 27
+  resist: 25
+  weapon: 倭鉾+
+  special: 夕陽
+  passive_a: 飛燕の構え3
+  passive_c: 飛盾の紋章
 - name: シノノメ
   weapon_type: 槍
   movement_type: 歩行

@@ -455,7 +455,7 @@
   special: 天空
   passive_a: 鬼神金剛の一撃2
   passive_c: 速さの大紋章2
-- name: アズール2
+- name: アズール
   weapon_type: 緑魔
   movement_type: 歩行
   hp: 37
