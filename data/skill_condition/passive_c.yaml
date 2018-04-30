@@ -67,6 +67,9 @@
 - name: 空からの先導3
   allow:
     movement_type_list: [飛行]
+- name: 飛行の先導3
+  allow:
+    movement_type_list: [飛行]
 - name: 剣の技量3
   allow:
     weapon_type_list: [剣]
