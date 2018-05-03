@@ -337,6 +337,18 @@
   assist: 入れ替え
   passive_a: 魔防3
   passive_b: 切り返し3
+- name: スズカゼ
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 34
+  attack: 42
+  speed: 36
+  defence: 17
+  resist: 34
+  weapon: 暗殺手裏剣+
+  special: 氷蒼
+  passive_b: 蛇毒3
+  passive_c: 攻撃の紫煙3
 - name: マークス
   weapon_type: 剣
   movement_type: 騎馬
@@ -565,6 +577,18 @@
   assist: ぶちかまし
   passive_a: 生命の疾風3
   passive_c: 攻撃の威嚇3
+- name: 男カンナ
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 40
+  attack: 45
+  speed: 33
+  defence: 31
+  resist: 29
+  weapon: 水のブレス+
+  special: 竜穿
+  passive_a: 守備魔防の大覚醒3
+  passive_c: 竜盾の鼓舞
 - name: 女カンナ
   weapon_type: 緑竜
   movement_type: 歩行
