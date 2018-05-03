@@ -72,16 +72,16 @@
     weapon_type_list: [杖]
 - name: 長盾
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 大盾
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 聖兜
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 聖盾
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 天照
   allow:
     weapon_typee_list: [杖]

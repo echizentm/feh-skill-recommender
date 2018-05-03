@@ -63,22 +63,22 @@
     weapon_type_list: [杖]
 - name: 引き込み
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 切り込み
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 叩き込み
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 一撃離脱
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]
 - name: 怒り3
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
     movement_type_list: [騎馬, 飛行]
 - name: 風薙ぎ3
   deny:
@@ -88,7 +88,7 @@
     weapon_type_list: [杖]
 - name: 盾の鼓動3
   deny:
-    weapon_type_list: [赤魔, 青魔, 緑魔, 弓, 暗器, 杖]
+    weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
     movement_type_list: [騎馬, 飛行]
 - name: 蛇毒3
   deny:

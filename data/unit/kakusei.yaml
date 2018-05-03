@@ -108,7 +108,7 @@
   passive_a: HP守備2
   passive_c: 槍の技量3
 - name: 女ルフレ3
-  weapon_type: 無竜
+  weapon_type: 竜
   movement_type: 飛行
   hp: 40
   attack: 48

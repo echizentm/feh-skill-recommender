@@ -48,16 +48,16 @@
     movement_type_list: [飛行]
 - name: 竜刃の鼓舞
   allow:
-    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 竜盾の鼓舞
   allow:
-    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 竜刃の紋章
   allow:
-    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 竜盾の紋章
   allow:
-    weapon_type_list: [赤竜, 青竜, 緑竜, 無竜]
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 歩行の鼓動3
   allow:
     movement_type_list: [歩行]
