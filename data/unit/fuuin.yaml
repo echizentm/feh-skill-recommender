@@ -38,11 +38,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 35
-  attack: 53
+  attack: 54
   speed: 25
-  defence: 25
+  defence: 19
   resist: 31
-  weapon: ボルガノン+
+  weapon: フォルブレイズ
   special: 爆火
   passive_a: 攻撃3
   passive_c: 攻撃の紋章3
@@ -170,11 +170,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 41
-  attack: 39
+  attack: 41
   speed: 39
   defence: 24
   resist: 31
-  weapon: キルソード鍛+
+  weapon: 無銘の一門の剣
   special: 氷華
   passive_a: 速さ3
   passive_b: すり抜け3
