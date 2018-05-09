@@ -413,11 +413,11 @@
   weapon_type: 斧
   movement_type: 飛行
   hp: 37
-  attack: 38
-  speed: 27
+  attack: 46
+  speed: 32
   defence: 28
   resist: 31
-  weapon: 勇者の斧+
+  weapon: カミラの艷斧
   special: 竜裂
   passive_a: 飛燕の一撃3
   passive_c: 死の吐息3

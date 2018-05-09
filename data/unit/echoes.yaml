@@ -62,11 +62,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 37
-  attack: 41
+  attack: 42
   speed: 36
   defence: 24
   resist: 33
-  weapon: 銀の槍+
+  weapon: ロムファイア
   assist: 一喝
   passive_b: 一撃離脱
   passive_c: 速さの紋章3
