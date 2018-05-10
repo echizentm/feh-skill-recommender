@@ -130,7 +130,7 @@
   weapon: 魔剣ミストルティン
   special: 竜裂
   passive_a: 攻撃守備の大覚醒3
-  passive_c: 守備魔防封じ2
+  passive_b: 守備魔防封じ2
 - name: リーン
   weapon_type: 剣
   movement_type: 歩行
