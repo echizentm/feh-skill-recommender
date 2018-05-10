@@ -119,3 +119,40 @@
   special: 竜穿
   passive_a: 魔防3
   passive_c: 生の息吹3
+- name: アレス
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 40
+  attack: 52
+  speed: 30
+  defence: 33
+  resist: 18
+  weapon: 魔剣ミストルティン
+  special: 竜裂
+  passive_a: 攻撃守備の大覚醒3
+  passive_c: 守備魔防封じ2
+- name: リーン
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 35
+  attack: 42
+  speed: 35
+  defence: 23
+  resist: 28
+  weapon: 守りの剣+
+  assist: 踊る
+  passive_b: 業火疾風の舞い2
+  passive_c: 剣の技量3
+- name: イシュタル
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 38
+  attack: 48
+  speed: 36
+  defence: 17
+  resist: 26
+  weapon: トールハンマー
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 待ち伏せ3
+  passive_c: 攻撃の波・奇数3
