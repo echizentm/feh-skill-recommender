@@ -143,6 +143,18 @@
   assist: 踊る
   passive_b: 業火疾風の舞い2
   passive_c: 剣の技量3
+- name: ユリウス
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 38
+  attack: 49
+  speed: 27
+  defence: 16
+  resist: 38
+  weapon: ロプトウス
+  special: 竜裂
+  passive_b: キャンセル3
+  passive_c: 攻撃の謀策3
 - name: イシュタル
   weapon_type: 青魔
   movement_type: 歩行
