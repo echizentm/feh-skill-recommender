@@ -242,6 +242,18 @@
   assist: 踊る
   passive_b: 離脱の行路3
   passive_c: 竜盾の鼓舞3
+- name: ニニアン2
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 34
+  attack: 40
+  speed: 33
+  defence: 18
+  resist: 27
+  weapon: 清らかなブーケ+
+  assist: 踊る
+  passive_b: 攻撃の封印3
+  passive_c: 速さの大紋章2
 - name: ロイド
   weapon_type: 剣
   movement_type: 歩行

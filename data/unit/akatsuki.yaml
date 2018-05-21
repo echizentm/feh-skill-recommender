@@ -36,7 +36,7 @@
   passive_a: 明鏡の呼吸
   passive_b: 攻撃守備封じ2
   passive_c: 守備の指揮3
-- name: サナキ
+- name: 暁サナキ
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 33

@@ -337,6 +337,18 @@
   passive_a: 近距離反撃
   passive_b: 迎撃隊形3
   passive_c: 赤魔の技量3
+- name: サーリャ3
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 39
+  attack: 49
+  speed: 38
+  defence: 21
+  resist: 21
+  weapon: ムスペルの炎花
+  assist: 攻撃速さの応援
+  passive_a: 攻撃速さの絆3
+  passive_b: 速さの共謀3
 - name: ヴィオール
   weapon_type: 弓
   movement_type: 歩行

@@ -54,7 +54,7 @@ def main():
     searched_unit_list = [
         unit
         for unit in unit_list
-        if re.fullmatch(r'(男|女|紋章|覚醒)?{}[0-9]*'.format(args.unit_name), unit.name)
+        if re.fullmatch(r'(男|女|紋章|蒼炎|暁|覚醒)?{}[0-9]*'.format(args.unit_name), unit.name)
     ]
     searched_unit_list = sorted(searched_unit_list, key=lambda x: x.name)
     if len(searched_unit_list) > 0:

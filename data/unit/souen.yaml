@@ -107,6 +107,18 @@
   special: 月虹
   passive_a: 攻撃速さ2
   passive_b: 怒り3
+- name: 蒼炎サナキ
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 35
+  attack: 53
+  speed: 30
+  defence: 16
+  resist: 33
+  weapon: ニフルの氷花
+  assist: 引き寄せ
+  passive_a: 攻撃魔防の絆3
+  passive_b: 守備魔防の連携3
 - name: 漆黒の騎士
   weapon_type: 剣
   movement_type: 重装

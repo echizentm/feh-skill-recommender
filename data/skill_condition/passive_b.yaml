@@ -61,6 +61,12 @@
 - name: 攻撃守備封じ2
   deny:
     weapon_type_list: [杖]
+- name: 守備魔防の連携3
+  deny:
+    weapon_type_list: [杖]
+- name: 速さの共謀3
+  deny:
+    weapon_type_list: [杖]
 - name: すり抜け3
   deny:
     weapon_type_list: [杖]
