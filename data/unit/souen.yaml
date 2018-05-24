@@ -1,4 +1,4 @@
-- name: アイク
+- name: 蒼炎アイク
   weapon_type: 剣
   movement_type: 歩行
   hp: 42
@@ -10,7 +10,7 @@
   special: 天空
   passive_a: 剛剣3
   passive_b: 剣殺し3
-- name: アイク2
+- name: 蒼炎アイク2
   weapon_type: 斧
   movement_type: 歩行
   hp: 42
