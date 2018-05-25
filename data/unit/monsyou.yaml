@@ -10,6 +10,18 @@
   assist: 回り込み
   passive_b: 離脱の行路3
   passive_c: 速さの紋章3
+- name: マルス2
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 40
+  attack: 45
+  speed: 36
+  defence: 30
+  resist: 20
+  weapon: 愛のケーキサーバ+
+  assist: 速さ守備の応援
+  passive_b: 救援の行路3
+  passive_c: 攻撃の大紋章2
 - name: ジェイガン
   weapon_type: 槍
   movement_type: 騎馬
