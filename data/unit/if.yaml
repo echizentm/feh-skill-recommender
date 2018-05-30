@@ -142,6 +142,19 @@
   special: 流星
   passive_a: 攻撃の覚醒3
   passive_c: 速さの鼓舞3
+- name: リョウマ2
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 41
+  attack: 50
+  speed: 39
+  defence: 28
+  resist: 20
+  weapon: 雷神刀
+  special: 凶星
+  passive_a: 鬼神飛燕の構え2
+  passive_b: 武士道
+  passive_c: 空からの先導3
 - name: サイゾウ
   weapon_type: 暗器
   movement_type: 歩行

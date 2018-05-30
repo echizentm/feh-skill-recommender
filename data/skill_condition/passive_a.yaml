@@ -31,6 +31,15 @@
 - name: 鬼神の構え3
   deny:
     weapon_type_list: [杖]
+- name: 飛燕の構え3
+  deny:
+    weapon_type_list: [杖]
+- name: 鬼神飛燕の構え2
+  deny:
+    weapon_type_list: [杖]
+- name: 鬼神金剛の構え2
+  deny:
+    weapon_type_list: [杖]
 - name: 金剛の呼吸
   deny:
     weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]

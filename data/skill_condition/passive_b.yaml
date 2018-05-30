@@ -61,6 +61,9 @@
 - name: 攻撃守備封じ2
   deny:
     weapon_type_list: [杖]
+- name: 守備魔防封じ2
+  deny:
+    weapon_type_list: [杖]
 - name: 守備魔防の連携3
   deny:
     weapon_type_list: [杖]
@@ -134,7 +137,10 @@
     name_list: [リン3]
 - name: ベオクの加護
   allow:
-    name_list: [アイク2]
+    name_list: [蒼炎アイク2]
 - name: Sドリンク
   allow:
     name_list: [リーフ]
+- name: 武士道
+  allow:
+    name_list: [リョウマ2]
