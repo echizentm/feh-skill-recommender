@@ -88,6 +88,9 @@
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]
+- name: 曲技飛行3
+  allow:
+    movement_type_list: [飛行]
 - name: 怒り3
   deny:
     weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]

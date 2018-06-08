@@ -218,6 +218,18 @@
   special: 血讐
   passive_a: 攻撃の覚醒3
   passive_b: 攻め立て3
+- name: カアラ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 51
+  speed: 40
+  defence: 23
+  resist: 22
+  weapon: 剣姫の刀
+  special: 竜裂
+  passive_b: 怒り3
+  passive_c: 速さの波・偶数3
 - name: ホークアイ
   weapon_type: 斧
   movement_type: 歩行
@@ -302,3 +314,28 @@
   assist: 引き寄せ
   passive_a: 魔防3
   passive_c: 攻撃の鼓舞3
+- name: ニノ2
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 36
+  attack: 47
+  speed: 41
+  defence: 17
+  resist: 25
+  weapon: ギガスカリバー
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 曲技飛行3
+  passive_c: 速さの紫煙3
+- name: ラガルト
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 39
+  attack: 43
+  speed: 38
+  defence: 24
+  resist: 19
+  weapon: 粛清の暗器+
+  special: 凶星
+  passive_a: 飛燕明鏡の一撃2
+  passive_c: 攻撃の指揮3

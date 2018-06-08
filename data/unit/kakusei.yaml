@@ -377,11 +377,11 @@
   weapon_type: 赤竜
   movement_type: 歩行
   hp: 40
-  attack: 46
+  attack: 51
   speed: 23
   defence: 35
   resist: 24
-  weapon: 雷のブレス+
+  weapon: 霧のブレス
   special: 緋炎
   passive_a: 攻撃の覚醒3
   passive_c: 魔防の紋章3

@@ -314,11 +314,11 @@
   weapon_type: 赤竜
   movement_type: 歩行
   hp: 41
-  attack: 46
+  attack: 47
   speed: 30
   defence: 32
   resist: 29
-  weapon: 灼熱のブレス+
+  weapon: 霧のブレス
   special: 爆火
   passive_a: 金剛の一撃3
   passive_c: 生の息吹3
