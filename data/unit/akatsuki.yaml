@@ -45,7 +45,7 @@
   defence: 17
   resist: 34
   weapon: シムベリン
-  special: 一喝
+  assist: 一喝
   passive_a: 相性激化3
   passive_c: 攻撃の鼓舞3
 - name: ゼルギウス
