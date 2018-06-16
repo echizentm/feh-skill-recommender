@@ -206,6 +206,18 @@
   assist: 献身
   passive_a: 飛燕の一撃3
   passive_c: 生の息吹3
+- name: カナス
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 40
+  attack: 42
+  speed: 29
+  defence: 21
+  resist: 35
+  weapon: ラウアアウル+
+  assist: 相互援助
+  passive_a: HP魔防2
+  passive_c: 魔防の指揮3
 - name: カレル
   weapon_type: 剣
   movement_type: 歩行
