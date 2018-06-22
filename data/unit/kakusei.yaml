@@ -216,6 +216,18 @@
   assist: 攻撃速さの応援
   passive_b: 離脱の行路3
   passive_c: 生の息吹3
+- name: ティアモ3
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 46
+  speed: 38
+  defence: 28
+  resist: 18
+  weapon: 貝殻の槍+
+  assist: 一喝
+  passive_a: 鬼神金剛の一撃2
+  passive_b: 強化無効・近距離3
 - name: ガイア
   weapon_type: 暗器
   movement_type: 歩行
@@ -516,3 +528,15 @@
   passive_a: 鬼神明鏡の構え2
   passive_b: キャンセル3
   passive_c: 攻撃の謀策3
+- name: ノワール
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 36
+  attack: 46
+  speed: 38
+  defence: 27
+  resist: 20
+  weapon: ヤシの実の弓+
+  assist: 献身
+  passive_a: 攻撃速さ2
+  passive_c: 歩行の剛撃3

@@ -70,6 +70,9 @@
 - name: 速さの共謀3
   deny:
     weapon_type_list: [杖]
+- name: 守備の共謀3
+  deny:
+    weapon_type_list: [杖]
 - name: すり抜け3
   deny:
     weapon_type_list: [杖]
