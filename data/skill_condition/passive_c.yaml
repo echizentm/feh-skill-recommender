@@ -121,3 +121,6 @@
 - name: 暗器の経験3
   allow:
     weapon_type_list: [暗器]
+- name: オスティアの鼓動
+  allow:
+    name_list: [ヘクトル3]

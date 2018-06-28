@@ -109,6 +109,19 @@
   special: 凶星
   passive_a: 遠距離反撃
   passive_b: 守備隊形3
+- name: ヘクトル3
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 47
+  attack: 56
+  speed: 23
+  defence: 41
+  resist: 26
+  weapon: 天雷アルマーズ
+  special: 竜裂
+  passive_a: 遠距離反撃
+  passive_b: 迎撃隊形3
+  passive_c: オスティアの鼓動
 - name: マシュー
   weapon_type: 暗器
   movement_type: 歩行
