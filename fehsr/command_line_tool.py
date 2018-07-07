@@ -67,6 +67,8 @@ def main():
                     print('{}: {} => {}'.format(skill_type.value, current_value, recommended_skill_dict[skill_type][i]))
                 else:
                     print('{}: {}'.format(skill_type.value, current_value))
+            print('total_parameter: {}'.format(unit.total_parameter))
+            print('weighted_total_parameter: {}'.format(unit.weighted_total_parameter))
     else:
         print('unit not found.')
 

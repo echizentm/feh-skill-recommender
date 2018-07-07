@@ -65,3 +65,23 @@ class Unit:
             self.passive_b = status_dict['passive_b']
         if 'passive_c' in status_dict:
             self.passive_c = status_dict['passive_c']
+
+    @property
+    def total_parameter(self):
+        return (
+            self.hp +
+            self.attack +
+            self.speed +
+            self.defence +
+            self.resist
+        )
+
+    @property
+    def weighted_total_parameter(self):
+        return int((
+            self.hp / 5 +
+            self.attack / 2 +
+            self.speed / 3 +
+            self.defence / 4 +
+            self.resist / 4
+        ) * 3)
