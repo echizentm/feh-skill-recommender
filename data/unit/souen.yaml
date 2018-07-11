@@ -27,11 +27,11 @@
   weapon_type: 斧
   movement_type: 騎馬
   hp: 37
-  attack: 40
+  attack: 44
   speed: 34
   defence: 25
   resist: 30
-  weapon: 深緑の斧+
+  weapon: 傭兵団の戦斧
   assist: 相互援助
   passive_a: 金剛の一撃3
   passive_b: キャンセル3
@@ -99,11 +99,11 @@
   weapon_type: 槍
   movement_type: 歩行
   hp: 37
-  attack: 47
+  attack: 49
   speed: 37
   defence: 34
   resist: 20
-  weapon: キラーランス鍛+
+  weapon: 義勇の槍
   special: 月虹
   passive_a: 攻撃速さ2
   passive_b: 怒り3

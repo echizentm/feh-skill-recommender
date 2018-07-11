@@ -166,6 +166,18 @@
   assist: 献身
   passive_a: 速さ3
   passive_c: 魔防の鼓舞3
+- name: リンダ2
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 33
+  attack: 46
+  speed: 35
+  defence: 16
+  resist: 26
+  weapon: ヒトデ+
+  assist: 献身
+  passive_a: 攻撃魔防の大覚醒3
+  passive_b: 相性相殺3
 - name: ジョルジュ
   weapon_type: 弓
   movement_type: 歩行
@@ -322,15 +334,28 @@
   special: 爆火
   passive_a: 金剛の一撃3
   passive_c: 生の息吹3
+- name: 紋章チキ2
+  weapon_type: 赤竜
+  movement_type: 飛行
+  hp: 40
+  attack: 49
+  speed: 37
+  defence: 35
+  resist: 26
+  weapon: 真夏のブレス
+  special: 月虹
+  passive_a: 攻撃守備の絆3
+  passive_b: 一撃離脱
+  passive_c: 竜の技量3
 - name: カタリナ
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 34
-  attack: 42
+  attack: 46
   speed: 34
   defence: 15
   resist: 32
-  weapon: ラウアアウル+
+  weapon: カタリナの書
   special: 氷華
   passive_a: 鬼神飛燕の一撃2
   passive_c: 攻撃の謀策3
