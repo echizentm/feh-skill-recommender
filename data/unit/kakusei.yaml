@@ -214,7 +214,7 @@
   resist: 27
   weapon: トリレンマ+
   assist: セインツ+
-  assist: 祈り
+  special: 祈り
   passive_b: 幻惑の杖3
   passive_c: 杖の技量3
 - name: ティアモ
