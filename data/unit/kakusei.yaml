@@ -192,6 +192,31 @@
   assist: 入れ替え
   passive_a: 守備3
   passive_b: 進軍阻止3
+- name: スミア
+  weapon_type: 槍
+  movement_type: 天馬
+  hp: 39
+  attack: 44
+  speed: 39
+  defence: 29
+  resist: 25
+  weapon: 反攻の槍+
+  assist: 引き戻し
+  passive_a: 近距離防御3
+  passive_b: 攻撃守備の連携3
+- name: マリアベル
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 34
+  attack: 47
+  speed: 33
+  defence: 16
+  resist: 27
+  weapon: トリレンマ+
+  assist: セインツ+
+  assist: 祈り
+  passive_b: 幻惑の杖3
+  passive_c: 杖の技量3
 - name: ティアモ
   weapon_type: 槍
   movement_type: 飛行
@@ -228,6 +253,18 @@
   assist: 一喝
   passive_a: 鬼神金剛の一撃2
   passive_b: 強化無効・近距離3
+- name: リベラ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 48
+  speed: 32
+  defence: 28
+  resist: 29
+  weapon: 倭棍+
+  special: 夕陽
+  passive_b: 回復3
+  passive_c: 攻撃魔防の紋章2
 - name: ガイア
   weapon_type: 暗器
   movement_type: 歩行
@@ -300,6 +337,19 @@
   assist: 踊る
   passive_a: 遠距離防御3
   passive_b: 業火の舞い3
+- name: オリヴィエ3
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 36
+  attack: 46
+  speed: 34
+  defence: 26
+  resist: 23
+  weapon: スクルド
+  assist: 踊る
+  passive_a: 金剛明鏡の構え2
+  passive_b: 速さの封印3
+  passive_c: 空からの先導3
 - name: ヘンリー
   weapon_type: 赤魔
   movement_type: 歩行

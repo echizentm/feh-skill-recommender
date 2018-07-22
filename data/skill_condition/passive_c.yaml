@@ -121,6 +121,9 @@
 - name: 暗器の経験3
   allow:
     weapon_type_list: [暗器]
+- name: 杖の技量3
+  allow:
+    weapon_type_list: [杖]
 - name: 竜の技量3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
