@@ -411,6 +411,18 @@
   assist: 攻撃速さの応援
   passive_a: 攻撃速さの絆3
   passive_b: 速さの共謀3
+- name: ヴァルハルト
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 53
+  speed: 27
+  defence: 39
+  resist: 16
+  weapon: ヴォルフベルグ
+  special: 月光
+  passive_a: グラニの盾
+  passive_b: 守備の封印3
 - name: ヴィオール
   weapon_type: 弓
   movement_type: 歩行
@@ -529,6 +541,19 @@
   special: 天空
   passive_a: 鬼神金剛の一撃2
   passive_c: 速さの大紋章2
+- name: ルキナ5
+  weapon_type: 青弓
+  movement_type: 歩行
+  hp: 36
+  attack: 48
+  speed: 38
+  defence: 25
+  resist: 20
+  weapon: ソグン
+  assist: 未来を映す瞳
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 救援の行路3
+  passive_c: 遠距離警戒3
 - name: アズール
   weapon_type: 緑魔
   movement_type: 歩行
