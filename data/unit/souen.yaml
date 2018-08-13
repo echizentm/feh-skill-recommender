@@ -83,7 +83,7 @@
   special: 月光
   passive_a: 柔剣3
   passive_b: 待ち伏せ3
-- name: エリンシア
+- name: 蒼炎エリンシア
   weapon_type: 剣
   movement_type: 飛行
   hp: 35

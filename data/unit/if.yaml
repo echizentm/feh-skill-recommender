@@ -155,6 +155,19 @@
   passive_a: 鬼神飛燕の構え2
   passive_b: 武士道
   passive_c: 空からの先導3
+- name: リョウマ3
+  weapon_type: 青暗器
+  movement_type: 歩行
+  hp: 36
+  attack: 44
+  speed: 34
+  defence: 21
+  resist: 17
+  weapon: 青天の舞扇+
+  assist: 踊る
+  passive_a: 相性激化3
+  passive_b: 守備の封印3
+  passive_c: 速さ魔防の紋章2
 - name: サイゾウ
   weapon_type: 暗器
   movement_type: 歩行
@@ -410,6 +423,19 @@
   special: 緋炎
   passive_a: 生命の業火3
   passive_c: 歩行の鼓動3
+- name: マークス4
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 47
+  speed: 17
+  defence: 34
+  resist: 16
+  weapon: 宵闇の団扇+
+  assist: 踊る
+  passive_a: 近距離反撃
+  passive_b: 切り返し3
+  passive_c: 守備の波・奇数3
 - name: ラズワルド
   weapon_type: 剣
   movement_type: 歩行
@@ -649,7 +675,7 @@
   resist: 24
   weapon: 舞踏祭の楽譜+
   assist: 歌う
-  passive_b: 大地静水の舞い3
+  passive_b: 大地静水の舞い2
   passive_c: 青魔の技量3
 - name: シグレ2
   weapon_type: 槍
