@@ -28,6 +28,9 @@
 - name: 守備隊形3
   allow:
     movement_type_list: [重装]
+- name: 奥義隊形3
+  allow:
+    movement_type_list: [重装]
 - name: 業火の舞い3
   deny:
     weapon_type_list: [杖]
@@ -159,3 +162,9 @@
 - name: 武士道
   allow:
     name_list: [リョウマ2]
+- name: 獅子連斬
+  allow:
+    name_list: [セリカ3]
+- name: 封印の盾
+  allow:
+    name_list: [マルス3]

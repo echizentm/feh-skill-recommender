@@ -1,6 +1,9 @@
 - name: 鬼神の一撃3
   deny:
     weapon_type_list: [杖]
+- name: 鬼神の一撃4
+  deny:
+    weapon_type_list: [杖]
 - name: 飛燕の一撃3
   deny:
     weapon_type_list: [杖]
@@ -82,3 +85,6 @@
 - name: サカの掟
   allow:
     name_list: [リン5]
+- name: オスティアの反撃
+  allow:
+    name_list: [ヘクトル4]

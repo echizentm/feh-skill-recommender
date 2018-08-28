@@ -48,6 +48,19 @@
   passive_a: 鬼神金剛の構え2
   passive_b: 太陽の腕輪
   passive_c: 守備の鼓舞3
+- name: エフラム3
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 46
+  attack: 57
+  speed: 27
+  defence: 37
+  resist: 26
+  weapon: ガルム
+  special: 竜裂
+  passive_a: 近距離防御3
+  passive_b: 奥義隊形3
+  passive_c: 重装の行軍3
 - name: ゼト
   weapon_type: 剣
   movement_type: 騎馬

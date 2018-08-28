@@ -97,6 +97,9 @@
 - name: 静水の祝福
   allow:
     weapon_typee_list: [杖]
+- name: 業火疾風の祝福+
+  allow:
+    weapon_typee_list: [杖]
 - name: 氷の聖鏡
   allow:
     name_list: [フィヨルム]
@@ -109,3 +112,6 @@
 - name: 蒼の天空
   allow:
     name_list: [暁アイク]
+- name: 炎の紋章
+  allow:
+    name_list: [マルス3]

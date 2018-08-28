@@ -106,6 +106,19 @@
   special: 月光
   passive_b: 速さの封印3
   passive_c: 攻撃の鼓舞3
+- name: セリカ3
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 38
+  attack: 49
+  speed: 42
+  defence: 29
+  resist: 24
+  weapon: 王家の剣
+  special: 疾風迅雷
+  passive_a: 鬼神の一撃4
+  passive_b: 獅子連斬
+  passive_c: 攻撃の指揮3
 - name: メイ
   weapon_type: 青魔
   movement_type: 歩行

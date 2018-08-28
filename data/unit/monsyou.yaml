@@ -22,6 +22,19 @@
   assist: 速さ守備の応援
   passive_b: 救援の行路3
   passive_c: 攻撃の大紋章2
+- name: マルス3
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 50
+  speed: 39
+  defence: 32
+  resist: 21
+  weapon: 神剣ファルシオン
+  special: 炎の紋章
+  passive_a: 攻撃速さの絆3
+  passive_b: 封印の盾
+  passive_c: 歩行の柔撃3
 - name: ジェイガン
   weapon_type: 槍
   movement_type: 騎馬

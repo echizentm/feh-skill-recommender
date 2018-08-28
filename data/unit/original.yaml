@@ -59,6 +59,19 @@
   special: 流星
   passive_b: 待ち伏せ3
   passive_c: 魔防の紋章3
+- name: ヴェロニカ
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 36
+  attack: 46
+  speed: 36
+  defence: 21
+  resist: 19
+  weapon: フリズスキャルヴ
+  assist: リカバー+
+  special: 業火疾風の祝福+
+  passive_b: 神罰の杖3
+  passive_c: 近距離警戒3
 - name: フィヨルム
   weapon_type: 槍
   movement_type: 歩行

@@ -64,6 +64,9 @@
 - name: 歩行の剛撃3
   allow:
     movement_type_list: [歩行]
+- name: 歩行の柔撃3
+  allow:
+    movement_type_list: [歩行]
 - name: 重装の行軍3
   allow:
     movement_type_list: [重装]
