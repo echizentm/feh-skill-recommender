@@ -52,6 +52,9 @@
 - name: 魔防の応援
   deny:
     weapon_type_list: [杖]
+- name: 攻撃の大応援+
+  deny:
+    weapon_type_list: [杖]
 - name: 攻撃速さの応援
   deny:
     weapon_type_list: [杖]

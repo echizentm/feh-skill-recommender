@@ -629,6 +629,18 @@
   assist: ぶちかまし
   passive_a: 鬼神の一撃3
   passive_b: 守備隊形3
+- name: サイラス
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 49
+  speed: 24
+  defence: 36
+  resist: 21
+  weapon: 貫きの槍鍛+
+  assist: 引き戻し
+  passive_a: 金剛の構え3
+  passive_c: 守備の波・偶数3
 - name: シャーロッテ
   weapon_type: 槍
   movement_type: 歩行
@@ -641,6 +653,19 @@
   assist: ぶちかまし
   passive_a: 生命の疾風3
   passive_c: 攻撃の威嚇3
+- name: フローラ
+  weapon_type: 赤暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 48
+  speed: 23
+  defence: 18
+  resist: 38
+  weapon: 霧氷のナイフ
+  special: 氷蒼
+  passive_a: 攻撃魔防の孤軍3
+  passive_b: 切り返し3
+  passive_c: 守備の謀策3
 - name: 男カンナ
   weapon_type: 青竜
   movement_type: 歩行
@@ -725,6 +750,19 @@
   special: 竜穿
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の指揮3
+- name: オフェリア
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 38
+  attack: 51
+  speed: 33
+  defence: 20
+  resist: 23
+  weapon: 魔書ミステルトィン
+  assist: 攻撃の大応援+
+  special: 烈光
+  passive_a: 鬼神金剛の一撃2
+  passive_b: 魔防の封印3
 - name: ソレイユ
   weapon_type: 剣
   movement_type: 歩行
@@ -737,3 +775,16 @@
   special: 烈風
   passive_a: 飛燕の一撃3
   passive_c: 魔防の大紋章2
+- name: エポニーヌ
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 35
+  attack: 44
+  speed: 37
+  defence: 16
+  resist: 31
+  weapon: シャイニングボウ+
+  assist: 引き寄せ
+  special: 月虹
+  passive_b: 速さ魔防の連携3
+  passive_c: 弓の技量3
