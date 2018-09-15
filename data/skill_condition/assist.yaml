@@ -64,6 +64,9 @@
 - name: 速さ守備の応援
   deny:
     weapon_type_list: [杖]
+- name: 速さ守備の応援+
+  deny:
+    weapon_type_list: [杖]
 - name: 速さ魔防の応援
   deny:
     weapon_type_list: [杖]

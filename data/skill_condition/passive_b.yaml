@@ -49,6 +49,9 @@
 - name: 疾風大地の舞い2
   deny:
     weapon_type_list: [杖]
+- name: 疾風静水の舞い2
+  deny:
+    weapon_type_list: [杖]
 - name: 大地静水の舞い2
   deny:
     weapon_type_list: [杖]
@@ -119,6 +122,10 @@
 - name: 盾の鼓動3
   deny:
     weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 奥義の螺旋3
+  deny:
+    weapon_type_list: [杖]
     movement_type_list: [騎馬, 飛行]
 - name: 蛇毒3
   deny:
