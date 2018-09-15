@@ -561,11 +561,11 @@
   weapon_type: 青魔
   movement_type: 歩行
   hp: 43
-  attack: 35
+  attack: 36
   speed: 32
   defence: 25
   resist: 25
-  weapon: ブラーブレード+
+  weapon: オーディンの黒書
   special: 月虹
   passive_a: 攻撃の覚醒3
   passive_b: 赤魔殺し3

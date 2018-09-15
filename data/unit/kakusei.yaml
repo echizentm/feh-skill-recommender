@@ -6,7 +6,7 @@
   speed: 25
   defence: 31
   resist: 17
-  weapon: ファルシオン
+  weapon: 封剣ファルシオン
   special: 天空
   passive_a: 守備の覚醒3
   passive_c: 守備の紋章3
@@ -439,11 +439,11 @@
   weapon_type: 斧
   movement_type: 飛行
   hp: 46
-  attack: 55
+  attack: 52
   speed: 25
   defence: 32
   resist: 16
-  weapon: ハンマー鍛+
+  weapon: セルジュの怖斧
   assist: 回り込み
   passive_a: 攻撃3
   passive_c: 守備の鼓舞3
@@ -504,7 +504,7 @@
   speed: 36
   defence: 25
   resist: 19
-  weapon: ファルシオン
+  weapon: 封剣ファルシオン
   special: 天空
   passive_a: 速さの覚醒3
   passive_c: 攻撃の紋章3
@@ -528,7 +528,7 @@
   speed: 36
   defence: 25
   resist: 19
-  weapon: ファルシオン
+  weapon: 封剣ファルシオン
 - name: ルキナ4
   weapon_type: 槍
   movement_type: 歩行
