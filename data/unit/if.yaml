@@ -387,6 +387,18 @@
   special: 氷蒼
   passive_b: 蛇毒3
   passive_c: 攻撃の紫煙3
+- name: ガロン
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 43
+  attack: 49
+  speed: 22
+  defence: 33
+  resist: 32
+  weapon: 暗夜竜のブレス
+  special: 竜穿
+  passive_a: 遠距離防御3
+  passive_c: 恐慌の奇策3
 - name: マークス
   weapon_type: 剣
   movement_type: 騎馬

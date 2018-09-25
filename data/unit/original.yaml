@@ -98,3 +98,42 @@
   passive_a: 魔防の城塞3
   passive_b: 氷の封印
   passive_c: 魔防の謀策3
+- name: レーギャルン
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 46
+  attack: 48
+  speed: 39
+  defence: 36
+  resist: 17
+  weapon: ニーウ
+  special: 緋炎
+  passive_a: 赤の死闘・飛行3
+  passive_b: 攻撃の封印3
+  passive_c: 遠距離警戒3
+- name: レーヴァテイン
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 39
+  attack: 59
+  speed: 34
+  defence: 37
+  resist: 25
+  weapon: レーヴァテイン
+  assist: 入れ替え
+  passive_a: 獅子奮迅3
+  passive_b: 攻撃守備の連携3
+  passive_c: 速さの波・奇数3
+- name: ヘルビンディ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 49
+  attack: 51
+  speed: 18
+  defence: 35
+  resist: 31
+  weapon: ビューレイスト
+  special: 復讐
+  passive_a: 緑の死闘・歩行3
+  passive_b: キャンセル3
+  passive_c: 歩行の鼓動3
