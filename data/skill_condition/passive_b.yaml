@@ -76,6 +76,9 @@
 - name: 守備魔防封じ2
   deny:
     weapon_type_list: [杖]
+- name: 攻撃速さの連携3
+  deny:
+    weapon_type_list: [杖]
 - name: 攻撃守備の連携3
   deny:
     weapon_type_list: [杖]

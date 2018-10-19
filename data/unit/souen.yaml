@@ -71,7 +71,7 @@
   assist: 速さ守備の応援
   passive_b: 槍殺し3
   passive_c: 速さ守備の紋章2
-- name: ワユ
+- name: 蒼炎ワユ
   weapon_type: 剣
   movement_type: 歩行
   hp: 38

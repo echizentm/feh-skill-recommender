@@ -220,6 +220,18 @@
   passive_a: 鬼神の構え3
   passive_b: 切り返し3
   passive_c: 歩行の鼓動3
+- name: ドルカス2
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 49
+  attack: 55
+  speed: 25
+  defence: 37
+  resist: 21
+  weapon: カボチャの斧+
+  assist: 入れ替え
+  passive_a: 鬼神金剛の構え2
+  passive_b: 守備隊形3
 - name: フロリーナ
   weapon_type: 槍
   movement_type: 飛行

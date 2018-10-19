@@ -205,6 +205,19 @@
   passive_a: 速さ魔防の絆3
   passive_b: 栄誉の喜び
   passive_c: 飛刃の紋章
+- name: カゲロウ3
+  weapon_type: 緑暗器
+  movement_type: 重装
+  hp: 41
+  attack: 50
+  speed: 21
+  defence: 32
+  resist: 33
+  weapon: 果汁のボトル+
+  special: 竜裂
+  passive_a: 鬼神明鏡の一撃2
+  passive_b: 攻撃隊形3
+  passive_c: 攻撃の波・偶数3
 - name: ヒノカ
   weapon_type: 槍
   movement_type: 飛行
@@ -593,6 +606,19 @@
   special: 氷蒼
   passive_a: 明鏡の一撃3
   passive_c: 魔防の紋章3
+- name: ゼロ2
+  weapon_type: 青弓
+  movement_type: 重装
+  hp: 37
+  attack: 46
+  speed: 39
+  defence: 25
+  resist: 29
+  weapon: コウモリの弓+
+  assist: ぶちかまし
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 攻撃速さの連携2
+  passive_c: 重盾の鼓舞
 - name: エリーゼ
   weapon_type: 杖
   movement_type: 騎馬

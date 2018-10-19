@@ -305,11 +305,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 45
-  attack: 43
+  attack: 45
   speed: 42
   defence: 22
   resist: 22
-  weapon: キルソード鍛+
+  weapon: 孤高の剣
   special: 凶星
   passive_a: 速さ3
   passive_b: 待ち伏せ3
