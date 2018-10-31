@@ -91,6 +91,10 @@
   allow:
     weapon_type_list: [斧, 緑魔, 緑竜, 緑弓, 緑暗器]
     movement_type_list: [歩行]
+- name: 無の死闘・歩行3
+  allow:
+    weapon_type_list: [竜, 弓, 暗器, 杖]
+    movement_type_list: [歩行]
 - name: スヴェルの盾
   deny:
     movement_type_list: [歩行, 騎馬, 飛行]

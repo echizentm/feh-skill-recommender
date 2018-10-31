@@ -181,3 +181,6 @@
 - name: 封印の盾
   allow:
     name_list: [マルス3]
+- name: 月の腕輪
+  allow:
+    name_list: [エイリーク3]

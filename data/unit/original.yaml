@@ -137,3 +137,16 @@
   passive_a: 緑の死闘・歩行3
   passive_b: キャンセル3
   passive_c: 歩行の鼓動3
+- name: ロキ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 47
+  attack: 47
+  speed: 35
+  defence: 16
+  resist: 25
+  weapon: セック
+  assist: レスト+
+  special: 大地静水の祝福+
+  passive_a: 無の死闘・歩行3
+  passive_c: 攻撃の波・奇数3

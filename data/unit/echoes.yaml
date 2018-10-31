@@ -46,6 +46,19 @@
   assist: 回り込み
   passive_a: 攻撃3
   passive_b: 速さ封じ3
+- name: クリフ
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 37
+  attack: 42
+  speed: 37
+  defence: 34
+  resist: 34
+  weapon: アロー
+  special: 爆光
+  passive_a: 守備魔防の城塞3
+  passive_b: 速さの封印3
+  passive_c: 魔防の鼓舞3
 - name: エフィ
   weapon_type: 弓
   movement_type: 歩行
