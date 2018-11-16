@@ -25,7 +25,7 @@ def main():
         help='再学習を行う場合は指定する',
     )
     parser.add_argument(
-        '--svm_c', '-c', type=float, default=50.0,
+        '--svm_c', '-c', type=float, default=100.0,
         help='SVM のパラメータ C (詳しい人向け)',
     )
     args = parser.parse_args()
