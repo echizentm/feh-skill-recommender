@@ -22,6 +22,19 @@
   assist: 守備魔防の応援
   passive_a: 攻撃守備2
   passive_c: 守備魔防の紋章2
+- name: 男カムイ3
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 42
+  attack: 51
+  speed: 35
+  defence: 31
+  resist: 24
+  weapon: 水の飛沫
+  special: 竜穿
+  passive_a: 攻撃守備の絆3
+  passive_b: 見切り・追撃効果3
+  passive_c: 竜刃の鼓舞
 - name: 女カムイ
   weapon_type: 青竜
   movement_type: 歩行
@@ -46,6 +59,19 @@
   special: 竜穿
   passive_a: 飛燕明鏡の一撃2
   passive_c: 飛盾の鼓舞
+- name: 女カムイ3
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 41
+  attack: 47
+  speed: 37
+  defence: 32
+  resist: 27
+  weapon: 水の飛沫
+  assist: 攻撃速さの応援+
+  special: 竜裂
+  passive_a: 攻撃速さの絆3
+  passive_c: 竜盾の鼓舞
 - name: アクア
   weapon_type: 槍
   movement_type: 歩行
@@ -82,6 +108,18 @@
   assist: 歌う
   passive_b: 大地の舞い3
   passive_c: 飛刃の鼓舞
+- name: アクア4
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 36
+  attack: 47
+  speed: 32
+  defence: 17
+  resist: 25
+  weapon: 泡影の書
+  assist: 歌う
+  passive_a: 速さ魔防の絆3
+  passive_b: 静水の舞い3
 - name: ギュンター
   weapon_type: 斧
   movement_type: 騎馬
@@ -130,6 +168,19 @@
   special: 華炎
   passive_a: 金剛明鏡の一撃2
   passive_b: 守備隊形3
+- name: ミコト
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 38
+  attack: 46
+  speed: 32
+  defence: 20
+  resist: 26
+  weapon: フラッシュ+
+  assist: セインツ+
+  special: 祈り
+  passive_a: 攻撃魔防の大覚醒3
+  passive_c: 歩行の剛撃3
 - name: リョウマ
   weapon_type: 剣
   movement_type: 歩行
@@ -534,6 +585,19 @@
   passive_a: 鬼神の一撃3
   passive_b: 編隊飛行3
   passive_c: 飛刃の鼓舞
+- name: カミラ5
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 36
+  attack: 54
+  speed: 30
+  defence: 17
+  resist: 30
+  weapon: 夢幻の書
+  assist: 引き寄せ
+  passive_a: 攻撃魔防の絆3
+  passive_b: 攻撃魔防の連携3
+  passive_c: 飛刃の紋章
 - name: ルーナ
   weapon_type: 剣
   movement_type: 歩行

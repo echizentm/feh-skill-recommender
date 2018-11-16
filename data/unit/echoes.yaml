@@ -172,11 +172,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 44
-  attack: 45
+  attack: 47
   speed: 35
   defence: 32
   resist: 22
-  weapon: キルソード鍛+
+  weapon: 黄金の短剣
   special: 聖盾
   passive_a: HP速さ2
   passive_b: 盾の鼓動3

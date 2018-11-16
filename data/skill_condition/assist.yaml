@@ -58,6 +58,9 @@
 - name: 攻撃速さの応援
   deny:
     weapon_type_list: [杖]
+- name: 攻撃速さの応援+
+  deny:
+    weapon_type_list: [杖]
 - name: 攻撃守備の応援
   deny:
     weapon_type_list: [杖]
@@ -81,7 +84,7 @@
     name_list: [ニニアン, ニニアン2, オリヴィエ, オリヴィエ2, オリヴィエ3, アズール, シルヴィア, リーン, ミカヤ2, 暁エリンシア, リョウマ3, マークス4]
 - name: 歌う
   allow:
-    name_list: [アクア, アクア2, アクア3, シグレ]
+    name_list: [アクア, アクア2, アクア3, アクア4, シグレ]
 - name: 癒しの手
   allow:
     name_list: [ミカヤ]

@@ -236,11 +236,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 42
-  attack: 43
+  attack: 45
   speed: 27
   defence: 25
   resist: 34
-  weapon: 貫きの槍鍛+
+  weapon: フロリーナの誓槍
   assist: 献身
   passive_a: 飛燕の一撃3
   passive_c: 生の息吹3

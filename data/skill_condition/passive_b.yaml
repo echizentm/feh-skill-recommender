@@ -40,6 +40,9 @@
 - name: 大地の舞い3
   deny:
     weapon_type_list: [杖]
+- name: 静水の舞い3
+  deny:
+    weapon_type_list: [杖]
 - name: 業火疾風の舞い2
   deny:
     weapon_type_list: [杖]
@@ -80,6 +83,9 @@
   deny:
     weapon_type_list: [杖]
 - name: 攻撃守備の連携3
+  deny:
+    weapon_type_list: [杖]
+- name: 攻撃魔防の連携3
   deny:
     weapon_type_list: [杖]
 - name: 速さ魔防の連携3
@@ -133,6 +139,9 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [騎馬, 飛行]
+- name: 見切り・追撃効果3
+  allow:
+    movement_type_list: [歩行]
 - name: 蛇毒3
   deny:
     weapon_type_list: [杖]

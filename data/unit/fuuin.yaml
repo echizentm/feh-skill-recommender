@@ -146,11 +146,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 39
-  attack: 44
+  attack: 46
   speed: 35
   defence: 25
   resist: 29
-  weapon: キラーランス鍛+
+  weapon: シャニーの誓槍
   special: 氷蒼
   passive_b: 攻め立て3
   passive_c: 速さの威嚇3
@@ -158,11 +158,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 49
-  attack: 50
-  speed: 25
-  defence: 33
-  resist: 13
-  weapon: ハンマー鍛+
+  attack: 55
+  speed: 28
+  defence: 36
+  resist: 16
+  weapon: バアトルの豪斧
   assist: ぶちかまし
   passive_a: 獅子奮迅3
   passive_b: 刺し違え3
