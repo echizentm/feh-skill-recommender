@@ -133,3 +133,6 @@
 - name: オスティアの鼓動
   allow:
     name_list: [ヘクトル3]
+- name: 炎王の威嚇
+  allow:
+    name_list: [スルト]

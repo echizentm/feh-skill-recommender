@@ -193,3 +193,6 @@
 - name: 月の腕輪
   allow:
     name_list: [エイリーク3]
+- name: 凍結の封印
+  allow:
+    name_list: [フリーズ]

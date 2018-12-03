@@ -445,3 +445,15 @@
   special: 月虹
   passive_a: 鬼神金剛の一撃2
   passive_c: 剣の経験3
+- name: ガーネフ
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 38
+  attack: 44
+  speed: 34
+  defence: 27
+  resist: 26
+  weapon: マフー
+  special: 華炎
+  passive_a: 鬼神明鏡の構え2
+  passive_b: 攻撃の封印3

@@ -98,6 +98,45 @@
   passive_a: 魔防の城塞3
   passive_b: 氷の封印
   passive_c: 魔防の謀策3
+- name: フリーズ
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 56
+  speed: 17
+  defence: 36
+  resist: 26
+  weapon: ギョッル
+  special: 月虹
+  passive_a: 遠距離反撃
+  passive_b: 凍結の封印
+  passive_c: 攻撃の紫煙3
+- name: ユルグ
+  weapon_type: 青暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 47
+  speed: 41
+  defence: 22
+  resist: 20
+  weapon: シュルグ
+  special: 凶星
+  passive_a: 魔道の刃3
+  passive_b: 速さの封印3
+  passive_c: 速さの指揮3
+- name: スルト
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 50
+  attack: 55
+  speed: 17
+  defence: 43
+  resist: 33
+  weapon: シンモラ
+  special: 緋炎
+  passive_a: 金剛の構え4
+  passive_b: 守備隊形3
+  passive_c: 炎王の威嚇
 - name: レーギャルン
   weapon_type: 剣
   movement_type: 飛行
