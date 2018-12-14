@@ -51,11 +51,11 @@
   weapon_type: 青魔
   movement_type: 歩行
   hp: 40
-  attack: 40
+  attack: 43
   speed: 29
   defence: 29
   resist: 22
-  weapon: ブラーレイヴン+
+  weapon: 軍師の雷書
   special: 緋炎
   passive_a: 速さの覚醒3
   passive_c: 守備の紋章3
@@ -87,11 +87,11 @@
   weapon_type: 緑魔
   movement_type: 歩行
   hp: 40
-  attack: 41
+  attack: 43
   speed: 29
   defence: 29
   resist: 22
-  weapon: グルンウルフ+
+  weapon: 軍師の風書
   special: 華炎
   passive_a: 魔防の覚醒3
   passive_b: 青魔殺し3

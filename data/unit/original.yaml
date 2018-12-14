@@ -176,6 +176,19 @@
   passive_a: 緑の死闘・歩行3
   passive_b: キャンセル3
   passive_c: 歩行の鼓動3
+- name: エイル
+  weapon_type: 暗器
+  movement_type: 飛行
+  hp: 35
+  attack: 46
+  speed: 37
+  defence: 14
+  resist: 34
+  weapon: リフィア
+  special: 氷蒼
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 生命の護符3
+  passive_c: 生命の輝き
 - name: ロキ
   weapon_type: 杖
   movement_type: 歩行

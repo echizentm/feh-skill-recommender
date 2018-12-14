@@ -118,6 +118,3 @@
 - name: 炎の紋章
   allow:
     name_list: [マルス3]
-- name: ブルーフレイム
-  allow:
-    name_list: [ウード]

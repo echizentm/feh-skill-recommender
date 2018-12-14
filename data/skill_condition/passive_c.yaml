@@ -136,3 +136,6 @@
 - name: 炎王の威嚇
   allow:
     name_list: [スルト]
+- name: 生命の輝き
+  allow:
+    name_list: [エイル]

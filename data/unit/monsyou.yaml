@@ -147,11 +147,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 47
-  attack: 43
-  speed: 29
+  attack: 51
+  speed: 34
   defence: 28
   resist: 13
-  weapon: 勇者の剣+
+  weapon: 剣闘士の剛剣
   special: 夕陽
   passive_a: 攻撃の覚醒3
   passive_c: 攻撃の紋章3
@@ -243,11 +243,11 @@
   weapon_type: 剣
   movement_type: 飛行
   hp: 42
-  attack: 43
+  attack: 47
   speed: 31
   defence: 28
   resist: 26
-  weapon: 旭日の剣+
+  weapon: 白騎の長剣
   special: 月虹
   passive_b: 救援の行路3
   passive_c: 飛刃の紋章
@@ -255,11 +255,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 39
-  attack: 45
+  attack: 47
   speed: 34
   defence: 29
   resist: 25
-  weapon: キラーランス鍛+
+  weapon: 白騎の直槍
   special: 月光
   passive_a: 金剛の一撃3
   passive_b: 攻撃封じ3
@@ -279,11 +279,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 36
-  attack: 49
+  attack: 51
   speed: 30
   defence: 24
   resist: 32
-  weapon: 貫きの槍鍛+
+  weapon: 白騎の短槍
   assist: 体当たり
   passive_a: 魔防の覚醒3
   passive_b: 速さ封じ3
@@ -413,11 +413,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 42
-  attack: 45
+  attack: 47
   speed: 37
   defence: 23
   resist: 24
-  weapon: キルソード鍛+
+  weapon: 紅の剣
   special: 烈風
   passive_b: 攻め立て3
   passive_c: 速さの威嚇3
