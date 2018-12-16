@@ -8,23 +8,20 @@
 
 ## インストール
 
-以下のように setup.py をしてください。
-Python 3.5.2 で動作確認をしていますが、多分 Python3 ならどのバージョンでも動くと思います。
-
 ```
-$ python setup.py install
+$ pipenv install
 ```
 
 ## 使い方
 
 ```
-$ feh-skill-recommender [ユニット名]
+$ fehsr [ユニット名]
 ```
 
 例えば以下のような感じ。
 
 ```
-$ feh-skill-recommender エリウッド
+$ fehsr エリウッド
 loading data files.
 done.
 training data.
@@ -52,5 +49,5 @@ passive_c: 騎盾の紋章3
 自分でデータを増やした時とかはこれをやってください。
 
 ```
-$ feh-skill-recommender [ユニット名] -t
+$ fehsr [ユニット名] -t
 ```

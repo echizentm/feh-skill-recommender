@@ -17,7 +17,7 @@ class Classifier:
         '''
         :param SkillCondition skill_condition: スキル条件
         '''
-        self._classifier = SVC(C=svm_c) if svm_c else SVC()
+        self._classifier = SVC(C=svm_c, gamma='scale') if svm_c else SVC(gamma='scale')
         self._skill_condition = skill_condition
         self._is_fitted = False
         self._unit_list_encoder = UnitListEncoder()

@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[scripts]
+lint = "flake8"
+fehsr = "python -m fehsr.command_line_tool"
+
+[packages]
+flake8 = "*"
+numpy = "*"
+scikit-learn = "*"
+PyYAML = "*"
+
+[requires]
+python_version = "3.7"
