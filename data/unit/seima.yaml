@@ -36,6 +36,19 @@
   passive_a: 攻撃速さの孤軍3
   passive_b: 月の腕輪
   passive_c: 守備の波・奇数3
+- name: エイリーク4
+  weapon_type: 杖
+  movement_type: 重装
+  hp: 42
+  attack: 48
+  speed: 23
+  defence: 30
+  resist: 34
+  weapon: ランタンの杖+
+  assist: レスト+
+  special: 天照
+  passive_b: 幻惑の杖3
+  passive_c: 攻撃の解放3
 - name: エフラム
   weapon_type: 槍
   movement_type: 歩行
@@ -74,6 +87,19 @@
   passive_a: 近距離防御3
   passive_b: 奥義隊形3
   passive_c: 重装の行軍3
+- name: エフラム4
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 45
+  attack: 57
+  speed: 23
+  defence: 36
+  resist: 29
+  weapon: 業槍ジークムント
+  special: 竜穿
+  passive_a: 攻撃守備の孤軍3
+  passive_b: 攻撃隊形3
+  passive_c: 近距離警戒3
 - name: ゼト
   weapon_type: 剣
   movement_type: 騎馬

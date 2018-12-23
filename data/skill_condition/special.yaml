@@ -84,25 +84,25 @@
     weapon_type_list: [赤弓, 赤魔, 青弓, 青魔, 緑弓, 緑魔, 弓, 暗器, 杖]
 - name: 天照
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 業火の祝福
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 疾風の祝福
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 大地の祝福
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 静水の祝福
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 業火疾風の祝福+
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 大地静水の祝福+
   allow:
-    weapon_typee_list: [杖]
+    weapon_type_list: [杖]
 - name: 氷の聖鏡
   allow:
     name_list: [フィヨルム]
