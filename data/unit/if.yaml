@@ -120,6 +120,19 @@
   assist: 歌う
   passive_a: 速さ魔防の絆3
   passive_b: 静水の舞い3
+- name: アクア5
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 38
+  attack: 44
+  speed: 38
+  defence: 17
+  resist: 24
+  weapon: 清冷の法具
+  assist: ユラリユルレリ
+  passive_a: 青の死闘・飛行3
+  passive_b: 曲技飛行3
+  passive_c: 攻撃の指揮3
 - name: ギュンター
   weapon_type: 斧
   movement_type: 騎馬
