@@ -39,11 +39,11 @@
   weapon_type: 青魔
   movement_type: 歩行
   hp: 39
-  attack: 46
+  attack: 48
   speed: 35
   defence: 17
-  resist: 25
-  weapon: ブラーブレード+
+  resist: 27
+  weapon: トローン
   assist: 速さ魔防の応援
   passive_a: 攻撃魔防2
   passive_c: 速さの大紋章2
