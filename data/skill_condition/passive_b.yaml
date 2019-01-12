@@ -1,21 +1,21 @@
 - name: 剣殺し3
   deny:
-    weapon_type_list: [斧, 緑魔, 緑竜, 緑弓, 緑暗器]
+    weapon_type_list: [斧, 緑魔, 緑竜, 緑獣, 緑弓, 緑暗器]
 - name: 槍殺し3
   deny:
-    weapon_type_list: [剣, 赤魔, 赤竜, 赤弓, 赤暗器]
+    weapon_type_list: [剣, 赤魔, 赤竜, 赤獣, 赤弓, 赤暗器]
 - name: 斧殺し3
   deny:
-    weapon_type_list: [槍, 青魔, 青竜, 青弓, 青暗器]
+    weapon_type_list: [槍, 青魔, 青竜, 青獣, 青弓, 青暗器]
 - name: 赤魔殺し3
   deny:
-    weapon_type_list: [斧, 緑魔, 緑竜, 緑弓, 緑暗器]
+    weapon_type_list: [斧, 緑魔, 緑竜, 緑獣, 緑弓, 緑暗器]
 - name: 青魔殺し3
   deny:
-    weapon_type_list: [剣, 赤魔, 赤竜, 赤弓, 赤暗器]
+    weapon_type_list: [剣, 赤魔, 赤竜, 赤獣, 赤弓, 赤暗器]
 - name: 緑魔殺し3
   deny:
-    weapon_type_list: [槍, 青魔, 青竜, 青弓, 青暗器]
+    weapon_type_list: [槍, 青魔, 青竜, 青獣, 青弓, 青暗器]
 - name: 弓殺し3
   deny:
     movement_type_list: [飛行]
@@ -140,6 +140,9 @@
     weapon_type_list: [杖]
     movement_type_list: [騎馬, 飛行]
 - name: 見切り・追撃効果3
+  allow:
+    movement_type_list: [歩行]
+- name: 見切り・反撃不可3
   allow:
     movement_type_list: [歩行]
 - name: 蛇毒3
