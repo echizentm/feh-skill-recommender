@@ -15,13 +15,13 @@ $ pipenv install
 ## 使い方
 
 ```
-$ fehsr [ユニット名]
+$ pipenv run fehsr [ユニット名]
 ```
 
 例えば以下のような感じ。
 
 ```
-$ fehsr エリウッド
+$ pipenv run fehsr エリウッド
 loading data files.
 done.
 training data.
@@ -49,5 +49,5 @@ passive_c: 騎盾の紋章3
 自分でデータを増やした時とかはこれをやってください。
 
 ```
-$ fehsr [ユニット名] -t
+$ pipenv run fehsr [ユニット名] -t
 ```
