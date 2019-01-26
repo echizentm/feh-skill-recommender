@@ -94,6 +94,9 @@
 - name: 守備魔防の連携3
   deny:
     weapon_type_list: [杖]
+- name: 攻撃の共謀3
+  deny:
+    weapon_type_list: [杖]
 - name: 速さの共謀3
   deny:
     weapon_type_list: [杖]

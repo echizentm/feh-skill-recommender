@@ -103,6 +103,9 @@
 - name: 業火大地の祝福+
   allow:
     weapon_type_list: [杖]
+- name: 業火静水の祝福+
+  allow:
+    weapon_type_list: [杖]
 - name: 大地静水の祝福+
   allow:
     weapon_type_list: [杖]
