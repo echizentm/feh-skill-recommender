@@ -151,3 +151,6 @@
 - name: 邪眼
   allow:
     name_list: [ニケ]
+- name: メガクェイク
+  allow:
+    name_list: [ドーマ]

@@ -240,3 +240,16 @@
   special: 烈火
   passive_a: 生命の静水3
   passive_c: 騎盾の紋章
+- name: ドーマ
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 48
+  attack: 59
+  speed: 21
+  defence: 34
+  resist: 31
+  weapon: 邪神のブレス
+  special: 竜裂
+  passive_a: 守備魔防の孤軍3
+  passive_b: 攻撃隊形3
+  passive_c: メガクェイク
