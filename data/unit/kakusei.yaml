@@ -378,11 +378,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 39
-  attack: 45
+  attack: 46
   speed: 34
   defence: 23
   resist: 20
-  weapon: ラウアブレード+
+  weapon: サーリャの禁呪
   special: 復讐
   passive_a: 飛燕の一撃3
   passive_c: 魔防の紋章3

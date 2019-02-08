@@ -368,11 +368,11 @@
   weapon_type: 緑魔
   movement_type: 歩行
   hp: 33
-  attack: 46
+  attack: 47
   speed: 36
   defence: 19
   resist: 29
-  weapon: グルンブレード+
+  weapon: アイリスの書
   assist: 引き寄せ
   passive_a: 魔防3
   passive_c: 攻撃の鼓舞3

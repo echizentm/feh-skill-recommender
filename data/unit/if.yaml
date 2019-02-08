@@ -409,11 +409,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 47
-  attack: 47
+  attack: 51
   speed: 27
   defence: 39
   resist: 21
-  weapon: 旭日の剣+
+  weapon: ヒナタの猛刀
   special: 大盾
   passive_a: 獅子奮迅3
   passive_b: 刺し違え3
@@ -421,11 +421,11 @@
   weapon_type: 槍
   movement_type: 歩行
   hp: 40
-  attack: 46
+  attack: 48
   speed: 26
   defence: 35
   resist: 24
-  weapon: 貫きの槍鍛+
+  weapon: オボロの漆薙刀
   assist: 守備の応援
   passive_b: 守備封じ3
   passive_c: 魔防の威嚇3
@@ -726,11 +726,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 37
-  attack: 37
+  attack: 39
   speed: 34
   defence: 17
   resist: 34
-  weapon: キラーボウ鍛+
+  weapon: ゼロの虐弓
   special: 氷蒼
   passive_a: 明鏡の一撃3
   passive_c: 魔防の紋章3

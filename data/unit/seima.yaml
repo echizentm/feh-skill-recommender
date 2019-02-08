@@ -104,11 +104,11 @@
   weapon_type: 剣
   movement_type: 騎馬
   hp: 37
-  attack: 41
+  attack: 45
   speed: 31
   defence: 37
   resist: 22
-  weapon: 旭日の剣+
+  weapon: 真銀の聖剣
   assist: 入れ替え
   passive_a: 守備の城塞3
   passive_b: 攻撃守備封じ2
@@ -201,11 +201,11 @@
   weapon_type: 斧
   movement_type: 重装
   hp: 47
-  attack: 48
+  attack: 50
   speed: 34
   defence: 35
   resist: 23
-  weapon: キラーアクス鍛+
+  weapon: グラドの戦斧
   special: 聖兜
   passive_a: 生命の大地3
   passive_c: 重装の行軍3
