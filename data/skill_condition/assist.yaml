@@ -79,6 +79,9 @@
 - name: 守備魔防の応援
   deny:
     weapon_type_list: [杖]
+- name: 守備魔防の応援+
+  deny:
+    weapon_type_list: [杖]
 - name: 踊る
   allow:
     name_list: [ニニアン, ニニアン2, オリヴィエ, オリヴィエ2, オリヴィエ3, アズール, シルヴィア, リーン, ミカヤ2, 暁エリンシア, リョウマ3, マークス4]

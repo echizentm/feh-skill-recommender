@@ -23,6 +23,19 @@
   passive_a: 金剛の呼吸
   passive_b: ベオクの加護
   passive_c: 守備の威嚇
+- name: 蒼炎アイク3
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 45
+  attack: 51
+  speed: 38
+  defence: 35
+  resist: 19
+  weapon: 祝祭の剣+
+  special: 蒼の天空
+  passive_a: 遠距離反撃
+  passive_b: 奥義隊形3
+  passive_c: 速さの波・偶数3
 - name: ティアマト
   weapon_type: 斧
   movement_type: 騎馬
@@ -47,6 +60,19 @@
   special: 爆風
   passive_b: 水薙ぎ3
   passive_c: 魔防の鼓舞3
+- name: セネリオ2
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 37
+  attack: 47
+  speed: 33
+  defence: 14
+  resist: 25
+  weapon: 青の花かご+
+  assist: 攻撃速さの応援+
+  passive_a: 攻撃魔防の絆3
+  passive_b: 速さの共謀3
+  passive_c: 魔防の開放3
 - name: ミスト
   weapon_type: 杖
   movement_type: 歩行
@@ -59,6 +85,32 @@
   assist: リカバー+
   special: 祈り
   passive_c: 守備魔防の紋章2
+- name: ミスト2
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 36
+  attack: 46
+  speed: 34
+  defence: 17
+  resist: 23
+  weapon: 緑の花かご+
+  assist: 守備魔防の応援+
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 魔防の共謀3
+  passive_c: 緑魔の技量3
+- name: グレイル
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 47
+  attack: 59
+  speed: 22
+  defence: 42
+  resist: 34
+  weapon: 祝祭の斧+
+  special: 天空
+  passive_a: 獅子奮迅4
+  passive_b: 守備隊形3
+  passive_c: 重装の行軍3
 - name: オスカー
   weapon_type: 槍
   movement_type: 騎馬

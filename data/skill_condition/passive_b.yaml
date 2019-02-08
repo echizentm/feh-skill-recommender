@@ -103,6 +103,9 @@
 - name: 守備の共謀3
   deny:
     weapon_type_list: [杖]
+- name: 魔防の共謀3
+  deny:
+    weapon_type_list: [杖]
 - name: すり抜け3
   deny:
     weapon_type_list: [杖]

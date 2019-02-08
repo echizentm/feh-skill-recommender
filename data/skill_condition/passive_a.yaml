@@ -71,6 +71,9 @@
 - name: 獅子奮迅3
   deny:
     weapon_type_list: [杖]
+- name: 獅子奮迅4
+  deny:
+    weapon_type_list: [杖]
 - name: 相性激化3
   deny:
     weapon_type_list: [弓, 暗器, 杖, 竜, 獣]
