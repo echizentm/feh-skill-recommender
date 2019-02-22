@@ -64,6 +64,12 @@
 - name: 獣盾の鼓舞
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 獣刃の紋章
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 獣盾の紋章
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: 歩行の鼓動3
   allow:
     movement_type_list: [歩行]
@@ -139,6 +145,9 @@
 - name: 竜の技量3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 獣の技量3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: オスティアの鼓動
   allow:
     name_list: [ヘクトル3]
