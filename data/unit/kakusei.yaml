@@ -508,6 +508,18 @@
   passive_a: 攻撃魔防の絆3
   passive_b: 豊穣の喜び
   passive_c: 飛刃の鼓舞
+- name: ベルベット
+  weapon_type: 青獣
+  movement_type: 騎馬
+  hp: 41
+  attack: 43
+  speed: 34
+  defence: 30
+  resist: 23
+  weapon: タグエルの爪牙
+  assist: 流星
+  passive_b: 速さの封印3
+  passive_c: 守備の紫煙3
 - name: ルキナ
   weapon_type: 剣
   movement_type: 歩行
