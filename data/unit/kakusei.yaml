@@ -517,7 +517,7 @@
   defence: 30
   resist: 23
   weapon: タグエルの爪牙
-  assist: 流星
+  special: 流星
   passive_b: 速さの封印3
   passive_c: 守備の紫煙3
 - name: ルキナ
