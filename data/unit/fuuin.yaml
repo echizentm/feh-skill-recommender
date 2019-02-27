@@ -34,6 +34,19 @@
   assist: 相互援助
   passive_a: 鬼神の一撃3
   passive_b: 弓の技量3
+- name: ロイ4
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 39
+  attack: 50
+  speed: 38
+  defence: 32
+  resist: 26
+  weapon: 魔竜封印の剣
+  special: 竜穿
+  passive_a: 強化増幅3
+  passive_b: 回復3
+  passive_c: 人の可能性を！
 - name: リリーナ
   weapon_type: 赤魔
   movement_type: 歩行

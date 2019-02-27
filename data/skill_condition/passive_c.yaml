@@ -163,3 +163,6 @@
 - name: メガクェイク
   allow:
     name_list: [ドーマ]
+- name: 人の可能性を！
+  allow:
+    name_list: [ロイ4]
