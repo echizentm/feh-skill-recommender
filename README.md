@@ -21,26 +21,27 @@ $ pipenv run fehsr [ユニット名]
 例えば以下のような感じ。
 
 ```
-$ pipenv run fehsr エリウッド
+$ pipenv run fehsr ラインハルト1
 loading data files.
 done.
-training data.
-accuracy: {<SkillType.ASSIST: 'assist'>: '82 / 92', <SkillType.PASSIVE_A: 'passive_a'>: '166 / 166', <SkillType.SPECIAL: 'special'>: '140 / 149', <SkillType.PASSIVE_C: 'passive_c'>: '153 / 154', <SkillType.PASSIVE_B: 'passive_b'>: '127 / 137'}
+loading model file.
 done.
-name: エリウッド
-weapon_type: 剣
+name: ラインハルト
+weapon_type: 青魔
 movement_type: 騎馬
-hp: 39
-attack: 50
-speed: 30
-defence: 23
-resist: 32
-weapon: 烈剣デュランダル
-assist: ---- => 回り込み
-special: 聖兜
+hp: 38
+attack: 41
+speed: 18
+defence: 27
+resist: 25
+weapon: ダイムサンダ
+assist: ---- => ----
+special: 烈雷
 passive_a: ---- => 鬼神の一撃3
-passive_b: 斧殺し3
-passive_c: 騎盾の紋章3
+passive_b: 待ち伏せ3
+passive_c: 騎刃の紋章
+total_parameter: 149
+weighted_total_parameter: 141
 ...
 ```
 
