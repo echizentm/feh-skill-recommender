@@ -83,6 +83,18 @@
   special: 長盾
   passive_b: 引き込み
   passive_c: 重刃の鼓舞
+- name: ルゥ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 37
+  attack: 47
+  speed: 36
+  defence: 17
+  resist: 31
+  weapon: グルンサーペント+
+  assist: 魔防の大応援+
+  passive_a: 鬼神明鏡の構え3
+  passive_b: 攻撃の共謀3
 - name: レイ
   weapon_type: 赤魔
   movement_type: 歩行
@@ -123,11 +135,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 40
-  attack: 38
-  speed: 28
+  attack: 39
+  speed: 31
   defence: 20
   resist: 24
-  weapon: 勇者の弓+
+  weapon: 銀の宝弓
   special: 氷華
   passive_a: 鬼神の一撃3
   passive_b: 切り返し3
@@ -167,6 +179,18 @@
   special: 復讐
   passive_b: 槍殺し3
   passive_c: 死の吐息3
+- name: ティト
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 37
+  attack: 45
+  speed: 35
+  defence: 31
+  resist: 28
+  weapon: 守りの槍+
+  special: 華炎
+  passive_a: 飛燕金剛の構え2
+  passive_b: 速さ守備封じ2
 - name: シャニー
   weapon_type: 槍
   movement_type: 飛行
@@ -179,6 +203,19 @@
   special: 氷蒼
   passive_b: 攻め立て3
   passive_c: 速さの威嚇3
+- name: スー
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 36
+  attack: 44
+  speed: 38
+  defence: 23
+  resist: 20
+  weapon: 短弓+
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 守備の封印3
+  passive_c: 速さの鼓舞4
 - name: バアトル
   weapon_type: 斧
   movement_type: 歩行
@@ -207,11 +244,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 40
-  attack: 46
+  attack: 47
   speed: 19
   defence: 28
   resist: 29
-  weapon: ノスフェラート+
+  weapon: 悠久の書
   special: 竜穿
   passive_a: 明鏡の一撃3
   passive_b: 魔防の鼓舞3
@@ -240,3 +277,16 @@
   passive_a: 守備魔防の絆3
   passive_b: 迎撃隊形3
   passive_c: 重装の行軍3
+- name: イドゥン
+  weapon_type: 赤竜
+  movement_type: 重装
+  hp: 45
+  attack: 49
+  speed: 26
+  defence: 48
+  resist: 40
+  weapon: 魔竜のブレス
+  special: 緋炎
+  passive_a: 守備魔防の城塞3
+  passive_b: 迎撃隊形3
+  passive_c: 竜盾の紋章

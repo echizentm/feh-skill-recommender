@@ -76,6 +76,9 @@
 - name: 攻撃守備封じ2
   deny:
     weapon_type_list: [杖]
+- name: 速さ守備封じ2
+  deny:
+    weapon_type_list: [杖]
 - name: 守備魔防封じ2
   deny:
     weapon_type_list: [杖]
