@@ -240,6 +240,18 @@
   special: 氷華
   passive_a: 速さ3
   passive_b: すり抜け3
+- name: ルトガー
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 44
+  attack: 46
+  speed: 39
+  defence: 29
+  resist: 24
+  weapon: キルソード鍛+
+  special: 復讐
+  passive_a: 攻撃守備の絆3
+  passive_b: 待ち伏せ3
 - name: ソフィーヤ
   weapon_type: 赤魔
   movement_type: 歩行
