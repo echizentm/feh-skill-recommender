@@ -91,6 +91,9 @@
 - name: 攻撃魔防の連携3
   deny:
     weapon_type_list: [杖]
+- name: 速さ守備の連携3
+  deny:
+    weapon_type_list: [杖]
 - name: 速さ魔防の連携3
   deny:
     weapon_type_list: [杖]
@@ -157,6 +160,9 @@
 - name: 蛇毒3
   deny:
     weapon_type_list: [杖]
+- name: 罠解除3
+  allow:
+    weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
 - name: ご奉仕の喜び3
   allow:
     weapon_type_list: [杖]

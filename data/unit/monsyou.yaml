@@ -251,6 +251,19 @@
   special: 月虹
   passive_b: 救援の行路3
   passive_c: 飛刃の紋章
+- name: パオラ2
+  weapon_type: 赤暗器
+  movement_type: 飛行
+  hp: 38
+  attack: 49
+  speed: 34
+  defence: 17
+  resist: 29
+  weapon: 天馬のニンジン+
+  special: 竜裂
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 罠解除3
+  passive_c: 飛刃の鼓舞
 - name: カチュア
   weapon_type: 槍
   movement_type: 飛行

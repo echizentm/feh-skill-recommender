@@ -233,6 +233,18 @@
   special: 凶星
   passive_a: HP守備2
   passive_c: 歩行の鼓動3
+- name: マリカ2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 42
+  attack: 47
+  speed: 38
+  defence: 28
+  resist: 21
+  weapon: 緋閃のニンジン槍+
+  assist: 引き戻し
+  passive_b: 速さ守備の連携3
+  passive_c: 飛行の先導3
 - name: ラーチェル
   weapon_type: 青魔
   movement_type: 騎馬
