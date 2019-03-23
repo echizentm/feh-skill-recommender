@@ -291,3 +291,15 @@
   special: 大地静水の祝福+
   passive_a: 無の死闘・歩行3
   passive_c: 攻撃の波・奇数3
+- name: ロキ2
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 39
+  attack: 43
+  speed: 34
+  defence: 27
+  resist: 25
+  weapon: 春の妖弓+
+  special: 月光
+  passive_b: 編隊飛行3
+  passive_c: 飛刃の紋章
