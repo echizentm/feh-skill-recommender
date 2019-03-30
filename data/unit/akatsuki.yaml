@@ -175,3 +175,16 @@
   special: 烈光
   passive_a: 鬼神明鏡の一撃2
   passive_c: 攻撃の謀策3
+- name: ユンヌ
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 38
+  attack: 47
+  speed: 27
+  defence: 15
+  resist: 40
+  weapon: 負の力
+  special: 氷華
+  passive_a: 攻撃魔防の絆3
+  passive_b: 魔防の混乱3
+  passive_c: 我が名は混沌

@@ -166,3 +166,6 @@
 - name: 人の可能性を！
   allow:
     name_list: [ロイ4]
+- name: 我が名は混沌
+  allow:
+    name_list: [ユンヌ]
