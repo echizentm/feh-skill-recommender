@@ -75,6 +75,55 @@
   passive_a: 攻撃速さの渾身3
   passive_b: 疾風大地の舞い2
   passive_c: 魔防の大紋章2
+- name: カイネギス
+  weapon_type: 獣
+  movement_type: 重装
+  hp: 47
+  attack: 54
+  speed: 23
+  defence: 37
+  resist: 30
+  weapon: 獅子王の爪牙
+  special: 緋炎
+  passive_a: 遠距離防御4
+  passive_b: 迎撃隊形3
+  passive_c: 遠距離警戒3
+- name: ライ
+  weapon_type: 緑獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 44
+  speed: 37
+  defence: 36
+  resist: 17
+  weapon: 柔なる戦猫の爪牙
+  assist: 攻撃守備の応援+
+  passive_b: 攻撃の封印3
+  passive_c: 獣盾の紋章
+- name: モゥディ
+  weapon_type: 青獣
+  movement_type: 歩行
+  hp: 47
+  attack: 51
+  speed: 24
+  defence: 42
+  resist: 20
+  weapon: 虎戦士の爪牙
+  assist: ぶちかまし
+  passive_b: 攻撃守備の連携3
+  passive_c: 獣の経験3
+- name: レテ
+  weapon_type: 赤獣
+  movement_type: 騎馬
+  hp: 41
+  attack: 47
+  speed: 41
+  defence: 26
+  resist: 19
+  weapon: 剛なる戦猫の爪牙
+  special: 月虹
+  passive_a: 速さ守備の孤軍3
+  passive_c: 獣刃の鼓舞
 - name: ティバーン
   weapon_type: 赤獣
   movement_type: 飛行
@@ -175,6 +224,18 @@
   special: 烈光
   passive_a: 鬼神明鏡の一撃2
   passive_c: 攻撃の謀策3
+- name: ハール
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 45
+  attack: 45
+  speed: 20
+  defence: 36
+  resist: 18
+  weapon: 勇者の斧+
+  assist: 入れ替え
+  passive_b: キャンセル3
+  passive_c: 守備の波・奇数3
 - name: ユンヌ
   weapon_type: 緑魔
   movement_type: 飛行

@@ -148,6 +148,9 @@
 - name: 獣の技量3
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 獣の経験3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: オスティアの鼓動
   allow:
     name_list: [ヘクトル3]
