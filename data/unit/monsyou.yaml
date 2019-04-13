@@ -51,11 +51,11 @@
   weapon_type: 剣
   movement_type: 騎馬
   hp: 42
-  attack: 40
-  speed: 27
+  attack: 48
+  speed: 32
   defence: 27
   resist: 21
-  weapon: 勇者の剣+
+  weapon: 猛牛の剣
   special: 長盾
   passive_b: 救援の行路3
   passive_c: 攻撃の威嚇3
@@ -63,11 +63,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 44
-  attack: 41
-  speed: 27
+  attack: 49
+  speed: 32
   defence: 25
   resist: 25
-  weapon: 勇者の槍+
+  weapon: 黒豹の槍
   special: 聖盾
   passive_a: HP3
   passive_b: 剣殺し3

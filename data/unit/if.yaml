@@ -471,11 +471,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 37
-  attack: 54
+  attack: 56
   speed: 41
   defence: 18
   resist: 21
-  weapon: アーマーキラー鍛+
+  weapon: カザハナの麗刀
   assist: 攻撃の応援
   passive_a: 死線3
   passive_b: 進軍阻止3
@@ -592,11 +592,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 35
-  attack: 47
+  attack: 49
   speed: 33
   defence: 23
   resist: 33
-  weapon: キラーランス鍛+
+  weapon: ピエリの小槍
   special: 凶星
   passive_a: 魔防3
   passive_c: 守備の威嚇3
