@@ -10,6 +10,19 @@
   special: 竜裂
   passive_a: 攻撃3
   passive_b: 風薙ぎ3
+- name: アルム2
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 40
+  attack: 51
+  speed: 40
+  defence: 26
+  resist: 22
+  weapon: 月光
+  special: 月光閃
+  passive_a: 飛燕の一撃4
+  passive_b: 見切り・追撃効果3
+  passive_c: 攻撃の波・奇数3
 - name: ルカ
   weapon_type: 槍
   movement_type: 歩行
@@ -22,6 +35,18 @@
   special: 聖兜
   passive_a: 守備の城塞3
   passive_b: 進軍阻止3
+- name: ルカ2
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 51
+  attack: 51
+  speed: 21
+  defence: 42
+  resist: 22
+  weapon:  行楽の飾り槍+
+  assist: 回り込み
+  passive_a: 攻撃守備の攻城戦3
+  passive_b: 守備隊形3
 - name: グレイ
   weapon_type: 剣
   movement_type: 歩行
@@ -168,6 +193,19 @@
   assist: リブロー+
   special: 天照
   passive_b: 神罰の杖3
+- name: ジェニー2
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 35
+  attack: 48
+  speed: 24
+  defence: 14
+  resist: 34
+  weapon: マシュマロの杖+
+  assist: リブロー+
+  special: 業火静水の祝福+
+  passive_b: 神罰の杖3
+  passive_c: 守備の開放3
 - name: セーバー
   weapon_type: 剣
   movement_type: 歩行

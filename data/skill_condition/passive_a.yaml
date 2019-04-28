@@ -7,6 +7,9 @@
 - name: 飛燕の一撃3
   deny:
     weapon_type_list: [杖]
+- name: 飛燕の一撃4
+  deny:
+    weapon_type_list: [杖]
 - name: 金剛の一撃3
   deny:
     weapon_type_list: [杖]
