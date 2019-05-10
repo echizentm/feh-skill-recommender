@@ -172,11 +172,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 42
-  attack: 38
+  attack: 42
   speed: 34
   defence: 24
   resist: 28
-  weapon: 蒼海の槍+
+  weapon: 若き猛牛の槍
   assist: 引き寄せ
   passive_b: 剣殺し3
   passive_c: 守備の紋章3
@@ -184,11 +184,11 @@
   weapon_type: 剣
   movement_type: 騎馬
   hp: 45
-  attack: 43
+  attack: 47
   speed: 26
   defence: 33
   resist: 22
-  weapon: 旭日の剣+
+  weapon: 若き黒豹の剣
   assist: 入れ替え
   passive_a: 守備3
   passive_b: 進軍阻止3

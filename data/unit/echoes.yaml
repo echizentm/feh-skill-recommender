@@ -27,11 +27,11 @@
   weapon_type: 槍
   movement_type: 歩行
   hp: 45
-  attack: 46
+  attack: 48
   speed: 22
   defence: 43
   resist: 17
-  weapon: キラーランス鍛+
+  weapon: 払暁の槍
   special: 聖兜
   passive_a: 守備の城塞3
   passive_b: 進軍阻止3
@@ -88,11 +88,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 42
-  attack: 41
+  attack: 44
   speed: 25
   defence: 26
   resist: 31
-  weapon: 火薙ぎの弓+
+  weapon: 盲愛の弓
   special: 夕陽
   passive_b: 救援の行路3
   passive_c: 弓の経験3
