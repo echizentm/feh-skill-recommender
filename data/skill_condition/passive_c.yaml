@@ -172,3 +172,6 @@
 - name: 我が名は混沌
   allow:
     name_list: [ユンヌ]
+- name: ひとりぼっちのゆめ
+  allow:
+    name_list: [紋章チキ4]

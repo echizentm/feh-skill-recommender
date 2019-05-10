@@ -278,6 +278,18 @@
   special: 烈火
   passive_a: 生命の静水3
   passive_c: 騎盾の紋章
+- name: ベルクト2
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 51
+  speed: 17
+  defence: 35
+  resist: 30
+  weapon: クリムヒルド
+  special: 血讐
+  passive_a: 明鏡の構え4
+  passive_c: 魔防の波・奇数3
 - name: ドーマ
   weapon_type: 竜
   movement_type: 重装

@@ -137,6 +137,9 @@
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 杖]
     movement_type_list: [騎馬, 飛行]
+- name: 恐慌の惑乱3
+  deny:
+    movement_type_list: [騎馬, 重装]
 - name: 風薙ぎ3
   deny:
     weapon_type_list: [杖]

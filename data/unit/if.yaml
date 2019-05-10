@@ -72,6 +72,18 @@
   special: 竜裂
   passive_a: 攻撃速さの絆3
   passive_c: 竜盾の鼓舞
+- name: 女カムイ4
+  weapon_type: 竜
+  movement_type: 歩行
+  hp: 43
+  attack: 54
+  speed: 37
+  defence: 31
+  resist: 27
+  weapon: 暴乱のブレス
+  special: 竜穿
+  passive_a: 攻撃速さの孤軍3
+  passive_b: 恐慌の惑乱3
 - name: アクア
   weapon_type: 槍
   movement_type: 歩行

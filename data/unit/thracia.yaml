@@ -36,6 +36,18 @@
   special: 天照
   passive_a: 速さ魔防2
   passive_c: 守備の大紋章2
+- name: マリータ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 49
+  speed: 41
+  defence: 29
+  resist: 23
+  weapon: 暗黒の剣
+  special: 月光
+  passive_a: 柔剣4
+  passive_b: 見切り・追撃効果3
 - name: ラインハルト
   weapon_type: 青魔
   movement_type: 騎馬

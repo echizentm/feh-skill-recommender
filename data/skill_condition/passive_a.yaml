@@ -44,6 +44,12 @@
 - name: 飛燕の構え3
   deny:
     weapon_type_list: [杖]
+- name: 金剛の構え4
+  deny:
+    weapon_type_list: [杖]
+- name: 明鏡の構え4
+  deny:
+    weapon_type_list: [杖]
 - name: 鬼神飛燕の構え2
   deny:
     weapon_type_list: [杖]
@@ -84,6 +90,10 @@
   deny:
     weapon_type_list: [杖]
 - name: 柔剣3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 飛行]
+- name: 柔剣4
   deny:
     weapon_type_list: [杖]
     movement_type_list: [騎馬, 飛行]

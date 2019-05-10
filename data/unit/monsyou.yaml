@@ -386,6 +386,19 @@
   passive_a: 鬼神の呼吸
   passive_b: 攻撃隊形3
   passive_c: みんなと一緒に
+- name: 紋章チキ4
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 45
+  attack: 52
+  speed: 34
+  defence: 37
+  resist: 28
+  weapon: 断絶のブレス
+  special: 華炎
+  passive_a: 攻撃速さの大覚醒3
+  passive_b: 奥義隊形3
+  passive_c: ひとりぼっちのゆめ
 - name: カタリナ
   weapon_type: 赤魔
   movement_type: 歩行
