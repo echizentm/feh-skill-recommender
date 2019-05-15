@@ -254,6 +254,18 @@
   special: 祈り
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の大紋章2
+- name: デューテ2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 41
+  attack: 50
+  speed: 33
+  defence: 19
+  resist: 31
+  weapon: デス
+  special: 氷華
+  passive_a: 鬼神の一撃3
+  passive_c: 攻撃の波・偶数3
 - name: ソニア
   weapon_type: 緑魔
   movement_type: 歩行
