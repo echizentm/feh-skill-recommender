@@ -652,3 +652,16 @@
   assist: 献身
   passive_a: 攻撃速さ2
   passive_c: 歩行の剛撃3
+- name: ナーガ
+  weapon_type: 青竜
+  movement_type: 飛行
+  hp: 37
+  attack: 49
+  speed: 36
+  defence: 33
+  resist: 26
+  weapon: 神竜王のブレス
+  special: 月光
+  passive_a: 攻撃速さの攻城戦3
+  passive_b: 速さの封印3
+  passive_c: 神竜王の牙
