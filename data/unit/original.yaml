@@ -123,6 +123,19 @@
   passive_a: 攻撃速さの絆3
   passive_b: 攻撃速さの連携3
   passive_c: 魔防の波・偶数3
+- name: フィヨルム3
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 46
+  attack: 50
+  speed: 34
+  defence: 17
+  resist: 23
+  weapon: ギャッラルブルー
+  assist: レスト+
+  passive_a: HP攻撃2
+  passive_b: 幻惑の杖3
+  passive_c: 先導の伝令・地3
 - name: スリーズ
   weapon_type: 緑魔
   movement_type: 騎馬

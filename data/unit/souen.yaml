@@ -183,6 +183,31 @@
   assist: 引き寄せ
   passive_a: 攻撃魔防の絆3
   passive_b: 守備魔防の連携3
+- name: シグルーン
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 35
+  attack: 45
+  speed: 38
+  defence: 27
+  resist: 31
+  weapon: ケーキナイフ+
+  assist: 献身
+  passive_a: 速さ守備の防城戦3
+  passive_c: 先導の伝令・天3
+- name: タニス
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 37
+  attack: 48
+  speed: 36
+  defence: 33
+  resist: 21
+  weapon: フラワースタンド+
+  assist: 一喝+
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 攻撃の封印3
+  passive_c: 飛盾の鼓舞
 - name: 漆黒の騎士
   weapon_type: 剣
   movement_type: 重装

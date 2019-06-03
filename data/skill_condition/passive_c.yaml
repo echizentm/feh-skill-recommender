@@ -10,6 +10,9 @@
 - name: 魔防の紫煙3
   deny:
     weapon_type_list: [杖]
+- name: 鼓動の幻煙3
+  deny:
+    weapon_type_list: [杖]
 - name: 騎刃の鼓舞
   allow:
     movement_type_list: [騎馬]
@@ -89,6 +92,9 @@
   allow:
     movement_type_list: [飛行]
 - name: 先導の伝令・天3
+  allow:
+    movement_type_list: [飛行]
+- name: 先導の伝令・地3
   allow:
     movement_type_list: [飛行]
 - name: 剣の技量3
