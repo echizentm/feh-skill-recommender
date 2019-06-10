@@ -274,11 +274,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 36
-  attack: 38
+  attack: 43
   speed: 34
   defence: 33
   resist: 16
-  weapon: 紫煙の暗器+
+  weapon: サイゾウの爆炎針
   assist: 一喝
   passive_a: 蛇毒3
   passive_c: 速さの紋章3
@@ -286,11 +286,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 31
-  attack: 40
+  attack: 49
   speed: 32
   defence: 22
   resist: 28
-  weapon: 秘毒の暗器+
+  weapon: カゲロウの眩惑針
   special: 血讐
   passive_a: 明鏡の一撃3
   passive_b: 暗器殺し3

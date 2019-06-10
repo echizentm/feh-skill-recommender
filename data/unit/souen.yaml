@@ -127,11 +127,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 40
-  attack: 45
+  attack: 47
   speed: 34
   defence: 26
   resist: 21
-  weapon: 蒼海の槍+
+  weapon: 傭兵団の長槍
   assist: 速さ守備の応援
   passive_b: 槍殺し3
   passive_c: 速さ守備の紋章2
