@@ -603,6 +603,19 @@
   assist: 踊る
   passive_a: 疾風の舞い3
   passive_c: 攻撃の鼓舞3
+- name: ブレディ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 41
+  attack: 45
+  speed: 32
+  defence: 23
+  resist: 28
+  weapon: スロウ+
+  assist: リカバー+
+  special: 天照
+  passive_a: 攻撃魔防の渾身3
+  passive_c: 歩行の剛撃3
 - name: ジェローム
   weapon_type: 斧
   movement_type: 飛行
@@ -615,6 +628,19 @@
   assist: 攻撃守備の応援
   passive_a: 守備の城塞3
   passive_b: 一撃離脱
+- name: シャンブレー
+  weapon_type: 緑獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 49
+  speed: 36
+  defence: 32
+  resist: 17
+  weapon: タグエルの子の爪牙
+  special: 疾風迅雷
+  passive_a: 攻撃速さの弧軍3
+  passive_b: 離脱の行路3
+  passive_c: 速さの波・奇数3
 - name: 男マーク
   weapon_type: 赤魔
   movement_type: 歩行
@@ -652,6 +678,43 @@
   assist: 献身
   passive_a: 攻撃速さ2
   passive_c: 歩行の剛撃3
+- name: ンン
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 44
+  attack: 53
+  speed: 25
+  defence: 38
+  resist: 32
+  weapon: 神託のブレス
+  special: 緋炎
+  passive_a: 強化増幅3
+  passive_b: 切り返し3
+  passive_c: 歩行の呼吸3
+- name: デジェル
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 47
+  attack: 54
+  speed: 22
+  defence: 37
+  resist: 28
+  weapon: バリアの槍+
+  special: 竜裂
+  passive_a: 守備魔防の防城戦3
+  passive_b: 攻撃隊形3
+- name: シンシア
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 38
+  attack: 47
+  speed: 37
+  defence: 27
+  resist: 29
+  weapon: 火薙ぎの槍+
+  assist: 体当たり
+  passive_b: 速さ守備の連携3
+  passive_c: 攻撃の大紋章3
 - name: ナーガ
   weapon_type: 青竜
   movement_type: 飛行
