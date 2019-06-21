@@ -162,6 +162,18 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 攻め立て3
   passive_c: 速さの相互鼓舞
+- name: スリーズ3
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 39
+  attack: 45
+  speed: 37
+  defence: 17
+  resist: 24
+  weapon: 南国の果実+
+  assist: 守備魔防の応援+
+  passive_a: 速さ魔防の攻城戦3
+  passive_b: 罠解除3
 - name: フリーズ
   weapon_type: 剣
   movement_type: 騎馬
@@ -239,6 +251,19 @@
   assist: 回り込み
   passive_b: 魔防の封印3
   passive_c: 守備の指揮3
+- name: レーギャルン3
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 37
+  attack: 48
+  speed: 40
+  defence: 20
+  resist: 21
+  weapon: 四海の祭器
+  assist: 引き戻し
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 編隊飛行3
+  passive_c: 飛刃の鼓舞
 - name: レーヴァテイン
   weapon_type: 剣
   movement_type: 歩行
@@ -265,6 +290,19 @@
   special: 業火大地の祝福+
   passive_b: 神罰の杖3
   passive_c: 守備の波・偶数3
+- name: レーヴァテイン3
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 38
+  attack: 50
+  speed: 16
+  defence: 31
+  resist: 26
+  weapon: 海に浮かぶ板+
+  assist: ぶちかまし
+  passive_a: 鬼神明鏡の瞬撃
+  passive_b: 守備魔防の連携3
+  passive_c: 攻撃の波・奇数3
 - name: ヘルビンディ
   weapon_type: 斧
   movement_type: 歩行
@@ -278,6 +316,18 @@
   passive_a: 緑の死闘・歩行3
   passive_b: キャンセル3
   passive_c: 歩行の鼓動3
+- name: ヘルビンディ2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 49
+  attack: 50
+  speed: 18
+  defence: 37
+  resist: 33
+  weapon: 砂浜のスコップ+
+  assist: 攻撃守備の応援+
+  passive_a: 赤の死闘・歩行3
+  passive_c: 恐慌の奇策3
 - name: エイル
   weapon_type: 暗器
   movement_type: 飛行
