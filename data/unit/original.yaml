@@ -213,6 +213,18 @@
   passive_a: 魔道の刃3
   passive_b: 速さの封印3
   passive_c: 速さの指揮3
+- name: ユルグ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 49
+  speed: 36
+  defence: 30
+  resist: 25
+  weapon: 砂浜のクワ+
+  special: 月光
+  passive_a: 柔剣3
+  passive_c: 守備の波・偶数3
 - name: スルト
   weapon_type: 斧
   movement_type: 重装
