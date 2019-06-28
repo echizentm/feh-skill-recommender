@@ -187,3 +187,6 @@
 - name: 神竜王の牙
   allow:
     name_list: [ナーガ]
+- name: 理想郷となるように
+  allow:
+    name_list: [エリウッド3]

@@ -22,6 +22,19 @@
   assist: 攻撃守備の応援
   passive_a: 生命の業火3
   passive_c: 重刃の紋章3
+- name: エリウッド3
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 37
+  attack: 55
+  speed: 34
+  defence: 33
+  resist: 16
+  weapon: 緋剣デュランダル
+  assist: 速さ魔防の応援+
+  passive_a: 鬼神の一撃4
+  passive_b: 攻撃の封印3
+  passive_c: 理想郷となるように
 - name: リン
   weapon_type: 剣
   movement_type: 歩行
