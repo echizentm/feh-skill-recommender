@@ -112,6 +112,10 @@
 - name: 魔防の共謀3
   deny:
     weapon_type_list: [杖]
+- name: 守備魔防の大共謀3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [重装, 飛行]
 - name: すり抜け3
   deny:
     weapon_type_list: [杖]

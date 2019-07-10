@@ -98,6 +98,19 @@
   passive_a: サカの掟
   passive_b: 攻め立て3
   passive_c: 速さの指揮3
+- name: リン6
+  weapon_type: 青弓
+  movement_type: 飛行
+  hp: 37
+  attack: 47
+  speed: 41
+  defence: 20
+  resist: 27
+  weapon: 絶海の蒼弓
+  assist: 引き戻し
+  passive_a: 鬼神金剛の瞬撃
+  passive_b: 攻撃速さの連携3
+  passive_c: 遠距離警戒3
 - name: ヘクトル
   weapon_type: 斧
   movement_type: 重装
@@ -401,6 +414,18 @@
   special: 爆雷
   passive_a: 鬼神の一撃3
   passive_c: 魔防の威嚇3
+- name: ウルスラ2
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 36
+  attack: 48
+  speed: 34
+  defence: 16
+  resist: 28
+  weapon: 貝殻のナイフ+
+  assist: 攻撃速さの応援+
+  passive_b: 守備魔防の大共謀3
+  passive_c: 魔防の波・偶数3
 - name: ニノ
   weapon_type: 緑魔
   movement_type: 歩行
