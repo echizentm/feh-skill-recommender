@@ -152,11 +152,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 41
-  attack: 32
+  attack: 39
   speed: 34
   defence: 30
   resist: 18
-  weapon: 盗賊の暗器+
+  weapon: 密偵の暗器
   assist: 相互援助
   passive_b: 蛇毒3
   passive_c: 速さの鼓舞3

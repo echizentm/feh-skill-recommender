@@ -99,11 +99,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 41
-  attack: 44
+  attack: 46
   speed: 29
   defence: 22
   resist: 29
-  weapon: ラウアウルフ鍛+
+  weapon: 山の隠者の書
   assist: 攻撃の応援
   passive_a: HP3
   passive_b: 魔防封じ3

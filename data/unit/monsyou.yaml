@@ -99,11 +99,11 @@
   weapon_type: 剣
   movement_type: 騎馬
   hp: 43
-  attack: 42
+  attack: 45
   speed: 23
-  defence: 29
+  defence: 30
   resist: 20
-  weapon: 勇者の剣+
+  weapon: 明日の聖騎士の剣
   special: 緋炎
   passive_a: 生命の業火3
   passive_c: 恐慌の奇策3
@@ -111,11 +111,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 40
-  attack: 46
+  attack: 47
   speed: 34
   defence: 25
   resist: 24
-  weapon: 火薙ぎの槍+
+  weapon: 未来の聖騎士の槍
   assist: 守備魔防の応援
   passive_b: 引き込み
   passive_c: 守備の大紋章2
