@@ -282,6 +282,18 @@
   assist: 入れ替え
   passive_a: 鬼神金剛の構え2
   passive_b: 守備隊形3
+- name: フィオーラ
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 40
+  attack: 46
+  speed: 37
+  defence: 26
+  resist: 28
+  weapon: 日傘+
+  assist: 入れ替え
+  passive_b: 速さ魔防の連携3
+  passive_c: 攻撃の紫煙3
 - name: フロリーナ
   weapon_type: 槍
   movement_type: 飛行
