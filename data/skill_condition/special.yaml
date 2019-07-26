@@ -25,6 +25,9 @@
 - name: 竜裂
   deny:
     weapon_type_list: [杖]
+- name: 破天
+  deny:
+    weapon_type_list: [赤竜, 赤獣, 青竜, 青獣, 緑竜, 緑獣, 杖, 竜, 獣]
 - name: 竜穿
   deny:
     weapon_type_list: [杖]
