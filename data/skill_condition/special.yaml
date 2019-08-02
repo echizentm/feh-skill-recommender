@@ -130,3 +130,6 @@
 - name: 月光閃
   allow:
     name_list: [アルム2]
+- name: 天狼
+  allow:
+    name_list: [ソティス]

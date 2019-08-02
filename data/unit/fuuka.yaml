@@ -24,6 +24,19 @@
   passive_a: 獅子奮迅4
   passive_b: 怒り3
   passive_c: 攻撃の波・偶数3
+- name: ソティス
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 41
+  attack: 50
+  speed: 39
+  defence: 32
+  resist: 27
+  weapon: 天帝の波動
+  special: 天狼
+  passive_a: 攻撃速さの孤軍3
+  passive_b: 怒り3
+  passive_c: 始まりの鼓動3
 - name: エーデルガルト
   weapon_type: 斧
   movement_type: 歩行
