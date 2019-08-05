@@ -74,3 +74,15 @@
   special: 凶星
   passive_b: 速さ守備の凪3
   passive_c: 守備の紫煙3
+- name: クロニエ
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 44
+  attack: 45
+  speed: 39
+  defence: 22
+  resist: 29
+  weapon: アサメイの短剣
+  special: 月光
+  passive_b: 攻め立て3
+  passive_c: 遠距離警戒3
