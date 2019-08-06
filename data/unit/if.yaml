@@ -703,11 +703,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 37
-  attack: 39
+  attack: 41
   speed: 35
   defence: 32
   resist: 28
-  weapon: アーマーキラー鍛+
+  weapon: ルーナの鋭剣
   assist: 引き戻し
   passive_a: 相性激化3
   passive_c: 速さの威嚇3
@@ -715,11 +715,11 @@
   weapon_type: 斧
   movement_type: 飛行
   hp: 46
-  attack: 43
+  attack: 45
   speed: 23
   defence: 37
   resist: 22
-  weapon: キラーアクス鍛+
+  weapon: ベルカの殺斧
   special: 凶星
   passive_a: 守備の覚醒3
   passive_b: 切り込み

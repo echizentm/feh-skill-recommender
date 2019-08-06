@@ -161,11 +161,11 @@
   weapon_type: 青魔
   movement_type: 歩行
   hp: 35
-  attack: 46
+  attack: 50
   speed: 31
   defence: 16
   resist: 30
-  weapon: ブラーアウル+
+  weapon: 金蘭の書
   assist: 引き寄せ
   passive_b: 攻め立て3
   passive_c: 青魔の経験3
@@ -173,11 +173,11 @@
   weapon_type: 緑魔
   movement_type: 歩行
   hp: 43
-  attack: 39
+  attack: 43
   speed: 27
   defence: 32
   resist: 18
-  weapon: グルンアウル+
+  weapon: 金石の書
   assist: 華炎
   passive_a: 生命の大地3
   passive_b: 回復3
