@@ -91,6 +91,10 @@
 - name: 始まりの鼓動3
   allow:
     movement_type_list: [歩行]
+- name: 歩行の魔刃3
+  allow:
+    movement_type_list: [歩行]
+    weapon_type_list: [赤魔, 青魔, 緑魔]
 - name: 重装の行軍3
   allow:
     movement_type_list: [重装]
