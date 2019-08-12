@@ -137,3 +137,15 @@
   special: 月光
   passive_b: 攻め立て3
   passive_c: 遠距離警戒3
+- name: 死神騎士
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 51
+  speed: 25
+  defence: 30
+  resist: 27
+  weapon: サリエルの大鎌
+  special: 烈火
+  passive_b: 離脱の行路3
+  passive_c: 近距離警戒3
