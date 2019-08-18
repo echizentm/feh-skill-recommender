@@ -24,6 +24,19 @@
   passive_a: 攻撃魔防の絆3
   passive_b: 業火静水の舞い2
   passive_c: 魔防の謀策3
+- name: ミカヤ3
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 36
+  attack: 51
+  speed: 28
+  defence: 17
+  resist: 40
+  weapon: 暁の光
+  assist: 癒しの手
+  passive_a: 攻撃魔防の絆4
+  passive_b: ユンヌの囁き
+  passive_c: 先導の伝令・地3
 - name: サザ
   weapon_type: 暗器
   movement_type: 歩行

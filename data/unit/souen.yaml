@@ -195,6 +195,18 @@
   assist: 献身
   passive_a: 速さ守備の防城戦3
   passive_c: 先導の伝令・天3
+- name: シグルーン2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 37
+  attack: 46
+  speed: 36
+  defence: 28
+  resist: 34
+  weapon: 反攻の槍+
+  assist: 入れ替え
+  passive_b: 守備魔防の連携3
+  passive_c: 飛刃の鼓舞
 - name: タニス
   weapon_type: 槍
   movement_type: 飛行

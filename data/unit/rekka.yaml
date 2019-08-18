@@ -35,6 +35,19 @@
   passive_a: 鬼神の一撃4
   passive_b: 攻撃の封印3
   passive_c: 理想郷となるように
+- name: エリウッド4
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 53
+  speed: 38
+  defence: 32
+  resist: 18
+  weapon: 氷精ニニスの槍
+  assist: 攻撃守備の応援+
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 攻撃速さの大共謀3
+  passive_c: 速さの開放
 - name: リン
   weapon_type: 剣
   movement_type: 歩行

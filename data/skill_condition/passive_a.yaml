@@ -176,3 +176,6 @@
 - name: みんなと一緒に
   allow:
     name_list: [紋章チキ3]
+- name: 覇神断竜剣
+  allow:
+    name_list: [アルム3]

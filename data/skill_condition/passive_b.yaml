@@ -112,6 +112,10 @@
 - name: 魔防の共謀3
   deny:
     weapon_type_list: [杖]
+- name: 攻撃速さの大共謀3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [重装, 飛行]
 - name: 守備魔防の大共謀3
   deny:
     weapon_type_list: [杖]
@@ -230,3 +234,6 @@
 - name: 凍結の封印
   allow:
     name_list: [フリーズ]
+- name: ユンヌの囁き
+  allow:
+    name_list: [ミカヤ3]

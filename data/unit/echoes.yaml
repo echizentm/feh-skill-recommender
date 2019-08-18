@@ -23,6 +23,19 @@
   passive_a: 飛燕の一撃4
   passive_b: 見切り・追撃効果3
   passive_c: 攻撃の波・奇数3
+- name: アルム3
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 57
+  speed: 35
+  defence: 37
+  resist: 20
+  weapon: 竜剣ファルシオン
+  special: 竜裂
+  passive_a: 覇神断竜剣
+  passive_b: 守備の封印3
+  passive_c: 攻撃速さの威嚇3
 - name: ルカ
   weapon_type: 槍
   movement_type: 歩行
