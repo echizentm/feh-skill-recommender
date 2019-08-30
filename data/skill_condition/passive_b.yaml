@@ -237,3 +237,6 @@
 - name: ユンヌの囁き
   allow:
     name_list: [ミカヤ3]
+- name: 光と闇と
+  allow:
+    name_list: [ユリア2]

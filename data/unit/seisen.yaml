@@ -182,6 +182,19 @@
   special: 竜穿
   passive_a: 魔防3
   passive_c: 生の息吹3
+- name: ユリア2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 28
+  defence: 19
+  resist: 36
+  weapon: 至聖ナーガ
+  special: 竜穿
+  passive_a: 鬼神明鏡の瞬撃
+  passive_b: 光と闇と
+  passive_c: 攻撃魔防の信義3
 - name: アレス
   weapon_type: 剣
   movement_type: 騎馬
