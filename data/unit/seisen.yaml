@@ -231,7 +231,7 @@
   special: 竜裂
   passive_b: キャンセル3
   passive_c: 攻撃の謀策3
-- name: イシュタル
+- name: 聖戦イシュタル
   weapon_type: 青魔
   movement_type: 歩行
   hp: 38

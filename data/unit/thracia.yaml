@@ -73,6 +73,19 @@
   passive_a: 鬼神の一撃3
   passive_b: 待ち伏せ3
   passive_c: 攻撃守備の紋章2
+- name: ラインハルト3
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 38
+  attack: 43
+  speed: 16
+  defence: 27
+  resist: 25
+  weapon: ヴァフスルーズニル
+  assist: 踊る
+  passive_a: 鬼神の一撃3
+  passive_b: 魔防の封印3
+  passive_c: 攻撃の相互鼓舞
 - name: オルエン
   weapon_type: 青魔
   movement_type: 騎馬
@@ -110,3 +123,16 @@
   special: 氷華
   passive_b: 離脱の行路3
   passive_c: 速さの謀策3
+- name: トラキアイシュタル
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 36
+  attack: 42
+  speed: 34
+  defence: 16
+  resist: 22
+  weapon: メグスラシル
+  assist: 踊る
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 攻め立て3
+  passive_c: 先導の伝令・天3

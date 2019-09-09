@@ -315,6 +315,18 @@
   special: 血讐
   passive_a: 明鏡の構え4
   passive_c: 魔防の波・奇数3
+- name: ベルクト3
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 46
+  attack: 52
+  speed: 23
+  defence: 37
+  resist: 24
+  weapon: ヴェルザンディ
+  assist: 踊る
+  passive_a: 青の死闘・歩行3
+  passive_c: 遠距離警戒3
 - name: ドーマ
   weapon_type: 竜
   movement_type: 重装

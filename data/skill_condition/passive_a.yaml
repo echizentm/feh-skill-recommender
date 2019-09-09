@@ -118,6 +118,10 @@
   allow:
     weapon_type_list: [剣, 赤魔, 赤竜, 赤獣, 赤弓, 赤暗器]
     movement_type_list: [飛行]
+- name: 青の死闘・歩行3
+  allow:
+    weapon_type_list: [槍, 青魔, 青竜, 青獣, 青弓, 青暗器]
+    movement_type_list: [歩行]
 - name: 青の死闘・飛行3
   allow:
     weapon_type_list: [槍, 青魔, 青竜, 青獣, 青弓, 青暗器]

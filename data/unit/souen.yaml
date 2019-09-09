@@ -171,6 +171,18 @@
   special: 月虹
   passive_a: 攻撃速さ2
   passive_b: 怒り3
+- name: ネフェニー2
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 37
+  attack: 47
+  speed: 36
+  defence: 24
+  resist: 25
+  weapon: 弦楽器の弓+
+  assist: 踊る
+  passive_b: 業火大地の舞い2
+  passive_c: 速さの指揮3
 - name: 蒼炎サナキ
   weapon_type: 緑魔
   movement_type: 飛行
