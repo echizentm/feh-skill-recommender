@@ -327,6 +327,18 @@
   assist: 踊る
   passive_a: 青の死闘・歩行3
   passive_c: 遠距離警戒3
+- name: リネア
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 38
+  attack: 42
+  speed: 33
+  defence: 23
+  resist: 28
+  weapon: 銀のゴブレット+
+  assist: 踊る
+  passive_a: 金剛明鏡の一撃2
+  passive_b: 業火静水の舞い2
 - name: ドーマ
   weapon_type: 竜
   movement_type: 重装
