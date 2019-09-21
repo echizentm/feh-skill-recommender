@@ -123,6 +123,9 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [重装, 飛行]
+- name: 攻撃速さの凪3
+  deny:
+    movement_type_list: [重装, 飛行]
 - name: 攻撃守備の凪3
   deny:
     movement_type_list: [重装, 飛行]
