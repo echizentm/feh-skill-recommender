@@ -215,6 +215,18 @@
   special: 烈火
   passive_b: 攻撃封じ3
   passive_c: 速さの紋章3
+- name: アストリア
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 44
+  attack: 54
+  speed: 36
+  defence: 36
+  resist: 21
+  weapon: メリクル
+  special: 緋炎
+  passive_a: 生命の疾風3
+  passive_b: 怒り3
 - name: ミシェイル
   weapon_type: 斧
   movement_type: 飛行
