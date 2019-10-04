@@ -353,6 +353,19 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 生命の護符3
   passive_c: 生命の輝き
+- name: スラシル
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 47
+  speed: 39
+  defence: 23
+  resist: 27
+  weapon: イーヴィングル
+  special: 月虹
+  passive_a: 柔剣4
+  passive_b: 死んでほしいの
+  passive_c: 恐慌の幻煙3
 - name: ロキ
   weapon_type: 杖
   movement_type: 歩行
