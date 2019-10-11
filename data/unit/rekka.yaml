@@ -174,6 +174,19 @@
   passive_a: オスティアの反撃
   passive_b: 攻撃隊形3
   passive_c: 魔防の波・偶数3
+- name: ヘクトル5
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 47
+  attack: 60
+  speed: 26
+  defence: 39
+  resist: 27
+  weapon: 魔月の祭器
+  special: 緋炎
+  passive_a: 遠距離反撃
+  passive_b: 追撃隊形・奇数3
+  passive_c: 重刃の鼓舞
 - name: マシュー
   weapon_type: 暗器
   movement_type: 歩行
@@ -359,11 +372,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 45
-  attack: 47
+  attack: 49
   speed: 22
   defence: 28
   resist: 30
-  weapon: キラーアクス鍛+
+  weapon: 守護者の巨斧
   special: 爆光
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の威嚇3

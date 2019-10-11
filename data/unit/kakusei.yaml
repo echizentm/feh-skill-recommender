@@ -148,11 +148,11 @@
   weapon_type: 斧
   movement_type: 騎馬
   hp: 43
-  attack: 49
+  attack: 51
   speed: 25
   defence: 36
   resist: 14
-  weapon: ハンマー鍛+
+  weapon: フレデリクの堅斧
   special: 月光
   passive_b: 救援の行路3
   passive_c: 守備の鼓舞3
@@ -439,11 +439,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 46
-  attack: 44
+  attack: 45
   speed: 31
   defence: 26
   resist: 13
-  weapon: 銀の弓+
+  weapon: 貴族的な弓
   special: 流星
   passive_a: 魔防の覚醒3
   passive_b: 速さ封じ3

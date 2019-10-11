@@ -244,3 +244,15 @@
   special: 黒の月光
   passive_a: 金剛の構え3
   passive_b: 救援の行路3
+- name: イレース
+  weapon_type: 青魔
+  movement_type: 重装
+  hp: 41
+  attack: 53
+  speed: 26
+  defence: 33
+  resist: 40
+  weapon: カボチャの行灯+
+  special: 氷蒼
+  passive_b: 攻撃隊形3
+  passive_c: 攻撃魔防の大開放3
