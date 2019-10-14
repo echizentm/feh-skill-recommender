@@ -135,6 +135,18 @@
   assist: 速さ守備の応援
   passive_b: 槍殺し3
   passive_c: 速さ守備の紋章2
+- name: ヨファ
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 45
+  speed: 39
+  defence: 31
+  resist: 26
+  weapon: ロウソクの弓+
+  assist: 体当たり
+  passive_b: 攻め立て3
+  passive_c: 速さの波・奇数3
 - name: 蒼炎ワユ
   weapon_type: 剣
   movement_type: 歩行
