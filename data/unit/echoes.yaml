@@ -109,6 +109,19 @@
   special: 夕陽
   passive_b: 救援の行路3
   passive_c: 弓の経験3
+- name: シルク
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 39
+  attack: 45
+  speed: 23
+  defence: 35
+  resist: 31
+  weapon: メランコリー+
+  assist: リカバー+
+  special: 業火大地の祝福+
+  passive_b: 幻惑の杖3
+  passive_c: 杖の経験3
 - name: クレア
   weapon_type: 槍
   movement_type: 飛行
@@ -133,6 +146,31 @@
   special: 長盾
   passive_a: 守備3
   passive_b: 一撃離脱
+- name: フォルス
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 47
+  attack: 56
+  speed: 20
+  defence: 39
+  resist: 36
+  weapon: 太陽
+  special: 緋炎
+  passive_a: 守備魔防の絆3
+  passive_b: 攻撃隊形3
+  passive_c: 守備の相互鼓舞
+- name: パイソン
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 38
+  attack: 44
+  speed: 35
+  defence: 31
+  resist: 20
+  weapon: 短弓+
+  special: 月虹
+  passive_a: 飛燕金剛の一撃2
+  passive_b: 青魔殺し3
 - name: セリカ
   weapon_type: 赤魔
   movement_type: 歩行
@@ -231,6 +269,18 @@
   special: 聖盾
   passive_a: HP速さ2
   passive_b: 盾の鼓動3
+- name: バルボ
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 53
+  attack: 45
+  speed: 20
+  defence: 38
+  resist: 26
+  weapon: 勇者の槍+
+  special: 復讐
+  passive_a: HP攻撃2
+  passive_b: 進軍阻止3
 - name: レオ
   weapon_type: 弓
   movement_type: 歩行
@@ -279,6 +329,19 @@
   special: 氷華
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の波・偶数3
+- name: echoesカチュア
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 41
+  attack: 57
+  speed: 36
+  defence: 27
+  resist: 24
+  weapon: 流星
+  assist: 一喝+
+  passive_a: 攻撃速さの絆4
+  passive_b: 曲技飛行3
+  passive_c: 速さの指揮3
 - name: ソニア
   weapon_type: 緑魔
   movement_type: 歩行
@@ -291,6 +354,18 @@
   special: 月虹
   passive_a: 鬼神明鏡の一撃2
   passive_c: 魔防の謀策3
+- name: コンラート
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 45
+  speed: 22
+  defence: 34
+  resist: 35
+  weapon: バリアの槍+
+  special: 氷華
+  passive_a: 金剛明鏡の構え2
+  passive_b: 攻撃の封印3
 - name: ベルクト
   weapon_type: 槍
   movement_type: 騎馬

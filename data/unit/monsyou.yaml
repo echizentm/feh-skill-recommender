@@ -288,7 +288,7 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 罠解除3
   passive_c: 飛刃の鼓舞
-- name: カチュア
+- name: 紋章カチュア
   weapon_type: 槍
   movement_type: 飛行
   hp: 39
@@ -300,7 +300,7 @@
   special: 月光
   passive_a: 金剛の一撃3
   passive_b: 攻撃封じ3
-- name: カチュア2
+- name: 紋章カチュア2
   weapon_type: 青魔
   movement_type: 騎馬
   hp: 36
