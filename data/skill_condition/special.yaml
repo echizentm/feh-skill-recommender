@@ -133,3 +133,6 @@
 - name: 天狼
   allow:
     name_list: [ソティス]
+- name: ノヴァの聖騎士
+  allow:
+    name_list: [リーフ2]
