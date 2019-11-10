@@ -508,11 +508,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 40
-  attack: 37
+  attack: 41
   speed: 35
   defence: 35
   resist: 25
-  weapon: 蒼海の槍+
+  weapon: ツバキの金薙刀
   assist: 入れ替え
   passive_a: 魔防3
   passive_b: 切り返し3
@@ -948,11 +948,11 @@
   weapon_type: 緑竜
   movement_type: 歩行
   hp: 40
-  attack: 44
+  attack: 46
   speed: 34
   defence: 33
   resist: 26
-  weapon: 水のブレス+
+  weapon: 白夜の竜石
   special: 竜裂
   passive_a: 鬼神の構え3
   passive_c: 竜刃の紋章

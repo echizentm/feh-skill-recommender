@@ -100,6 +100,19 @@
   passive_a: 攻撃守備の孤軍3
   passive_b: 攻撃隊形3
   passive_c: 近距離警戒3
+- name: エフラム5
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 41
+  attack: 58
+  speed: 30
+  defence: 37
+  resist: 25
+  weapon: レギンレイヴ
+  special: 竜裂
+  passive_a: 剛剣4
+  passive_b: 攻撃守備の凪3
+  passive_c: 攻撃の波・奇数3
 - name: ゼト
   weapon_type: 剣
   movement_type: 騎馬
@@ -124,6 +137,18 @@
   assist: 攻撃魔防の応援
   passive_a: HP魔防2
   passive_c: 魔防の謀策3
+- name: ロス
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 47
+  attack: 46
+  speed: 26
+  defence: 32
+  resist: 24
+  weapon: 勇者の斧+
+  assist: ぶちかまし
+  passive_a: 生命の業火3
+  passive_c: 守備の威嚇3
 - name: ヒーニアス
   weapon_type: 弓
   movement_type: 歩行
@@ -221,6 +246,19 @@
   special: 月虹
   passive_a: 近距離防御3
   passive_b: 風薙ぎ3
+- name: ジスト
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 47
+  attack: 52
+  speed: 36
+  defence: 30
+  resist: 22
+  weapon: 火薙ぎの斧+
+  special: 月虹
+  passive_a: 飛燕の一撃4
+  passive_b: 恐怖の惑乱3
+  passive_c: 歩行の鼓動3
 - name: マリカ
   weapon_type: 剣
   movement_type: 歩行
@@ -245,6 +283,30 @@
   assist: 引き戻し
   passive_b: 速さ守備の連携3
   passive_c: 飛行の先導3
+- name: テティス
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 39
+  speed: 35
+  defence: 23
+  resist: 34
+  weapon: 粛清の暗器+
+  assist: 踊る
+  passive_a: 速さ魔防の絆3
+  passive_c: 暗器の経験3
+- name: ユアン
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 38
+  attack: 49
+  speed: 33
+  defence: 23
+  resist: 35
+  weapon: ラウアサーペント+
+  special: 氷華
+  passive_a: 飛燕明鏡の構え2
+  passive_b: 速さの混乱3
 - name: ラーチェル
   weapon_type: 青魔
   movement_type: 騎馬

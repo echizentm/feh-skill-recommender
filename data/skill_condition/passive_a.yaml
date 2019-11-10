@@ -99,6 +99,9 @@
 - name: 剛剣3
   deny:
     weapon_type_list: [杖]
+- name: 剛剣4
+  deny:
+    weapon_type_list: [杖]
 - name: 柔剣3
   deny:
     weapon_type_list: [杖]

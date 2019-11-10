@@ -87,11 +87,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 43
-  attack: 38
+  attack: 43
   speed: 20
   defence: 32
   resist: 17
-  weapon: 勇者の弓+
+  weapon: 弓騎士の名弓
   assist: 体当たり
   passive_a: 攻撃3
   passive_b: 待ち伏せ3
@@ -536,11 +536,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 36
-  attack: 44
+  attack: 47
   speed: 38
   defence: 27
   resist: 24
-  weapon: 倭刀+
+  weapon: 異邦の秘剣
   special: 月虹
   passive_a: 鬼神金剛の一撃2
   passive_c: 剣の経験3
