@@ -222,6 +222,18 @@
   special: 月光
   passive_a: 飛燕の一撃3
   passive_c: 恐慌の奇策3
+- name: クーガー
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 42
+  attack: 50
+  speed: 32
+  defence: 34
+  resist: 23
+  weapon: キラーランス鍛+
+  special: 華炎
+  passive_b: 強化無効・近距離3
+  passive_c: 守備の開放3
 - name: アメリア
   weapon_type: 斧
   movement_type: 重装
