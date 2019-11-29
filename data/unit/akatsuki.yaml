@@ -200,6 +200,19 @@
   passive_a: 遠距離反撃
   passive_b: 見切り・反撃不可3
   passive_c: 邪眼
+- name: オルティナ
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 42
+  attack: 48
+  speed: 15
+  defence: 30
+  resist: 36
+  weapon: ラグネル&エタルド
+  special: 双刃
+  passive_a: 女神の三雄
+  passive_b: 待ち伏せ3
+  passive_c: 攻撃守備の信義3
 - name: 暁サナキ
   weapon_type: 赤魔
   movement_type: 歩行

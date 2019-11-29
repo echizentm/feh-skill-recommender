@@ -16,6 +16,9 @@
 - name: 守備魔防の奮起3
   deny:
     movement_type_list: [重装, 飛行]
+- name: 攻撃守備の信義3
+  deny:
+    movement_type_list: [重装, 騎馬]
 - name: 攻撃魔防の信義3
   deny:
     movement_type_list: [重装, 騎馬]

@@ -195,3 +195,6 @@
 - name: 覇神断竜剣
   allow:
     name_list: [アルム3]
+- name: 女神の三雄
+  allow:
+    name_list: [オルティナ]

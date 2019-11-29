@@ -136,3 +136,6 @@
 - name: ノヴァの聖騎士
   allow:
     name_list: [リーフ2]
+- name: 双刃
+  allow:
+    name_list: [オルティナ]
