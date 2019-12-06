@@ -118,3 +118,6 @@
 - name: 未来を映す瞳
   allow:
     name_list: [ルキナ5]
+- name: やさしいゆめ
+  allow:
+    name_list: [ピアニー]

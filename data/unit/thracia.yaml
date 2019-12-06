@@ -49,6 +49,18 @@
   special: 天照
   passive_a: 速さ魔防2
   passive_c: 守備の大紋章2
+- name: エーヴェル
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 47
+  speed: 35
+  defence: 38
+  resist: 25
+  weapon: キャンセルの剣+
+  special: 華炎
+  passive_a: 攻撃守備の密集3
+  passive_b: 攻撃の封印3
 - name: マリータ
   weapon_type: 剣
   movement_type: 歩行
@@ -61,6 +73,44 @@
   special: 月光
   passive_a: 柔剣4
   passive_b: 見切り・追撃効果3
+- name: マリータ2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 51
+  speed: 42
+  defence: 31
+  resist: 23
+  weapon: マリータの剣
+  special: 月光
+  passive_a: 攻撃速さの孤軍3
+  passive_b: 回避・一撃離脱3
+  passive_c: 攻撃守備の奮起3
+- name: オーシン
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 51
+  speed: 36
+  defence: 33
+  resist: 27
+  weapon: プージ
+  special: 夕陽
+  passive_a: 鬼神明鏡の構え3
+  passive_b: 怒り3
+  passive_c: 攻撃の波・偶数3
+- name: タニア
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 41
+  attack: 42
+  speed: 37
+  defence: 25
+  resist: 28
+  weapon: シャイニングボウ+
+  assist: 献身
+  passive_b: すり抜け3
+  passive_c: 速さ魔防の紋章2
 - name: ラインハルト
   weapon_type: 青魔
   movement_type: 騎馬

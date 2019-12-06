@@ -391,3 +391,16 @@
   special: 月光
   passive_b: 編隊飛行3
   passive_c: 飛刃の紋章
+- name: ピアニー
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 43
+  attack: 45
+  speed: 36
+  defence: 16
+  resist: 27
+  weapon: 幸福の花
+  assist: やさしいゆめ
+  passive_a: 青の死闘・飛行3
+  passive_b: 曲技飛行3
+  passive_c: 魔防の鼓舞4

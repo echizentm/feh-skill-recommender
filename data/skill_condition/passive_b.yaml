@@ -154,6 +154,10 @@
 - name: 一撃離脱
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 杖]
+- name: 回避・一撃離脱3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]

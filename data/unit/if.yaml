@@ -849,12 +849,12 @@
 - name: ハロルド
   weapon_type: 斧
   movement_type: 歩行
-  hp: 43
-  attack: 44
+  hp: 48
+  attack: 48
   speed: 29
   defence: 30
   resist: 24
-  weapon: 深緑の斧+
+  weapon: ハロルドの雄斧
   assist: 入れ替え
   passive_a: HP3
   passive_b: 槍殺し3

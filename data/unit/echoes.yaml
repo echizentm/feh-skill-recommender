@@ -138,11 +138,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 45
-  attack: 48
+  attack: 49
   speed: 25
   defence: 35
   resist: 19
-  weapon: 銀の槍+
+  weapon: 華冑の槍
   special: 長盾
   passive_a: 守備3
   passive_b: 一撃離脱
@@ -297,11 +297,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 35
-  attack: 43
+  attack: 45
   speed: 32
   defence: 24
   resist: 34
-  weapon: ホースキラー+
+  weapon: 姫騎士の槍
   assist: 魔防の応援
   passive_b: 相性相殺3
   passive_c: 攻撃の鼓舞3
