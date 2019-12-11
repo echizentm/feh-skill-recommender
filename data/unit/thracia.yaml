@@ -199,3 +199,15 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 攻め立て3
   passive_c: 先導の伝令・天3
+- name: ケンプフ
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 42
+  attack: 46
+  speed: 33
+  defence: 30
+  resist: 31
+  weapon: 毒の剣
+  special: 聖盾
+  passive_a: 魔防の城塞3
+  passive_c: 死の吐息3
