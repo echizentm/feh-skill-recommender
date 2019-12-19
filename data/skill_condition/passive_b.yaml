@@ -34,6 +34,9 @@
 - name: 追撃隊形・奇数3
   allow:
     movement_type_list: [重装]
+- name: 急襲隊形3
+  allow:
+    movement_type_list: [重装]
 - name: 業火の舞い3
   deny:
     weapon_type_list: [杖]

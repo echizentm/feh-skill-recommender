@@ -35,6 +35,19 @@
   passive_a: 攻撃速さの絆3
   passive_b: 封印の盾
   passive_c: 歩行の柔撃3
+- name: マルス4
+  weapon_type: 弓
+  movement_type: 重装
+  hp: 42
+  attack: 50
+  speed: 44
+  defence: 30
+  resist: 25
+  weapon: タングリスニ
+  special: 炎の紋章
+  passive_a: 攻撃速さの密集3
+  passive_b: 急襲隊形3
+  passive_c: 速さの相互鼓舞
 - name: ジェイガン
   weapon_type: 槍
   movement_type: 騎馬
