@@ -208,6 +208,19 @@
   passive_a: 鬼神の一撃4
   passive_b: 獅子連斬
   passive_c: 攻撃の指揮3
+- name: セリカ4
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 41
+  defence: 18
+  resist: 28
+  weapon: 天聖エンジェル
+  special: 祈り
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: ソフィアの魂
+  passive_c: 攻撃速さの信義3
 - name: メイ
   weapon_type: 青魔
   movement_type: 歩行

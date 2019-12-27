@@ -263,3 +263,6 @@
 - name: 死んでほしいの
   allow:
     name_list: [スラシル]
+- name: ソフィアの魂
+  allow:
+    name_list: [セリカ4]
