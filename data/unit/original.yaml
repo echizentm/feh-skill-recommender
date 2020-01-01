@@ -22,6 +22,19 @@
   special: 夕陽
   passive_a: 鬼神金剛の一撃2
   passive_c: 守備の紫煙3
+- name: アルフォンス3
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 41
+  attack: 52
+  speed: 17
+  defence: 35
+  resist: 30
+  weapon: 神宿りの独楽
+  special: 開世
+  passive_a: 近距離反撃
+  passive_b: 奥義の螺旋3
+  passive_c: 守備魔防の信義3
 - name: シャロン
   weapon_type: 槍
   movement_type: 歩行
@@ -59,6 +72,18 @@
   special: 流星
   passive_b: 待ち伏せ3
   passive_c: 魔防の紋章3
+- name: アンナ2
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 40
+  attack: 46
+  speed: 40
+  defence: 16
+  resist: 37
+  weapon: 金運の弓+
+  assist: 守備魔防の応援+
+  passive_b: 攻撃の混乱3
+  passive_c: 攻撃速さの大開放3
 - name: ブルーノ
   weapon_type: 杖
   movement_type: 騎馬

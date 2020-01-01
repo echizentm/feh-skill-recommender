@@ -139,3 +139,6 @@
 - name: 双刃
   allow:
     name_list: [オルティナ]
+- name: 開世
+  allow:
+    name_list: [アルフォンス3]
