@@ -378,6 +378,18 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 生命の護符3
   passive_c: 生命の輝き
+- name: エイル2
+  weapon_type: 赤暗器
+  movement_type: 飛行
+  hp: 39
+  attack: 43
+  speed: 36
+  defence: 21
+  resist: 34
+  weapon: 手毬+
+  assist: 体当たり
+  passive_a: 攻撃魔防の大覚醒3
+  passive_c: 速さの指揮3
 - name: スラシル
   weapon_type: 緑魔
   movement_type: 歩行
