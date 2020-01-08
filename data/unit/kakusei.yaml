@@ -221,11 +221,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 40
-  attack: 43
-  speed: 30
+  attack: 45
+  speed: 33
   defence: 22
   resist: 25
-  weapon: 勇者の槍+
+  weapon: ティアモの愛槍
   special: 疾風迅雷
   passive_a: 相性激化3
   passive_b: すり抜け3
@@ -354,11 +354,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 45
-  attack: 34
+  attack: 37
   speed: 22
   defence: 32
   resist: 25
-  weapon: ラウアレイヴン+
+  weapon: 黒鴉の書
   special: 華炎
   passive_a: 守備の覚醒3
   passive_b: 緑魔殺し3

@@ -239,11 +239,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 37
-  attack: 42
+  attack: 43
   speed: 34
   defence: 21
   resist: 27
-  weapon: 銀の弓+
+  weapon: レベッカの猟弓
   assist: 献身
   passive_a: 飛燕の一撃3
   passive_b: 攻撃封じ3
