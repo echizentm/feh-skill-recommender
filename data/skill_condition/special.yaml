@@ -117,7 +117,7 @@
     name_list: [フィヨルム]
 - name: 剣姫の流星
   allow:
-    name_list: [アイラ]
+    name_list: [アイラ, ラクチェ]
 - name: 黒の月光
   allow:
     name_list: [漆黒の騎士, ゼルギウス]

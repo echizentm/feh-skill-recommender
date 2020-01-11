@@ -170,6 +170,32 @@
   assist: 速さの応援
   passive_a: HP3
   passive_b: 刺し違え3
+- name: ラクチェ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 52
+  speed: 40
+  defence: 30
+  resist: 25
+  weapon: ラクチェの流剣
+  special: 剣姫の流星
+  passive_a: 攻撃速さの孤軍3
+  passive_b: 回避・叩き込み3
+  passive_c: 恐慌の幻煙3
+- name: シャナン
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 43
+  attack: 54
+  speed: 39
+  defence: 37
+  resist: 18
+  weapon: バルムンク
+  special: 剣皇の流星
+  passive_a: 飛燕金剛の構え3
+  passive_b: 怒り3
+  passive_c: 速さの波・偶数3
 - name: ユリア
   weapon_type: 緑魔
   movement_type: 歩行
@@ -219,6 +245,30 @@
   assist: 踊る
   passive_b: 業火疾風の舞い2
   passive_c: 剣の技量3
+- name: セティ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 37
+  attack: 49
+  speed: 42
+  defence: 19
+  resist: 31
+  weapon: シレジアの風
+  special: 月光
+  passive_a: 早さ魔防の孤軍3
+  passive_c: 鼓動の幻煙3
+- name: アルテナ
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 45
+  attack: 53
+  speed: 25
+  defence: 42
+  resist: 20
+  weapon: 地槍ゲイボルグ
+  special: 血讐
+  passive_a: 鬼神金剛の構え2
+  passive_b: 差し違え3
 - name: ユリウス
   weapon_type: 赤魔
   movement_type: 歩行
