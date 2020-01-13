@@ -257,6 +257,18 @@
   special: 月光
   passive_a: 早さ魔防の孤軍3
   passive_c: 鼓動の幻煙3
+- name: トラバント
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 46
+  attack: 51
+  speed: 26
+  defence: 40
+  resist: 18
+  weapon: 銀の槍+
+  special: 華炎
+  passive_b: 待ち伏せ3
+  passive_c: 飛行の先導3
 - name: アルテナ
   weapon_type: 槍
   movement_type: 飛行
