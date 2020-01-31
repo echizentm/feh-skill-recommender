@@ -390,6 +390,19 @@
   assist: 体当たり
   passive_a: 攻撃魔防の大覚醒3
   passive_c: 速さの指揮3
+- name: リーヴ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 54
+  speed: 30
+  defence: 34
+  resist: 29
+  weapon: セクヴァベク
+  special: 開世
+  passive_a: 遠距離反撃
+  passive_b: 死者の帳尻を
+  passive_c: 始まりの鼓動3
 - name: スラシル
   weapon_type: 緑魔
   movement_type: 歩行

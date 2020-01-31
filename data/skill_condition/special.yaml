@@ -129,13 +129,13 @@
     name_list: [暁アイク]
 - name: 炎の紋章
   allow:
-    name_list: [マルス3]
+    name_list: [マルス3, マルス4]
 - name: 月光閃
   allow:
     name_list: [アルム2]
 - name: 天狼
   allow:
-    name_list: [ソティス]
+    name_list: [ソティス, ソティス2]
 - name: ノヴァの聖騎士
   allow:
     name_list: [リーフ2]
@@ -144,4 +144,4 @@
     name_list: [オルティナ]
 - name: 開世
   allow:
-    name_list: [アルフォンス3]
+    name_list: [アルフォンス3, リーヴ]
