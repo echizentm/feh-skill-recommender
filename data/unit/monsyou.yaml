@@ -184,11 +184,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 46
-  attack: 41
-  speed: 27
+  attack: 49
+  speed: 32
   defence: 30
   resist: 17
-  weapon: 勇者の斧+
+  weapon: デビルアクス
   assist: 引き戻し
   passive_b: 叩き込み
   passive_c: 攻撃の紋章3

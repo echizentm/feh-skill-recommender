@@ -657,11 +657,11 @@
   weapon_type: 青魔
   movement_type: 飛行
   hp: 37
-  attack: 46
+  attack: 48
   speed: 30
   defence: 16
   resist: 33
-  weapon: ブラーサーペント+
+  weapon: 父の戦術書
   special: 氷蒼
   passive_a: 鬼神明鏡の構え2
   passive_b: キャンセル3

@@ -186,11 +186,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 39
-  attack: 39
+  attack: 43
   speed: 31
   defence: 28
   resist: 24
-  weapon: 銀の暗器+
+  weapon: ジョーカーの食器
   assist: 魔防の応援
   passive_a: 守備3
   passive_b: 回復3
@@ -605,11 +605,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 44
-  attack: 50
+  attack: 51
   speed: 26
   defence: 30
   resist: 22
-  weapon: 銀の剣+
+  weapon: ラズワルドの舞剣
   special: 夕陽
   passive_b: 斧殺し3
   passive_c: 速さの鼓舞3
