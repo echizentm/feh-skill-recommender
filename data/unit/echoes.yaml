@@ -36,6 +36,19 @@
   passive_a: 覇神断竜剣
   passive_b: 守備の封印3
   passive_c: 攻撃速さの威嚇3
+- name: アルム4
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 51
+  speed: 43
+  defence: 32
+  resist: 25
+  weapon: 愛の祭器
+  special: 月光閃
+  passive_a: 強化増幅3
+  passive_b: 攻撃速さの凪3
+  passive_c: 速さ魔防の奮起3
 - name: ルカ
   weapon_type: 槍
   movement_type: 歩行
@@ -109,6 +122,19 @@
   special: 夕陽
   passive_b: 救援の行路3
   passive_c: 弓の経験3
+- name: エフィ2
+  weapon_type: 弓
+  movement_type: 重装
+  hp: 43
+  attack: 52
+  speed: 23
+  defence: 35
+  resist: 38
+  weapon: 愛情の花の弓+
+  special: 月虹
+  passive_a: 鬼神の一撃4
+  passive_b: 攻撃隊形3
+  passive_c: 重装の行軍3
 - name: シルク
   weapon_type: 杖
   movement_type: 歩行
@@ -122,6 +148,19 @@
   special: 業火大地の祝福+
   passive_b: 幻惑の杖3
   passive_c: 杖の経験3
+- name: シルク2
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 40
+  attack: 40
+  speed: 22
+  defence: 32
+  resist: 29
+  weapon: 友情の花の杖+
+  assist: セインツ+
+  special: 天照
+  passive_b: ご奉仕の喜び3
+  passive_c: 速さの開放3
 - name: クレア
   weapon_type: 槍
   movement_type: 飛行
@@ -379,6 +418,30 @@
   special: 氷華
   passive_a: 金剛明鏡の構え2
   passive_b: 攻撃の封印3
+- name: コンラート2
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 39
+  attack: 46
+  speed: 23
+  defence: 33
+  resist: 35
+  weapon: ブーケのステッキ+
+  assist: 献身
+  passive_a: 守備魔防の大覚醒3
+  passive_b: 救援の行路3
+- name: ルドルフ
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 46
+  attack: 59
+  speed: 21
+  defence: 41
+  resist: 29
+  weapon: 薔薇の槍
+  special: 緋炎
+  passive_b: 奥義隊形3
+  passive_c: 攻撃守備の威嚇3
 - name: ベルクト
   weapon_type: 槍
   movement_type: 騎馬

@@ -126,13 +126,13 @@
     name_list: [漆黒の騎士, ゼルギウス]
 - name: 蒼の天空
   allow:
-    name_list: [暁アイク]
+    name_list: [暁アイク, 蒼炎アイク3]
 - name: 炎の紋章
   allow:
     name_list: [マルス3, マルス4]
 - name: 月光閃
   allow:
-    name_list: [アルム2]
+    name_list: [アルム2, アルム4]
 - name: 天狼
   allow:
     name_list: [ソティス, ソティス2]
