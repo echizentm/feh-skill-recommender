@@ -109,6 +109,9 @@
 - name: 歌う
   allow:
     name_list: [アクア, アクア2, アクア3, アクア4, アクア5, シグレ, リュシオン, リアーネ]
+- name: 奏でる
+  allow:
+    name_list: [ニルス]
 - name: ユラリユルレリ
   allow:
     name_list: [アクア5]

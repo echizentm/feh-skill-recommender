@@ -125,6 +125,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [重装, 飛行]
+- name: 攻撃守備の大共謀3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [重装, 飛行]
 - name: 速さ守備の大共謀3
   deny:
     weapon_type_list: [杖]
@@ -147,6 +151,9 @@
   deny:
     movement_type_list: [重装, 飛行]
 - name: 速さ守備の凪3
+  deny:
+    movement_type_list: [重装, 飛行]
+- name: 鼓動の封緘・偶数3
   deny:
     movement_type_list: [重装, 飛行]
 - name: すり抜け3
@@ -176,6 +183,10 @@
     movement_type_list: [飛行]
 - name: 曲技飛行3
   allow:
+    movement_type_list: [飛行]
+- name: 天馬行空3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]
 - name: 怒り3
   deny:

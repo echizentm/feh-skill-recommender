@@ -199,6 +199,19 @@
   assist: 相互援助
   passive_b: 蛇毒3
   passive_c: 速さの鼓舞3
+- name: レイラ
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 40
+  attack: 57
+  speed: 51
+  defence: 18
+  resist: 21
+  weapon: 影身の暗器
+  assist: 攻撃速さの応援+
+  passive_a: 死線4
+  passive_b: 攻撃守備の大共謀3
+  passive_c: 攻撃の紫煙3
 - name: セーラ
   weapon_type: 杖
   movement_type: 歩行
@@ -320,6 +333,18 @@
   special: 氷華
   passive_b: 迎撃隊形3
   passive_c: 守備魔防の大開放3
+- name: ヒース
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 40
+  attack: 49
+  speed: 33
+  defence: 33
+  resist: 27
+  weapon: ホースキラー+
+  special: 竜穿
+  passive_a: 攻撃守備の渾身3
+  passive_b: 離脱の行路3
 - name: フィオーラ
   weapon_type: 剣
   movement_type: 飛行
@@ -332,6 +357,18 @@
   assist: 入れ替え
   passive_b: 速さ魔防の連携3
   passive_c: 攻撃の紫煙3
+- name: フィオーラ2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 38
+  attack: 49
+  speed: 41
+  defence: 24
+  resist: 40
+  weapon: キャンセルの槍+
+  special: 氷蒼
+  passive_a: 獅子奮迅3
+  passive_b: 天馬行空3
 - name: フロリーナ
   weapon_type: 槍
   movement_type: 飛行
@@ -380,6 +417,18 @@
   special: 竜裂
   passive_b: 怒り3
   passive_c: 速さの波・偶数3
+- name: ラス
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 41
+  attack: 45
+  speed: 35
+  defence: 23
+  resist: 24
+  weapon: キラーボウ鍛+
+  special: 凶星
+  passive_a: 速さ魔防の密集3
+  passive_c: 守備の紫煙3
 - name: ホークアイ
   weapon_type: 斧
   movement_type: 歩行
@@ -416,6 +465,19 @@
   assist: 踊る
   passive_b: 攻撃の封印3
   passive_c: 速さの大紋章2
+- name: ニルス
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 49
+  attack: 47
+  speed: 35
+  defence: 28
+  resist: 28
+  weapon: 氷晶のブレス
+  assist: 奏でる
+  passive_a: HP守備2
+  passive_b: 鼓動の封緘・偶数3
+  passive_c: 歩行の鼓動3
 - name: ロイド
   weapon_type: 剣
   movement_type: 歩行
