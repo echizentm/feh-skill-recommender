@@ -124,3 +124,6 @@
 - name: やさしいゆめ
   allow:
     name_list: [ピアニー]
+- name: 運命を変える！
+  allow:
+    name_list: [クロム5]

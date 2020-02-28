@@ -47,6 +47,19 @@
   passive_a: 獅子奮迅3
   passive_b: 守備の封印3
   passive_c: 剣の技量3
+- name: クロム5
+  weapon_type: 青弓
+  movement_type: 歩行
+  hp: 41
+  attack: 59
+  speed: 26
+  defence: 34
+  resist: 25
+  weapon: ランドグリーズ
+  assist: 運命を変える！
+  passive_a: 近距離反撃
+  passive_b: 攻撃守備の凪3
+  passive_c: 守備魔防の奮起3
 - name: 男ルフレ
   weapon_type: 青魔
   movement_type: 歩行
