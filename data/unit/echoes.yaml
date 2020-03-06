@@ -77,11 +77,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 43
-  attack: 49
+  attack: 51
   speed: 32
   defence: 30
   resist: 22
-  weapon: 斬馬刀+
+  weapon: グレイの飄剣
   assist: 入れ替え
   passive_a: 生命の疾風3
   passive_c: 剣の技量3
@@ -89,11 +89,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 46
-  attack: 48
+  attack: 50
   speed: 27
   defence: 33
   resist: 26
-  weapon: アーマーキラー鍛+
+  weapon: 雀躍の剣
   assist: 回り込み
   passive_a: 攻撃3
   passive_b: 速さ封じ3

@@ -52,11 +52,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 37
-  attack: 45
+  attack: 46
   speed: 27
   defence: 28
   resist: 38
-  weapon: 銀の槍+
+  weapon: 古強者の槍
   special: 聖盾
   passive_a: 獅子奮迅3
   passive_c: 騎盾の鼓舞
