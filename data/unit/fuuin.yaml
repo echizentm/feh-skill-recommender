@@ -241,6 +241,18 @@
   special: 復讐
   passive_b: 槍殺し3
   passive_c: 死の吐息3
+- name: ナーシェン2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 43
+  attack: 49
+  speed: 34
+  defence: 37
+  resist: 18
+  weapon: 黄金のフォーク+
+  special: 復讐
+  passive_b: 速さの封印3
+  passive_c: 槍の経験3
 - name: ティト
   weapon_type: 槍
   movement_type: 飛行
@@ -290,6 +302,18 @@
   assist: ぶちかまし
   passive_a: 獅子奮迅3
   passive_b: 刺し違え3
+- name: バアトル2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 46
+  attack: 54
+  speed: 26
+  defence: 35
+  resist: 25
+  weapon: 人参風の装飾+
+  assist: ぶちかまし
+  passive_b: 進軍阻止3
+  passive_c: 攻撃の波・奇数3
 - name: フィル
   weapon_type: 剣
   movement_type: 歩行
@@ -302,6 +326,18 @@
   special: 氷華
   passive_a: 速さ3
   passive_b: すり抜け3
+- name: フィル2
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 39
+  attack: 51
+  speed: 41
+  defence: 28
+  resist: 24
+  weapon: 白兎神の人参
+  assist: 一喝+
+  passive_a: 攻撃速さの孤軍3
+  passive_c: 先導の伝令・天3
 - name: ルトガー
   weapon_type: 剣
   movement_type: 歩行
@@ -389,6 +425,19 @@
   passive_a: 守備魔防の城塞3
   passive_b: 迎撃隊形3
   passive_c: 竜盾の紋章
+- name: イドゥン2
+  weapon_type: 赤竜
+  movement_type: 重装
+  hp: 46
+  attack: 53
+  speed: 26
+  defence: 37
+  resist: 41
+  weapon: 春風のブレス
+  special: 氷蒼
+  passive_a: 鬼神金剛の構え3
+  passive_b: 迎撃隊形3
+  passive_c: 竜刃の紋章
 - name: ララム
   weapon_type: 暗器
   movement_type: 歩行

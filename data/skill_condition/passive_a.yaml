@@ -63,6 +63,9 @@
 - name: 鬼神金剛の構え2
   deny:
     weapon_type_list: [杖]
+- name: 鬼神金剛の構え3
+  deny:
+    weapon_type_list: [杖]
 - name: 鬼神明鏡の構え2
   deny:
     weapon_type_list: [杖]
