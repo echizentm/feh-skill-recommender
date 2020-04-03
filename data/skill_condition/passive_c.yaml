@@ -224,3 +224,6 @@
 - name: 理想郷となるように
   allow:
     name_list: [エリウッド3]
+- name: 見通せぬ深き暗闇
+  allow:
+    name_list: [ブラミモンド]

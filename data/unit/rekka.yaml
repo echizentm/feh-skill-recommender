@@ -600,3 +600,16 @@
   special: 凶星
   passive_a: 飛燕明鏡の一撃2
   passive_c: 攻撃の指揮3
+- name: ブラミモンド
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 39
+  attack: 57
+  speed: 27
+  defence: 21
+  resist: 35
+  weapon: 絶無の書
+  special: 月光
+  passive_a: 攻撃守備の渾身4
+  passive_b: 攻撃魔防の凪3
+  passive_c: 見通せぬ深き暗闇
