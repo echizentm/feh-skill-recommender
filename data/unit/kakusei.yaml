@@ -282,11 +282,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 42
-  attack: 36
+  attack: 43
   speed: 36
   defence: 22
   resist: 19
-  weapon: 盗賊の暗器+
+  weapon: 砂糖菓子の暗器
   assist: 速さの応援
   passive_a: 攻撃の覚醒3
   passive_b: すり抜け3

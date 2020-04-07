@@ -530,11 +530,11 @@
   weapon_type: 青魔
   movement_type: 騎馬
   hp: 35
-  attack: 41
+  attack: 43
   speed: 32
   defence: 19
   resist: 30
-  weapon: ブラーウルフ鍛+
+  weapon: 蒼鴉の書
   special: 爆雷
   passive_a: 鬼神の一撃3
   passive_c: 魔防の威嚇3

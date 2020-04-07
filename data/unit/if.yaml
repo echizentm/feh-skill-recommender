@@ -149,11 +149,11 @@
   weapon_type: 斧
   movement_type: 騎馬
   hp: 43
-  attack: 47
+  attack: 48
   speed: 24
   defence: 33
   resist: 18
-  weapon: 銀の斧+
+  weapon: 老騎士の古斧
   assist: 一喝
   passive_a: 金剛の一撃3
   passive_c: 騎刃の鼓舞
