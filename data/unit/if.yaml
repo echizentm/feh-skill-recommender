@@ -206,6 +206,19 @@
   special: 華炎
   passive_a: 金剛明鏡の一撃2
   passive_b: 守備隊形3
+- name: リリス
+  weapon_type: 青竜
+  movement_type: 飛行
+  hp: 39
+  attack: 52
+  speed: 44
+  defence: 27
+  resist: 30
+  weapon: 星竜のブレス
+  assist: 引き戻し
+  passive_a: 攻撃速さの絆3
+  passive_b: 守備魔防の連携3
+  passive_c: 攻撃の相互大紋章
 - name: ミコト
   weapon_type: 杖
   movement_type: 歩行
@@ -528,6 +541,19 @@
   special: 氷蒼
   passive_b: 蛇毒3
   passive_c: 攻撃の紫煙3
+- name: リンカ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 50
+  speed: 39
+  defence: 41
+  resist: 18
+  weapon: リンカの鬼金棒
+  special: 緋炎
+  passive_a: 金剛の反撃・遠距離
+  passive_b: 怒り3
+  passive_c: 守備の波・偶数3
 - name: ニシキ
   weapon_type: 緑獣
   movement_type: 騎馬
@@ -980,6 +1006,18 @@
   special: 夕陽
   passive_a: 飛燕の構え3
   passive_c: 飛盾の紋章
+- name: ミドリコ
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 41
+  attack: 53
+  speed: 30
+  defence: 34
+  resist: 21
+  weapon: お大尽の弓+
+  assist: 攻撃守備の応援+
+  passive_a: 金剛の反撃・近距離
+  passive_b: 攻撃の封印
 - name: シノノメ
   weapon_type: 槍
   movement_type: 歩行
@@ -1042,6 +1080,19 @@
   special: 竜穿
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の指揮3
+- name: フォレオ
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 39
+  attack: 40
+  speed: 26
+  defence: 19
+  resist: 40
+  weapon: パニック+
+  assist: リブロー+
+  special: 天照
+  passive_a: 魔防の城塞3
+  passive_c: 魔防の謀策3
 - name: ベロア
   weapon_type: 獣
   movement_type: 歩行
