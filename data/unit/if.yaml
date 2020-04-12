@@ -920,6 +920,18 @@
   assist: ぶちかまし
   passive_a: 生命の疾風3
   passive_c: 攻撃の威嚇3
+- name: マクベス
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 46
+  attack: 54
+  speed: 27
+  defence: 23
+  resist: 35
+  weapon: マクベスの惑書
+  special: 烈風
+  passive_a: HP攻撃2
+  passive_c: 攻撃の開放3
 - name: フローラ
   weapon_type: 赤暗器
   movement_type: 歩行
