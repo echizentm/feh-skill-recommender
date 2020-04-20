@@ -48,6 +48,18 @@
   passive_a: 攻撃速さの密集3
   passive_b: 急襲隊形3
   passive_c: 速さの相互鼓舞
+- name: マルス5
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 52
+  speed: 40
+  defence: 32
+  resist: 26
+  weapon: レイピア
+  special: 英雄の血脈
+  passive_b: 守備の封印3
+  passive_c: 速さ守備の信義3
 - name: ジェイガン
   weapon_type: 槍
   movement_type: 騎馬
@@ -168,6 +180,19 @@
   special: 氷蒼
   passive_a: 攻撃魔防2
   passive_c: 速さの鼓舞3
+- name: シーダ3
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 36
+  attack: 52
+  speed: 42
+  defence: 25
+  resist: 30
+  weapon: フェザーソード
+  special: 月虹
+  passive_a: 遠距離反撃
+  passive_b: 愛を信じますか？
+  passive_c: 攻撃の相互鼓舞
 - name: オグマ
   weapon_type: 剣
   movement_type: 歩行
@@ -301,6 +326,19 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 罠解除3
   passive_c: 飛刃の鼓舞
+- name: パオラ3
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 40
+  attack: 58
+  speed: 31
+  defence: 33
+  resist: 24
+  weapon: 白き飛翔の槍
+  assist: 引き戻し
+  passive_a: 鬼神明鏡の瞬撃
+  passive_b: 攻撃速さの封印2
+  passive_c: 飛刃の紋章
 - name: 紋章カチュア
   weapon_type: 槍
   movement_type: 飛行
@@ -362,6 +400,19 @@
   special: 爆風
   passive_a: HP3
   passive_c: 魔防の紋章3
+- name: マリク2
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 41
+  attack: 48
+  speed: 41
+  defence: 21
+  resist: 25
+  weapon: 予兆の風
+  special: 聖風
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 風薙ぎ3
+  passive_c: 遠距離警戒3
 - name: ハーディン
   weapon_type: 槍
   movement_type: 重装

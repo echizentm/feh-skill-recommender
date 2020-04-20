@@ -293,3 +293,6 @@
 - name: 死者の帳尻を
   allow:
     name_list: [リーヴ]
+- name: 愛を信じますか？
+  allow:
+    name_list: [シーダ3]
