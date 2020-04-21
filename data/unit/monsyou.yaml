@@ -289,6 +289,18 @@
   special: 聖兜
   passive_a: 死線3
   passive_c: 飛盾の紋章
+- name: ミネルバ2
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 40
+  defence: 38
+  resist: 19
+  weapon: 赤い竜騎士の斧
+  special: 竜裂
+  passive_a: 赤い竜騎士の盾
+  passive_b: 編隊飛行3
 - name: マリア
   weapon_type: 杖
   movement_type: 歩行

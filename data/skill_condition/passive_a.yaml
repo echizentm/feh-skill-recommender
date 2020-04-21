@@ -213,3 +213,6 @@
 - name: 女神の三雄
   allow:
     name_list: [オルティナ]
+- name: 赤い竜騎士の盾
+  allow:
+    name_list: [ミネルバ2]
