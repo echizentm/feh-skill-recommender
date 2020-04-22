@@ -148,3 +148,6 @@
 - name: 英雄の血脈
   allow:
     name_list: [マルス5]
+- name: 聖風
+  allow:
+    name_list: [マリク2]
