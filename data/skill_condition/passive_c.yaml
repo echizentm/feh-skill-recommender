@@ -122,6 +122,10 @@
 - name: 重装の行軍3
   allow:
     movement_type_list: [重装]
+- name: 重装の遊撃3
+  allow:
+    movement_type_list: [重装]
+    weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
 - name: 空からの先導3
   allow:
     movement_type_list: [飛行]

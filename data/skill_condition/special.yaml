@@ -5,8 +5,8 @@
   deny:
     weapon_type_list: [杖]
 - name: 疾風迅雷
-  deny:
-    weapon_type_list: [杖]
+  allow:
+    weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
 - name: 月虹
   deny:
     weapon_type_list: [杖]

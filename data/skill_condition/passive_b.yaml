@@ -296,3 +296,6 @@
 - name: 愛を信じますか？
   allow:
     name_list: [シーダ3]
+- name: 狂嵐
+  allow:
+    name_list: [エーデルガルト2]
