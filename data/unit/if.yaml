@@ -35,6 +35,19 @@
   passive_a: 攻撃守備の絆3
   passive_b: 見切り・追撃効果3
   passive_c: 竜刃の鼓舞
+- name: 男カムイ4
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 42
+  attack: 54
+  speed: 41
+  defence: 33
+  resist: 26
+  weapon: 獣乱のブレス
+  special: 凶星
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 見切り・追撃効果3
+  passive_c: 速さ守備の奮起3
 - name: 女カムイ
   weapon_type: 青竜
   movement_type: 歩行

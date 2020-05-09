@@ -244,6 +244,18 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 攻撃の封印3
   passive_c: 飛盾の鼓舞
+- name: アシュナード
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 43
+  attack: 53
+  speed: 21
+  defence: 38
+  resist: 31
+  weapon: グルグラント
+  special: 竜穿
+  passive_a: 遠距離防御3
+  passive_c: 攻撃の波・偶数3
 - name: 漆黒の騎士
   weapon_type: 剣
   movement_type: 重装

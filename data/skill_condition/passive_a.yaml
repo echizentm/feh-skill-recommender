@@ -85,6 +85,10 @@
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
     movement_type_list: [騎馬, 飛行]
+- name: 飛燕の呼吸
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+    movement_type_list: [騎馬, 飛行]
 - name: 金剛の呼吸
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]

@@ -75,6 +75,19 @@
   passive_a: 明鏡の呼吸
   passive_b: 攻撃守備封じ2
   passive_c: 守備の指揮3
+- name: 暁アイク2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 51
+  speed: 42
+  defence: 32
+  resist: 23
+  weapon: 混沌ラグネル
+  special: 暴の天空
+  passive_a: 飛燕の呼吸
+  passive_b: 回避・叩き込み3
+  passive_c: 攻撃速さの信義3
 - name: 暁エリンシア
   weapon_type: 緑暗器
   movement_type: 歩行
