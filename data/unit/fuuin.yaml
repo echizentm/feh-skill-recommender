@@ -100,11 +100,11 @@
   weapon_type: 槍
   movement_type: 重装
   hp: 49
-  attack: 44
+  attack: 46
   speed: 24
   defence: 38
   resist: 28
-  weapon: キラーランス鍛+
+  weapon: 重騎士の重槍
   special: 長盾
   passive_b: 引き込み
   passive_c: 重刃の鼓舞
@@ -233,11 +233,11 @@
   weapon_type: 斧
   movement_type: 飛行
   hp: 42
-  attack: 41
+  attack: 45
   speed: 29
   defence: 32
   resist: 26
-  weapon: 深緑の斧+
+  weapon: ルーンアクス
   special: 復讐
   passive_b: 槍殺し3
   passive_c: 死の吐息3

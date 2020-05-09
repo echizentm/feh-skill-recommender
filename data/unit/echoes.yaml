@@ -337,11 +337,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 39
-  attack: 46
+  attack: 48
   speed: 30
   defence: 30
   resist: 15
-  weapon: キラーボウ鍛+
+  weapon: 佳麗の弓
   special: 華炎
   passive_a: 速さ3
   passive_b: キャンセル3
