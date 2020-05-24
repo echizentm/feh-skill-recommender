@@ -156,6 +156,9 @@
 - name: 速さ魔防の凪3
   deny:
     movement_type_list: [重装, 飛行]
+- name: 鼓動の封緘・奇数3
+  deny:
+    movement_type_list: [重装, 飛行]
 - name: 鼓動の封緘・偶数3
   deny:
     movement_type_list: [重装, 飛行]

@@ -37,6 +37,19 @@
   passive_a: 攻撃魔防の絆4
   passive_b: ユンヌの囁き
   passive_c: 先導の伝令・地3
+- name: ミカヤ4
+  weapon_type: 魔
+  movement_type: 飛行
+  hp: 39
+  attack: 56
+  speed: 20
+  defence: 19
+  resist: 38
+  weapon: 幸せの誓約
+  assist: 癒しの手
+  passive_a: 攻撃魔防の渾身4
+  passive_b: 生命の護符3
+  passive_c: 攻撃魔防の信義3
 - name: サザ
   weapon_type: 暗器
   movement_type: 歩行
@@ -175,6 +188,18 @@
   passive_a: 鬼神金剛の瞬撃
   passive_b: 攻撃の封印3
   passive_c: 攻撃の波・偶数3
+- name: ラフィエル
+  weapon_type: 青獣
+  movement_type: 歩行
+  hp: 38
+  attack: 42
+  speed: 35
+  defence: 20
+  resist: 44
+  weapon: 白鷺花婿の翼
+  assist: 歌う
+  passive_b: 業火疾風の舞い2
+  passive_c: 獣盾の紋章
 - name: リュシオン
   weapon_type: 緑獣
   movement_type: 飛行
@@ -224,6 +249,19 @@
   special: 月虹
   passive_a: 遠距離反撃
   passive_b: 見切り・反撃不可3
+  passive_c: 邪眼
+- name: ニケ2
+  weapon_type: 緑獣
+  movement_type: 歩行
+  hp: 40
+  attack: 49
+  speed: 41
+  defence: 31
+  resist: 25
+  weapon: 狼花嫁の牙
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 速さ守備の封印2
   passive_c: 邪眼
 - name: オルティナ
   weapon_type: 剣

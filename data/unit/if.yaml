@@ -468,6 +468,18 @@
   special: 大盾
   passive_a: 獅子奮迅3
   passive_b: 刺し違え3
+- name: ヒナタ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 47
+  attack: 51
+  speed: 27
+  defence: 40
+  resist: 21
+  weapon: 大きな扇子+
+  assist: 相互援助
+  passive_a: 攻撃守備の絆3
+  passive_c: 近距離警戒3
 - name: オボロ
   weapon_type: 槍
   movement_type: 歩行
@@ -480,6 +492,18 @@
   assist: 守備の応援
   passive_b: 守備封じ3
   passive_c: 魔防の威嚇3
+- name: オボロ2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 53
+  speed: 35
+  defence: 40
+  resist: 16
+  weapon: 花嫁の護刀+
+  assist: 攻撃魔防の応援+
+  passive_a: 攻撃守備の密集3
+  passive_b: 鼓動の封緘・奇数3
 - name: サクラ
   weapon_type: 杖
   movement_type: 歩行
