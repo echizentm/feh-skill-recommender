@@ -81,6 +81,9 @@
 - name: 金剛明鏡の構え2
   deny:
     weapon_type_list: [杖]
+- name: 金剛明鏡の構え3
+  deny:
+    weapon_type_list: [杖]
 - name: 鬼神の呼吸
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]

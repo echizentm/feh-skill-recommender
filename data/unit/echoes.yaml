@@ -503,3 +503,16 @@
   passive_a: 守備魔防の孤軍3
   passive_b: 攻撃隊形3
   passive_c: メガクェイク
+- name: ミラ
+  weapon_type: 竜
+  movement_type: 歩行
+  hp: 41
+  attack: 53
+  speed: 17
+  defence: 43
+  resist: 37
+  weapon: 大地母神のブレス
+  assist: 守備魔防の応援+
+  passive_a: 金剛明鏡の構え3
+  passive_b: 攻撃の混乱3
+  passive_c: ミラの歯車
