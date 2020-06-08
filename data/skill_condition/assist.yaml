@@ -127,3 +127,6 @@
 - name: 運命を変える！
   allow:
     name_list: [クロム5]
+- name: しろいゆめ
+  allow:
+    name_list: [ルピナス]

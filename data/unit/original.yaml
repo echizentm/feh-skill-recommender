@@ -60,7 +60,7 @@
   passive_a: 飛燕明鏡の構え2
   passive_b: 豊穣の喜び
   passive_c: 魔防の指揮3
-- name: アンナ
+- name: オリジナルアンナ
   weapon_type: 斧
   movement_type: 歩行
   hp: 41
@@ -72,7 +72,7 @@
   special: 流星
   passive_b: 待ち伏せ3
   passive_c: 魔防の紋章3
-- name: アンナ2
+- name: オリジナルアンナ2
   weapon_type: 赤弓
   movement_type: 歩行
   hp: 40
@@ -454,3 +454,16 @@
   passive_a: 青の死闘・飛行3
   passive_b: 曲技飛行3
   passive_c: 魔防の鼓舞4
+- name: ルピナス
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 38
+  attack: 48
+  speed: 18
+  defence: 38
+  resist: 44
+  weapon: 微睡の花の剣
+  assist: しろいゆめ
+  passive_a: 守備魔防の城塞3
+  passive_b: 守備の混乱3
+  passive_c: 守備魔防の大開放3

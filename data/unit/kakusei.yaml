@@ -157,6 +157,18 @@
   special: 緋炎
   passive_b: 攻撃隊形3
   passive_c: 重盾の鼓舞
+- name: エメリナ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 43
+  attack: 44
+  speed: 34
+  defence: 23
+  resist: 30
+  weapon: フィアー+
+  assist: リバース+
+  special: 祈り
+  passive_c: 魔防の開放3
 - name: フレデリク
   weapon_type: 斧
   movement_type: 騎馬
@@ -363,6 +375,18 @@
   passive_a: 金剛明鏡の構え2
   passive_b: 速さの封印3
   passive_c: 空からの先導3
+- name: ギャンレル
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 45
+  attack: 46
+  speed: 38
+  defence: 24
+  resist: 30
+  weapon: サンダーダガー
+  special: 氷華
+  passive_b: 攻撃の封印3
+  passive_c: 恐慌の奇策3
 - name: ヘンリー
   weapon_type: 赤魔
   movement_type: 歩行
@@ -424,6 +448,18 @@
   assist: 攻撃速さの応援
   passive_a: 攻撃速さの絆3
   passive_b: 速さの共謀3
+- name: ムスタファー
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 45
+  attack: 52
+  speed: 25
+  defence: 36
+  resist: 28
+  weapon: バリアの斧+
+  special: 緋炎
+  passive_a: 生命の静水3
+  passive_c: 守備の指揮3
 - name: インバース
   weapon_type: 赤魔
   movement_type: 飛行
@@ -448,6 +484,18 @@
   special: 月光
   passive_a: グラニの盾
   passive_b: 守備の封印3
+- name: サイリ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 51
+  speed: 40
+  defence: 23
+  resist: 34
+  weapon: アマツ
+  special: 氷蒼
+  passive_a: 鬼神飛燕の構え3
+  passive_b: 回避・一撃離脱3
 - name: ヴィオール
   weapon_type: 弓
   movement_type: 歩行
@@ -533,6 +581,19 @@
   special: 流星
   passive_b: 速さの封印3
   passive_c: 守備の紫煙3
+- name: 覚醒アンナ
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 38
+  attack: 51
+  speed: 43
+  defence: 28
+  resist: 31
+  weapon: 裏の五連闘の宝槍
+  assist: 攻撃速さの応援+
+  passive_a: 攻撃速さの密集3
+  passive_b: 攻撃速さの大共謀3
+  passive_c: 速さの相互大紋章
 - name: ルキナ
   weapon_type: 剣
   movement_type: 歩行
