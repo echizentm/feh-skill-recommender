@@ -318,11 +318,11 @@
   weapon_type: 槍
   movement_type: 歩行
   hp: 48
-  attack: 43
+  attack: 46
   speed: 24
   defence: 32
   resist: 23
-  weapon: 勇者の槍+
+  weapon: ドニの朴槍
   assist: 相互援助
   passive_a: HP3
   passive_b: 引き込み
