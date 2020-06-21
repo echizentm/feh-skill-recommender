@@ -137,6 +137,18 @@
   assist: 攻撃魔防の応援
   passive_a: HP魔防2
   passive_c: 魔防の謀策3
+- name: ルーテ2
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 37
+  attack: 47
+  speed: 34
+  defence: 17
+  resist: 32
+  weapon: 植物図鑑+
+  assist: 入れ替え
+  passive_b: 速さ魔防封じ2
+  passive_c: 速さの指揮3
 - name: ロス
   weapon_type: 斧
   movement_type: 歩行
@@ -223,6 +235,18 @@
   passive_a: 強化増幅3
   passive_b: 見切り・反撃不可3
   passive_c: 攻撃魔防の奮起3
+- name: セライナ
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 36
+  attack: 54
+  speed: 37
+  defence: 17
+  resist: 23
+  weapon: 楽園の果汁
+  assist: 引き寄せ
+  passive_a: 攻撃速さの渾身4
+  passive_b: 速さ魔防の干渉3
 - name: ヴァルター
   weapon_type: 槍
   movement_type: 飛行
@@ -271,6 +295,18 @@
   special: 月虹
   passive_a: 近距離防御3
   passive_b: 風薙ぎ3
+- name: ヨシュア2
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 40
+  attack: 48
+  speed: 39
+  defence: 28
+  resist: 24
+  weapon: サンゴの弓+
+  assist: 体当たり
+  passive_b: 攻撃速さの連携3
+  passive_c: 守備の鼓舞4
 - name: ジスト
   weapon_type: 斧
   movement_type: 歩行

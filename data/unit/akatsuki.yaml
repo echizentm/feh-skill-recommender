@@ -62,6 +62,19 @@
   special: 凶星
   passive_a: 死線3
   passive_c: 攻撃速さの紋章2
+- name: キルロイ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 44
+  attack: 46
+  speed: 27
+  defence: 21
+  resist: 36
+  weapon: ヤシの木の杖+
+  assist: リブロー+
+  special: 天照
+  passive_a: 攻撃魔防の大覚醒3
+  passive_c: 魔防の大紋章2
 - name: 暁ワユ
   weapon_type: 杖
   movement_type: 飛行
@@ -75,6 +88,19 @@
   special: 天照
   passive_a: 速さ魔防の絆3
   passive_c: 飛刃の鼓舞
+- name: 暁ワユ2
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 38
+  attack: 49
+  speed: 41
+  defence: 17
+  resist: 25
+  weapon: 一夏の神宝
+  assist: 引き戻し
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 速さ守備の干渉3
+  passive_c: 攻撃速さの大開放3
 - name: 暁アイク
   weapon_type: 剣
   movement_type: 歩行
