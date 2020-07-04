@@ -314,3 +314,6 @@
 - name: 狂嵐
   allow:
     name_list: [エーデルガルト2]
+- name: 最後の聖戦
+  allow:
+    name_list: [セリス2]

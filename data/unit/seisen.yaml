@@ -170,6 +170,19 @@
   assist: 速さの応援
   passive_a: HP3
   passive_b: 刺し違え3
+- name: セリス2
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 57
+  speed: 17
+  defence: 37
+  resist: 29
+  weapon: 至聖ティルフィング
+  special: 華炎
+  passive_a: 遠距離反撃
+  passive_b: 最後の聖戦
+  passive_c: 守備の相互鼓舞
 - name: ラクチェ
   weapon_type: 剣
   movement_type: 歩行
