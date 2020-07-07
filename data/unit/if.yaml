@@ -52,11 +52,11 @@
   weapon_type: 青竜
   movement_type: 歩行
   hp: 41
-  attack: 40
+  attack: 43
   speed: 34
   defence: 34
   resist: 21
-  weapon: 闇のブレス+
+  weapon: 冥輝のブレス
   special: 竜裂
   passive_b: 魔防封じ3
   passive_c: 攻撃の鼓舞3

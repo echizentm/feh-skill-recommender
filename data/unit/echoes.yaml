@@ -446,11 +446,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 43
-  attack: 48
+  attack: 50
   speed: 22
   defence: 31
   resist: 24
-  weapon: ベルクトの槍+
+  weapon: 黒皇子の槍
   special: 烈火
   passive_a: 生命の静水3
   passive_c: 騎盾の紋章

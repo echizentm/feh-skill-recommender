@@ -465,11 +465,11 @@
   weapon_type: 斧
   movement_type: 重装
   hp: 45
-  attack: 44
+  attack: 46
   speed: 25
   defence: 36
   resist: 33
-  weapon: キラーアクス鍛+
+  weapon: 紅姫の斧
   special: 長盾
   passive_a: スヴェルの盾
   passive_c: 重盾の鼓舞
