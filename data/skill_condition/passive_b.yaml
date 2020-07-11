@@ -67,6 +67,9 @@
 - name: 大地静水の舞い2
   deny:
     weapon_type_list: [杖]
+- name: 攻撃の魅了3
+  deny:
+    weapon_type_list: [杖]
 - name: 攻撃封じ3
   deny:
     weapon_type_list: [杖]
@@ -203,6 +206,10 @@
   allow:
     movement_type_list: [飛行]
 - name: 天馬行空3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [飛行]
+- name: 警戒姿勢3
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]

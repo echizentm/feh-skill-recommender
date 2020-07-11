@@ -24,6 +24,19 @@
   passive_a: 獅子奮迅4
   passive_b: 怒り3
   passive_c: 攻撃の波・偶数3
+- name: ベレス2
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 40
+  attack: 50
+  speed: 42
+  defence: 16
+  resist: 21
+  weapon: 盛夏の神宝
+  special: 破天
+  passive_a: 攻撃速さの渾身4
+  passive_b: 速さ魔防の封印2
+  passive_c: 先導の伝令・地3
 - name: ソティス
   weapon_type: 赤竜
   movement_type: 歩行
@@ -113,6 +126,18 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ守備の凪3
   passive_c: 近距離警戒3
+- name: ドロテア
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 49
+  speed: 36
+  defence: 16
+  resist: 30
+  weapon: 花の髪飾り+
+  assist: 踊る
+  passive_b: 攻撃の魅了3
+  passive_c: 攻撃の鼓舞4
 - name: ペトラ
   weapon_type: 青暗器
   movement_type: 飛行
@@ -138,6 +163,18 @@
   special: 復讐
   passive_a: 鬼神の一撃4
   passive_b: 攻撃守備の凪3
+- name: シルヴァン
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 42
+  attack: 44
+  speed: 35
+  defence: 27
+  resist: 16
+  weapon: メロンフロート+
+  assist: 引き寄せ
+  passive_b: 魔防の封印3
+  passive_c: 攻撃守備の奮起3
 - name: メルセデス
   weapon_type: 杖
   movement_type: 歩行
@@ -163,6 +200,19 @@
   assist: 攻撃速さの応援+
   passive_b: 守備魔防の大共謀3
   passive_c: 攻撃守備の大開放3
+- name: イングリット
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 39
+  attack: 50
+  speed: 42
+  defence: 25
+  resist: 26
+  weapon: 海角の星槍
+  special: 月虹
+  passive_a: 鬼神金剛の瞬撃
+  passive_b: 警戒姿勢3
+  passive_c: 速さの波・奇数3
 - name: クロード
   weapon_type: 弓
   movement_type: 騎馬
@@ -175,6 +225,18 @@
   special: 凶星
   passive_b: 速さ守備の凪3
   passive_c: 守備の紫煙3
+- name: ローレンツ
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 45
+  attack: 44
+  speed: 31
+  defence: 25
+  resist: 29
+  weapon: ほら貝のブーケ+
+  assist: 回り込み
+  passive_a: 生命の業火3
+  passive_c: 魔防の波・偶数3
 - name: リシテア
   weapon_type: 赤魔
   movement_type: 歩行
