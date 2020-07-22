@@ -199,6 +199,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 回避・怒り3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]

@@ -60,6 +60,32 @@
   special: 英雄の血脈
   passive_b: 守備の封印3
   passive_c: 速さ守備の信義3
+- name: 男クリス
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 44
+  attack: 53
+  speed: 42
+  defence: 30
+  resist: 25
+  weapon: 影の英雄の剣
+  special: 夕陽
+  passive_a: HP速さ2
+  passive_b: 回避・怒り3
+  passive_c: 攻撃の相互大紋章
+- name: 女クリス
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 57
+  speed: 44
+  defence: 34
+  resist: 29
+  weapon: 影の英雄の槍
+  special: 月虹
+  passive_a: 獅子奮迅4
+  passive_b: 回避・怒り3
+  passive_c: 速さ魔防の奮起3
 - name: ジェイガン
   weapon_type: 槍
   movement_type: 騎馬
@@ -400,6 +426,31 @@
   passive_a: 獅子奮迅4
   passive_b: 攻撃魔防の封印2
   passive_c: 飛刃の鼓舞
+- name: ジュリアン
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 40
+  attack: 50
+  speed: 38
+  defence: 33
+  resist: 18
+  weapon: 騎殺の暗器+
+  special: 月虹
+  passive_a: 金剛の反撃・近距離
+  passive_b: 攻撃速さの凪3
+- name: レナ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 40
+  attack: 42
+  speed: 29
+  defence: 26
+  resist: 39
+  weapon: グラビティ+
+  assist: リカバー+
+  special: 天照
+  passive_a: 守備魔防2
+  passive_c: 攻撃の謀策3
 - name: マリク
   weapon_type: 緑魔
   movement_type: 歩行
@@ -549,6 +600,19 @@
   special: 竜穿
   passive_a: 鬼神の構え3
   passive_c: 死の吐息3
+- name: エレミヤ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 44
+  attack: 43
+  speed: 35
+  defence: 23
+  resist: 27
+  weapon: パニック+
+  assist: リブロー+
+  special: 祈り
+  passive_a: 攻撃魔防の渾身3
+  passive_c: 遠距離警戒3
 - name: カタリナ
   weapon_type: 赤魔
   movement_type: 歩行
