@@ -365,6 +365,19 @@
   assist: 攻撃守備の応援+
   passive_a: 赤の死闘・歩行3
   passive_c: 恐慌の奇策3
+- name: ヘル
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 54
+  speed: 41
+  defence: 30
+  resist: 18
+  weapon: 死鎌ヘル
+  special: 月光
+  passive_a: 遠距離反撃
+  passive_b: 警戒姿勢3
+  passive_c: 死からは逃れられぬ
 - name: エイル
   weapon_type: 暗器
   movement_type: 飛行

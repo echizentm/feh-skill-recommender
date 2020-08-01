@@ -240,3 +240,6 @@
 - name: ミラの歯車
   allow:
     name_list: [ミラ]
+- name: 死からは逃れられぬ
+  allow:
+    name_list: [ヘル]
