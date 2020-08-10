@@ -22,10 +22,6 @@
 - name: 鬼神飛燕の一撃3
   deny:
     weapon_type_list: [杖]
-- name: 鬼神飛燕の瞬撃
-  deny:
-    weapon_type_list: [杖]
-    movement_type_list: [騎馬, 重装]
 - name: 鬼神金剛の一撃2
   deny:
     weapon_type_list: [杖]
@@ -43,6 +39,10 @@
 - name: 飛燕金剛の一撃2
   deny:
     weapon_type_list: [杖]
+- name: 飛燕金剛の瞬撃
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 重装]
 - name: 飛燕明鏡の一撃2
   deny:
     weapon_type_list: [杖]
