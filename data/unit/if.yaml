@@ -400,11 +400,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 38
-  attack: 40
+  attack: 42
   speed: 37
   defence: 22
   resist: 23
-  weapon: 遠距離防御の弓+
+  weapon: セツナの緩弓
   assist: 相互援助
   passive_a: HP3
   passive_b: 弓殺し3

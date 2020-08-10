@@ -214,6 +214,19 @@
   passive_a: 鬼神金剛の瞬撃
   passive_b: 攻撃の封印3
   passive_c: 攻撃の波・偶数3
+- name: ティバーン2
+  weapon_type: 獣
+  movement_type: 飛行
+  hp: 42
+  attack: 55
+  speed: 30
+  defence: 36
+  resist: 18
+  weapon: 天空の海賊の嘴爪
+  special: 疾風迅雷
+  passive_a: 剛剣4
+  passive_b: 空からの急襲3
+  passive_c: 攻撃の紫煙3
 - name: ラフィエル
   weapon_type: 青獣
   movement_type: 歩行

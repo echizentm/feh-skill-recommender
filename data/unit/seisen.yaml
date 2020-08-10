@@ -23,6 +23,18 @@
   special: 大盾
   passive_b: 追撃リング
   passive_c: 守備の大紋章2
+- name: ブリギッド
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 41
+  attack: 49
+  speed: 40
+  defence: 30
+  resist: 19
+  weapon: 舵の弓+
+  assist: 一喝+
+  passive_a: 飛燕金剛の瞬撃
+  passive_c: 鼓動の幻煙3
 - name: アルヴィス
   weapon_type: 赤魔
   movement_type: 歩行

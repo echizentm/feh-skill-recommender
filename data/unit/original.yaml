@@ -122,6 +122,19 @@
   special: 凶星
   passive_a: 緑の死闘・飛行3
   passive_b: 魔防の封印3
+- name: ヴェロニカ3
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 38
+  attack: 55
+  speed: 19
+  defence: 36
+  resist: 29
+  weapon: 波閉ざす錨の斧
+  special: 緋炎
+  passive_a: 攻撃守備の孤軍4
+  passive_b: 攻撃守備の凪3
+  passive_c: 攻撃守備の大開放3
 - name: フィヨルム
   weapon_type: 槍
   movement_type: 歩行

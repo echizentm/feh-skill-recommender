@@ -243,6 +243,18 @@
   assist: 引き戻し
   passive_b: 叩き込み
   passive_c: 攻撃の紋章3
+- name: ダロス
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 46
+  attack: 50
+  speed: 32
+  defence: 37
+  resist: 21
+  weapon: デッキブラシ+
+  assist: 体当たり
+  passive_a: 生命の大地3
+  passive_c: 守備の波・奇数3
 - name: リンダ
   weapon_type: 青魔
   movement_type: 歩行
@@ -641,11 +653,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 46
-  attack: 53
+  attack: 55
   speed: 38
   defence: 25
   resist: 21
-  weapon: ローローの斧+
+  weapon: 笑面の斧
   special: 血讐
   passive_a: 獅子奮迅3
   passive_b: 進軍阻止3

@@ -217,6 +217,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]
+- name: 空からの急襲3
+  allow:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [飛行]
 - name: 怒り3
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
