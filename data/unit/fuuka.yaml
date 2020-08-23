@@ -89,6 +89,19 @@
   passive_a: 攻撃魔防の孤軍3
   passive_b: 狂嵐
   passive_c: 重装の遊撃3
+- name: エーデルガルト3
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 46
+  attack: 61
+  speed: 16
+  defence: 43
+  resist: 35
+  weapon: 紅花オートクレール
+  special: 夕陽
+  passive_a: 明鏡の反撃・遠距離
+  passive_b: 黒鷲の覇王
+  passive_c: 魔防の相互大紋章
 - name: ヒューベルト
   weapon_type: 赤魔
   movement_type: 歩行
@@ -163,6 +176,19 @@
   special: 復讐
   passive_a: 鬼神の一撃4
   passive_b: 攻撃守備の凪3
+- name: ディミトリ2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 41
+  attack: 56
+  speed: 36
+  defence: 40
+  resist: 19
+  weapon: 蒼月グラディウス
+  special: 夕陽
+  passive_a: 攻撃守備の連帯
+  passive_b: 蒼き獅子王
+  passive_c: 攻撃の相互鼓舞
 - name: シルヴァン
   weapon_type: 緑魔
   movement_type: 騎馬
@@ -225,6 +251,19 @@
   special: 凶星
   passive_b: 速さ守備の凪3
   passive_c: 守備の紫煙3
+- name: クロード2
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 42
+  attack: 54
+  speed: 44
+  defence: 27
+  resist: 29
+  weapon: 翠風パルティア
+  special: 月虹
+  passive_a: 獅子奮迅4
+  passive_b: 速さ守備の封印2
+  passive_c: 攻撃速さの牽制3
 - name: ローレンツ
   weapon_type: 赤魔
   movement_type: 歩行
@@ -250,6 +289,19 @@
   passive_a: 鬼神の一撃4
   passive_b: 速さ魔防の凪3
   passive_c: 始まりの鼓動3
+- name: リシテア2
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 40
+  attack: 54
+  speed: 42
+  defence: 21
+  resist: 25
+  weapon: ダークスパイクΤ
+  special: 月虹
+  passive_a: 攻撃速さの渾身4
+  passive_b: 速さ魔防の凪3
+  passive_c: 速さの鼓舞4
 - name: ヒルダ
   weapon_type: 斧
   movement_type: 歩行

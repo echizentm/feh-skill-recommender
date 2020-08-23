@@ -101,6 +101,18 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 速さ守備の干渉3
   passive_c: 攻撃速さの大開放3
+- name: ジョージ
+  weapon_type: 青弓
+  movement_type: 歩行
+  hp: 45
+  attack: 50
+  speed: 27
+  defence: 35
+  resist: 29
+  weapon: ダニエルの錬弓
+  special: 華炎
+  passive_b: 守備の封印3
+  passive_c: 攻撃の開放3
 - name: 暁アイク
   weapon_type: 剣
   movement_type: 歩行

@@ -141,6 +141,9 @@
 - name: 先導の伝令・地3
   allow:
     movement_type_list: [飛行]
+- name: 攻撃速さの牽制3
+  allow:
+    movement_type_list: [飛行]
 - name: 剣の技量3
   allow:
     weapon_type_list: [剣]

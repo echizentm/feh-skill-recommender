@@ -332,3 +332,9 @@
 - name: 最後の聖戦
   allow:
     name_list: [セリス2]
+- name: 黒鷲の覇王
+  allow:
+    name_list: [エーデルガルト3]
+- name: 蒼き獅子王
+  allow:
+    name_list: [ディミトリ2]
