@@ -154,3 +154,6 @@
 - name: 聖風
   allow:
     name_list: [マリク2]
+- name: 反竜穿
+  allow:
+    name_list: [女カムイ5]
