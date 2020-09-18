@@ -1,6 +1,9 @@
 - name: 凶星
   deny:
     weapon_type_list: [杖]
+- name: 狙撃
+  allow:
+    weapon_type_list: [弓, 赤弓, 青弓, 緑弓]
 - name: 流星
   deny:
     weapon_type_list: [杖]
@@ -32,6 +35,9 @@
   deny:
     weapon_type_list: [杖]
 - name: 緋炎
+  deny:
+    weapon_type_list: [杖]
+- name: ブルーフレイム
   deny:
     weapon_type_list: [杖]
 - name: 華炎

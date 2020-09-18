@@ -147,6 +147,31 @@
   assist: 体当たり
   passive_b: 攻め立て3
   passive_c: 速さの波・奇数3
+- name: シノン
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 42
+  defence: 27
+  resist: 24
+  weapon: バルフレチェ
+  special: 狙撃
+  passive_a: 攻撃守備の孤軍4
+  passive_b: 攻撃速さの凪3
+  passive_c: 始まりの鼓動3
+- name: ガトリー
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 47
+  attack: 54
+  speed: 17
+  defence: 50
+  resist: 41
+  weapon: 士気旺盛の槍+
+  special: 月虹
+  passive_a: 守備魔防の城塞3
+  passive_b: 抑止隊形3
 - name: 蒼炎ワユ
   weapon_type: 剣
   movement_type: 歩行
@@ -244,6 +269,19 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 攻撃の封印3
   passive_c: 飛盾の鼓舞
+- name: ジル
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 40
+  defence: 36
+  resist: 17
+  weapon: ダルレカの激斧
+  special: 月虹
+  passive_a: 攻撃速さの渾身4
+  passive_b: 攻撃速さの封印2
+  passive_c: 速さ守備の牽制3
 - name: アシュナード
   weapon_type: 剣
   movement_type: 飛行
@@ -280,3 +318,15 @@
   special: 氷蒼
   passive_b: 攻撃隊形3
   passive_c: 攻撃魔防の大開放3
+- name: イレース2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 39
+  attack: 50
+  speed: 32
+  defence: 17
+  resist: 40
+  weapon: ブラーフォックス+
+  special: 氷蒼
+  passive_a: 鬼神明鏡の一撃2
+  passive_c: 魔防の謀策3

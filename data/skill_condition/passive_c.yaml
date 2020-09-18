@@ -144,6 +144,9 @@
 - name: 攻撃速さの牽制3
   allow:
     movement_type_list: [飛行]
+- name: 速さ守備の牽制3
+  allow:
+    movement_type_list: [飛行]
 - name: 剣の技量3
   allow:
     weapon_type_list: [剣]
