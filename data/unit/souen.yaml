@@ -306,6 +306,18 @@
   special: 黒の月光
   passive_a: 金剛の構え3
   passive_b: 救援の行路3
+- name: プラハ
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 42
+  attack: 51
+  speed: 40
+  defence: 30
+  resist: 24
+  weapon: フレイムランス
+  special: 華炎
+  passive_a: 攻撃速さの渾身3
+  passive_c: 攻撃守備の威嚇2
 - name: イレース
   weapon_type: 青魔
   movement_type: 重装
