@@ -40,6 +40,9 @@
 - name: 抑止隊形3
   allow:
     movement_type_list: [重装]
+- name: 正面隊形・自己3
+  allow:
+    movement_type_list: [重装]
 - name: 業火の舞い3
   deny:
     weapon_type_list: [杖]
@@ -263,6 +266,9 @@
 - name: 罠解除3
   allow:
     weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
+- name: 竜の逆鱗3
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: ご奉仕の喜び3
   allow:
     weapon_type_list: [杖]

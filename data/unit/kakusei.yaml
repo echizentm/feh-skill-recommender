@@ -133,6 +133,19 @@
   passive_a: 邪竜の鱗
   passive_b: 相性相殺3
   passive_c: 魔防の紫煙3
+- name: 女ルフレ4
+  weapon_type: 緑竜
+  movement_type: 飛行
+  hp: 40
+  attack: 56
+  speed: 17
+  defence: 37
+  resist: 38
+  weapon: 暁闇のブレス
+  special: 夕陽
+  passive_a: 邪竜の大鱗
+  passive_b: 竜の逆鱗3
+  passive_c: 竜刃の紋章
 - name: リズ
   weapon_type: 杖
   movement_type: 歩行

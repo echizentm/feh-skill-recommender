@@ -587,6 +587,19 @@
   passive_a: 攻撃速さの大覚醒3
   passive_b: 奥義隊形3
   passive_c: ひとりぼっちのゆめ
+- name: 紋章チキ5
+  weapon_type: 青竜
+  movement_type: 飛行
+  hp: 39
+  attack: 58
+  speed: 42
+  defence: 32
+  resist: 25
+  weapon: 蒼紅のブレス
+  assist: 速さの大応援+
+  passive_a: 攻撃速さの渾身4
+  passive_b: 曲技飛行3
+  passive_c: みんなと一緒に
 - name: ナギ
   weapon_type: 緑竜
   movement_type: 重装
@@ -600,6 +613,18 @@
   passive_a: 遠距離反撃
   passive_b: 奥義隊形3
   passive_c: 竜の技量3
+- name: チェイニー
+  weapon_type: 無魔
+  movement_type: 歩行
+  hp: 52
+  attack: 44
+  speed: 34
+  defence: 25
+  resist: 30
+  weapon: 変身のカード
+  assist: 引き戻し
+  passive_a: 攻撃魔防の密集3
+  passive_c: 歩行の魔刃3
 - name: バヌトゥ
   weapon_type: 赤竜
   movement_type: 歩行

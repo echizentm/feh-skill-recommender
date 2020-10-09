@@ -194,6 +194,9 @@
 - name: 邪竜の鱗
   allow:
     name_list: [女ルフレ3]
+- name: 邪竜の大鱗
+  allow:
+    name_list: [女ルフレ4]
 - name: サカの掟
   allow:
     name_list: [リン5]

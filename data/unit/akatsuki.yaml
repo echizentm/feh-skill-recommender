@@ -213,6 +213,30 @@
   special: 凶星
   passive_a: 攻撃速さの孤軍3
   passive_b: 速さ守備の凪3
+- name: デギンハンザー
+  weapon_type: 赤竜
+  movement_type: 重装
+  hp: 45
+  attack: 59
+  speed: 14
+  defence: 41
+  resist: 39
+  weapon: 黒夜のブレス+
+  special: 竜裂
+  passive_a: 鬼神金剛の構え3
+  passive_b: 正面隊形・自己3
+- name: イナ
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 44
+  attack: 50
+  speed: 23
+  defence: 37
+  resist: 36
+  weapon: 灰明のブレス+
+  assist: 入れ替え
+  passive_b: 守備魔防の連携3
+  passive_c: 竜盾の紋章
 - name: ティバーン
   weapon_type: 赤獣
   movement_type: 飛行
