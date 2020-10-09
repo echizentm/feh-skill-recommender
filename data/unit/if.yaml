@@ -938,11 +938,11 @@
   weapon_type: 槍
   movement_type: 重装
   hp: 50
-  attack: 55
+  attack: 56
   speed: 22
   defence: 33
   resist: 23
-  weapon: 銀の槍+
+  weapon: エルフィの大槍
   assist: ぶちかまし
   passive_a: 鬼神の一撃3
   passive_b: 守備隊形3
@@ -1122,11 +1122,11 @@
   weapon_type: 緑魔
   movement_type: 歩行
   hp: 36
-  attack: 47
+  attack: 49
   speed: 34
   defence: 21
   resist: 24
-  weapon: グルンウルフ鍛+
+  weapon: 執念の呪
   assist: 攻撃守備の応援
   passive_a: 遠距離防御3
   passive_c: 死の吐息3
