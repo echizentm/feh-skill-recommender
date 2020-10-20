@@ -10,6 +10,9 @@
 - name: 魔防の紫煙3
   deny:
     weapon_type_list: [杖]
+- name: 攻撃速さの奮起3
+  deny:
+    movement_type_list: [重装, 飛行]
 - name: 攻撃守備の奮起3
   deny:
     movement_type_list: [重装, 飛行]

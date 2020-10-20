@@ -315,6 +315,56 @@
   passive_a: 攻撃速さの孤軍3
   passive_b: 見切り・追撃効果3
   passive_c: 守備の開放3
+- name: セテス
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 44
+  attack: 52
+  speed: 39
+  defence: 32
+  resist: 24
+  weapon: アッサルの槍
+  assist: 入れ替え
+  passive_a: 攻撃速さの大覚醒3
+  passive_c: 攻撃の大紋章3
+- name: フレン
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 40
+  attack: 53
+  speed: 27
+  defence: 21
+  resist: 35
+  weapon: カドゥケウスの杖
+  assist: レスキュー+
+  special: 疾風静水の祝福+
+  passive_b: 幻惑の杖3
+  passive_c: 先導の伝令・地3
+- name: カトリーヌ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 43
+  attack: 55
+  speed: 44
+  defence: 30
+  resist: 23
+  weapon: 雷霆
+  special: 竜裂
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 速さ守備の凪3
+- name: シャミア
+  weapon_type: 緑弓
+  movement_type: 歩行
+  hp: 41
+  attack: 54
+  speed: 40
+  defence: 25
+  resist: 24
+  weapon: 生存本能の弓
+  special: 月虹
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 見切り・追撃効果3
+  passive_c: 攻撃速さの奮起3
 - name: クロニエ
   weapon_type: 暗器
   movement_type: 歩行
@@ -351,3 +401,15 @@
   special: 華炎
   passive_a: 金剛明鏡の構え2
   passive_b: 守備隊形3
+- name: ネメシス
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 43
+  attack: 55
+  speed: 23
+  defence: 40
+  resist: 34
+  weapon: 天帝の闇剣
+  special: 竜穿
+  passive_b: 攻撃の封印3
+  passive_c: 死の吐息3
