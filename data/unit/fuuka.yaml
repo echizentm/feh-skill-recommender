@@ -189,6 +189,19 @@
   passive_a: 攻撃守備の連帯
   passive_b: 蒼き獅子王
   passive_c: 攻撃の相互鼓舞
+- name: ディミトリ3
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 57
+  speed: 41
+  defence: 37
+  resist: 18
+  weapon: アラドヴァル
+  special: 烈風
+  passive_a: 鬼神金剛の瞬撃
+  passive_b: 無惨
+  passive_c: 迅雷風烈・奇数3
 - name: シルヴァン
   weapon_type: 緑魔
   movement_type: 騎馬
