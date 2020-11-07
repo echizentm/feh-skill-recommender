@@ -567,6 +567,18 @@
   assist: 攻撃の応援
   passive_a: 死線3
   passive_b: 進軍阻止3
+- name: カザハナ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 50
+  speed: 49
+  defence: 19
+  resist: 21
+  weapon: 忍の斧+
+  special: 凶星
+  passive_a: 死線3
+  passive_b: 怒り3
 - name: ツバキ
   weapon_type: 槍
   movement_type: 飛行
@@ -889,11 +901,11 @@
   weapon_type: 杖
   movement_type: 騎馬
   hp: 30
-  attack: 42
-  speed: 32
+  attack: 46
+  speed: 35
   defence: 19
   resist: 32
-  weapon: グラビティ+
+  weapon: エリーゼの幼杖
   assist: リカバー+
   special: 業火の祝福
   passive_b: ご奉仕の喜び3

@@ -151,6 +151,9 @@
 - name: 攻撃速さの牽制3
   allow:
     movement_type_list: [飛行]
+- name: 攻撃守備の牽制3
+  allow:
+    movement_type_list: [飛行]
 - name: 攻撃魔防の牽制3
   allow:
     movement_type_list: [飛行]

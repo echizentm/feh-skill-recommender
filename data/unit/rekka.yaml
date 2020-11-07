@@ -124,6 +124,19 @@
   passive_a: 鬼神金剛の瞬撃
   passive_b: 攻撃速さの連携3
   passive_c: 遠距離警戒3
+- name: リン7
+  weapon_type: 暗器
+  movement_type: 飛行
+  hp: 40
+  attack: 47
+  speed: 46
+  defence: 17
+  resist: 22
+  weapon: 疾風の双手裏剣
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 攻撃守備の封印2
+  passive_c: 速さ守備の牽制3
 - name: ヘクトル
   weapon_type: 斧
   movement_type: 重装

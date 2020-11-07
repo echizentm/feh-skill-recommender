@@ -353,6 +353,19 @@
   passive_a: 鬼神明鏡の瞬撃
   passive_b: 守備魔防の連携3
   passive_c: 攻撃の波・奇数3
+- name: レーヴァテイン4
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 41
+  attack: 53
+  speed: 13
+  defence: 37
+  resist: 34
+  weapon: 業火の双斧
+  special: 祈り
+  passive_a: 明鏡の反撃・遠距離
+  passive_b: 待ち伏せ3
+  passive_c: 攻撃守備の牽制3
 - name: ヘルビンディ
   weapon_type: 斧
   movement_type: 歩行

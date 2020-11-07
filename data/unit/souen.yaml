@@ -220,6 +220,18 @@
   assist: 踊る
   passive_b: 業火大地の舞い2
   passive_c: 速さの指揮3
+- name: ツイハーク
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 43
+  attack: 46
+  speed: 46
+  defence: 26
+  resist: 20
+  weapon: 忍の刀+
+  special: 流星
+  passive_b: 速さの封印3
+  passive_c: 速さ守備の大開放3
 - name: 蒼炎サナキ
   weapon_type: 緑魔
   movement_type: 飛行

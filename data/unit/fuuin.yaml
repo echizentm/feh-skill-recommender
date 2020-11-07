@@ -390,11 +390,11 @@
   weapon_type: 緑竜
   movement_type: 歩行
   hp: 46
-  attack: 46
+  attack: 49
   speed: 28
   defence: 25
   resist: 30
-  weapon: 光のブレス+
+  weapon: 悠久のブレス
   assist: 引き寄せ
   passive_b: 回復3
   passive_c: 攻撃の威嚇3
