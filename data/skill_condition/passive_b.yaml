@@ -222,6 +222,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]
+- name: 飛竜行空3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [飛行]
 - name: 警戒姿勢3
   allow:
     weapon_type_list: [剣, 槍, 斧]

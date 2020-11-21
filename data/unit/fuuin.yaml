@@ -59,6 +59,18 @@
   assist: 引き寄せ
   passive_a: 攻撃速さの大覚醒4
   passive_b: 速さの封印3
+- name: マリナス
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 50
+  attack: 29
+  speed: 35
+  defence: 31
+  resist: 27
+  weapon: 紫煙の暗器+
+  assist: 引き戻し
+  passive_b: 救援の行路3
+  passive_c: 遠距離警戒3
 - name: リリーナ
   weapon_type: 赤魔
   movement_type: 歩行
@@ -253,6 +265,43 @@
   special: 復讐
   passive_b: 速さの封印3
   passive_c: 槍の経験3
+- name: ギネヴィア
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 36
+  attack: 49
+  speed: 40
+  defence: 16
+  resist: 41
+  weapon: アーリアル
+  special: 氷蒼
+  passive_a: 攻撃魔防の渾身4
+  passive_b: 攻撃魔防の凪3
+  passive_c: 魔防の相互大紋章
+- name: ミレディ
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 41
+  attack: 54
+  speed: 33
+  defence: 41
+  resist: 17
+  weapon: 瞬撃の槍+
+  special: 緋炎
+  passive_a: 攻撃守備の孤軍4
+  passive_b: 飛竜行空3
+- name: ゲイル
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 46
+  attack: 52
+  speed: 22
+  defence: 38
+  resist: 28
+  weapon: キャンセルの槍+
+  special: 竜穿
+  passive_a: 攻撃守備の大覚醒3
+  passive_c: 攻撃の波・奇数3
 - name: ティト
   weapon_type: 槍
   movement_type: 飛行
@@ -362,6 +411,19 @@
   special: 太陽
   passive_a: 速さ魔防の大覚醒3
   passive_c: 攻撃の大紋章3
+- name: ディーク
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 35
+  defence: 36
+  resist: 25
+  weapon: 虎の剛斧
+  special: 月光
+  passive_a: 近距離防御4
+  passive_b: 見切り・追撃効果3
+  passive_c: 攻撃守備の威嚇3
 - name: ギース
   weapon_type: 槍
   movement_type: 歩行
