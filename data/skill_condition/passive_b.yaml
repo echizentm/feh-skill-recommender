@@ -354,3 +354,6 @@
 - name: 蒼き獅子王
   allow:
     name_list: [ディミトリ2]
+- name: 束縛の首飾り
+  allow:
+    name_list: [フレイヤ]

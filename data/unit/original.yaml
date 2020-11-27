@@ -519,3 +519,29 @@
   passive_a: 攻撃魔防の渾身4
   passive_b: 速さの混乱3
   passive_c: 攻撃魔防の牽制3
+- name: スカビオサ
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 38
+  attack: 54
+  speed: 38
+  defence: 16
+  resist: 22
+  weapon: 不幸の花
+  assist: こわいゆめ
+  passive_a: 攻撃速さの渾身4
+  passive_b: 曲技飛行3
+  passive_c: 速さ魔防の牽制3
+- name: フレイヤ
+  weapon_type: 緑獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 52
+  speed: 47
+  defence: 24
+  resist: 22
+  weapon: 悪夢の女王の角
+  special: 月光
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 束縛の首飾り
+  passive_c: 鼓動の幻煙3
