@@ -89,11 +89,11 @@
   weapon_type: 杖
   movement_type: 歩行
   hp: 39
-  attack: 39
+  attack: 41
   speed: 28
   defence: 20
   resist: 34
-  weapon: スロウ+
+  weapon: エルナの杖
   assist: リカバー+
   special: 祈り
   passive_c: 守備魔防の紋章2

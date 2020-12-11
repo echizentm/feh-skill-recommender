@@ -545,3 +545,16 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 束縛の首飾り
   passive_c: 鼓動の幻煙3
+- name: レギン
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 38
+  attack: 52
+  speed: 43
+  defence: 30
+  resist: 24
+  weapon: リュングヘイズ
+  special: 魔弾
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 速さ守備の凪3
+  passive_c: 恐慌の幻煙3

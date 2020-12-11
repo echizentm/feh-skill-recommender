@@ -235,6 +235,19 @@
   passive_a: 強化増幅3
   passive_b: 見切り・反撃不可3
   passive_c: 攻撃魔防の奮起3
+- name: デュッセル
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 55
+  speed: 18
+  defence: 42
+  resist: 31
+  weapon: 黒曜の槍
+  special: 緋炎
+  passive_a: 守備魔防の孤軍4
+  passive_b: 攻撃守備の凪3
+  passive_c: 守備魔防の奮起3
 - name: セライナ
   weapon_type: 緑魔
   movement_type: 騎馬
@@ -247,6 +260,18 @@
   assist: 引き寄せ
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の干渉3
+- name: セライナ2
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 49
+  defence: 11
+  resist: 18
+  weapon: 万雷の書
+  assist: 攻撃魔防の応援+
+  passive_a: 死線4
+  passive_b: 攻撃魔防の大共謀3
 - name: ヴァルター
   weapon_type: 槍
   movement_type: 飛行
@@ -259,6 +284,18 @@
   special: 月光
   passive_a: 飛燕の一撃3
   passive_c: 恐慌の奇策3
+- name: ケセルダ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 45
+  attack: 54
+  speed: 27
+  defence: 31
+  resist: 33
+  weapon: 反攻の斧+
+  special: 竜穿
+  passive_b: キャンセル3
+  passive_c: 守備の波・偶数3
 - name: クーガー
   weapon_type: 槍
   movement_type: 飛行
@@ -271,6 +308,31 @@
   special: 華炎
   passive_b: 強化無効・近距離3
   passive_c: 守備の開放3
+- name: ノール
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 43
+  attack: 49
+  speed: 32
+  defence: 19
+  resist: 35
+  weapon: ラウアフォックス+
+  special: 月光
+  passive_a: 鬼神明鏡の一撃2
+  passive_c: 速さの謀策3
+- name: ナターシャ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 41
+  attack: 43
+  speed: 32
+  defence: 24
+  resist: 38
+  weapon: アブゾーブ+
+  assist: セインツ+
+  special: 天照
+  passive_a: HP魔防2
+  passive_c: 近距離警戒3
 - name: アメリア
   weapon_type: 斧
   movement_type: 重装

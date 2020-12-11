@@ -166,3 +166,6 @@
 - name: 反竜穿
   allow:
     name_list: [女カムイ5]
+- name: 魔弾
+  allow:
+    name_list: [レギン]

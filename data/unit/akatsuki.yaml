@@ -380,11 +380,11 @@
   weapon_type: 青魔
   movement_type: 歩行
   hp: 42
-  attack: 45
+  attack: 46
   speed: 20
   defence: 23
   resist: 34
-  weapon: シャイン+
+  weapon: 寵愛の書
   special: 烈光
   passive_a: 鬼神明鏡の一撃2
   passive_c: 攻撃の謀策3

@@ -561,11 +561,11 @@
   weapon_type: 青竜
   movement_type: 歩行
   hp: 45
-  attack: 45
+  attack: 48
   speed: 27
   defence: 33
   resist: 27
-  weapon: 雷のブレス+
+  weapon: 天真のブレス
   assist: 守備の応援
   passive_a: 守備3
   passive_c: 魔防の威嚇3
