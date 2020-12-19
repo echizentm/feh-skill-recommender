@@ -139,6 +139,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ守備の凪3
   passive_c: 近距離警戒3
+- name: ベルナデッタ2
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 39
+  attack: 50
+  speed: 43
+  defence: 19
+  resist: 23
+  weapon: フリスト
+  special: 月虹
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 速さ魔防の凪3
+  passive_c: 攻撃速さの奮起3
 - name: ドロテア
   weapon_type: 暗器
   movement_type: 歩行
@@ -202,6 +215,18 @@
   passive_a: 鬼神金剛の瞬撃
   passive_b: 無惨
   passive_c: 迅雷風烈・奇数3
+- name: フェリクス
+  weapon_type: 青弓
+  movement_type: 重装
+  hp: 44
+  attack: 50
+  speed: 37
+  defence: 32
+  resist: 29
+  weapon: トナカイの弓+
+  special: 凶星
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: 強化無効・遠距離3
 - name: シルヴァン
   weapon_type: 緑魔
   movement_type: 騎馬
@@ -328,6 +353,18 @@
   passive_a: 攻撃速さの孤軍3
   passive_b: 見切り・追撃効果3
   passive_c: 守備の開放3
+- name: ヒルダ2
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 44
+  attack: 53
+  speed: 38
+  defence: 37
+  resist: 26
+  weapon: キャンディケイン+
+  assist: 体当たり
+  passive_a: 攻撃守備の密集3
+  passive_b: 追撃隊形・偶数3
 - name: セテス
   weapon_type: 槍
   movement_type: 飛行

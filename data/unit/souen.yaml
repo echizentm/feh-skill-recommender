@@ -281,6 +281,19 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 攻撃の封印3
   passive_c: 飛盾の鼓舞
+- name: セフェラン
+  weapon_type: 杖
+  movement_type: 重装
+  hp: 43
+  attack: 54
+  speed: 21
+  defence: 29
+  resist: 40
+  weapon: 聖樹の杖+
+  assist: レスト+
+  special: 大地静水の祝福+
+  passive_a: 攻撃魔防の渾身4
+  passive_c: 快癒・奇数3
 - name: ジル
   weapon_type: 斧
   movement_type: 飛行
