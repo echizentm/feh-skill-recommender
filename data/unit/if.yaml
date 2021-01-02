@@ -628,6 +628,18 @@
   assist: 回り込み
   passive_b: 速さ魔防の連携3
   passive_c: 獣刃の紋章
+- name: ニシキ2
+  weapon_type: 赤獣
+  movement_type: 騎馬
+  hp: 41
+  attack: 49
+  speed: 42
+  defence: 25
+  resist: 28
+  weapon: 賀正の妖狐王の爪牙
+  assist: 入れ替え
+  passive_b: 攻撃守備の干渉3
+  passive_c: 速さの波・偶数3
 - name: ガロン
   weapon_type: 赤竜
   movement_type: 歩行
@@ -1032,6 +1044,18 @@
   special: 竜裂
   passive_b: 奥義の螺旋3
   passive_c: 獣の技量3
+- name: フランネル2
+  weapon_type: 緑獣
+  movement_type: 歩行
+  hp: 48
+  attack: 55
+  speed: 24
+  defence: 46
+  resist: 20
+  weapon: 賀正の人狼王の爪牙
+  assist: ぶちかまし
+  passive_a: 鬼神金剛の一撃2
+  passive_b: 攻撃守備の連携3
 - name: 男カンナ
   weapon_type: 青竜
   movement_type: 歩行
@@ -1179,6 +1203,18 @@
   special: 月光
   passive_a: 近距離防御3
   passive_c: 獣盾の紋章
+- name: ベロア2
+  weapon_type: 青獣
+  movement_type: 歩行
+  hp: 41
+  attack: 52
+  speed: 40
+  defence: 34
+  resist: 23
+  weapon: 賀正の人狼娘の爪牙
+  special: 太陽
+  passive_a: 遠距離反撃
+  passive_b: 見切り・追撃効果3
 - name: オフェリア
   weapon_type: 青魔
   movement_type: 歩行

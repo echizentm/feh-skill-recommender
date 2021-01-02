@@ -82,6 +82,9 @@
 - name: 守備の魅了3
   deny:
     weapon_type_list: [杖]
+- name: 魔防の魅了3
+  deny:
+    weapon_type_list: [杖]
 - name: 攻撃封じ3
   deny:
     weapon_type_list: [杖]
@@ -163,6 +166,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [重装, 飛行]
+- name: 攻撃守備の干渉3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
 - name: 速さ守備の干渉3
   deny:
     weapon_type_list: [杖]

@@ -493,6 +493,19 @@
   passive_a: 青の死闘・飛行3
   passive_b: 曲技飛行3
   passive_c: 魔防の鼓舞4
+- name: ピアニー2
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 38
+  attack: 48
+  speed: 43
+  defence: 16
+  resist: 23
+  weapon: 妖精姉妹の絆
+  assist: やさしいゆめ
+  passive_a: 攻撃速さの絆4
+  passive_b: 魔防の魅了3
+  passive_c: 攻撃の相互大紋章
 - name: ルピナス
   weapon_type: 剣
   movement_type: 飛行
@@ -519,6 +532,19 @@
   passive_a: 攻撃魔防の渾身4
   passive_b: 速さの混乱3
   passive_c: 攻撃魔防の牽制3
+- name: プルメリア2
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 41
+  attack: 56
+  speed: 17
+  defence: 18
+  resist: 42
+  weapon: 甘い初夢の弓
+  assist: あまいゆめ
+  passive_a: 明鏡の反撃・近距離
+  passive_b: 切り返し3
+  passive_c: 攻撃守備の牽制3
 - name: スカビオサ
   weapon_type: 緑魔
   movement_type: 飛行
