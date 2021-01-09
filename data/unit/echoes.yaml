@@ -288,11 +288,11 @@
   weapon_type: 杖
   movement_type: 歩行
   hp: 32
-  attack: 45
+  attack: 52
   speed: 25
   defence: 21
   resist: 34
-  weapon: グラビティ+
+  weapon: 春陽の杖
   assist: リブロー+
   special: 天照
   passive_b: 神罰の杖3

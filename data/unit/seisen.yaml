@@ -28,11 +28,11 @@
   weapon_type: 剣
   movement_type: 重装
   hp: 60
-  attack: 44
+  attack: 46
   speed: 11
   defence: 41
   resist: 16
-  weapon: 勇者の剣+
+  weapon: アーダンの固剣
   special: 大盾
   passive_b: 追撃リング
   passive_c: 守備の大紋章2

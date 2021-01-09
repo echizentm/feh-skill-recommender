@@ -85,6 +85,9 @@
 - name: 飛燕明鏡の構え2
   deny:
     weapon_type_list: [杖]
+- name: 飛燕明鏡の構え3
+  deny:
+    weapon_type_list: [杖]
 - name: 金剛明鏡の構え2
   deny:
     weapon_type_list: [杖]

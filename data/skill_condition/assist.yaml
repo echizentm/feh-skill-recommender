@@ -16,6 +16,9 @@
 - name: レスキュー+
   allow:
     weapon_type_list: [杖]
+- name: リターン+
+  allow:
+    weapon_type_list: [杖]
 - name: 相互援助
   deny:
     weapon_type_list: [杖]
