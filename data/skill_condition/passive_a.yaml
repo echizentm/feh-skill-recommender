@@ -46,6 +46,10 @@
 - name: 飛燕明鏡の一撃2
   deny:
     weapon_type_list: [杖]
+- name: 飛燕明鏡の瞬撃
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 重装]
 - name: 金剛明鏡の一撃2
   deny:
     weapon_type_list: [杖]

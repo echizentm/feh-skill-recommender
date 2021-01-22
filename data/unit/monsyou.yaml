@@ -73,6 +73,18 @@
   passive_a: HP速さ2
   passive_b: 回避・怒り3
   passive_c: 攻撃の相互大紋章
+- name: 男クリス2
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 51
+  speed: 39
+  defence: 33
+  resist: 22
+  weapon: ペレジアの斧+
+  special: 竜裂
+  passive_a: 速さ守備2
+  passive_b: 攻撃の封印3
 - name: 女クリス
   weapon_type: 槍
   movement_type: 歩行
@@ -662,6 +674,19 @@
   special: 氷華
   passive_a: 鬼神飛燕の一撃2
   passive_c: 攻撃の謀策3
+- name: カタリナ2
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 39
+  attack: 51
+  speed: 43
+  defence: 16
+  resist: 28
+  weapon: 仄暗き邪竜の松明
+  special: 月光
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 守備魔防の封印2
+  passive_c: 攻撃魔防の牽制3
 - name: クライネ
   weapon_type: 弓
   movement_type: 歩行

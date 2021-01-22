@@ -461,6 +461,18 @@
   assist: 攻撃速さの応援
   passive_a: 攻撃速さの絆3
   passive_b: 速さの共謀3
+- name: サーリャ4
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 40
+  attack: 51
+  speed: 41
+  defence: 19
+  resist: 22
+  weapon: ペレジアの燭台+
+  special: 血讐
+  passive_a: 鬼神飛燕の一撃3
+  passive_c: 速さ魔防の牽制3
 - name: ムスタファー
   weapon_type: 斧
   movement_type: 歩行
