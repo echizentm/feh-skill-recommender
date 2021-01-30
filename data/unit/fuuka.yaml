@@ -63,6 +63,19 @@
   passive_a: 遠距離反撃
   passive_b: 奥義隊形3
   passive_c: 攻撃魔防の威嚇3
+- name: セイロス
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 40
+  attack: 61
+  speed: 18
+  defence: 37
+  resist: 40
+  weapon: 極光のブレス
+  special: 氷華
+  passive_a: 鬼神明鏡の瞬撃
+  passive_b: 竜麟障壁3
+  passive_c: 光輝く翼
 - name: エーデルガルト
   weapon_type: 斧
   movement_type: 歩行

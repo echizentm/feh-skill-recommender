@@ -271,3 +271,6 @@
 - name: 死からは逃れられぬ
   allow:
     name_list: [ヘル]
+- name: 光輝く翼
+  allow:
+    name_list: [セイロス]
