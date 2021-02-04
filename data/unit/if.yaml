@@ -1244,11 +1244,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 35
-  attack: 44
+  attack: 46
   speed: 37
   defence: 16
   resist: 31
-  weapon: シャイニングボウ+
+  weapon: 邪な曲弓
   assist: 引き寄せ
   special: 月虹
   passive_b: 速さ魔防の連携3

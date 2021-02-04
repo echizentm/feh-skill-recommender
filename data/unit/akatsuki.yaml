@@ -122,10 +122,10 @@
   defence: 35
   resist: 21
   weapon: ラグネル
-  special: 蒼の天空
+  special: 蒼の天空・承
   passive_a: 明鏡の呼吸
   passive_b: 攻撃守備封じ2
-  passive_c: 守備の指揮3
+  passive_c: 魔防の相互大紋章
 - name: 暁アイク2
   weapon_type: 剣
   movement_type: 歩行
