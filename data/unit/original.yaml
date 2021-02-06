@@ -24,7 +24,7 @@
   passive_c: 守備の紫煙3
 - name: アルフォンス3
   weapon_type: 青魔
-  movement_type: 騎馬
+  movement_type: 歩行
   hp: 41
   attack: 52
   speed: 17
@@ -35,6 +35,18 @@
   passive_a: 近距離反撃
   passive_b: 奥義の螺旋3
   passive_c: 守備魔防の信義3
+- name: アルフォンス4
+  weapon_type: 緑魔
+  movement_type: 重装
+  hp: 43
+  attack: 50
+  speed: 25
+  defence: 37
+  resist: 31
+  weapon: 共感の花+
+  special: 月虹
+  passive_a: 守備魔防の密集3
+  passive_b: 攻撃隊形3
 - name: シャロン
   weapon_type: 槍
   movement_type: 歩行
@@ -84,6 +96,32 @@
   assist: 守備魔防の応援+
   passive_b: 攻撃の混乱3
   passive_c: 攻撃速さの大開放3
+- name: グスタフ
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 49
+  attack: 57
+  speed: 18
+  defence: 46
+  resist: 31
+  weapon: 護国の堅斧
+  special: 華炎
+  passive_a: 近距離防御4
+  passive_b: 抑止隊形3
+  passive_c: 盾の護り手・近間3
+- name: ヘンリエッテ
+  weapon_type: 赤魔
+  movement_type: 重装
+  hp: 42
+  attack: 52
+  speed: 18
+  defence: 35
+  resist: 40
+  weapon: 平和の花+
+  special: 氷蒼
+  passive_a: 遠距離防御4
+  passive_b: 正面隊形・自己3
+  passive_c: 兜の護り手・遠間3
 - name: ブルーノ
   weapon_type: 杖
   movement_type: 騎馬
@@ -135,6 +173,18 @@
   passive_a: 攻撃守備の孤軍4
   passive_b: 攻撃守備の凪3
   passive_c: 攻撃守備の大開放3
+- name: ヴェロニカ4
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 44
+  attack: 48
+  speed: 40
+  defence: 21
+  resist: 22
+  weapon: 約束の花+
+  special: 爆雷
+  passive_a: HP速さ2
+  passive_b: 速さの封印3
 - name: フィヨルム
   weapon_type: 槍
   movement_type: 歩行
@@ -442,6 +492,19 @@
   passive_a: 遠距離反撃
   passive_b: 死者の帳尻を
   passive_c: 始まりの鼓動3
+- name: リーヴ2
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 39
+  attack: 56
+  speed: 25
+  defence: 30
+  resist: 25
+  weapon: シャールヴィ
+  special: 凶星
+  passive_a: 攻撃守備の渾身4
+  passive_b: 攻撃魔防の凪3
+  passive_c: 不治の幻煙3
 - name: スラシル
   weapon_type: 緑魔
   movement_type: 歩行

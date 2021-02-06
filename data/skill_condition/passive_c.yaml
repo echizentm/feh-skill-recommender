@@ -53,6 +53,9 @@
 - name: 恐慌の幻煙3
   deny:
     weapon_type_list: [杖]
+- name: 不治の幻煙3
+  deny:
+    weapon_type_list: [杖]
 - name: 騎刃の鼓舞
   allow:
     movement_type_list: [騎馬]
@@ -139,6 +142,12 @@
   allow:
     movement_type_list: [重装]
     weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
+- name: 盾の護り手・近間3
+  allow:
+    movement_type_list: [重装]
+- name: 兜の護り手・遠間3
+  allow:
+    movement_type_list: [重装]
 - name: 空からの先導3
   allow:
     movement_type_list: [飛行]
