@@ -60,6 +60,19 @@
   special: 爆火
   passive_b: リカバーリング
   passive_c: 守備の謀策3
+- name: アゼル
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 46
+  attack: 53
+  speed: 44
+  defence: 28
+  resist: 25
+  weapon: 慕炎の書
+  assist: 速さの大応援+
+  passive_a: 赤の死闘・歩行4
+  passive_b: 速さ魔防の大共謀3
+  passive_c: 速さの相互鼓舞
 - name: ティルテュ
   weapon_type: 青魔
   movement_type: 歩行
@@ -72,6 +85,18 @@
   assist: 速さ魔防の応援
   passive_a: 攻撃魔防2
   passive_c: 速さの大紋章2
+- name: レックス
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 45
+  attack: 47
+  speed: 25
+  defence: 43
+  resist: 14
+  weapon: 女神の斧
+  assist: 引き戻し
+  passive_a: 攻撃守備の渾身3
+  passive_c: 斧の経験3
 - name: キュアン
   weapon_type: 槍
   movement_type: 騎馬
@@ -161,6 +186,43 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 奥義の螺旋3
   passive_c: 攻撃の波・奇数3
+- name: マーニャ
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 37
+  attack: 49
+  speed: 39
+  defence: 27
+  resist: 34
+  weapon: 孤絶の剣+
+  special: 月虹
+  passive_a: 鬼神金剛の瞬撃
+  passive_b: 警戒姿勢3
+- name: ディートバ
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 43
+  attack: 50
+  speed: 38
+  defence: 23
+  resist: 33
+  weapon: 火薙ぎの槍+
+  special: 氷華
+  passive_b: 編隊飛行3
+  passive_c: 速さ魔防の信義3
+- name: フュリー
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 44
+  attack: 58
+  speed: 43
+  defence: 34
+  resist: 25
+  weapon: シレジアの氷晶
+  assist: 一喝+
+  passive_a: 青の死闘・飛行4
+  passive_b: 攻撃速さの封印2
+  passive_c: 攻撃守備の牽制3
 - name: エルトシャン
   weapon_type: 剣
   movement_type: 騎馬
