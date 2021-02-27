@@ -328,6 +328,19 @@
   passive_a: 獅子奮迅4
   passive_b: 速さ守備の封印2
   passive_c: 攻撃速さの牽制3
+- name: クロード3
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 41
+  attack: 51
+  speed: 41
+  defence: 23
+  resist: 24
+  weapon: フェイルノート
+  special: 月光
+  passive_a: 攻撃速さの機先4
+  passive_b: 落星
+  passive_c: 速さ守備の牽制3
 - name: ローレンツ
   weapon_type: 赤魔
   movement_type: 歩行

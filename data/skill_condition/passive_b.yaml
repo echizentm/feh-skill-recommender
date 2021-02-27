@@ -374,6 +374,12 @@
 - name: 蒼き獅子王
   allow:
     name_list: [ディミトリ2]
+- name: 無惨
+  allow:
+    name_list: [ディミトリ3]
 - name: 束縛の首飾り
   allow:
     name_list: [フレイヤ]
+- name: 落星
+  allow:
+    name_list: [クロード3]
