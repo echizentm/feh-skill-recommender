@@ -139,6 +139,19 @@
   assist: 引き戻し
   passive_a: 守備の城塞3
   passive_c: 速さ守備の奮起3
+- name: リンハルト
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 39
+  attack: 44
+  speed: 25
+  defence: 30
+  resist: 38
+  weapon: ペイン+
+  assist: リブロー+
+  special: 祈り
+  passive_b: 回復3
+  passive_c: 遠距離警戒3
 - name: ベルナデッタ
   weapon_type: 弓
   movement_type: 騎馬
@@ -241,6 +254,18 @@
   passive_a: 鬼神金剛の瞬撃
   passive_b: 無惨
   passive_c: 迅雷風烈・奇数3
+- name: ドゥドゥー
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 50
+  attack: 59
+  speed: 17
+  defence: 45
+  resist: 28
+  weapon: 護衛の斧+
+  special: 大盾
+  passive_a: 鬼神金剛の構え3
+  passive_c: 鎧の護り手・近間3
 - name: フェリクス
   weapon_type: 青弓
   movement_type: 重装
@@ -303,6 +328,19 @@
   passive_a: 鬼神金剛の瞬撃
   passive_b: 警戒姿勢3
   passive_c: 速さの波・奇数3
+- name: イングリット2
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 37
+  attack: 51
+  speed: 40
+  defence: 28
+  resist: 27
+  weapon: ルーン
+  special: 月虹
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 速さ守備の凪3
+  passive_c: 攻撃速さの奮起3
 - name: クロード
   weapon_type: 弓
   movement_type: 騎馬
@@ -391,6 +429,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の凪3
   passive_c: 速さの鼓舞4
+- name: マリアンヌ
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 41
+  attack: 60
+  speed: 34
+  defence: 19
+  resist: 41
+  weapon: 氷槍フィンブル
+  special: 氷蒼
+  passive_a: 青の死闘・歩行4
+  passive_b: 攻撃魔防の凪3
+  passive_c: 魔防の相互大紋章
 - name: ヒルダ
   weapon_type: 斧
   movement_type: 歩行
