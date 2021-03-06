@@ -529,6 +529,18 @@
   special: 月光
   passive_b: 攻め立て3
   passive_c: 遠距離警戒3
+- name: ソロン
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 45
+  attack: 52
+  speed: 20
+  defence: 24
+  resist: 38
+  weapon: バンシーΘ
+  special: 氷華
+  passive_b: 魔防の混乱3
+  passive_c: 攻撃の謀策3
 - name: 死神騎士
   weapon_type: 槍
   movement_type: 騎馬
