@@ -491,3 +491,28 @@
   passive_a: 守備魔坊2
   passive_b: 迎撃隊形3
   passive_c: 重装の行軍3
+- name: ミルラ3
+  weapon_type: 竜
+  movement_type: 飛行
+  hp: 40
+  attack: 54
+  speed: 25
+  defence: 40
+  resist: 35
+  weapon: 紫翠のブレス
+  special: 夕陽
+  passive_a: 遠距離反撃
+  passive_b: 竜の逆鱗3
+  passive_c: 攻撃魔防の牽制3
+- name: サレフ
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 45
+  attack: 51
+  speed: 36
+  defence: 26
+  resist: 30
+  weapon: 春兎の斧+
+  assist: 相互援助
+  passive_a: HP魔防2
+  passive_c: 攻撃魔防の奮起3

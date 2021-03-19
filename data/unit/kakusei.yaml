@@ -702,6 +702,18 @@
   assist: 踊る
   passive_a: 疾風の舞い3
   passive_c: 攻撃の鼓舞3
+- name: アズール2
+  weapon_type: 緑弓
+  movement_type: 飛行
+  hp: 45
+  attack: 52
+  speed: 42
+  defence: 24
+  resist: 29
+  weapon: 春兎の弓+
+  assist: 攻撃速さの応援+
+  passive_a: 緑の死闘・飛行4
+  passive_c: 攻撃速さの牽制3
 - name: ブレディ
   weapon_type: 杖
   movement_type: 歩行
@@ -765,6 +777,19 @@
   passive_a: 鬼神明鏡の構え2
   passive_b: キャンセル3
   passive_c: 攻撃の謀策3
+- name: セレナ
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 44
+  attack: 53
+  speed: 42
+  defence: 26
+  resist: 19
+  weapon: グリンカムビの聖卵
+  special: 月虹
+  passive_a: 赤の死闘・騎馬4
+  passive_b: 速さ魔防の凪3
+  passive_c: 攻撃の相互鼓舞
 - name: ノワール
   weapon_type: 弓
   movement_type: 歩行
