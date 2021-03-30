@@ -383,3 +383,6 @@
 - name: 落星
   allow:
     name_list: [クロード3]
+- name: 双姫の陽翼
+  allow:
+    name_list: [ダグ]

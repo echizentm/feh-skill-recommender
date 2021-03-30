@@ -647,3 +647,16 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 速さ守備の凪3
   passive_c: 恐慌の幻煙3
+- name: ダグ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 41
+  attack: 55
+  speed: 44
+  defence: 30
+  resist: 25
+  weapon: スキンファクシ
+  special: 竜穿
+  passive_a: 攻撃速さの渾身4
+  passive_b: 双姫の陽翼
+  passive_c: 迅雷風烈・偶数3
