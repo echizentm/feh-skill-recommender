@@ -386,11 +386,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 50
-  attack: 43
+  attack: 46
   speed: 36
   defence: 32
   resist: 21
-  weapon: 倭刀+
+  weapon: シャムシール
   special: 凶星
   passive_a: HP守備2
   passive_c: 歩行の鼓動3

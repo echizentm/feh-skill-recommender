@@ -169,6 +169,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [重装, 飛行]
+- name: 攻撃速さの干渉3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
 - name: 攻撃守備の干渉3
   deny:
     weapon_type_list: [杖]

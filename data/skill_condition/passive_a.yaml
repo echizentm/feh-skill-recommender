@@ -114,6 +114,12 @@
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
     movement_type_list: [騎馬, 飛行]
+- name: 攻撃速さの万全3
+  deny:
+    movement_type_list: [騎馬, 飛行]
+- name: 攻撃速さの万全4
+  deny:
+    movement_type_list: [騎馬, 飛行]
 - name: 攻撃速さの機先3
   deny:
     movement_type_list: [歩行, 重装]
@@ -204,6 +210,10 @@
     weapon_type_list: [槍, 青魔, 青竜, 青獣, 青弓, 青暗器]
     movement_type_list: [飛行]
 - name: 緑の死闘・歩行3
+  allow:
+    weapon_type_list: [斧, 緑魔, 緑竜, 緑獣, 緑弓, 緑暗器]
+    movement_type_list: [歩行]
+- name: 緑の死闘・歩行4
   allow:
     weapon_type_list: [斧, 緑魔, 緑竜, 緑獣, 緑弓, 緑暗器]
     movement_type_list: [歩行]
