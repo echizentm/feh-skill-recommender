@@ -49,6 +49,19 @@
   special: 天照
   passive_b: 幻惑の杖3
   passive_c: 攻撃の開放3
+- name: エイリーク5
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 43
+  defence: 30
+  resist: 28
+  weapon: ルネスの礼剣
+  special: 月光
+  passive_a: 金剛の反撃・遠距離
+  passive_b: 見切り・追撃効果3
+  passive_c: 速さの相互大紋章
 - name: エフラム
   weapon_type: 槍
   movement_type: 歩行
@@ -185,6 +198,18 @@
   assist: 攻撃守備の応援
   passive_b: 守備の共謀3
   passive_c: 飛刃の紋章
+- name: ヒーニアス3
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 43
+  attack: 51
+  speed: 38
+  defence: 26
+  resist: 27
+  weapon: フレリアの玉弓
+  special: 凶星
+  passive_a: 鬼神飛燕の一撃2
+  passive_c: 遠距離警戒3
 - name: ターナ
   weapon_type: 槍
   movement_type: 飛行
@@ -210,6 +235,19 @@
   passive_a: 攻撃速さの渾身3
   passive_b: 回復3
   passive_c: 攻撃守備の紋章2
+- name: ターナ3
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 41
+  defence: 29
+  resist: 23
+  weapon: フレリアの宝槍
+  special: 竜裂
+  passive_a: 飛燕金剛の瞬撃
+  passive_b: 速さ守備の近影3
+  passive_c: 攻撃速さの牽制3
 - name: リオン
   weapon_type: 赤魔
   movement_type: 歩行
@@ -235,6 +273,18 @@
   passive_a: 強化増幅3
   passive_b: 見切り・反撃不可3
   passive_c: 攻撃魔防の奮起3
+- name: リオン3
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 38
+  attack: 55
+  speed: 18
+  defence: 34
+  resist: 37
+  weapon: グラドの史書
+  special: 氷蒼
+  passive_a: 攻撃魔防の孤軍3
+  passive_c: 守備魔防の大開放3
 - name: デュッセル
   weapon_type: 槍
   movement_type: 騎馬
@@ -454,6 +504,19 @@
   assist: 攻撃速さの応援+
   passive_a: 鬼神飛燕の一撃2
   passive_b: 速さ魔防の大共謀3
+- name: ラーチェル3
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 36
+  attack: 51
+  speed: 38
+  defence: 16
+  resist: 30
+  weapon: ロストンの霊杖
+  assist: レスキュー+
+  special: 業火疾風の祝福+
+  passive_a: 攻撃速さの渾身4
+  passive_b: 速さ魔防の遠影3
 - name: ドズラ
   weapon_type: 暗器
   movement_type: 重装
