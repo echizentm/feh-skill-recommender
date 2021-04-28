@@ -281,8 +281,8 @@
   weapon: 雷神刀
   special: 凶星
   passive_a: 鬼神飛燕の構え2
-  passive_b: 武士道
-  passive_c: 空からの先導3
+  passive_b: 武士道・承
+  passive_c: 攻撃速さの牽制3
 - name: リョウマ3
   weapon_type: 青暗器
   movement_type: 歩行
