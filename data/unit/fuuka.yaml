@@ -115,6 +115,19 @@
   passive_a: 明鏡の反撃・遠距離
   passive_b: 黒鷲の覇王
   passive_c: 魔防の相互大紋章
+- name: エーデルガルト4
+  weapon_type: 獣
+  movement_type: 重装
+  hp: 45
+  attack: 56
+  speed: 14
+  defence: 44
+  resist: 39
+  weapon: 双紋章の力
+  special: 緋炎
+  passive_a: 攻撃守備の万全4
+  passive_b: 覇鎧障壁
+  passive_c: 重装の遊撃3
 - name: ヒューベルト
   weapon_type: 赤魔
   movement_type: 歩行
@@ -253,6 +266,19 @@
   special: 烈風
   passive_a: 鬼神金剛の瞬撃
   passive_b: 無惨
+  passive_c: 迅雷風烈・奇数3
+- name: ディミトリ4
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 61
+  speed: 40
+  defence: 38
+  resist: 17
+  weapon: 復讐鬼の槍
+  special: 凶星
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 蒼き殺人鬼
   passive_c: 迅雷風烈・奇数3
 - name: ドゥドゥー
   weapon_type: 斧

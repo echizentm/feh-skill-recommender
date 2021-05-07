@@ -764,6 +764,19 @@
   special: 竜穿
   passive_b: 強化無効・遠距離3
   passive_c: 守備魔防の紋章2
+- name: 男マーク2
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 38
+  attack: 54
+  speed: 17
+  defence: 35
+  resist: 38
+  weapon: 破滅の邪書
+  special: 氷蒼
+  passive_a: 攻撃魔防の孤軍4
+  passive_b: 守備の混乱3
+  passive_c: 攻撃魔防の脅嚇
 - name: 女マーク
   weapon_type: 青魔
   movement_type: 飛行
@@ -777,6 +790,19 @@
   passive_a: 鬼神明鏡の構え2
   passive_b: キャンセル3
   passive_c: 攻撃の謀策3
+- name: 女マーク2
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 17
+  defence: 41
+  resist: 35
+  weapon: 絶望の邪斧
+  special: 凶星
+  passive_a: 攻撃守備の孤軍4
+  passive_b: 空からの急襲3
+  passive_c: 攻撃守備の脅嚇
 - name: セレナ
   weapon_type: 赤魔
   movement_type: 騎馬

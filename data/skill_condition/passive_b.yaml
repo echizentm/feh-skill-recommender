@@ -398,3 +398,9 @@
 - name: 双姫の陽翼
   allow:
     name_list: [ダグ]
+- name: 蒼き殺人鬼
+  allow:
+    name_list: [ディミトリ4]
+- name: 覇鎧障壁
+  allow:
+    name_list: [エーデルガルト4]
