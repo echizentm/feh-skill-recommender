@@ -138,6 +138,18 @@
   assist: 入れ替え
   passive_a: 守備の城塞3
   passive_b: 攻撃守備封じ2
+- name: オルソン
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 43
+  attack: 54
+  speed: 28
+  defence: 39
+  resist: 23
+  weapon: 虚ろな槍
+  special: 華炎
+  passive_b: 待ち伏せ3
+  passive_c: 攻撃守備の奮起3
 - name: ルーテ
   weapon_type: 青魔
   movement_type: 歩行
