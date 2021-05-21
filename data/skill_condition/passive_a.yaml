@@ -241,6 +241,14 @@
   allow:
     weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
     movement_type_list: [歩行]
+- name: 無の死闘・騎馬3
+  allow:
+    weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
+    movement_type_list: [騎馬]
+- name: 無の死闘・騎馬4
+  allow:
+    weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
+    movement_type_list: [騎馬]
 - name: 強化増幅3
   allow:
     movement_type_list: [歩行]

@@ -394,6 +394,19 @@
   passive_a: 攻撃速さの絆4
   passive_b: 曲技飛行3
   passive_c: 速さの指揮3
+- name: echoesカチュア2
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 56
+  speed: 41
+  defence: 28
+  resist: 23
+  weapon: 幸せの鐘の斧
+  special: 月虹
+  passive_a: 攻撃速さの渾身4
+  passive_b: 攻撃守備の近影3
+  passive_c: 速さ守備の牽制3
 - name: ソニア
   weapon_type: 緑魔
   movement_type: 歩行
