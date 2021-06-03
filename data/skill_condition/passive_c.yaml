@@ -290,3 +290,6 @@
 - name: 光輝く翼
   allow:
     name_list: [セイロス]
+- name: 束縛、秩序、安定
+  allow:
+    name_list: [アスタルテ]

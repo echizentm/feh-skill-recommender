@@ -638,7 +638,7 @@
   passive_b: 奥義隊形3
   passive_c: 竜の技量3
 - name: チェイニー
-  weapon_type: 無魔
+  weapon_type: 魔
   movement_type: 歩行
   hp: 52
   attack: 44

@@ -413,6 +413,19 @@
   assist: 入れ替え
   passive_b: キャンセル3
   passive_c: 守備の波・奇数3
+- name: アスタルテ
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 37
+  attack: 52
+  speed: 39
+  defence: 15
+  resist: 40
+  weapon: 正の裁き
+  special: 氷華
+  passive_a: 攻撃魔防の万全4
+  passive_b: 速さ魔防の凪3
+  passive_c: 束縛、秩序、安定
 - name: ユンヌ
   weapon_type: 緑魔
   movement_type: 飛行
