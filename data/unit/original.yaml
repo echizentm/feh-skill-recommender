@@ -660,3 +660,16 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 双姫の陽翼
   passive_c: 迅雷風烈・偶数3
+- name: ノート
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 57
+  speed: 43
+  defence: 28
+  resist: 27
+  weapon: フリムファクシ
+  special: 竜穿
+  passive_a: 遠距離反撃
+  passive_b: 双姫の月翼
+  passive_c: 攻撃速さの脅嚇

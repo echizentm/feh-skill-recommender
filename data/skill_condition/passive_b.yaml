@@ -412,3 +412,6 @@
 - name: 覇鎧障壁
   allow:
     name_list: [エーデルガルト4]
+- name: 双姫の月翼
+  allow:
+    name_list: [ノート]

@@ -357,6 +357,18 @@
   assist: 魔防の応援
   passive_b: 相性相殺3
   passive_c: 攻撃の鼓舞3
+- name: リュート
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 43
+  attack: 49
+  speed: 36
+  defence: 20
+  resist: 30
+  weapon: グルンフォックス+
+  special: 凶星
+  passive_a: 鬼神飛燕の一撃2
+  passive_b: キャンセル3
 - name: デューテ
   weapon_type: 青魔
   movement_type: 歩行
@@ -381,6 +393,18 @@
   special: 氷華
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の波・偶数3
+- name: echoesパオラ
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 46
+  attack: 55
+  speed: 18
+  defence: 43
+  resist: 30
+  weapon: レディソード
+  assist: 攻撃守備の応援+
+  passive_a: 赤の死闘・飛行4
+  passive_c: 攻撃魔防の牽制3
 - name: echoesカチュア
   weapon_type: 剣
   movement_type: 飛行
@@ -419,6 +443,31 @@
   special: 月虹
   passive_a: 鬼神明鏡の一撃2
   passive_c: 魔防の謀策3
+- name: ティータ
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 49
+  speed: 34
+  defence: 15
+  resist: 39
+  weapon: ブラーラビット+
+  assist: 献身
+  passive_a: 飛燕明鏡の構え2
+  passive_c: 攻撃の開放3
+- name: ジーク
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 56
+  speed: 15
+  defence: 38
+  resist: 35
+  weapon: 聖槍グラディウス
+  special: 緋炎
+  passive_a: 攻撃守備の機先4
+  passive_b: 攻撃守備の凪3
+  passive_c: 守備魔防の脅嚇
 - name: コンラート
   weapon_type: 槍
   movement_type: 騎馬
@@ -503,6 +552,18 @@
   assist: 踊る
   passive_a: 金剛明鏡の一撃2
   passive_b: 業火静水の舞い2
+- name: フェルナン
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 45
+  attack: 55
+  speed: 26
+  defence: 32
+  resist: 23
+  weapon: 瞬撃の槍+
+  special: 烈雷
+  passive_b: 剣殺し3
+  passive_c: 攻撃守備の威嚇2
 - name: ドーマ
   weapon_type: 竜
   movement_type: 重装

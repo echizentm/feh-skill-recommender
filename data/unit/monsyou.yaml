@@ -375,7 +375,7 @@
   assist: リブロー+
   special: 祈り
   passive_c: 魔防の鼓舞3
-- name: パオラ
+- name: 紋章パオラ
   weapon_type: 剣
   movement_type: 飛行
   hp: 42
@@ -387,7 +387,7 @@
   special: 月虹
   passive_b: 救援の行路3
   passive_c: 飛刃の紋章
-- name: パオラ2
+- name: 紋章パオラ2
   weapon_type: 赤暗器
   movement_type: 飛行
   hp: 38
@@ -400,7 +400,7 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 罠解除3
   passive_c: 飛刃の鼓舞
-- name: パオラ3
+- name: 紋章パオラ3
   weapon_type: 槍
   movement_type: 飛行
   hp: 40
