@@ -542,7 +542,7 @@
   assist: プッシュ+
   passive_a: 攻撃速さの渾身4
   passive_b: 幻惑の杖3
-  passive_b: 快癒・偶数3
+  passive_c: 快癒・偶数3
 - name: セテス
   weapon_type: 槍
   movement_type: 飛行
