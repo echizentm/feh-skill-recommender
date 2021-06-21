@@ -185,19 +185,23 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
-- name: 速さ守備の近影3
-  deny:
-    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
-    movement_type_list: [歩行, 重装]
 - name: 攻撃守備の近影3
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
     movement_type_list: [歩行, 重装]
-- name: 速さ魔防の遠影3
+- name: 速さ守備の近影3
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+    movement_type_list: [歩行, 重装]
+- name: 攻撃守備の遠影3
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行, 重装]
-- name: 攻撃守備の遠影3
+- name: 攻撃魔防の遠影3
+  deny:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行, 重装]
+- name: 速さ魔防の遠影3
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行, 重装]

@@ -165,6 +165,18 @@
   special: 祈り
   passive_b: 回復3
   passive_c: 遠距離警戒3
+- name: カスパル
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 46
+  attack: 55
+  speed: 36
+  defence: 30
+  resist: 23
+  weapon: カツオ+
+  assist: ぶちかまし
+  passive_a: 強化増幅3
+  passive_c: 攻撃の波・偶数3
 - name: ベルナデッタ
   weapon_type: 弓
   movement_type: 騎馬
@@ -304,6 +316,19 @@
   special: 凶星
   passive_a: 鬼神飛燕の一撃2
   passive_b: 強化無効・遠距離3
+- name: アッシュ
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 45
+  attack: 58
+  speed: 43
+  defence: 34
+  resist: 20
+  weapon: 漁神の恵槍
+  special: 月虹
+  passive_a: 青の死闘・騎馬4
+  passive_b: 速さ守備の近影3
+  passive_c: 速さの相互鼓舞
 - name: シルヴァン
   weapon_type: 緑魔
   movement_type: 騎馬
@@ -329,6 +354,18 @@
   special: 祈り
   passive_a: 速さ魔防の防城戦3
   passive_c: 魔防の波・奇数3
+- name: メルセデス2
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 38
+  attack: 51
+  speed: 25
+  defence: 17
+  resist: 38
+  weapon: フローズンパフェ+
+  special: 氷蒼
+  passive_a: 攻撃魔防の渾身4
+  passive_b: 攻撃魔防の遠影3
 - name: アネット
   weapon_type: 斧
   movement_type: 歩行
@@ -493,6 +530,19 @@
   assist: 体当たり
   passive_a: 攻撃守備の密集3
   passive_b: 追撃隊形・偶数3
+- name: ヒルダ3
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 39
+  attack: 51
+  speed: 40
+  defence: 20
+  resist: 25
+  weapon: 夏陰の霊杖
+  assist: プッシュ+
+  passive_a: 攻撃速さの渾身4
+  passive_b: 幻惑の杖3
+  passive_b: 快癒・偶数3
 - name: セテス
   weapon_type: 槍
   movement_type: 飛行

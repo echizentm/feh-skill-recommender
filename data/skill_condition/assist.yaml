@@ -19,6 +19,9 @@
 - name: リターン+
   allow:
     weapon_type_list: [杖]
+- name: プッシュ+
+  allow:
+    weapon_type_list: [杖]
 - name: 相互援助
   deny:
     weapon_type_list: [杖]

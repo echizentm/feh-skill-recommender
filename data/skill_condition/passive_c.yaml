@@ -239,6 +239,9 @@
 - name: 快癒・奇数3
   allow:
     weapon_type_list: [杖]
+- name: 快癒・偶数3
+  allow:
+    weapon_type_list: [杖]
 - name: 竜の技量3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
