@@ -543,6 +543,18 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 幻惑の杖3
   passive_c: 快癒・偶数3
+- name: レオニー
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 41
+  attack: 48
+  speed: 39
+  defence: 27
+  resist: 19
+  weapon: 向日葵の弓+
+  assist: 引き戻し
+  passive_a: 攻撃速さの渾身3
+  passive_b: 速さ守備の連携3
 - name: セテス
   weapon_type: 槍
   movement_type: 飛行
