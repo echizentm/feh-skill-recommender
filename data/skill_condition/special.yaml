@@ -121,7 +121,7 @@
 - name: 大地静水の祝福+
   allow:
     weapon_type_list: [杖]
-- name: 氷の聖鏡
+- name: 氷の聖鏡・承
   allow:
     name_list: [フィヨルム]
 - name: 剣姫の流星
@@ -136,6 +136,9 @@
 - name: 蒼の天空
   allow:
     name_list: [暁アイク, 蒼炎アイク3]
+- name: 蒼の天空・承
+  allow:
+    name_list: [暁アイク]
 - name: 暴の天空
   allow:
     name_list: [暁アイク2]

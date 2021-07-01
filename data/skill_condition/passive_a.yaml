@@ -279,13 +279,13 @@
 - name: グラニの盾
   allow:
     movement_type_list: [騎馬]
-- name: 邪竜の鱗
+- name: 邪竜の鱗・承
   allow:
     name_list: [女ルフレ3]
 - name: 邪竜の大鱗
   allow:
     name_list: [女ルフレ4]
-- name: サカの掟
+- name: サカの掟・承
   allow:
     name_list: [リン5]
 - name: オスティアの反撃

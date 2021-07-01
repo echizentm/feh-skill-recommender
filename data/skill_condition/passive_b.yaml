@@ -326,7 +326,7 @@
 - name: 神罰の杖3
   allow:
     weapon_type_list: [杖]
-- name: 氷の封印
+- name: 氷の封印・承
   allow:
     name_list: [スリーズ]
 - name: 聖騎士の加護
@@ -353,7 +353,7 @@
 - name: Sドリンク
   allow:
     name_list: [リーフ]
-- name: 武士道
+- name: 武士道・承
   allow:
     name_list: [リョウマ2]
 - name: 獅子連斬
