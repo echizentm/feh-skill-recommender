@@ -108,9 +108,9 @@
   resist: 30
   weapon: 疾弓ミュルグレ
   assist: 守備魔防の応援
-  passive_a: サカの掟
+  passive_a: サカの掟・承
   passive_b: 攻め立て3
-  passive_c: 速さの指揮3
+  passive_c: 速さの相互大紋章
 - name: リン6
   weapon_type: 青弓
   movement_type: 飛行

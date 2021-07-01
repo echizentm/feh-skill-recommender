@@ -130,9 +130,9 @@
   resist: 25
   weapon: 邪竜のブレス
   special: 緋炎
-  passive_a: 邪竜の鱗
+  passive_a: 邪竜の鱗・承
   passive_b: 相性相殺3
-  passive_c: 魔防の紫煙3
+  passive_c: 速さ魔防の牽制3
 - name: 女ルフレ4
   weapon_type: 緑竜
   movement_type: 飛行
@@ -731,11 +731,11 @@
   weapon_type: 斧
   movement_type: 飛行
   hp: 45
-  attack: 49
+  attack: 51
   speed: 25
   defence: 39
   resist: 19
-  weapon: ポールアクス+
+  weapon: 鉄面の斧
   assist: 攻撃守備の応援
   passive_a: 守備の城塞3
   passive_b: 一撃離脱
