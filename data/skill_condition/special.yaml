@@ -175,3 +175,6 @@
 - name: グランベルの聖騎士
   allow:
     name_list: [シグルド3]
+- name: 覇天
+  allow:
+    name_list: [ベレト2]

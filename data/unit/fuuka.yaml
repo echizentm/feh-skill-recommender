@@ -11,6 +11,19 @@
   passive_a: 遠距離反撃
   passive_b: 速さの封印3
   passive_c: 速さの波・奇数3
+- name: ベレト2
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 53
+  speed: 41
+  defence: 25
+  resist: 21
+  weapon: 師の導きの書
+  special: 覇天
+  passive_a: 攻撃守備の万全4
+  passive_b: 攻撃魔防の凪3
+  passive_c: 始まりの鼓動3
 - name: ベレス
   weapon_type: 剣
   movement_type: 歩行
