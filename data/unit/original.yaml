@@ -608,6 +608,18 @@
   passive_a: 明鏡の反撃・近距離
   passive_b: 切り返し3
   passive_c: 攻撃守備の牽制3
+- name: フロージ
+  weapon_type: 赤獣
+  movement_type: 騎馬
+  hp: 41
+  attack: 55
+  speed: 16
+  defence: 38
+  resist: 35
+  weapon: 夏夜の夢の角
+  special: 竜裂
+  passive_a: 守備魔防の機先4
+  passive_b: 攻撃守備の凪3
 - name: スカビオサ
   weapon_type: 緑魔
   movement_type: 飛行
@@ -634,6 +646,19 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 束縛の首飾り
   passive_c: 鼓動の幻煙3
+- name: フレイヤ2
+  weapon_type: 獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 53
+  speed: 46
+  defence: 25
+  resist: 20
+  weapon: 夏夜の悪夢の角
+  special: 凶星
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 束縛の首飾り
+  passive_c: 不治の幻煙3
 - name: レギン
   weapon_type: 剣
   movement_type: 騎馬

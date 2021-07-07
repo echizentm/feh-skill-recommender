@@ -194,6 +194,18 @@
   assist: 引き戻し
   passive_a: 速さ守備の大覚醒3
   passive_b: 速さ守備の連携3
+- name: ノルン2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 42
+  attack: 51
+  speed: 39
+  defence: 31
+  resist: 27
+  weapon: 巻貝の槍+
+  assist: 相互援助
+  passive_a: 速さ守備の絆3
+  passive_c: 速さの大紋章2
 - name: シーダ
   weapon_type: 剣
   movement_type: 飛行
@@ -231,6 +243,19 @@
   passive_a: 遠距離反撃
   passive_b: 愛を信じますか？
   passive_c: 攻撃の相互鼓舞
+- name: シーダ4
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 39
+  attack: 52
+  speed: 42
+  defence: 26
+  resist: 28
+  weapon: 波舞うイルカの斧
+  assist: 一喝+
+  passive_a: 攻撃速さの機先4
+  passive_b: 怒涛・再起3
+  passive_c: 恐慌の幻煙3
 - name: オグマ
   weapon_type: 剣
   movement_type: 歩行
@@ -243,6 +268,18 @@
   special: 夕陽
   passive_a: 攻撃の覚醒3
   passive_c: 攻撃の紋章3
+- name: オグマ2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 44
+  attack: 52
+  speed: 38
+  defence: 35
+  resist: 21
+  weapon: トライデント+
+  special: 太陽
+  passive_a: 攻撃速さの孤軍3
+  passive_c: 速さ守備の威嚇2
 - name: バーツ
   weapon_type: 斧
   movement_type: 歩行

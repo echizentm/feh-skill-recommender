@@ -275,6 +275,10 @@
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [飛行]
+- name: 怒涛・再起3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [騎馬, 飛行]
 - name: 怒り3
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
@@ -403,7 +407,7 @@
     name_list: [ディミトリ3]
 - name: 束縛の首飾り
   allow:
-    name_list: [フレイヤ]
+    name_list: [フレイヤ, フレイヤ2]
 - name: 落星
   allow:
     name_list: [クロード3]
