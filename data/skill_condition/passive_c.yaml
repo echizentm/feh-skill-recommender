@@ -296,3 +296,6 @@
 - name: 束縛、秩序、安定
   allow:
     name_list: [アスタルテ]
+- name: 絶氷結界
+  allow:
+    name_list: [ニフル]

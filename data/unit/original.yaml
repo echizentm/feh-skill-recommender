@@ -185,6 +185,19 @@
   special: 爆雷
   passive_a: HP速さ2
   passive_b: 速さの封印3
+- name: ニフル
+  weapon_type: 青竜
+  movement_type: 騎馬
+  hp: 39
+  attack: 54
+  speed: 43
+  defence: 27
+  resist: 23
+  weapon: 絶氷のブレス
+  assist: 守備魔防の応援+
+  passive_a: 攻撃速さの防城戦4
+  passive_b: 攻撃速さの凪3
+  passive_c: 絶氷結界
 - name: フィヨルム
   weapon_type: 槍
   movement_type: 歩行
@@ -195,7 +208,7 @@
   resist: 34
   weapon: レイプト
   special: 氷の聖鏡・承
-  passive_a: 攻撃守備の連帯
+  passive_a: 鬼神明鏡の構え3
   passive_b: 盾の鼓動3
   passive_c: 攻撃の大紋章2
 - name: フィヨルム2

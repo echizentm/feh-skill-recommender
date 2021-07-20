@@ -603,6 +603,18 @@
   special: 氷蒼
   passive_b: 蛇毒3
   passive_c: 攻撃の紫煙3
+- name: オロチ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 54
+  speed: 24
+  defence: 24
+  resist: 40
+  weapon: 虎神・寅
+  assist: 引き寄せ
+  passive_a: 鬼神明鏡の一撃2
+  passive_b: 攻撃魔防の連携3
 - name: リンカ
   weapon_type: 斧
   movement_type: 歩行
@@ -982,6 +994,18 @@
   assist: 引き戻し
   passive_a: 金剛の構え3
   passive_c: 守備の波・偶数3
+- name: ブノワ
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 48
+  attack: 49
+  speed: 23
+  defence: 44
+  resist: 34
+  weapon: 護衛の槍+
+  special: 大盾
+  passive_a: 金剛明鏡の構え2
+  passive_b: 守備隊形3
 - name: シャーロッテ
   weapon_type: 槍
   movement_type: 歩行
@@ -994,6 +1018,19 @@
   assist: ぶちかまし
   passive_a: 生命の疾風3
   passive_c: 攻撃の威嚇3
+- name: シャーロッテ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 48
+  attack: 59
+  speed: 41
+  defence: 25
+  resist: 18
+  weapon: 荒ぶる女子力の斧
+  special: 凶星
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 回避・攻め立て3
+  passive_c: 始まりの鼓動3
 - name: マクベス
   weapon_type: 赤魔
   movement_type: 歩行
@@ -1056,6 +1093,18 @@
   assist: ぶちかまし
   passive_a: 鬼神金剛の一撃2
   passive_b: 攻撃守備の連携3
+- name: ニュクス
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 36
+  attack: 56
+  speed: 43
+  defence: 19
+  resist: 28
+  weapon: ギンヌンガガプ
+  special: 月光
+  passive_a: 速さ魔防の孤軍4
+  passive_b: 見切り・追撃效果3
 - name: 男カンナ
   weapon_type: 青竜
   movement_type: 歩行
@@ -1253,3 +1302,15 @@
   special: 月虹
   passive_b: 速さ魔防の連携3
   passive_c: 弓の技量3
+- name: シェンメイ
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 41
+  attack: 48
+  speed: 27
+  defence: 20
+  resist: 34
+  weapon: ラウアラビット+
+  special: 氷華
+  passive_a: 攻撃魔防の渾身3
+  passive_c: 魔防の謀策3
