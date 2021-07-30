@@ -427,3 +427,6 @@
 - name: 双姫の月翼
   allow:
     name_list: [ノート]
+- name: ユングヴィの祖
+  allow:
+    name_list: [ウル]

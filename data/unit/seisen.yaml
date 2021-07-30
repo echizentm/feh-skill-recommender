@@ -482,3 +482,16 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 待ち伏せ3
   passive_c: 攻撃の波・奇数3
+- name: ウル
+  weapon_type: 青弓
+  movement_type: 歩行
+  hp: 39
+  attack: 63
+  speed: 48
+  defence: 25
+  resist: 14
+  weapon: 聖弓イチイバル
+  special: 狙撃
+  passive_a: 死線4
+  passive_b: ユングヴィの祖
+  passive_c: 始まりの鼓動3
