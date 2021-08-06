@@ -339,6 +339,19 @@
   passive_a: 金剛の構え4
   passive_b: 守備隊形3
   passive_c: 炎王の威嚇
+- name: スルト2
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 45
+  attack: 61
+  speed: 16
+  defence: 44
+  resist: 36
+  weapon: 炎海の灼槍
+  special: 緋炎
+  passive_a: 守備魔防の万全4
+  passive_b: 抑止隊形3
+  passive_c: 炎王の脅嚇
 - name: レーギャルン
   weapon_type: 剣
   movement_type: 飛行

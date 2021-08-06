@@ -312,6 +312,31 @@
   special: 烈風
   passive_a: 鬼神飛燕の一撃2
   passive_b: キャンセル3
+- name: ネサラ2
+  weapon_type: 赤獣
+  movement_type: 飛行
+  hp: 42
+  attack: 53
+  speed: 43
+  defence: 23
+  resist: 25
+  weapon: 凶兆の海賊の嘴爪
+  special: 凶星
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 速さ守備の近影3
+  passive_c: 空転の奇策3
+- name: ビーゼ
+  weapon_type: 獣
+  movement_type: 飛行
+  hp: 41
+  attack: 48
+  speed: 40
+  defence: 17
+  resist: 43
+  weapon: 射干玉の海賊の嘴爪
+  special: 氷華
+  passive_a: 速さ魔防の孤軍3
+  passive_b: 攻撃の混乱3
 - name: ニケ
   weapon_type: 青獣
   movement_type: 歩行

@@ -132,6 +132,12 @@
 - name: 攻撃魔防の万全4
   deny:
     movement_type_list: [騎馬, 飛行]
+- name: 守備魔防の万全3
+  deny:
+    movement_type_list: [騎馬, 飛行]
+- name: 守備魔防の万全4
+  deny:
+    movement_type_list: [騎馬, 飛行]
 - name: 攻撃速さの機先3
   deny:
     movement_type_list: [歩行, 重装]

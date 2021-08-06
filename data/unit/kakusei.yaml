@@ -246,11 +246,11 @@
   weapon_type: 杖
   movement_type: 騎馬
   hp: 34
-  attack: 47
+  attack: 49
   speed: 33
   defence: 16
   resist: 27
-  weapon: トリレンマ+
+  weapon: 痛罵の杖
   assist: セインツ+
   special: 祈り
   passive_b: 幻惑の杖3

@@ -182,6 +182,9 @@
 - name: 速さ魔防の牽制3
   allow:
     movement_type_list: [飛行]
+- name: 守備魔防の牽制3
+  allow:
+    movement_type_list: [飛行]
 - name: 剣の技量3
   allow:
     weapon_type_list: [剣]
@@ -299,3 +302,6 @@
 - name: 絶氷結界
   allow:
     name_list: [ニフル]
+- name: 炎王の脅嚇
+  allow:
+    name_list: [スルト2]

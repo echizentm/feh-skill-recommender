@@ -28,11 +28,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 40
-  attack: 44
-  speed: 28
-  defence: 34
-  resist: 18
-  weapon: 勇者の槍+
+  attack: 46
+  speed: 37
+  defence: 30
+  resist: 14
+  weapon: 忠誠の槍
   special: 祈り
   passive_a: 攻撃守備2
   passive_c: 騎刃の紋章
@@ -248,6 +248,18 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 幻惑の杖3
   passive_c: 魔防の相互大紋章
+- name: リフィス
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 47
+  attack: 50
+  speed: 40
+  defence: 30
+  resist: 23
+  weapon: 操舵の斧+
+  assist: 入れ替え
+  passive_a: 生命の疾風3
+  passive_b: 風薙ぎ3
 - name: トラキアイシュタル
   weapon_type: 赤魔
   movement_type: 飛行

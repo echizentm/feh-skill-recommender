@@ -397,6 +397,19 @@
   passive_a: 攻撃速さの絆3
   passive_b: 攻撃速さの連携3
   passive_c: 先導の伝令・天3
+- name: ヒノカ4
+  weapon_type: 緑弓
+  movement_type: 飛行
+  hp: 40
+  attack: 57
+  speed: 40
+  defence: 23
+  resist: 23
+  weapon: 海泳ぐ人魚の弓
+  assist: 一喝+
+  passive_a: 攻撃速さの渾身4
+  passive_b: 速さ魔防の遠影3
+  passive_c: 守備魔防の牽制3
 - name: アサマ
   weapon_type: 杖
   movement_type: 歩行
