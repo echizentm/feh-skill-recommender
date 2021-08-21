@@ -62,6 +62,19 @@
   passive_a: 金剛の反撃・遠距離
   passive_b: 見切り・追撃効果3
   passive_c: 速さの相互大紋章
+- name: エイリーク6
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 39
+  attack: 56
+  speed: 42
+  defence: 28
+  resist: 24
+  weapon: 絆槍レギンレイヴ
+  special: 月光
+  passive_a: 鬼神飛燕の迫撃
+  passive_b: 華月の腕輪
+  passive_c: 攻撃速さの脅嚇
 - name: エフラム
   weapon_type: 槍
   movement_type: 歩行

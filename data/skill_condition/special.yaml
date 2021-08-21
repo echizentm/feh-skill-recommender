@@ -181,3 +181,9 @@
 - name: 覇天
   allow:
     name_list: [ベレト2]
+- name: 鎮魂の舞
+  allow:
+    name_list: [マリアンヌ2]
+- name: 光炎の紋章
+  allow:
+    name_list: [マルス6]

@@ -113,6 +113,18 @@
   special: 華炎
   passive_b: 守備の封印3
   passive_c: 攻撃の開放3
+- name: ペレアス
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 43
+  attack: 52
+  speed: 36
+  defence: 21
+  resist: 31
+  weapon: ラウアライオン+
+  special: 祈り
+  passive_a: 攻撃速さの大覚醒3
+  passive_c: 攻撃魔防の信義3
 - name: 暁アイク
   weapon_type: 剣
   movement_type: 歩行

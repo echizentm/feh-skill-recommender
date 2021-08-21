@@ -430,3 +430,9 @@
 - name: ユングヴィの祖
   allow:
     name_list: [ウル]
+- name: 異常なしであります
+  allow:
+    name_list: [門番]
+- name: 華月の腕輪
+  allow:
+    name_list: [エイリーク6]

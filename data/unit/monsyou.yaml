@@ -60,6 +60,19 @@
   special: 英雄の血脈
   passive_b: 守備の封印3
   passive_c: 速さ守備の信義3
+- name: マルス6
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 57
+  speed: 43
+  defence: 32
+  resist: 25
+  weapon: 始祖ファルシオン
+  special: 光炎の紋章
+  passive_a: 遠反・速さの渾身
+  passive_b: 回避・怒り3
+  passive_c: 迅雷風烈・偶数3
 - name: 男クリス
   weapon_type: 剣
   movement_type: 歩行

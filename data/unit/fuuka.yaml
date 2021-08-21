@@ -518,6 +518,19 @@
   passive_a: 青の死闘・歩行4
   passive_b: 攻撃魔防の凪3
   passive_c: 魔防の相互大紋章
+- name: マリアンヌ2
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 38
+  attack: 54
+  speed: 44
+  defence: 17
+  resist: 35
+  weapon: 幻影の書
+  special: 鎮魂の舞
+  passive_a: 攻撃速さの連帯
+  passive_b: 見切り・追撃効果3
+  passive_c: 始まりの鼓動3
 - name: ヒルダ
   weapon_type: 斧
   movement_type: 歩行
@@ -618,6 +631,19 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 見切り・追撃効果3
   passive_c: 攻撃速さの奮起3
+- name: 門番
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 41
+  attack: 51
+  speed: 17
+  defence: 43
+  resist: 36
+  weapon: 突撃の角笛
+  assist: 一喝+
+  passive_a: 近反・金剛の構え
+  passive_b: 異常なしであります
+  passive_c: 守備の相互大紋章
 - name: クロニエ
   weapon_type: 暗器
   movement_type: 歩行
