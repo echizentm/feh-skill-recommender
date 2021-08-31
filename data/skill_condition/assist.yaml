@@ -135,6 +135,9 @@
 - name: 癒しの手
   allow:
     name_list: [ミカヤ]
+- name: 癒しの乙女
+  allow:
+    name_list: [ミカヤ5]
 - name: 未来を映す瞳
   allow:
     name_list: [ルキナ5]

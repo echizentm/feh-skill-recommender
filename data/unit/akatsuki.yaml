@@ -50,6 +50,19 @@
   passive_a: 攻撃魔防の渾身4
   passive_b: 生命の護符3
   passive_c: 攻撃魔防の信義3
+- name: ミカヤ5
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 38
+  attack: 63
+  speed: 35
+  defence: 23
+  resist: 45
+  weapon: 明日の光
+  assist: 癒しの乙女
+  passive_a: 獅子奮迅4
+  passive_b: 未来を知る力
+  passive_c: 遠距離相互警戒
 - name: サザ
   weapon_type: 暗器
   movement_type: 歩行

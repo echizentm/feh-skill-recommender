@@ -436,3 +436,6 @@
 - name: 華月の腕輪
   allow:
     name_list: [エイリーク6]
+- name: 未来を知る力
+  allow:
+    name_list: [ミカヤ5]
