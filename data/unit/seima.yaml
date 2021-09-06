@@ -97,8 +97,8 @@
   resist: 18
   weapon: 炎槍ジークムント
   special: 太陽
-  passive_a: 鬼神金剛の構え2
-  passive_b: 太陽の腕輪
+  passive_a: 攻撃守備の孤軍4
+  passive_b: 太陽の腕輪・承
   passive_c: 守備の鼓舞3
 - name: エフラム3
   weapon_type: 斧

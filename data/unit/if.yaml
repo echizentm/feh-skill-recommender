@@ -1122,11 +1122,11 @@
   weapon_type: 青竜
   movement_type: 歩行
   hp: 40
-  attack: 45
+  attack: 47
   speed: 33
   defence: 31
   resist: 29
-  weapon: 水のブレス+
+  weapon: 暗夜の竜石
   special: 竜穿
   passive_a: 守備魔防の大覚醒3
   passive_c: 竜盾の鼓舞

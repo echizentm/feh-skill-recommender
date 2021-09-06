@@ -172,8 +172,8 @@
   weapon: 天雷アルマーズ
   special: 竜裂
   passive_a: 遠距離反撃
-  passive_b: 迎撃隊形3
-  passive_c: オスティアの鼓動
+  passive_b: 抑止隊形3
+  passive_c: 盟主の鼓動・承
 - name: ヘクトル4
   weapon_type: 槍
   movement_type: 重装
