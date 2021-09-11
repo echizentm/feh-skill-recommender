@@ -254,7 +254,7 @@
 - name: 獣の経験3
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
-- name: オスティアの鼓動
+- name: 盟主の鼓動・承
   allow:
     name_list: [ヘクトル3]
 - name: 炎王の威嚇
@@ -265,7 +265,7 @@
     name_list: [エイル]
 - name: 邪眼
   allow:
-    name_list: [ニケ]
+    name_list: [ニケ, ニケ2]
 - name: メガクェイク
   allow:
     name_list: [ドーマ]
@@ -275,6 +275,9 @@
 - name: 我が名は混沌
   allow:
     name_list: [ユンヌ]
+- name: みんなと一緒に
+  allow:
+    name_list: [紋章チキ3, 紋章チキ5]
 - name: ひとりぼっちのゆめ
   allow:
     name_list: [紋章チキ4]

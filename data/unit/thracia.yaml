@@ -24,6 +24,19 @@
   passive_a: 攻撃魔防の渾身4
   passive_b: Sドリンク
   passive_c: 守備の紫煙3
+- name: リーフ3
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 54
+  speed: 41
+  defence: 27
+  resist: 20
+  weapon: 双聖戦士の聖弓
+  special: ノヴァの聖騎士
+  passive_a: 攻撃速さの機先4
+  passive_b: Sドリンク
+  passive_c: 鼓動の幻煙3
 - name: フィン
   weapon_type: 槍
   movement_type: 騎馬
@@ -49,6 +62,19 @@
   special: 天照
   passive_a: 速さ魔防2
   passive_c: 守備の大紋章2
+- name: ナンナ2
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 40
+  attack: 47
+  speed: 41
+  defence: 23
+  resist: 28
+  weapon: 聖祭の杖+
+  assist: リカバー+
+  special: 天照
+  passive_a: 速さ魔防の密集3
+  passive_c: 攻撃の指揮3
 - name: エーヴェル
   weapon_type: 剣
   movement_type: 歩行

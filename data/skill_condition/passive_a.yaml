@@ -312,27 +312,6 @@
 - name: オスティアの反撃
   allow:
     name_list: [ヘクトル4]
-- name: スヴェルの盾
-  deny:
-    movement_type_list: [歩行, 騎馬, 飛行]
-- name: アイオテの盾
-  deny:
-    movement_type_list: [歩行, 騎馬,重装]
-- name: グラニの盾
-  deny:
-    movement_type_list: [歩行, 重装, 飛行]
-- name: 邪竜の鱗
-  allow:
-    name_list: [女ルフレ3]
-- name: サカの掟
-  allow:
-    name_list: [リン5]
-- name: オスティアの反撃
-  allow:
-    name_list: [ヘクトル4]
-- name: みんなと一緒に
-  allow:
-    name_list: [紋章チキ3]
 - name: 覇神断竜剣
   allow:
     name_list: [アルム3]

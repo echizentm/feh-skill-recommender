@@ -126,7 +126,7 @@
     name_list: [フィヨルム]
 - name: 剣姫の流星
   allow:
-    name_list: [アイラ, ラクチェ]
+    name_list: [アイラ, ラクチェ, ラクチェ2]
 - name: 剣皇の流星
   allow:
     name_list: [シャナン]
@@ -153,10 +153,10 @@
     name_list: [ソティス, ソティス2]
 - name: ノヴァの聖騎士
   allow:
-    name_list: [リーフ2]
+    name_list: [リーフ2, リーフ3]
 - name: 双刃
   allow:
-    name_list: [オルティナ]
+    name_list: [オルティナ, オルティナ2]
 - name: 開世
   allow:
     name_list: [アルフォンス3, リーヴ]

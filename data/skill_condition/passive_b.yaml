@@ -339,14 +339,14 @@
     name_list: [スリーズ]
 - name: 聖騎士の加護
   allow:
-    name_list: [シグルド]
+    name_list: [シグルド, シグルド3]
 - name: 追撃リング
   allow:
     name_list: [アーダン]
 - name: リカバーリング
   allow:
     name_list: [アルヴィス]
-- name: 太陽の腕輪
+- name: 太陽の腕輪・承
   allow:
     name_list: [エフラム2]
 - name: 転移の粉
@@ -360,7 +360,7 @@
     name_list: [蒼炎アイク2]
 - name: Sドリンク
   allow:
-    name_list: [リーフ]
+    name_list: [リーフ, リーフ2, リーフ3]
 - name: 武士道・承
   allow:
     name_list: [リョウマ2]
@@ -381,7 +381,7 @@
     name_list: [ミカヤ3]
 - name: 光と闇と
   allow:
-    name_list: [ユリア2, ユリア3]
+    name_list: [ユリア2, ユリア3, ユリア4]
 - name: 死んでほしいの
   allow:
     name_list: [スラシル]

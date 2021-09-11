@@ -199,6 +199,18 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 奥義の螺旋3
   passive_c: 攻撃の波・奇数3
+- name: レヴィン2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 50
+  speed: 40
+  defence: 19
+  resist: 34
+  weapon: 聖祭の風光+
+  special: 月光
+  passive_a: 攻撃魔防の孤軍3
+  passive_c: 歩行の柔撃3
 - name: マーニャ
   weapon_type: 剣
   movement_type: 飛行
@@ -346,6 +358,19 @@
   passive_a: 攻撃速さの孤軍3
   passive_b: 回避・叩き込み3
   passive_c: 恐慌の幻煙3
+- name: ラクチェ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 55
+  speed: 42
+  defence: 33
+  resist: 28
+  weapon: 流麗なる戦舞の聖器
+  special: 剣姫の流星
+  passive_a: 速さ守備の孤軍4
+  passive_b: 回避・攻め立て3
+  passive_c: 攻撃の相互大紋章
 - name: シャナン
   weapon_type: 剣
   movement_type: 歩行
@@ -397,6 +422,18 @@
   passive_a: 攻撃魔防の孤軍4
   passive_b: 光と闇と
   passive_c: 恐慌の幻煙3
+- name: ユリア4
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 39
+  attack: 54
+  speed: 35
+  defence: 16
+  resist: 35
+  weapon: 聖祭の光炎+
+  assist: 速さ魔防の応援+
+  passive_a: 攻撃速さの渾身4
+  passive_b: 光と闇と
 - name: アレス
   weapon_type: 剣
   movement_type: 騎馬
