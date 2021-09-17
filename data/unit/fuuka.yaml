@@ -581,6 +581,56 @@
   assist: 引き戻し
   passive_a: 攻撃速さの渾身3
   passive_b: 速さ守備の連携3
+- name: ユーリス
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 45
+  attack: 55
+  speed: 45
+  defence: 28
+  resist: 31
+  weapon: 義侠の戦刃
+  assist: トリック
+  special: 凶星
+  passive_a: 無の死闘・歩行4
+  passive_c: 始まりの鼓動3
+- name: バルタザール
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 47
+  attack: 56
+  speed: 24
+  defence: 37
+  resist: 31
+  weapon: 瞬撃の斧+
+  special: 華炎
+  passive_a: 攻撃守備の大覚醒3
+  passive_c: 近距離警戒3
+- name: コンスタンツェ
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 39
+  attack: 56
+  speed: 43
+  defence: 17
+  resist: 29
+  weapon: アグネアの矢
+  assist: 一喝+
+  passive_a: 攻撃速さの渾身4
+  passive_b: 攻撃速さの遠影3
+  passive_c: 速さ魔防の牽制3
+- name: ハピ
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 56
+  speed: 26
+  defence: 16
+  resist: 39
+  weapon: 魔獣の書
+  special: 凶星
+  passive_a: 攻撃魔防の機先4
+  passive_b: 攻撃魔防の遠影3
 - name: セテス
   weapon_type: 槍
   movement_type: 飛行

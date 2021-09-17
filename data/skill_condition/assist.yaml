@@ -156,3 +156,6 @@
 - name: こわいゆめ
   allow:
     name_list: [スカビオサ]
+- name: トリック
+  allow:
+    name_list: [ユーリス]

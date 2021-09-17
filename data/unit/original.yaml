@@ -326,6 +326,19 @@
   special: 月光
   passive_a: 柔剣3
   passive_c: 守備の波・偶数3
+- name: ムスペル
+  weapon_type: 赤竜
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 16
+  defence: 39
+  resist: 37
+  weapon: 絶炎のブレス
+  assist: 攻撃の大応援+
+  passive_a: 守備魔防の防城戦4
+  passive_b: 竜鱗障壁3
+  passive_c: 絶炎結界
 - name: スルト
   weapon_type: 斧
   movement_type: 重装

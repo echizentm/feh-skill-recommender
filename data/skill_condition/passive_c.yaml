@@ -305,6 +305,9 @@
 - name: 絶氷結界
   allow:
     name_list: [ニフル]
+- name: 絶炎結界
+  allow:
+    name_list: [ムスペル]
 - name: 炎王の脅嚇
   allow:
     name_list: [スルト2]

@@ -153,6 +153,12 @@
 - name: 攻撃守備の機先4
   deny:
     movement_type_list: [歩行, 重装]
+- name: 攻撃魔防の機先3
+  deny:
+    movement_type_list: [歩行, 重装]
+- name: 攻撃魔防の機先4
+  deny:
+    movement_type_list: [歩行, 重装]
 - name: 守備魔防の機先3
   deny:
     movement_type_list: [歩行, 重装]
@@ -277,6 +283,10 @@
     weapon_type_list: [斧, 緑魔, 緑竜, 緑獣, 緑弓, 緑暗器]
     movement_type_list: [飛行]
 - name: 無の死闘・歩行3
+  allow:
+    weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
+    movement_type_list: [歩行]
+- name: 無の死闘・歩行4
   allow:
     weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
     movement_type_list: [歩行]
