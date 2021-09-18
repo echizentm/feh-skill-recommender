@@ -631,6 +631,18 @@
   special: 凶星
   passive_a: 攻撃魔防の機先4
   passive_b: 攻撃魔防の遠影3
+- name: アルファルド
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 43
+  attack: 52
+  speed: 31
+  defence: 20
+  resist: 37
+  weapon: ラウアラビット+
+  special: 氷華
+  passive_a: 攻撃魔防の渾身3
+  passive_c: 守備魔防の威嚇2
 - name: セテス
   weapon_type: 槍
   movement_type: 飛行
