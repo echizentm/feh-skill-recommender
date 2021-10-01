@@ -711,6 +711,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 速さ守備の凪3
   passive_c: 恐慌の幻煙3
+- name: オッテル
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 46
+  attack: 62
+  speed: 19
+  defence: 42
+  resist: 37
+  weapon: 機斧ロヴンヘイズ
+  special: 凶弾
+  passive_a: 緑の死闘・騎馬4
+  passive_b: 怒濤・再起3
+  passive_c: 攻撃守備の脅嚇
 - name: ダグ
   weapon_type: 斧
   movement_type: 歩行

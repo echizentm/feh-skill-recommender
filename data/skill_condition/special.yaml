@@ -172,6 +172,9 @@
 - name: 魔弾
   allow:
     name_list: [レギン]
+- name: 凶弾
+  allow:
+    name_list: [オッテル]
 - name: 天与の魔道
   allow:
     name_list: [リリーナ4]
