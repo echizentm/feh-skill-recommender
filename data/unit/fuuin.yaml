@@ -510,7 +510,19 @@
   weapon: 悠久の書
   special: 竜穿
   passive_a: 明鏡の一撃3
-  passive_b: 魔防の鼓舞3
+  passive_c: 魔防の鼓舞3
+- name: ソフィーヤ2
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 37
+  attack: 50
+  speed: 23
+  defence: 27
+  resist: 42
+  weapon: クモのぬいぐるみ+
+  assist: 献身
+  passive_a: 攻撃魔防の密集3
+  passive_b: 魔防の混乱3
 - name: ファ
   weapon_type: 緑竜
   movement_type: 歩行

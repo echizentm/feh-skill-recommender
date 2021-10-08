@@ -96,6 +96,19 @@
   special: 華炎
   passive_b: 迎撃隊形3
   passive_c: 竜盾の紋章
+- name: 男ルフレ4
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 46
+  attack: 59
+  speed: 21
+  defence: 43
+  resist: 37
+  weapon: 誰彼のブレス
+  special: 夕陽
+  passive_a: 鬼神金剛の構え3
+  passive_b: 正面隊形・自己3
+  passive_c: 兜の護り手・近間3
 - name: 女ルフレ
   weapon_type: 緑魔
   movement_type: 歩行

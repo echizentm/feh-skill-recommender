@@ -76,6 +76,19 @@
   passive_a: 遠距離反撃
   passive_b: 奥義隊形3
   passive_c: 攻撃魔防の威嚇3
+- name: ソティス3
+  weapon_type: 青竜
+  movement_type: 飛行
+  hp: 40
+  attack: 52
+  speed: 42
+  defence: 31
+  resist: 34
+  weapon: 奇夜の福音
+  special: 天狼
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 竜の魔鱗3
+  passive_c: 攻撃速さの牽制3
 - name: セイロス
   weapon_type: 青竜
   movement_type: 歩行
@@ -89,6 +102,18 @@
   passive_a: 鬼神明鏡の瞬撃
   passive_b: 竜麟障壁3
   passive_c: 光輝く翼
+- name: レア
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 40
+  attack: 62
+  speed: 18
+  defence: 39
+  resist: 42
+  weapon: 魔女のブレス
+  special: 氷蒼
+  passive_a: 攻撃魔防の連帯
+  passive_b: 竜麟障壁3
 - name: エーデルガルト
   weapon_type: 斧
   movement_type: 歩行

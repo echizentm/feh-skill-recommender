@@ -250,6 +250,18 @@
   special: 竜裂
   passive_a: 鬼神金剛の構え3
   passive_b: 正面隊形・自己3
+- name: クルトナーガ
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 45
+  attack: 53
+  speed: 27
+  defence: 36
+  resist: 35
+  weapon: 提灯の竜石+
+  special: 爆光
+  passive_b: 鼓動の封緘・偶数3
+  passive_c: 竜の経験3
 - name: イナ
   weapon_type: 赤竜
   movement_type: 歩行

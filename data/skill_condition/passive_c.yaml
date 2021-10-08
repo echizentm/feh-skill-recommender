@@ -152,6 +152,9 @@
 - name: 鎧の護り手・近間3
   allow:
     movement_type_list: [重装]
+- name: 兜の護り手・近間3
+  allow:
+    movement_type_list: [重装]
 - name: 兜の護り手・遠間3
   allow:
     movement_type_list: [重装]
@@ -246,6 +249,9 @@
   allow:
     weapon_type_list: [杖]
 - name: 竜の技量3
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 竜の経験3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 獣の技量3
