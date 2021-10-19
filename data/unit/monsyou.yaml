@@ -574,6 +574,55 @@
   special: 復讐
   passive_a: 守備魔防の大覚醒3
   passive_b: 攻撃隊形3
+- name: ウルフ
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 63
+  speed: 49
+  defence: 23
+  resist: 15
+  weapon: 猛き狼の弓
+  assist: 引き戻し
+  passive_a: 死線4
+  passive_b: 守備魔防の干渉3
+  passive_c: 恐慌の幻煙3
+- name: ザガロ
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 41
+  attack: 48
+  speed: 39
+  defence: 27
+  resist: 24
+  weapon: 瞬撃の弓+
+  special: 烈風
+  passive_a: 攻撃守備の機先3
+  passive_b: 守備の封印3
+- name: ビラク
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 47
+  attack: 55
+  speed: 30
+  defence: 36
+  resist: 19
+  weapon: 孤絶の斧+
+  assist: ぶちかまし
+  passive_a: 攻撃守備の渾身3
+  passive_b: 攻撃守備の連携3
+- name: ロシェ
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 52
+  speed: 35
+  defence: 38
+  resist: 21
+  weapon: 堅固の槍+
+  assist: 引き寄せ
+  passive_a: 速さ守備の密集3
+  passive_c: 遠距離警戒3
 - name: カミュ
   weapon_type: 槍
   movement_type: 騎馬
@@ -833,6 +882,18 @@
   special: 月虹
   passive_a: 鬼神金剛の一撃2
   passive_c: 剣の経験3
+- name: マリス
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 55
+  speed: 43
+  defence: 32
+  resist: 28
+  weapon: 安くない曲刀
+  special: 月光
+  passive_a: 攻撃速さの渾身4
+  passive_b: 回避・怒り3
 - name: ガーネフ
   weapon_type: 赤魔
   movement_type: 歩行

@@ -237,6 +237,19 @@
   passive_a: HP攻撃2
   passive_b: 幻惑の杖3
   passive_c: 先導の伝令・地3
+- name: フィヨルム4
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 43
+  attack: 55
+  speed: 41
+  defence: 31
+  resist: 36
+  weapon: 絶氷ニフル
+  special: 氷の聖鏡
+  passive_a: 飛燕金剛の構え3
+  passive_b: 盾壁隊形3
+  passive_c: 兜の護り手・遠間3
 - name: スリーズ
   weapon_type: 緑魔
   movement_type: 騎馬

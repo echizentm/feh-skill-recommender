@@ -46,6 +46,10 @@
 - name: 正面隊形・自己3
   allow:
     movement_type_list: [重装]
+- name: 盾壁隊形3
+  allow:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [重装]
 - name: 業火の舞い3
   deny:
     weapon_type_list: [杖]
@@ -182,6 +186,10 @@
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
 - name: 速さ魔防の干渉3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
+- name: 守備魔防の干渉3
   deny:
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
