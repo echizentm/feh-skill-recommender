@@ -192,4 +192,4 @@
     name_list: [マリアンヌ2]
 - name: 光炎の紋章
   allow:
-    name_list: [マルス6]
+    name_list: [マルス3, マルス6]

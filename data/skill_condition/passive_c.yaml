@@ -284,6 +284,9 @@
 - name: みんなと一緒に
   allow:
     name_list: [紋章チキ3, 紋章チキ5]
+- name: みんなと一緒に・承
+  allow:
+    name_list: [紋章チキ3]
 - name: ひとりぼっちのゆめ
   allow:
     name_list: [紋章チキ4]

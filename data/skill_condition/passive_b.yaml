@@ -382,7 +382,7 @@
 - name: 獅子連斬
   allow:
     name_list: [セリカ3]
-- name: 封印の盾
+- name: 封印の盾・承
   allow:
     name_list: [マルス3]
 - name: 月の腕輪
