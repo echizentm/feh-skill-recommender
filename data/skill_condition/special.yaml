@@ -193,3 +193,6 @@
 - name: 光炎の紋章
   allow:
     name_list: [マルス3, マルス6]
+- name: 永遠を生きるもの
+  allow:
+    name_list: [ファ3]

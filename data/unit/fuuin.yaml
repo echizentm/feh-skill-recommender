@@ -548,6 +548,19 @@
   passive_a: 守備魔防の絆3
   passive_b: 迎撃隊形3
   passive_c: 重装の行軍3
+- name: ファ3
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 40
+  attack: 61
+  speed: 28
+  defence: 37
+  resist: 41
+  weapon: 光輝のブレス
+  special: 永遠を生きるもの
+  passive_a: 遠反・明鏡の構え
+  passive_b: 竜の逆鱗3
+  passive_c: 守備魔防の脅嚇
 - name: イグレーヌ
   weapon_type: 赤弓
   movement_type: 歩行
