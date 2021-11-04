@@ -608,11 +608,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 34
-  attack: 42
+  attack: 44
   speed: 36
   defence: 17
   resist: 34
-  weapon: 暗殺手裏剣+
+  weapon: スズカゼの疾風針
   special: 氷蒼
   passive_b: 蛇毒3
   passive_c: 攻撃の紫煙3
