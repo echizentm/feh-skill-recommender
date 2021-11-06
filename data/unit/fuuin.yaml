@@ -574,6 +574,18 @@
   passive_a: 死線4
   passive_b: 奥義の螺旋3
   passive_c: 鼓動の幻煙3
+- name: イグレーヌ2
+  weapon_type: 暗器
+  movement_type: 飛行
+  hp: 45
+  attack: 54
+  speed: 44
+  defence: 20
+  resist: 28
+  weapon: くの一の飛刀
+  special: 月光
+  passive_a: 無の死闘・飛行4
+  passive_c: 速さ守備の牽制3
 - name: イドゥン
   weapon_type: 赤竜
   movement_type: 重装

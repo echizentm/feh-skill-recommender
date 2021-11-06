@@ -147,7 +147,7 @@
   assist: 体当たり
   passive_b: 攻め立て3
   passive_c: 速さの波・奇数3
-- name: シノン
+- name: 蒼炎シノン
   weapon_type: 弓
   movement_type: 歩行
   hp: 40
