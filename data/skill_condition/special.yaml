@@ -3,7 +3,7 @@
     weapon_type_list: [杖]
 - name: 狙撃
   allow:
-    weapon_type_list: [弓, 赤弓, 青弓, 緑弓]
+    weapon_type_list: [赤弓, 青弓, 緑弓, 弓]
 - name: 流星
   deny:
     weapon_type_list: [杖]
@@ -16,6 +16,9 @@
 - name: 月光
   deny:
     weapon_type_list: [杖]
+- name: 滅殺
+  allow:
+    weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
 - name: 夕陽
   deny:
     weapon_type_list: [杖]

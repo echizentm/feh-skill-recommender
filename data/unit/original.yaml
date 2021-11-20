@@ -416,6 +416,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 編隊飛行3
   passive_c: 飛刃の鼓舞
+- name: レーギャルン4
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 53
+  speed: 41
+  defence: 30
+  resist: 18
+  weapon: 絶炎ムスペル
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 攻撃守備の遠影3
+  passive_c: 攻撃速さの奮起4
 - name: レーヴァテイン
   weapon_type: 剣
   movement_type: 歩行
