@@ -583,6 +583,19 @@
   passive_a: 柔剣4
   passive_b: 死んでほしいの
   passive_c: 恐慌の幻煙3
+- name: トール
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 60
+  speed: 19
+  defence: 41
+  resist: 34
+  weapon: 神槌ミョルニル
+  special: 緋炎
+  passive_a: 攻撃守備の渾身4
+  passive_b: 怒涛・キャンセル3
+  passive_c: 神槌大地を穿つ
 - name: ロキ
   weapon_type: 杖
   movement_type: 歩行
@@ -776,3 +789,16 @@
   passive_a: 遠距離反撃
   passive_b: 双姫の月翼
   passive_c: 攻撃速さの脅嚇
+- name: エイトリ
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 37
+  attack: 58
+  speed: 29
+  defence: 30
+  resist: 31
+  weapon: 魔銃ブロック
+  special: 竜穿
+  passive_a: 攻撃魔防の孤軍4
+  passive_b: それは興味深いね
+  passive_c: 攻撃魔防の牽制3
