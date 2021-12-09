@@ -22,6 +22,12 @@
 - name: 攻撃魔防の奮起3
   deny:
     movement_type_list: [重装, 飛行]
+- name: 速さ守備の奮起3
+  deny:
+    movement_type_list: [重装, 飛行]
+- name: 速さ守備の奮起4
+  deny:
+    movement_type_list: [重装, 飛行]
 - name: 速さ魔防の奮起3
   deny:
     movement_type_list: [重装, 飛行]
@@ -263,6 +269,9 @@
 - name: 獣の経験3
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 赤への暗闘3
+  deny:
+    weapon_type_list: [斧, 緑弓, 緑暗器, 緑魔, 緑竜, 緑獣]
 - name: 盟主の鼓動・承
   allow:
     name_list: [ヘクトル3]
@@ -323,3 +332,9 @@
 - name: 炎王の脅嚇
   allow:
     name_list: [スルト2]
+- name: 神槌大地を穿つ
+  allow:
+    name_list: [トール]
+- name: 開神の眷属
+  allow:
+    name_list: [アシュ]

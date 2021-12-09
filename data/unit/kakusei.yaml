@@ -268,6 +268,18 @@
   special: 祈り
   passive_b: 幻惑の杖3
   passive_c: 杖の技量3
+- name: ミリエル
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 37
+  attack: 49
+  speed: 40
+  defence: 25
+  resist: 31
+  weapon: ブラーライオン+
+  assist: 引き寄せ
+  passive_a: 攻撃速さの万全3
+  passive_b: 速さ魔防の連携3
 - name: ティアモ
   weapon_type: 槍
   movement_type: 飛行
@@ -308,11 +320,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 40
-  attack: 48
+  attack: 51
   speed: 32
   defence: 28
   resist: 29
-  weapon: 倭棍+
+  weapon: 美僧の戦斧
   special: 夕陽
   passive_b: 回復3
   passive_c: 攻撃魔防の紋章2
@@ -352,6 +364,30 @@
   assist: 相互援助
   passive_a: HP3
   passive_b: 引き込み
+- name: バジーリオ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 48
+  attack: 57
+  speed: 33
+  defence: 36
+  resist: 21
+  weapon: 士気旺盛の斧+
+  special: 月虹
+  passive_a: 攻撃守備の絆3
+  passive_c: 攻撃の指揮3
+- name: フラヴィア
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 56
+  speed: 41
+  defence: 36
+  resist: 23
+  weapon: 女傑の大剣
+  special: 竜裂
+  passive_a: 攻撃速さの渾身4
+  passive_c: 赤への暗闘3
 - name: ロンクー
   weapon_type: 剣
   movement_type: 歩行
@@ -522,6 +558,18 @@
   special: 月光
   passive_a: グラニの盾
   passive_b: 守備の封印3
+- name: レンハ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 43
+  attack: 53
+  speed: 45
+  defence: 32
+  resist: 28
+  weapon: 修羅アマツ
+  special: 流星
+  passive_a: 鬼神飛燕の構え2
+  passive_c: 攻撃守備の威嚇2
 - name: サイリ
   weapon_type: 剣
   movement_type: 歩行
@@ -619,6 +667,19 @@
   special: 流星
   passive_b: 速さの封印3
   passive_c: 守備の紫煙3
+- name: パリス
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 57
+  speed: 40
+  defence: 38
+  resist: 26
+  weapon: 末流ラグネル
+  special: 太陽
+  passive_a: 攻撃守備の万全4
+  passive_b: 見切り・追撃効果3
+  passive_c: 速さ守備の奮起4
 - name: 覚醒アンナ
   weapon_type: 槍
   movement_type: 歩行
