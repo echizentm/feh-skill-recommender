@@ -187,6 +187,18 @@
   assist: 入れ替え
   passive_b: 速さ魔防封じ2
   passive_c: 速さの指揮3
+- name: アスレイ
+  weapon_type: 緑魔
+  movement_type: 重装
+  hp: 43
+  attack: 53
+  speed: 19
+  defence: 35
+  resist: 41
+  weapon: スノードーム+
+  special: 氷蒼
+  passive_b: 追撃隊形・奇数3
+  passive_c: 盾の護り手・遠間3
 - name: ロス
   weapon_type: 斧
   movement_type: 歩行

@@ -660,6 +660,19 @@
   passive_a: 守備魔防の城塞3
   passive_b: 守備の混乱3
   passive_c: 守備魔防の大開放3
+- name: ルピナス2
+  weapon_type: 青暗器
+  movement_type: 飛行
+  hp: 39
+  attack: 50
+  speed: 17
+  defence: 34
+  resist: 39
+  weapon: 白き夢のかけら
+  assist: しろいゆめ
+  passive_a: 金剛明鏡の構え3
+  passive_b: 速さの魅了3
+  passive_c: 先導の伝令・地3
 - name: プルメリア
   weapon_type: 赤魔
   movement_type: 飛行

@@ -504,6 +504,18 @@
   assist: ぶちかまし
   passive_b: 追撃隊形・奇数3
   passive_c: 攻撃の紫煙3
+- name: イグナーツ
+  weapon_type: 弓
+  movement_type: 重装
+  hp: 42
+  attack: 47
+  speed: 40
+  defence: 31
+  resist: 37
+  weapon: 聖樹の弓+
+  assist: 攻撃速さの応援
+  passive_a: 速さ守備の密集3
+  passive_c: 守備の指揮3
 - name: リシテア
   weapon_type: 赤魔
   movement_type: 歩行
@@ -530,6 +542,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の凪3
   passive_c: 速さの鼓舞4
+- name: リシテア3
+  weapon_type: 魔
+  movement_type: 騎馬
+  hp: 38
+  attack: 56
+  speed: 40
+  defence: 19
+  resist: 23
+  weapon: 幸運ぶ冬の聖菓
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃3
+  passive_b: 攻撃魔防の遠影3
+  passive_c: 無への暗闘3
 - name: マリアンヌ
   weapon_type: 青魔
   movement_type: 歩行
@@ -693,6 +718,18 @@
   special: 疾風静水の祝福+
   passive_b: 幻惑の杖3
   passive_c: 先導の伝令・地3
+- name: マヌエラ
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 42
+  attack: 51
+  speed: 42
+  defence: 38
+  resist: 31
+  weapon: 冬祭の突剣+
+  special: 華炎
+  passive_a: 攻撃速さの密集3
+  passive_b: 奥義隊形3
 - name: カトリーヌ
   weapon_type: 剣
   movement_type: 歩行

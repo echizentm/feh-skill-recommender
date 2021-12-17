@@ -83,6 +83,9 @@
 - name: 攻撃の魅了3
   deny:
     weapon_type_list: [杖]
+- name: 速さの魅了3
+  deny:
+    weapon_type_list: [杖]
 - name: 守備の魅了3
   deny:
     weapon_type_list: [杖]
