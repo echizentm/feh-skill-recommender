@@ -50,7 +50,7 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の封印2
   passive_c: 先導の伝令・地3
-- name: ベレト3
+- name: ベレス3
   weapon_type: 青魔
   movement_type: 歩行
   hp: 40
