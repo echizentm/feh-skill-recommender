@@ -341,3 +341,6 @@
 - name: 開神の眷属
   allow:
     name_list: [アシュ]
+- name: 女神を宿せし者
+  allow:
+    name_list: [ベレス3]

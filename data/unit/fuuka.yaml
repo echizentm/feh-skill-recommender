@@ -50,6 +50,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の封印2
   passive_c: 先導の伝令・地3
+- name: ベレト3
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 53
+  speed: 43
+  defence: 23
+  resist: 26
+  weapon: 師の授けの書
+  special: 破天
+  passive_a: 攻撃速さの万全4
+  passive_b: 速さ魔防の凪3
+  passive_c: 女神を宿せし者
 - name: ソティス
   weapon_type: 赤竜
   movement_type: 歩行
