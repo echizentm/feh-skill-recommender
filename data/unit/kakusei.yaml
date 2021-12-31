@@ -747,8 +747,8 @@
   defence: 25
   resist: 20
   weapon: ソグン
-  assist: 未来を映す瞳
-  passive_a: 鬼神飛燕の一撃2
+  assist: 未来を映す瞳・承
+  passive_a: 鬼神飛燕の一撃3
   passive_b: 救援の行路3
   passive_c: 遠距離警戒3
 - name: ウード

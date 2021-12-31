@@ -392,7 +392,7 @@
 - name: 封印の盾・承
   allow:
     name_list: [マルス3]
-- name: 月の腕輪
+- name: 月の腕輪・承
   allow:
     name_list: [エイリーク3]
 - name: 凍結の封印

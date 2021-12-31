@@ -138,7 +138,7 @@
 - name: 癒しの乙女
   allow:
     name_list: [ミカヤ5]
-- name: 未来を映す瞳
+- name: 未来を映す瞳・承
   allow:
     name_list: [ルキナ5]
 - name: やさしいゆめ
@@ -149,7 +149,7 @@
     name_list: [クロム5]
 - name: しろいゆめ
   allow:
-    name_list: [ルピナス]
+    name_list: [ルピナス, ルピナス2]
 - name: あまいゆめ
   allow:
     name_list: [プルメリア, プルメリア2]

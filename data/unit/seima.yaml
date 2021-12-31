@@ -33,8 +33,8 @@
   resist: 21
   weapon: 雷剣ジークリンデ
   special: 月虹
-  passive_a: 攻撃速さの孤軍3
-  passive_b: 月の腕輪
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 月の腕輪・承
   passive_c: 守備の波・奇数3
 - name: エイリーク4
   weapon_type: 杖
