@@ -763,6 +763,18 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 速さ守備の凪3
   passive_c: 恐慌の幻煙3
+- name: レギン2
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 37
+  attack: 55
+  speed: 40
+  defence: 23
+  resist: 24
+  weapon: ニザヴェリルの箱
+  special: 魔弾
+  passive_a: 鬼神飛燕の一撃3
+  passive_c: 攻撃の十字紋章
 - name: オッテル
   weapon_type: 斧
   movement_type: 騎馬
@@ -776,6 +788,19 @@
   passive_a: 緑の死闘・騎馬4
   passive_b: 怒濤・再起3
   passive_c: 攻撃守備の脅嚇
+- name: ファフニール
+  weapon_type: 赤暗器
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 42
+  defence: 31
+  resist: 16
+  weapon: ニザヴェリルの花
+  special: 凶星
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 罠解除3
+  passive_c: 攻撃守備の奮起4
 - name: ダグ
   weapon_type: 斧
   movement_type: 歩行
@@ -789,6 +814,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 双姫の陽翼
   passive_c: 迅雷風烈・偶数3
+- name: ダグ2
+  weapon_type: 緑弓
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 42
+  defence: 27
+  resist: 22
+  weapon: 巨人姉妹の弓
+  special: 月光
+  passive_a: 攻撃速さの渾身4
+  passive_b: 双姫の陽翼
+  passive_c: 攻撃守備の牽制3
 - name: ノート
   weapon_type: 槍
   movement_type: 歩行

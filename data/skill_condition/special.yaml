@@ -177,7 +177,7 @@
     name_list: [女カムイ5]
 - name: 魔弾
   allow:
-    name_list: [レギン]
+    name_list: [レギン, レギン2]
 - name: 凶弾
   allow:
     name_list: [オッテル]

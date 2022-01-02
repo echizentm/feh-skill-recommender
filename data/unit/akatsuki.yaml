@@ -250,6 +250,30 @@
   special: 凶星
   passive_a: 攻撃速さの孤軍3
   passive_b: 速さ守備の凪3
+- name: キサ
+  weapon_type: 赤獣
+  movement_type: 歩行
+  hp: 45
+  attack: 53
+  speed: 26
+  defence: 44
+  resist: 30
+  weapon: 賀正の銀虎の爪牙
+  special: 月虹
+  passive_a: 近距離防御3
+  passive_c: 攻撃守備の信義3
+- name: リィレ
+  weapon_type: 獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 51
+  speed: 45
+  defence: 27
+  resist: 28
+  weapon: 賀正の妹猫の爪牙
+  special: 月光
+  passive_a: 攻撃速さの機先3
+  passive_b: 攻撃守備の封印2
 - name: デギンハンザー
   weapon_type: 赤竜
   movement_type: 重装
