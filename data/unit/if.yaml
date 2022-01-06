@@ -1024,11 +1024,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 40
-  attack: 49
+  attack: 51
   speed: 24
   defence: 36
   resist: 21
-  weapon: 貫きの槍鍛+
+  weapon: 騎士の誓いの槍
   assist: 引き戻し
   passive_a: 金剛の構え3
   passive_c: 守備の波・偶数3

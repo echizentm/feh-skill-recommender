@@ -448,11 +448,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 40
-  attack: 42
+  attack: 46
   speed: 29
   defence: 21
   resist: 35
-  weapon: ラウアアウル+
+  weapon: 古代魔道の稀書
   assist: 相互援助
   passive_a: HP魔防2
   passive_c: 魔防の指揮3
