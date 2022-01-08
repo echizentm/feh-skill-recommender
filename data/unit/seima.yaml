@@ -163,6 +163,31 @@
   special: 華炎
   passive_b: 待ち伏せ3
   passive_c: 攻撃守備の奮起3
+- name: コーマ
+  weapon_type: 青暗器
+  movement_type: 歩行
+  hp: 43
+  attack: 50
+  speed: 43
+  defence: 24
+  resist: 32
+  weapon: 奥義発動の暗器+
+  assist: 回り込み
+  special: 月虹
+  passive_a: 攻撃速さ2
+  passive_b: 攻撃魔防の連携3
+- name: ネイミー
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 39
+  attack: 53
+  speed: 45
+  defence: 21
+  resist: 35
+  weapon: 涙目の速射弓
+  special: 月虹
+  passive_a: 速さ魔防の絆4
+  passive_c: 魔防の相互大紋章
 - name: ルーテ
   weapon_type: 青魔
   movement_type: 歩行
@@ -359,6 +384,18 @@
   assist: 攻撃魔防の応援+
   passive_a: 死線4
   passive_b: 攻撃魔防の大共謀3
+- name: アーヴ
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 43
+  attack: 53
+  speed: 25
+  defence: 23
+  resist: 40
+  weapon: アルジローレ
+  special: 氷華
+  passive_a: 攻撃魔防の万全3
+  passive_c: 死の吐息3
 - name: ヴァルター
   weapon_type: 槍
   movement_type: 飛行
@@ -456,6 +493,19 @@
   assist: 体当たり
   passive_b: 攻撃速さの連携3
   passive_c: 守備の鼓舞4
+- name: ヨシュア3
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 41
+  attack: 60
+  speed: 50
+  defence: 24
+  resist: 20
+  weapon: ジャハナ王の砂刃
+  special: 凶星
+  passive_a: 死線4
+  passive_b: 見切り・追撃効果3
+  passive_c: 緑への暗闘3
 - name: ジスト
   weapon_type: 斧
   movement_type: 歩行
@@ -566,6 +616,18 @@
   assist: 攻撃守備の応援+
   passive_a: 攻撃守備の防城戦3
   passive_c: 重装の行軍3
+- name: レナック
+  weapon_type: 緑暗器
+  movement_type: 歩行
+  hp: 39
+  attack: 49
+  speed: 42
+  defence: 34
+  resist: 25
+  weapon: 猛攻の暗器+
+  special: 凶星
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 罠解除3
 - name: ミルラ
   weapon_type: 緑竜
   movement_type: 飛行
