@@ -748,6 +748,19 @@
   assist: 引き戻し
   passive_a: 攻撃魔防の密集3
   passive_c: 歩行の魔刃3
+- name: チェイニー2
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 47
+  attack: 42
+  speed: 36
+  defence: 23
+  resist: 35
+  weapon: 蛇の杖+
+  assist: リブロー+
+  special: 祈り
+  passive_a: 守備魔防の孤軍3
+  passive_b: 幻惑の杖3
 - name: バヌトゥ
   weapon_type: 赤竜
   movement_type: 歩行

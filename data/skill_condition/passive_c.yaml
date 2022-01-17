@@ -292,7 +292,7 @@
     name_list: [エイル]
 - name: 邪眼
   allow:
-    name_list: [ニケ, ニケ2]
+    name_list: [ニケ, ニケ2, ニケ3]
 - name: メガクェイク
   allow:
     name_list: [ドーマ]

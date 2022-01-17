@@ -436,6 +436,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 速さ守備の封印2
   passive_c: 邪眼
+- name: ニケ3
+  weapon_type: 赤獣
+  movement_type: 歩行
+  hp: 40
+  attack: 53
+  speed: 43
+  defence: 35
+  resist: 25
+  weapon: 砂漠の狼女王の牙
+  special: 月光
+  passive_a: 鬼神金剛の迫撃
+  passive_b: 速さ守備の凪3
+  passive_c: 邪眼
 - name: オルティナ
   weapon_type: 剣
   movement_type: 飛行

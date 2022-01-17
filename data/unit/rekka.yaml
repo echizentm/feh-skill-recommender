@@ -480,6 +480,18 @@
   special: 竜裂
   passive_b: 怒り3
   passive_c: 速さの波・偶数3
+- name: カアラ2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 41
+  attack: 56
+  speed: 42
+  defence: 31
+  resist: 28
+  weapon: 砂漠の剣姫の槍
+  special: 竜裂
+  passive_b: 奥義の螺旋3
+  passive_c: 迅雷風烈・奇数3
 - name: ラス
   weapon_type: 緑弓
   movement_type: 騎馬

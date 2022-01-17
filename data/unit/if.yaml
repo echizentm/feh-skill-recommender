@@ -196,6 +196,19 @@
   passive_a: 青の死闘・飛行3
   passive_b: 曲技飛行3
   passive_c: 攻撃の指揮3
+- name: アクア6
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 37
+  attack: 58
+  speed: 43
+  defence: 20
+  resist: 27
+  weapon: 響き渡る合唱の祭器
+  assist: ユラリユルレリ
+  passive_a: 獅子奮迅4
+  passive_b: 速さ魔防の遠影3
+  passive_c: 魔防の十字紋章
 - name: ギュンター
   weapon_type: 斧
   movement_type: 騎馬
