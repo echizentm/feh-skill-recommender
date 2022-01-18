@@ -443,6 +443,18 @@
   special: 月虹
   passive_a: 鬼神明鏡の一撃2
   passive_c: 魔防の謀策3
+- name: ディーン
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 43
+  attack: 48
+  speed: 39
+  defence: 27
+  resist: 23
+  weapon: 骨の暗器+
+  assist: 入れ替え
+  passive_b: 速さ守備の干渉3
+  passive_c: 速さの波・奇数3
 - name: ティータ
   weapon_type: 青魔
   movement_type: 歩行
