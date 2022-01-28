@@ -350,3 +350,6 @@
 - name: 女神を宿せし者
   allow:
     name_list: [ベレス3]
+- name: 地上の最後の女神
+  allow:
+    name_list: [エリミーヌ]

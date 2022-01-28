@@ -474,6 +474,18 @@
   special: 太陽
   passive_a: 速さ魔防の大覚醒3
   passive_c: 攻撃の大紋章3
+- name: ララム
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 37
+  attack: 44
+  speed: 39
+  defence: 18
+  resist: 30
+  weapon: 竜殺の暗器+
+  assist: 踊る
+  passive_b: 罠解除3
+  passive_c: 速さ魔防の大開放3
 - name: ディーク
   weapon_type: 斧
   movement_type: 歩行
@@ -612,15 +624,16 @@
   passive_a: 鬼神金剛の構え3
   passive_b: 迎撃隊形3
   passive_c: 竜刃の紋章
-- name: ララム
-  weapon_type: 暗器
-  movement_type: 歩行
-  hp: 37
-  attack: 44
-  speed: 39
-  defence: 18
-  resist: 30
-  weapon: 竜殺の暗器+
-  assist: 踊る
-  passive_b: 罠解除3
-  passive_c: 速さ魔防の大開放3
+- name: エリミーヌ
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 36
+  attack: 48
+  speed: 40
+  defence: 16
+  resist: 41
+  weapon: 聖女の杖
+  assist: プッシュ+
+  passive_a: 攻撃魔防の渾身4
+  passive_b: 攻撃速さの遠影3
+  passive_c: 地上の最後の女神
