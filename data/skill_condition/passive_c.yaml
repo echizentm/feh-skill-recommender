@@ -287,7 +287,7 @@
 - name: 炎王の威嚇
   allow:
     name_list: [スルト]
-- name: 生命の輝き
+- name: 生命の輝き・承
   allow:
     name_list: [エイル]
 - name: 邪眼

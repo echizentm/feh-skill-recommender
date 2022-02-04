@@ -395,7 +395,7 @@
 - name: 月の腕輪・承
   allow:
     name_list: [エイリーク3]
-- name: 凍結の封印
+- name: 凍結の封印・承
   allow:
     name_list: [フリーズ]
 - name: ユンヌの囁き
