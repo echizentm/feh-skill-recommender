@@ -60,6 +60,19 @@
   passive_a: 近距離反撃
   passive_b: 攻撃守備の凪3
   passive_c: 守備魔防の奮起3
+- name: クロム6
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 40
+  attack: 58
+  speed: 27
+  defence: 40
+  resist: 26
+  weapon: 運命変える絆弓
+  assist: 運命を変える！
+  special: 狙撃
+  passive_a: 近反・攻撃の渾身
+  passive_c: 始まりの鼓動3
 - name: 男ルフレ
   weapon_type: 青魔
   movement_type: 歩行
@@ -159,6 +172,18 @@
   passive_a: 邪竜の大鱗
   passive_b: 竜の逆鱗3
   passive_c: 竜刃の紋章
+- name: 女ルフレ5
+  weapon_type: 魔
+  movement_type: 重装
+  hp: 42
+  attack: 55
+  speed: 16
+  defence: 39
+  resist: 42
+  weapon: アキメネスの花冠
+  special: 氷蒼
+  passive_b: 追撃隊形・偶数3
+  passive_c: 鎧の護り手・遠間3
 - name: リズ
   weapon_type: 杖
   movement_type: 歩行
@@ -183,6 +208,19 @@
   special: 緋炎
   passive_b: 攻撃隊形3
   passive_c: 重盾の鼓舞
+- name: リズ3
+  weapon_type: 杖
+  movement_type: 重装
+  hp: 42
+  attack: 47
+  speed: 25
+  defence: 37
+  resist: 40
+  weapon: 感謝の花の杖+
+  assist: セインツ+
+  special: 天照
+  passive_a: 守備魔防の万全3
+  passive_c: 魔防の開放3
 - name: エメリナ
   weapon_type: 杖
   movement_type: 歩行
@@ -751,6 +789,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 救援の行路3
   passive_c: 遠距離警戒3
+- name: ルキナ6
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 41
+  attack: 55
+  speed: 45
+  defence: 37
+  resist: 31
+  weapon: ガーベラの斧
+  assist: 未来を映す瞳
+  passive_a: 鬼神飛燕の構え3
+  passive_b: 慧眼隊形3
+  passive_c: 鎧の護り手・近間3
 - name: ウード
   weapon_type: 剣
   movement_type: 歩行
@@ -764,6 +815,18 @@
   passive_a: 攻撃守備の絆3
   passive_b: 怒り3
   passive_c: 速さ守備の紋章2
+- name: ウード2
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 52
+  speed: 42
+  defence: 31
+  resist: 21
+  weapon: 感謝の花の槍+
+  special: ブルーフレイム
+  passive_a: 攻撃速さの絆3
+  passive_b: 救援の行路3
 - name: アズール
   weapon_type: 緑魔
   movement_type: 歩行

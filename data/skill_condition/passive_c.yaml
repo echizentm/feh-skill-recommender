@@ -167,6 +167,9 @@
 - name: 鎧の護り手・近間3
   allow:
     movement_type_list: [重装]
+- name: 鎧の護り手・遠間3
+  allow:
+    movement_type_list: [重装]
 - name: 兜の護り手・近間3
   allow:
     movement_type_list: [重装]

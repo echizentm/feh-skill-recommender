@@ -679,11 +679,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 39
-  attack: 43
+  attack: 45
   speed: 38
   defence: 24
   resist: 19
-  weapon: 粛清の暗器+
+  weapon: 疾風の暗器
   special: 凶星
   passive_a: 飛燕明鏡の一撃2
   passive_c: 攻撃の指揮3

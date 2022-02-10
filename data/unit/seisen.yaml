@@ -178,11 +178,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 38
-  attack: 48
+  attack: 50
   speed: 32
   defence: 29
   resist: 17
-  weapon: キラーボウ鍛+
+  weapon: ヴェルダンの荒弓
   special: 流星
   passive_a: 剛剣3
   passive_b: 相性相殺3

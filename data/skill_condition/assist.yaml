@@ -138,6 +138,9 @@
 - name: 癒しの乙女
   allow:
     name_list: [ミカヤ5]
+- name: 未来を映す瞳
+  allow:
+    name_list: [ルキナ5, ルキナ6]
 - name: 未来を映す瞳・承
   allow:
     name_list: [ルキナ5]
@@ -146,7 +149,7 @@
     name_list: [ピアニー, ピアニー2]
 - name: 運命を変える！
   allow:
-    name_list: [クロム5]
+    name_list: [クロム5, クロム6]
 - name: しろいゆめ
   allow:
     name_list: [ルピナス, ルピナス2]
