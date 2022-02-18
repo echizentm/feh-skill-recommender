@@ -389,6 +389,30 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 攻撃守備の遠影3
   passive_c: 攻撃守備の牽制3
+- name: ニイメ
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 36
+  attack: 54
+  speed: 33
+  defence: 17
+  resist: 43
+  weapon: ヒータバルチャー+
+  special: 氷蒼
+  passive_a: 攻撃魔防の孤軍4
+  passive_c: 攻撃魔防の脅嚇
+- name: ヒュウ
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 45
+  defence: 27
+  resist: 24
+  weapon: 雇われ魔道士の書
+  special: 月虹
+  passive_a: 速さ守備の万全4
+  passive_c: 攻撃速さの奮起4
 - name: スー
   weapon_type: 緑弓
   movement_type: 騎馬
@@ -624,6 +648,31 @@
   passive_a: 鬼神金剛の構え3
   passive_b: 迎撃隊形3
   passive_c: 竜刃の紋章
+- name: イドゥン3
+  weapon_type: 青竜
+  movement_type: 重装
+  hp: 45
+  attack: 59
+  speed: 26
+  defence: 43
+  resist: 38
+  weapon: 芽生えし心の竜石
+  special: 緋炎
+  passive_a: 鬼神金剛の構え3
+  passive_b: 正面隊形・敵方3
+  passive_c: 盾の護り手・近間3
+- name: キャス
+  weapon_type: 緑暗器
+  movement_type: 歩行
+  hp: 41
+  attack: 48
+  speed: 43
+  defence: 27
+  resist: 30
+  weapon: 鎧殺の暗器+
+  assist: 引き戻し
+  passive_a: 攻撃魔防の絆3
+  passive_b: 速さ魔防の連携3
 - name: エリミーヌ
   weapon_type: 杖
   movement_type: 飛行

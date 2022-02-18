@@ -138,6 +138,12 @@
 - name: 攻撃魔防の万全4
   deny:
     movement_type_list: [騎馬, 飛行]
+- name: 速さ守備の万全3
+  deny:
+    movement_type_list: [騎馬, 飛行]
+- name: 速さ守備の万全4
+  deny:
+    movement_type_list: [騎馬, 飛行]
 - name: 守備魔防の万全3
   deny:
     movement_type_list: [騎馬, 飛行]
