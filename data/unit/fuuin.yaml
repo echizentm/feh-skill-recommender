@@ -535,6 +535,18 @@
   assist: 引き戻し
   passive_a: 生命の業火3
   passive_c: 歩行の鼓動3
+- name: ゴンザレス
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 50
+  attack: 56
+  speed: 35
+  defence: 33
+  resist: 21
+  weapon: 牽制の斧+
+  special: 竜穿
+  passive_a: 攻撃速さの渾身3
+  passive_c: 攻撃速さの威嚇2
 - name: ソフィーヤ
   weapon_type: 赤魔
   movement_type: 歩行
