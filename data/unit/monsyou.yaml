@@ -269,6 +269,19 @@
   passive_a: 攻撃速さの機先4
   passive_b: 怒涛・再起3
   passive_c: 恐慌の幻煙3
+- name: シーダ5
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 39
+  attack: 57
+  speed: 43
+  defence: 27
+  resist: 31
+  weapon: 扶翼ウイングスピア
+  special: 月虹
+  passive_a: 遠反・攻撃の渾身
+  passive_b: 信じつづける誓い
+  passive_c: 攻撃守備の牽制3
 - name: オグマ
   weapon_type: 剣
   movement_type: 歩行

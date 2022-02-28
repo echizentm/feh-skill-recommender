@@ -470,3 +470,6 @@
 - name: それは興味深いね
   allow:
     name_list: [エイトリ]
+- name: 信じつづける誓い
+  allow:
+    name_list: [シーダ5]
