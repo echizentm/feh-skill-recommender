@@ -417,11 +417,11 @@
   weapon_type: 緑弓
   movement_type: 騎馬
   hp: 36
-  attack: 44
+  attack: 46
   speed: 38
   defence: 23
   resist: 20
-  weapon: 短弓+
+  weapon: 颯弓ミュルグレ
   special: 月虹
   passive_a: 鬼神飛燕の一撃2
   passive_b: 守備の封印3
