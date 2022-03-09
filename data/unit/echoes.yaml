@@ -369,6 +369,18 @@
   special: 凶星
   passive_a: 鬼神飛燕の一撃2
   passive_b: キャンセル3
+- name: リュート2
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 52
+  speed: 36
+  defence: 31
+  resist: 27
+  weapon: 春花の槍+
+  assist: 引き戻し
+  passive_a: 攻撃守備の絆3
+  passive_b: 攻撃守備の干渉3
 - name: デューテ
   weapon_type: 青魔
   movement_type: 歩行
@@ -393,6 +405,19 @@
   special: 氷華
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の波・偶数3
+- name: デューテ3
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 36
+  attack: 57
+  speed: 40
+  defence: 16
+  resist: 28
+  weapon: 可憐に色づく飾り卵
+  special: 凶星
+  passive_a: 攻撃速さの機先4
+  passive_b: 速さ魔防の遠影3
+  passive_c: 攻撃速さの奮起4
 - name: echoesパオラ
   weapon_type: 剣
   movement_type: 飛行
@@ -443,6 +468,19 @@
   special: 月虹
   passive_a: 鬼神明鏡の一撃2
   passive_c: 魔防の謀策3
+- name: ソニア2
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 40
+  attack: 56
+  speed: 41
+  defence: 23
+  resist: 20
+  weapon: 二羽の魔兎の揺籃
+  special: 月光
+  passive_a: 攻撃速さの連帯
+  passive_b: 守備魔防の封印2
+  passive_c: 速さ魔防の大牽制
 - name: ディーン
   weapon_type: 暗器
   movement_type: 騎馬

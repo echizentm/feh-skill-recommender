@@ -438,6 +438,18 @@
   assist: リブロー+
   special: 祈り
   passive_c: 魔防の鼓舞3
+- name: マリア2
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 35
+  attack: 53
+  speed: 40
+  defence: 43
+  resist: 25
+  weapon: 無邪気な白兎の斧
+  assist: 速さ守備の応援+
+  passive_a: 攻撃守備の渾身4
+  passive_b: 怒涛・飛竜行空3
 - name: 紋章パオラ
   weapon_type: 剣
   movement_type: 飛行

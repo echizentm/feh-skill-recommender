@@ -511,6 +511,18 @@
   special: 血讐
   passive_b: 栄誉の喜び3
   passive_c: 重装の行軍3
+- name: ヘンリー3
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 41
+  attack: 49
+  speed: 27
+  defence: 40
+  resist: 23
+  weapon: 春花の弓+
+  assist: 守備魔防の応援+
+  passive_a: 攻撃守備の大覚醒3
+  passive_b: 攻撃守備の大共謀3
 - name: サーリャ
   weapon_type: 赤魔
   movement_type: 歩行
