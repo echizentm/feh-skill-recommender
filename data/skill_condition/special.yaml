@@ -7,6 +7,10 @@
 - name: 流星
   deny:
     weapon_type_list: [杖]
+- name: 心流星
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 疾風迅雷
   allow:
     weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
