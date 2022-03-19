@@ -312,6 +312,18 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 幻惑の杖3
   passive_c: 魔防の相互大紋章
+- name: セイラム
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 41
+  attack: 50
+  speed: 36
+  defence: 18
+  resist: 38
+  weapon: ラウアバルチャー+
+  special: 氷華
+  passive_a: 攻撃魔防の渾身3
+  passive_b: 攻撃の混乱3
 - name: リフィス
   weapon_type: 斧
   movement_type: 歩行
