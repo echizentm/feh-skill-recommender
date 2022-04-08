@@ -36,6 +36,19 @@
   passive_a: 遠距離反撃
   passive_b: 奥義隊形3
   passive_c: 速さの波・偶数3
+- name: 蒼炎アイク4
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 61
+  speed: 42
+  defence: 32
+  resist: 26
+  weapon: 戦神の剛なる鉄剣
+  special: 蒼の天空
+  passive_a: 遠反・飛燕の構え
+  passive_b: 見切り・反撃不可3
+  passive_c: 攻撃の相互大紋章
 - name: ティアマト
   weapon_type: 斧
   movement_type: 騎馬
@@ -85,6 +98,18 @@
   passive_a: 攻撃魔防の絆3
   passive_b: 速さの共謀3
   passive_c: 魔防の開放3
+- name: セネリオ3
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 36
+  attack: 56
+  speed: 34
+  defence: 16
+  resist: 43
+  weapon: 戦神の戦術書
+  special: 氷蒼
+  passive_a: 鬼神明鏡の瞬撃
+  passive_c: 始まりの鼓動3
 - name: ミスト
   weapon_type: 杖
   movement_type: 歩行
@@ -135,6 +160,18 @@
   assist: 速さ守備の応援
   passive_b: 槍殺し3
   passive_c: 速さ守備の紋章2
+- name: ボーレ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 50
+  attack: 62
+  speed: 36
+  defence: 31
+  resist: 21
+  weapon: 戦神の大斧
+  assist: 体当たり
+  passive_a: 生命の業火3
+  passive_c: 歩行の鼓動3
 - name: ヨファ
   weapon_type: 弓
   movement_type: 騎馬
@@ -184,6 +221,19 @@
   special: 月光
   passive_a: 柔剣3
   passive_b: 待ち伏せ3
+- name: 蒼炎ワユ2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 57
+  speed: 43
+  defence: 32
+  resist: 27
+  weapon: 戦神の鋭剣
+  special: 竜穿
+  passive_a: 柔剣4
+  passive_b: 速さ守備の拍節3
+  passive_c: 迅雷風烈・奇数3
 - name: 蒼炎エリンシア
   weapon_type: 剣
   movement_type: 飛行
@@ -428,3 +478,15 @@
   special: 氷蒼
   passive_a: 鬼神明鏡の一撃2
   passive_c: 魔防の謀策3
+- name: イレース3
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 55
+  speed: 30
+  defence: 18
+  resist: 45
+  weapon: 戦神の風書
+  special: 氷華
+  passive_b: 攻撃魔防の凪3
+  passive_c: 攻撃魔防の大開放3
