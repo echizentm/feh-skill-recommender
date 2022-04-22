@@ -384,6 +384,43 @@
   passive_a: 飛燕金剛の構え3
   passive_b: 怒り3
   passive_c: 速さの波・偶数3
+- name: スカサハ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 43
+  attack: 56
+  speed: 30
+  defence: 43
+  resist: 24
+  weapon: 士気旺盛の剣+
+  special: 流星
+  passive_a: 攻撃守備の万全3
+  passive_c: 守備の波・奇数3
+- name: アーサー
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 54
+  speed: 41
+  defence: 30
+  resist: 18
+  weapon: グルンバルチャー+
+  special: 凶星
+  passive_a: 攻撃速さの万全4
+  passive_c: 速さ魔防の脅嚇
+- name: ティニー
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 38
+  attack: 60
+  speed: 46
+  defence: 27
+  resist: 30
+  weapon: 怒雷の紫書
+  special: 竜裂
+  passive_a: 獅子奮迅4
+  passive_b: 見切り・追撃効果3
+  passive_c: 青への暗闘3
 - name: ユリア
   weapon_type: 緑魔
   movement_type: 歩行
@@ -519,6 +556,31 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 待ち伏せ3
   passive_c: 攻撃の波・奇数3
+- name: 聖戦イシュタル2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 62
+  speed: 50
+  defence: 12
+  resist: 26
+  weapon: 雷神トールハンマー
+  special: 月光
+  passive_a: 死線4
+  passive_b: 速さ魔防の凪3
+  passive_c: 始まりの鼓動3
+- name: 聖戦ヒルダ
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 41
+  attack: 54
+  speed: 25
+  defence: 24
+  resist: 43
+  weapon: 嘲謔ボルガノン
+  special: 氷華
+  passive_a: 攻撃魔防の万全3
+  passive_c: 攻撃魔防の奮起3
 - name: ウル
   weapon_type: 青弓
   movement_type: 歩行

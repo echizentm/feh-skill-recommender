@@ -594,7 +594,7 @@
   passive_a: 攻撃速さの連帯
   passive_b: 見切り・追撃効果3
   passive_c: 始まりの鼓動3
-- name: ヒルダ
+- name: 風花ヒルダ
   weapon_type: 斧
   movement_type: 歩行
   hp: 43
@@ -607,7 +607,7 @@
   passive_a: 攻撃速さの孤軍3
   passive_b: 見切り・追撃効果3
   passive_c: 守備の開放3
-- name: ヒルダ2
+- name: 風花ヒルダ2
   weapon_type: 槍
   movement_type: 重装
   hp: 44
@@ -619,7 +619,7 @@
   assist: 体当たり
   passive_a: 攻撃守備の密集3
   passive_b: 追撃隊形・偶数3
-- name: ヒルダ3
+- name: 風花ヒルダ3
   weapon_type: 杖
   movement_type: 飛行
   hp: 39
