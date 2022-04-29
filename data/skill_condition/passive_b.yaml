@@ -480,3 +480,9 @@
 - name: 信じつづける誓い
   allow:
     name_list: [シーダ5]
+- name: ヘズルの聖戦士
+  allow:
+    name_list: [ナンナ3]
+- name: 我が復活は成った
+  allow:
+    name_list: [メディウス]

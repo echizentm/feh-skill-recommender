@@ -932,6 +932,19 @@
   special: 月光
   passive_a: 攻撃速さの渾身4
   passive_b: 回避・怒り3
+- name: メディウス
+  weapon_type: 竜
+  movement_type: 歩行
+  hp: 40
+  attack: 63
+  speed: 18
+  defence: 38
+  resist: 43
+  weapon: 暗黒地竜のブレス
+  special: 氷華
+  passive_a: 守備魔防の万全4
+  passive_b: 我が復活は成った
+  passive_c: 再移動制限3
 - name: ガーネフ
   weapon_type: 赤魔
   movement_type: 歩行
