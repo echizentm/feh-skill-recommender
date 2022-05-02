@@ -305,7 +305,7 @@
 - name: 邪眼
   allow:
     name_list: [ニケ, ニケ2, ニケ3]
-- name: メガクェイク
+- name: メガクェイク・神
   allow:
     name_list: [ドーマ]
 - name: 人の可能性を！

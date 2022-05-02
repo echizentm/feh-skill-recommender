@@ -356,11 +356,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 37
-  attack: 45
+  attack: 47
   speed: 35
   defence: 31
   resist: 28
-  weapon: 守りの槍+
+  weapon: 氷槍マルテ
   special: 華炎
   passive_a: 飛燕金剛の構え2
   passive_b: 速さ守備封じ2

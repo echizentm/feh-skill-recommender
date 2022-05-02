@@ -618,15 +618,15 @@
   weapon_type: 竜
   movement_type: 重装
   hp: 48
-  attack: 59
-  speed: 21
-  defence: 34
-  resist: 31
+  attack: 63
+  speed: 25
+  defence: 38
+  resist: 35
   weapon: 邪神のブレス
   special: 竜裂
-  passive_a: 守備魔防の孤軍3
+  passive_a: 獅子奮迅4
   passive_b: 攻撃隊形3
-  passive_c: メガクェイク
+  passive_c: メガクェイク・神
 - name: ミラ
   weapon_type: 竜
   movement_type: 歩行
