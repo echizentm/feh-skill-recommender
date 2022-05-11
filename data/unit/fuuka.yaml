@@ -127,6 +127,19 @@
   special: 氷蒼
   passive_a: 攻撃魔防の連帯
   passive_b: 竜麟障壁3
+- name: レア2
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 46
+  attack: 59
+  speed: 18
+  defence: 40
+  resist: 43
+  weapon: 滅亡の霜雪
+  special: 凶星
+  passive_a: 金剛明鏡の構え3
+  passive_b: 真竜麟障壁
+  passive_c: 盾の護り手・近間3
 - name: エーデルガルト
   weapon_type: 斧
   movement_type: 歩行

@@ -486,3 +486,6 @@
 - name: 我が復活は成った
   allow:
     name_list: [メディウス]
+- name: 真竜鱗障壁
+  allow:
+    name_list: [レア2]

@@ -109,6 +109,19 @@
   passive_a: 近距離防御4
   passive_b: 抑止隊形3
   passive_c: 盾の護り手・近間3
+- name: グスタフ2
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 25
+  defence: 38
+  resist: 30
+  weapon: 死斧グリトニル
+  special: 緋炎
+  passive_a: 攻撃守備の機先4
+  passive_b: 攻撃守備の近影3
+  passive_c: 攻撃の紫煙4
 - name: ヘンリエッテ
   weapon_type: 赤魔
   movement_type: 重装

@@ -283,6 +283,19 @@
   passive_a: 攻撃速さの絆3
   passive_b: 守備魔防の連携3
   passive_c: 攻撃の相互大紋章
+- name: リリス2
+  weapon_type: 赤竜
+  movement_type: 飛行
+  hp: 39
+  attack: 56
+  speed: 46
+  defence: 29
+  resist: 33
+  weapon: 透魔竜の力
+  special: 竜裂
+  passive_a: 攻撃速さの機先4
+  passive_b: 空からの急襲3
+  passive_c: 速さの紫煙4
 - name: ミコト
   weapon_type: 杖
   movement_type: 歩行

@@ -1,7 +1,13 @@
 - name: 攻撃の紫煙3
   deny:
     weapon_type_list: [杖]
+- name: 攻撃の紫煙4
+  deny:
+    weapon_type_list: [杖]
 - name: 速さの紫煙3
+  deny:
+    weapon_type_list: [杖]
+- name: 速さの紫煙4
   deny:
     weapon_type_list: [杖]
 - name: 守備の紫煙3

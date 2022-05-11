@@ -398,6 +398,18 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 速さ守備の近影3
   passive_c: 空転の奇策3
+- name: ムワリム
+  weapon_type: 青獣
+  movement_type: 歩行
+  hp: 45
+  attack: 60
+  speed: 40
+  defence: 31
+  resist: 23
+  weapon: 暴走の虎の爪牙
+  special: 竜穿
+  passive_b: 怒り3
+  passive_c: 攻撃の波・偶数3
 - name: ビーゼ
   weapon_type: 獣
   movement_type: 飛行

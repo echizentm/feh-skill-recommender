@@ -540,6 +540,19 @@
   assist: 踊る
   passive_b: 攻撃の封印3
   passive_c: 速さの大紋章2
+- name: ニニアン3
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 50
+  attack: 45
+  speed: 42
+  defence: 25
+  resist: 41
+  weapon: 茫漠のブレス
+  assist: オイデ、ヒノコタチ
+  passive_a: 青の死闘・歩行4
+  passive_b: 鼓動の封緘・奇数3
+  passive_c: 攻撃の十字紋章
 - name: ニルス
   weapon_type: 青竜
   movement_type: 歩行
