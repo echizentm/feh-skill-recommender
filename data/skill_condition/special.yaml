@@ -187,7 +187,7 @@
     name_list: [オッテル]
 - name: 天与の魔道
   allow:
-    name_list: [リリーナ4]
+    name_list: [リリーナ4, リリーナ5]
 - name: グランベルの聖騎士
   allow:
     name_list: [シグルド3]

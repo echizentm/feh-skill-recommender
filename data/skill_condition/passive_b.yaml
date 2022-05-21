@@ -308,6 +308,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [騎馬, 飛行]
+- name: 怒涛・不屈3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [騎馬, 飛行]
 - name: 怒涛・飛竜行空3
   allow:
     weapon_type_list: [剣, 槍, 斧]

@@ -47,6 +47,19 @@
   passive_a: 強化増幅3
   passive_b: 回復3
   passive_c: 人の可能性を！
+- name: ロイ5
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 39
+  attack: 54
+  speed: 42
+  defence: 30
+  resist: 25
+  weapon: 紅炎の親子の聖斧
+  special: 月光
+  passive_a: 鬼神金剛の迫撃
+  passive_b: 怒涛・不屈3
+  passive_c: 人の可能性を信じる
 - name: ウォルト
   weapon_type: 緑弓
   movement_type: 騎馬
@@ -121,6 +134,19 @@
   passive_a: 攻撃魔防の孤軍4
   passive_b: 魔防の混乱3
   passive_c: 鼓動の幻煙3
+- name: リリーナ5
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 39
+  attack: 65
+  speed: 22
+  defence: 11
+  resist: 49
+  weapon: 一途な想いの薔薇
+  special: 天与の魔道
+  passive_a: 止水4
+  passive_b: 攻撃魔防の遠影3
+  passive_c: 遠距離相互警戒
 - name: ウェンディ
   weapon_type: 槍
   movement_type: 重装
@@ -206,6 +232,18 @@
   special: 氷蒼
   passive_a: 攻撃魔防の絆3
   passive_c: 守備の謀策3
+- name: セシリア3
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 53
+  speed: 25
+  defence: 18
+  resist: 38
+  weapon: 花嫁のカトレア+
+  assist: 攻撃魔防の応援+
+  passive_b: 攻撃魔防の大共謀3
+  passive_c: 攻撃魔防の奮起3
 - name: クレイン
   weapon_type: 弓
   movement_type: 歩行
@@ -510,6 +548,18 @@
   assist: 踊る
   passive_b: 罠解除3
   passive_c: 速さ魔防の大開放3
+- name: ララム2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 38
+  attack: 46
+  speed: 40
+  defence: 26
+  resist: 31
+  weapon: 花嫁の向日葵+
+  assist: 踊る
+  passive_b: 攻撃の魅了3
+  passive_c: 空からの先導3
 - name: ディーク
   weapon_type: 斧
   movement_type: 歩行
@@ -571,6 +621,18 @@
   assist: 献身
   passive_a: 攻撃魔防の密集3
   passive_b: 魔防の混乱3
+- name: ソフィーヤ3
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 38
+  attack: 57
+  speed: 19
+  defence: 36
+  resist: 34
+  weapon: 竜血継ぐ花嫁の花
+  assist: 守備魔防の応援+
+  passive_a: 攻撃守備の渾身4
+  passive_c: 攻撃魔防の大牽制
 - name: ファ
   weapon_type: 緑竜
   movement_type: 歩行
