@@ -666,6 +666,19 @@
   passive_a: 遠距離反撃
   passive_b: 竜の逆鱗3
   passive_c: 攻撃魔防の牽制3
+- name: ミルラ4
+  weapon_type: 青竜
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 25
+  defence: 42
+  resist: 36
+  weapon: 竜神のブレス
+  special: 緋炎
+  passive_a: 守備魔防の連帯
+  passive_b: 竜鱗障壁3
+  passive_c: 闇の樹海の守護竜
 - name: サレフ
   weapon_type: 斧
   movement_type: 騎馬

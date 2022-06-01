@@ -377,3 +377,6 @@
 - name: 地上の最後の女神
   allow:
     name_list: [エリミーヌ]
+- name: 闇の樹海の守護竜
+  allow:
+    name_list: [ミルラ4]
