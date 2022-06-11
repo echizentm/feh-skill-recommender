@@ -237,6 +237,30 @@
   assist: リカバー+
   special: 疾風の祝福
   passive_c: 攻撃の鼓舞3
+- name: セイン
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 61
+  speed: 38
+  defence: 36
+  resist: 18
+  weapon: お調子者の碧槍
+  assist: 攻撃の大応援+
+  passive_a: 速さ守備の機先4
+  passive_b: 怒涛・再起3
+- name: ケント
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 42
+  attack: 51
+  speed: 40
+  defence: 30
+  resist: 24
+  weapon: 共闘の剣+
+  assist: 引き戻し
+  passive_a: 攻撃速さの絆3
+  passive_b: 速さ守備の干渉3
 - name: レイヴァン
   weapon_type: 斧
   movement_type: 歩行
@@ -444,6 +468,19 @@
   assist: 献身
   passive_a: 飛燕の一撃3
   passive_c: 生の息吹3
+- name: フロリーナ2
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 39
+  attack: 51
+  speed: 43
+  defence: 22
+  resist: 31
+  weapon: 友の風舞う翼弓
+  special: 月虹
+  passive_a: 攻撃速さの渾身4
+  passive_b: 速さ守備の遠影3
+  passive_c: 速さの相互大紋章
 - name: カナス
   weapon_type: 赤魔
   movement_type: 歩行
@@ -492,6 +529,18 @@
   special: 竜裂
   passive_b: 奥義の螺旋3
   passive_c: 迅雷風烈・奇数3
+- name: ギィ 
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 44
+  attack: 56
+  speed: 48
+  defence: 28
+  resist: 20
+  weapon: 禿鷹の剣+
+  special: 凶星
+  passive_a: 死線3
+  passive_c: 速さ守備の威嚇2
 - name: ラス
   weapon_type: 緑弓
   movement_type: 騎馬
@@ -566,6 +615,18 @@
   passive_a: HP守備2
   passive_b: 鼓動の封緘・偶数3
   passive_c: 歩行の鼓動3
+- name: リムステラ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 41
+  attack: 56
+  speed: 23
+  defence: 32
+  resist: 36
+  weapon: 被造フィンブル
+  special: 氷華
+  passive_a: 守備魔防の密集3
+  passive_b: 攻撃の混乱3
 - name: ソーニャ
   weapon_type: 青魔
   movement_type: 歩行

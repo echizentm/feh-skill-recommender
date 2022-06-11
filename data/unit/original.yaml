@@ -879,3 +879,16 @@
   passive_a: 攻撃守備の連帯
   passive_b: 攻撃守備の凪3
   passive_c: 開神の眷属
+- name: レティシア
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 38
+  attack: 57
+  speed: 16
+  defence: 35
+  resist: 34
+  weapon: ケルムト
+  special: 竜裂
+  passive_a: 攻撃魔防の機先4
+  passive_b: 攻撃魔防の遠影3
+  passive_c: 攻撃魔防の奮起4
