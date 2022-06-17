@@ -63,6 +63,19 @@
   passive_a: 獅子奮迅4
   passive_b: 未来を知る力
   passive_c: 遠距離相互警戒
+- name: ミカヤ6
+  weapon_type: 魔
+  movement_type: 騎馬
+  hp: 38
+  attack: 56
+  speed: 30
+  defence: 16
+  resist: 37
+  weapon: 純白の月の雫
+  assist: 癒しの乙女
+  special: 月虹
+  passive_a: 攻撃魔防の機先4
+  passive_b: 未来を知る力
 - name: サザ
   weapon_type: 暗器
   movement_type: 歩行
@@ -189,6 +202,18 @@
   passive_a: 攻撃速さの渾身3
   passive_b: 疾風大地の舞い2
   passive_c: 魔防の大紋章2
+- name: 暁エリンシア2
+  weapon_type: 青弓
+  movement_type: 飛行
+  hp: 38
+  attack: 48
+  speed: 40
+  defence: 25
+  resist: 33
+  weapon: 白波の弓+
+  assist: 引き寄せ
+  passive_a: 攻撃速さの絆3
+  passive_b: 攻撃速さの連携3
 - name: カイネギス
   weapon_type: 獣
   movement_type: 重装

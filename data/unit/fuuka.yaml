@@ -192,6 +192,19 @@
   passive_a: 攻撃守備の万全4
   passive_b: 覇鎧障壁
   passive_c: 重装の遊撃3
+- name: エーデルガルト5
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 46
+  attack: 61
+  speed: 17
+  defence: 43
+  resist: 39
+  weapon: 強靭なる烈女の大傘
+  special: 凶星
+  passive_a: 攻撃守備の万全4
+  passive_b: 狂嵐
+  passive_c: 一斉突撃3
 - name: ヒューベルト
   weapon_type: 赤魔
   movement_type: 歩行
@@ -356,6 +369,19 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 蒼き殺人鬼
   passive_c: 迅雷風烈・奇数3
+- name: ディミトリ5
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 40
+  attack: 58
+  speed: 40
+  defence: 35
+  resist: 17
+  weapon: 蒼波薙ぐ剛力の櫂
+  special: 凶星
+  passive_a: 攻撃速さの機先4
+  passive_b: 無惨
+  passive_c: 速さ守備の脅嚇
 - name: ドゥドゥー
   weapon_type: 斧
   movement_type: 重装
@@ -504,6 +530,18 @@
   weapon: フェイルノート
   special: 月光
   passive_a: 攻撃速さの機先4
+  passive_b: 落星
+  passive_c: 速さ守備の牽制3
+- name: クロード4
+  weapon_type: 青暗器
+  movement_type: 飛行
+  hp: 41
+  attack: 52
+  speed: 42
+  defence: 25
+  resist: 26
+  weapon: 真夏の涼の氷菓子
+  special: 月虹
   passive_b: 落星
   passive_c: 速さ守備の牽制3
 - name: ローレンツ

@@ -72,6 +72,9 @@
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
     movement_type_list: [重装, 騎馬]
+- name: 一斉突撃3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
 - name: 鼓動の幻煙3
   deny:
     weapon_type_list: [杖]

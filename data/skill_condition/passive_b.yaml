@@ -439,7 +439,7 @@
     name_list: [シーダ3]
 - name: 狂嵐
   allow:
-    name_list: [エーデルガルト2]
+    name_list: [エーデルガルト2, エーデルガルト5]
 - name: 最後の聖戦
   allow:
     name_list: [セリス2]
@@ -451,13 +451,13 @@
     name_list: [ディミトリ2]
 - name: 無惨
   allow:
-    name_list: [ディミトリ3]
+    name_list: [ディミトリ3, ディミトリ5]
 - name: 束縛の首飾り
   allow:
     name_list: [フレイヤ, フレイヤ2]
 - name: 落星
   allow:
-    name_list: [クロード3]
+    name_list: [クロード3, クロード4]
 - name: 双姫の陽翼
   allow:
     name_list: [ダグ]
@@ -481,7 +481,7 @@
     name_list: [エイリーク6]
 - name: 未来を知る力
   allow:
-    name_list: [ミカヤ5]
+    name_list: [ミカヤ5, ミカヤ6]
 - name: それは興味深いね
   allow:
     name_list: [エイトリ]
