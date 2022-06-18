@@ -535,7 +535,7 @@
   weapon: 守りの斧+
   special: 太陽
   passive_a: 速さ魔防の大覚醒3
-  passive_c: 攻撃の大紋章3
+  passive_c: 攻撃の大紋章2
 - name: ララム
   weapon_type: 暗器
   movement_type: 歩行

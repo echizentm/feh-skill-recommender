@@ -662,7 +662,7 @@
   weapon: 狂牙バシリコス
   special: 月光
   passive_a: 攻撃速さの大覚醒3
-  passive_c: 守備の大紋章3
+  passive_c: 守備の大紋章2
 - name: ジャファル
   weapon_type: 暗器
   movement_type: 歩行
