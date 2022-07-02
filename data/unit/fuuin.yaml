@@ -45,8 +45,8 @@
   weapon: 魔竜封印の剣
   special: 竜穿
   passive_a: 強化増幅3
-  passive_b: 回復3
-  passive_c: 人の可能性を！
+  passive_b: 回避・怒り3
+  passive_c: 人の可能性を！・承
 - name: ロイ5
   weapon_type: 斧
   movement_type: 騎馬

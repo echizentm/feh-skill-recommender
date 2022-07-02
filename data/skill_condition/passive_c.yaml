@@ -323,7 +323,7 @@
 - name: メガクェイク・神
   allow:
     name_list: [ドーマ]
-- name: 人の可能性を！
+- name: 人の可能性を！・承
   allow:
     name_list: [ロイ4]
 - name: 人の可能性を信じる

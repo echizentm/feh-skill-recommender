@@ -497,3 +497,6 @@
 - name: 真竜鱗障壁
   allow:
     name_list: [レア2]
+- name: 騎士道
+  allow:
+    name_list: [マークス5]

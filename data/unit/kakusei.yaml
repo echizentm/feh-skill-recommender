@@ -994,11 +994,11 @@
   weapon_type: 槍
   movement_type: 重装
   hp: 47
-  attack: 54
+  attack: 56
   speed: 22
   defence: 37
   resist: 28
-  weapon: バリアの槍+
+  weapon: 鎧好きの堅槍
   special: 竜裂
   passive_a: 守備魔防の防城戦3
   passive_b: 攻撃隊形3
