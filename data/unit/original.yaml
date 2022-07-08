@@ -211,6 +211,19 @@
   passive_a: 攻撃速さの防城戦4
   passive_b: 攻撃速さの凪3
   passive_c: 絶氷結界
+- name: ニフル2
+  weapon_type: 竜
+  movement_type: 騎馬
+  hp: 39
+  attack: 54
+  speed: 43
+  defence: 28
+  resist: 26
+  weapon: 夏氷のブレス
+  special: 凶星
+  passive_a: 攻撃速さの機先4
+  passive_b: 速さ魔防の近影3
+  passive_c: 絶氷結界
 - name: フィヨルム
   weapon_type: 槍
   movement_type: 歩行
@@ -608,6 +621,19 @@
   special: 緋炎
   passive_a: 攻撃守備の渾身4
   passive_b: 怒涛・キャンセル3
+  passive_c: 神槌大地を穿つ
+- name: トール2
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 40
+  attack: 64
+  speed: 16
+  defence: 25
+  resist: 45
+  weapon: 戦神と戯神の気紛れ
+  special: 烈雷
+  passive_a: 止水4
+  passive_b: 攻撃魔防の遠影3
   passive_c: 神槌大地を穿つ
 - name: ロキ
   weapon_type: 杖
