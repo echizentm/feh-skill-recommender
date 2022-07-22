@@ -260,6 +260,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: ソフィアの魂
   passive_c: 攻撃速さの信義3
+- name: セリカ5
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 40
+  attack: 64
+  speed: 49
+  defence: 16
+  resist: 20
+  weapon: 大地母神の聖書
+  special: 月虹
+  passive_a: 死線4
+  passive_b: ソフィアの魂
+  passive_c: 歩行の見切り追撃3
 - name: メイ
   weapon_type: 青魔
   movement_type: 歩行
@@ -333,6 +346,18 @@
   special: 復讐
   passive_a: HP攻撃2
   passive_b: 進軍阻止3
+- name: echoesカムイ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 44
+  attack: 52
+  speed: 41
+  defence: 36
+  resist: 22
+  weapon: 正々堂々の剣+
+  special: 月光
+  passive_a: 速さ守備の万全3
+  passive_c: 攻撃守備の信義3
 - name: レオ
   weapon_type: 弓
   movement_type: 歩行
@@ -456,6 +481,30 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 攻撃守備の近影3
   passive_c: 速さ守備の牽制3
+- name: echoesエスト
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 35
+  attack: 60
+  speed: 38
+  defence: 25
+  resist: 37
+  weapon: 天馬姉妹の三角槍
+  special: 氷蒼
+  passive_a: 攻撃魔防の渾身4
+  passive_b: 怒涛・天馬行空3
+- name: アトラス
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 46
+  attack: 57
+  speed: 37
+  defence: 34
+  resist: 27
+  weapon: 堅固の斧+
+  special: 太陽
+  passive_a: 生命の大地3
+  passive_c: 攻撃守備の威嚇2
 - name: ソニア
   weapon_type: 緑魔
   movement_type: 歩行
@@ -640,3 +689,15 @@
   passive_a: 金剛明鏡の構え3
   passive_b: 攻撃の混乱3
   passive_c: ミラの歯車
+- name: 盗賊頭
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 45
+  attack: 56
+  speed: 35
+  defence: 35
+  resist: 24
+  weapon: 禿鷹の斧+
+  special: 竜穿
+  passive_b: 速さ守備の封印2
+  passive_c: 攻撃の紫煙3

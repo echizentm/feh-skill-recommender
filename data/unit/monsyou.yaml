@@ -512,7 +512,7 @@
   assist: 引き寄せ
   passive_b: 魔防の封印3
   passive_c: 速さの大紋章2
-- name: エスト
+- name: 紋章エスト
   weapon_type: 槍
   movement_type: 飛行
   hp: 36
@@ -524,7 +524,7 @@
   assist: 体当たり
   passive_a: 魔防の覚醒3
   passive_b: 速さ封じ3
-- name: エスト2
+- name: 紋章エスト2
   weapon_type: 青魔
   movement_type: 飛行
   hp: 39

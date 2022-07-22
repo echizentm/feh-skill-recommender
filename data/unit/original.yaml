@@ -570,6 +570,19 @@
   assist: 体当たり
   passive_a: 攻撃魔防の大覚醒3
   passive_c: 速さの指揮3
+- name: ユーミル
+  weapon_type: 緑竜
+  movement_type: 騎馬
+  hp: 38
+  attack: 59
+  speed: 26
+  defence: 35
+  resist: 34
+  weapon: 永生のブレス
+  assist: 攻撃の大応援+
+  passive_a: 攻撃魔防の連帯
+  passive_b: 攻撃魔防の近影3
+  passive_c: 永生結界
 - name: リーヴ
   weapon_type: 剣
   movement_type: 歩行

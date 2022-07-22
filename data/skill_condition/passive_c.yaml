@@ -165,6 +165,9 @@
 - name: 再移動制限3
   allow:
     movement_type_list: [歩行]
+- name: 歩行の見切り追撃3
+  allow:
+    movement_type_list: [歩行]
 - name: 歩行の魔刃3
   allow:
     movement_type_list: [歩行]
@@ -389,3 +392,6 @@
 - name: 闇の樹海の守護竜
   allow:
     name_list: [ミルラ4]
+- name: 永生結界
+  allow:
+    name_list: [ユーミル]
