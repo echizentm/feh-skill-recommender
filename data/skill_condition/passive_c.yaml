@@ -395,3 +395,6 @@
 - name: 永生結界
   allow:
     name_list: [ユーミル]
+- name: みんなが繋がる世界
+  allow:
+    name_list: [アスク]

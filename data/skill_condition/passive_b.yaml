@@ -290,6 +290,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 攻撃守備の防壁3
+  allow:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行]
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]
