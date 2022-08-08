@@ -158,6 +158,9 @@
 - name: 月光閃
   allow:
     name_list: [アルム2, アルム4]
+- name: 月光閃・承
+  allow:
+    name_list: [アルム2]
 - name: 天狼
   allow:
     name_list: [ソティス, ソティス2]

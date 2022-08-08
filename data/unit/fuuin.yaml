@@ -516,11 +516,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 44
-  attack: 46
+  attack: 48
   speed: 39
   defence: 29
   resist: 24
-  weapon: キルソード鍛+
+  weapon: 流浪の鋭剣
   special: 復讐
   passive_a: 攻撃守備の絆3
   passive_b: 待ち伏せ3

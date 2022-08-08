@@ -320,7 +320,7 @@
 - name: 炎王の威嚇
   allow:
     name_list: [スルト]
-- name: 生命の輝き・承
+- name: 生命の輝き・神
   allow:
     name_list: [エイル]
 - name: 邪眼
@@ -347,7 +347,7 @@
 - name: ひとりぼっちのゆめ
   allow:
     name_list: [紋章チキ4]
-- name: 神竜王の牙
+- name: 神竜王の牙・神
   allow:
     name_list: [ナーガ]
 - name: 理想郷となるように

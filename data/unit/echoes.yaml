@@ -19,10 +19,10 @@
   defence: 26
   resist: 22
   weapon: 月光
-  special: 月光閃
+  special: 月光閃・承
   passive_a: 飛燕の一撃4
   passive_b: 見切り・追撃効果3
-  passive_c: 攻撃の波・奇数3
+  passive_c: 始まりの鼓動3
 - name: アルム3
   weapon_type: 剣
   movement_type: 歩行
