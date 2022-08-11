@@ -562,6 +562,18 @@
   special: 天照
   passive_a: 守備魔防2
   passive_c: 攻撃の謀策3
+- name: リカード
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 38
+  attack: 52
+  speed: 42
+  defence: 33
+  resist: 25
+  weapon: 薔薇のステッキ+
+  assist: 体当たり
+  passive_b: 編隊飛行3
+  passive_c: 速さ守備の信義3
 - name: マリク
   weapon_type: 緑魔
   movement_type: 歩行

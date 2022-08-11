@@ -747,6 +747,19 @@
   assist: 引き戻し
   passive_a: 攻撃魔防の絆3
   passive_b: 速さ魔防の連携3
+- name: キャス2
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 39
+  attack: 51
+  speed: 46
+  defence: 21
+  resist: 22
+  weapon: 気高き怪盗の予告状
+  assist: 引き寄せ
+  passive_a: 攻撃速さの渾身4
+  passive_b: 攻撃魔防の干渉3
+  passive_c: 青への暗闘3
 - name: エリミーヌ
   weapon_type: 杖
   movement_type: 飛行

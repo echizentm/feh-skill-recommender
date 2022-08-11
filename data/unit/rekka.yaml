@@ -225,6 +225,18 @@
   passive_a: 死線4
   passive_b: 攻撃守備の大共謀3
   passive_c: 攻撃の紫煙3
+- name: レイラ2
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 40
+  attack: 52
+  speed: 43
+  defence: 20
+  resist: 25
+  weapon: 影潜む密偵の香水瓶
+  special: 月虹
+  passive_a: 鬼神飛燕の一撃3
+  passive_c: 守備魔防の紫煙3
 - name: セーラ
   weapon_type: 杖
   movement_type: 歩行

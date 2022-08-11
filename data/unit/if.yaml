@@ -1379,6 +1379,19 @@
   special: 月虹
   passive_b: 速さ魔防の連携3
   passive_c: 弓の技量3
+- name: エポニーヌ2
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 38
+  attack: 54
+  speed: 43
+  defence: 18
+  resist: 32
+  weapon: 双夜舞う怪盗の羽根
+  special: 滅殺
+  passive_a: 攻撃速さの機先4
+  passive_b: 守備魔防の封印3
+  passive_c: 無への暗闘3
 - name: シェンメイ
   weapon_type: 赤魔
   movement_type: 騎馬

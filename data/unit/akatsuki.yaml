@@ -88,6 +88,18 @@
   special: 凶星
   passive_a: 死線3
   passive_c: 攻撃速さの紋章2
+- name: サザ2
+  weapon_type: 緑暗器
+  movement_type: 飛行
+  hp: 41
+  attack: 51
+  speed: 41
+  defence: 28
+  resist: 23
+  weapon: 薔薇のナイフ+
+  assist: 一喝+
+  passive_a: 鬼神飛燕の一撃2
+  passive_c: 攻撃守備の牽制3
 - name: 暁シノン
   weapon_type: 赤弓
   movement_type: 歩行

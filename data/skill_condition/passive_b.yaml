@@ -190,6 +190,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
+- name: 攻撃魔防の干渉3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
 - name: 速さ守備の干渉3
   deny:
     weapon_type_list: [杖]
