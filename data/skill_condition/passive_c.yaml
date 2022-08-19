@@ -401,3 +401,6 @@
 - name: みんなが繋がる世界
   allow:
     name_list: [アスク]
+- name: 光をつぐもの
+  allow:
+    name_list: [セリス3]

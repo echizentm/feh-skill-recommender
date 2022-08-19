@@ -206,3 +206,6 @@
 - name: 永遠を生きるもの
   allow:
     name_list: [ファ3]
+- name: 天刻の拍動
+  allow:
+    name_list: [ベレス4]

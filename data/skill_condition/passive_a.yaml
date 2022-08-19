@@ -180,6 +180,14 @@
 - name: 守備魔防の機先4
   deny:
     movement_type_list: [歩行, 重装]
+- name: 攻撃速さの激突3
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+    movement_type_list: [重装]
+- name: 攻撃速さの激突4
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+    movement_type_list: [重装]
 - name: 獅子奮迅3
   deny:
     weapon_type_list: [杖]
@@ -342,6 +350,12 @@
     weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
     movement_type_list: [騎馬]
 - name: 強化増幅3
+  allow:
+    movement_type_list: [歩行]
+- name: 攻撃魔防の秘奥3
+  allow:
+    movement_type_list: [歩行]
+- name: 攻撃魔防の秘奥4
   allow:
     movement_type_list: [歩行]
 - name: スヴェルの盾

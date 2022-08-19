@@ -63,6 +63,19 @@
   passive_a: 攻撃速さの万全4
   passive_b: 速さ魔防の凪3
   passive_c: 女神を宿せし者
+- name: ベレス4
+  weapon_type: 魔
+  movement_type: 飛行
+  hp: 39
+  attack: 55
+  speed: 43
+  defence: 26
+  resist: 24
+  weapon: 内より溢れる魔力
+  special: 天刻の拍動
+  passive_a: 攻撃速さの機先4
+  passive_b: 速さの先制3
+  passive_c: 速さ魔防の大牽制
 - name: ソティス
   weapon_type: 赤竜
   movement_type: 歩行
@@ -831,6 +844,18 @@
   special: 凶星
   passive_a: 攻撃速さ2
   passive_c: 攻撃速さの信義3
+- name: ジェラルト
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 62
+  speed: 26
+  defence: 39
+  resist: 30
+  weapon: 懐刃の戦槍
+  special: 竜穿
+  passive_a: 攻撃守備の機先3
+  passive_c: 遠距離警戒3
 - name: 門番
   weapon_type: 緑魔
   movement_type: 歩行

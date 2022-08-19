@@ -73,6 +73,19 @@
   special: 狙撃
   passive_a: 近反・攻撃の渾身
   passive_c: 始まりの鼓動3
+- name: クロム7
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 58
+  speed: 42
+  defence: 37
+  resist: 17
+  weapon: ゲイルドリヴル
+  assist: 運命は変わった！
+  passive_a: 鬼神飛燕の迫撃
+  passive_b: 速さ守備の近影3
+  passive_c: 速指揮・歩行重視
 - name: 男ルフレ
   weapon_type: 青魔
   movement_type: 歩行
@@ -680,6 +693,19 @@
   special: 太陽
   passive_a: 近距離防御3
   passive_c: 斧の技量3
+- name: 覚醒チキ3
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 27
+  defence: 37
+  resist: 41
+  weapon: 悠遠のブレス
+  special: 凶星
+  passive_a: 攻撃魔防の秘奥4
+  passive_b: 新なる神竜王
+  passive_c: 守備魔防の脅嚇
 - name: ノノ
   weapon_type: 青竜
   movement_type: 歩行

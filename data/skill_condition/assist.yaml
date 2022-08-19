@@ -153,6 +153,9 @@
 - name: 運命を変える！
   allow:
     name_list: [クロム5, クロム6]
+- name: 運命は変わった！
+  allow:
+    name_list: [クロム7]
 - name: しろいゆめ
   allow:
     name_list: [ルピナス, ルピナス2]
