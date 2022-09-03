@@ -308,6 +308,19 @@
   assist: 献身
   passive_b: 切り返し3
   passive_c: 速さの謀策3
+- name: ディアドラ2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 64
+  speed: 32
+  defence: 14
+  resist: 50
+  weapon: 精霊の森の秘本
+  special: 聖神と暗黒神の冠
+  passive_a: 止水4
+  passive_b: 攻撃魔防の拍節3
+  passive_c: 攻撃魔防の脅嚇
 - name: シルヴィア
   weapon_type: 剣
   movement_type: 歩行

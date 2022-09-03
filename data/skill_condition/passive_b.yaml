@@ -373,6 +373,9 @@
 - name: 見切り・反撃不可3
   allow:
     movement_type_list: [歩行]
+- name: 攻撃魔防の拍節3
+  allow:
+    movement_type_list: [歩行]
 - name: 速さ守備の拍節3
   allow:
     movement_type_list: [歩行]

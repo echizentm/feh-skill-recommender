@@ -209,3 +209,6 @@
 - name: 天刻の拍動
   allow:
     name_list: [ベレス4]
+- name: 聖神と暗黒神の冠
+  allow:
+    name_list: [ディアドラ2]
