@@ -85,9 +85,9 @@
   defence: 32
   resist: 27
   weapon: 天帝の波動
-  special: 天狼
+  special: 天狼・神
   passive_a: 攻撃速さの孤軍3
-  passive_b: 怒り3
+  passive_b: 見切り・反撃不可3
   passive_c: 始まりの鼓動3
 - name: ソティス2
   weapon_type: 緑竜

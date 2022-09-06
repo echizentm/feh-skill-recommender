@@ -451,6 +451,9 @@
 - name: 光と闇と
   allow:
     name_list: [ユリア2, ユリア3, ユリア4]
+- name: 光と闇と・承
+  allow:
+    name_list: [ユリア2]
 - name: 死んでほしいの
   allow:
     name_list: [スラシル]

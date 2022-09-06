@@ -470,8 +470,8 @@
   weapon: 至聖ナーガ
   special: 竜穿
   passive_a: 鬼神明鏡の瞬撃
-  passive_b: 光と闇と
-  passive_c: 攻撃魔防の信義3
+  passive_b: 光と闇と・承
+  passive_c: 攻撃魔防の脅嚇
 - name: ユリア3
   weapon_type: 赤魔
   movement_type: 歩行

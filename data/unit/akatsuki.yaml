@@ -565,11 +565,11 @@
   weapon_type: 斧
   movement_type: 飛行
   hp: 45
-  attack: 45
+  attack: 47
   speed: 20
   defence: 36
   resist: 18
-  weapon: 勇者の斧+
+  weapon: 黒疾風の爪斧
   assist: 入れ替え
   passive_b: キャンセル3
   passive_c: 守備の波・奇数3
