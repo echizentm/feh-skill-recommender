@@ -376,6 +376,9 @@
 - name: サカの掟・承
   allow:
     name_list: [リン5]
+- name: 大いなるサカの掟
+  allow:
+    name_list: [リン8]
 - name: オスティアの反撃
   allow:
     name_list: [ヘクトル4]

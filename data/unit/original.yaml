@@ -378,6 +378,19 @@
   passive_a: 守備魔防の防城戦4
   passive_b: 竜鱗障壁3
   passive_c: 絶炎結界
+- name: ムスペル2
+  weapon_type: 竜
+  movement_type: 騎馬
+  hp: 40
+  attack: 59
+  speed: 26
+  defence: 41
+  resist: 30
+  weapon: 炎祭のブレス
+  special: 月虹
+  passive_a: 攻撃守備の機先4
+  passive_b: 竜の魔鱗4
+  passive_c: 絶炎結界
 - name: スルト
   weapon_type: 斧
   movement_type: 重装

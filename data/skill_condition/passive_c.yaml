@@ -230,6 +230,9 @@
 - name: 攻撃魔防の大牽制
   allow:
     movement_type_list: [飛行]
+- name: 速さ守備の大牽制
+  allow:
+    movement_type_list: [飛行]
 - name: 速さ魔防の大牽制
   allow:
     movement_type_list: [飛行]
@@ -376,7 +379,7 @@
     name_list: [ニフル, ニフル2]
 - name: 絶炎結界
   allow:
-    name_list: [ムスペル]
+    name_list: [ムスペル, ムスペル2]
 - name: 炎王の脅嚇
   allow:
     name_list: [スルト2]

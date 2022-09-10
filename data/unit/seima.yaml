@@ -335,6 +335,19 @@
   passive_a: 飛燕金剛の瞬撃
   passive_b: 速さ守備の近影3
   passive_c: 攻撃速さの牽制3
+- name: ターナ4
+  weapon_type: 緑暗器
+  movement_type: 飛行
+  hp: 39
+  attack: 53
+  speed: 42
+  defence: 26
+  resist: 32
+  weapon: 原初の炎の太鼓
+  special: 凶星
+  passive_a: 攻撃速さの機先4
+  passive_b: 風薙ぎ3
+  passive_c: 速さ守備の大牽制
 - name: リオン
   weapon_type: 赤魔
   movement_type: 歩行

@@ -263,6 +263,18 @@
   assist: ぶちかまし
   passive_b: 攻撃守備の連携3
   passive_c: 獣の経験3
+- name: モゥディ2
+  weapon_type: 緑獣
+  movement_type: 歩行
+  hp: 48
+  attack: 54
+  speed: 29
+  defence: 50
+  resist: 28
+  weapon: 炎虎の爪牙
+  assist: ぶちかまし
+  passive_a: 守備魔防の城塞2
+  passive_c: 攻撃守備の大開放3
 - name: レテ
   weapon_type: 赤獣
   movement_type: 騎馬

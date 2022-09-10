@@ -137,6 +137,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 攻撃守備の封印2
   passive_c: 速さ守備の牽制3
+- name: リン8
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 39
+  attack: 54
+  speed: 44
+  defence: 34
+  resist: 32
+  weapon: 炎と風舞う霊槍
+  special: 神速回避
+  passive_a: 大いなるサカの掟
+  passive_b: 盾の鼓動3
+  passive_c: 速さの紫煙4
 - name: ヘクトル
   weapon_type: 斧
   movement_type: 重装
