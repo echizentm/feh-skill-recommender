@@ -294,7 +294,15 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 回避・拍節3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 攻撃守備の防壁3
+  allow:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行]
+- name: 速さ守備の防壁3
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行]
@@ -377,6 +385,9 @@
   allow:
     movement_type_list: [歩行]
 - name: 速さ守備の拍節3
+  allow:
+    movement_type_list: [歩行]
+- name: 速さ魔防の拍節3
   allow:
     movement_type_list: [歩行]
 - name: 蛇毒3
@@ -465,7 +476,7 @@
     name_list: [セリカ4, セリカ5]
 - name: 死者の帳尻を
   allow:
-    name_list: [リーヴ]
+    name_list: [リーヴ, リーヴ3]
 - name: 愛を信じますか？
   allow:
     name_list: [シーダ3]

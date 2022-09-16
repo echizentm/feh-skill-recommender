@@ -696,6 +696,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 幻惑の杖3
   passive_c: 快癒・偶数3
+- name: 風花ヒルダ4
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 58
+  speed: 43
+  defence: 34
+  resist: 26
+  weapon: 劫火フライクーゲル
+  special: 月光
+  passive_a: 攻撃速さの孤軍4
+  passive_b: 回避・拍節3
+  passive_c: 速さの相互大紋章
 - name: レオニー
   weapon_type: 弓
   movement_type: 騎馬
@@ -929,3 +942,39 @@
   special: 竜穿
   passive_b: 攻撃の封印3
   passive_c: 死の吐息3
+- name: 男シェズ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 54
+  speed: 46
+  defence: 32
+  resist: 21
+  weapon: 朱傭兵の双剣
+  special: 月虹
+  passive_b: 速さ守備の防壁3
+  passive_c: 攻撃速さの信義4
+- name: 女シェズ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 38
+  attack: 62
+  speed: 50
+  defence: 27
+  resist: 29
+  weapon: 朱傭兵の戦斧
+  special: 凶星
+  passive_a: 死線3
+  passive_b: 強化無効・近距離3
+- name: モニカ
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 43
+  defence: 24
+  resist: 31
+  weapon: 風呼びの根源
+  special: 凶星
+  passive_a: 攻撃速さの万全4
+  passive_b: 速さ魔防の拍節3

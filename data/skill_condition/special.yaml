@@ -179,7 +179,7 @@
     name_list: [オルティナ, オルティナ2]
 - name: 開世
   allow:
-    name_list: [アルフォンス3, リーヴ]
+    name_list: [アルフォンス3, リーヴ, リーヴ3]
 - name: 英雄の血脈
   allow:
     name_list: [マルス5]

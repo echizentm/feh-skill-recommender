@@ -622,6 +622,19 @@
   passive_a: 攻撃守備の渾身4
   passive_b: 攻撃魔防の凪3
   passive_c: 不治の幻煙3
+- name: リーヴ3
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 59
+  speed: 29
+  defence: 41
+  resist: 26
+  weapon: 魔器エリューズニル
+  special: 開世
+  passive_a: 攻撃守備の激突4
+  passive_b: 死者の帳尻を
+  passive_c: 攻撃守備の脅嚇
 - name: スラシル
   weapon_type: 緑魔
   movement_type: 歩行
