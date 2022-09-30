@@ -627,6 +627,19 @@
   passive_a: 青の死闘・歩行4
   passive_b: 鼓動の封緘・奇数3
   passive_c: 攻撃の十字紋章
+- name: ニニアン4
+  weapon_type: 緑竜
+  movement_type: 騎馬
+  hp: 44
+  attack: 56
+  speed: 41
+  defence: 22
+  resist: 24
+  weapon: 神舞のブレス
+  assist: 尊き竜の血を継ぐ娘
+  passive_a: 攻撃速さの機先4
+  passive_b: 速さ魔防の近影3
+  passive_c: 青への暗闘3
 - name: ニルス
   weapon_type: 青竜
   movement_type: 歩行
