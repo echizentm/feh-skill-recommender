@@ -407,3 +407,6 @@
 - name: 光をつぐもの
   allow:
     name_list: [セリス3]
+- name: 試練メガクェイク
+  allow:
+    name_list: [ドーマ2]

@@ -188,7 +188,7 @@
     name_list: [マリク2]
 - name: 反竜穿
   allow:
-    name_list: [女カムイ5]
+    name_list: [女カムイ5, 女カムイ7]
 - name: 魔弾
   allow:
     name_list: [レギン, レギン2]

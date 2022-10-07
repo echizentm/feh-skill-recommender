@@ -246,6 +246,9 @@
 - name: 遠反・攻撃の渾身
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+- name: 遠反・鬼神の構え
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
 - name: 遠反・速さの渾身
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
@@ -358,6 +361,12 @@
     weapon_type_list: [竜, 獣, 弓, 暗器, 魔, 杖]
     movement_type_list: [騎馬]
 - name: 強化増幅3
+  allow:
+    movement_type_list: [歩行]
+- name: 攻撃速さの秘奥3
+  allow:
+    movement_type_list: [歩行]
+- name: 攻撃速さの秘奥4
   allow:
     movement_type_list: [歩行]
 - name: 攻撃魔防の秘奥3

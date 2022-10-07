@@ -653,6 +653,18 @@
   passive_a: HP守備2
   passive_b: 鼓動の封緘・偶数3
   passive_c: 歩行の鼓動3
+- name: ニルス2
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 44
+  attack: 49
+  speed: 41
+  defence: 21
+  resist: 35
+  weapon: 一驚のブレス+
+  assist: 奏でる
+  passive_b: 大地静水の舞い2
+  passive_c: 竜刃の鼓舞
 - name: リムステラ
   weapon_type: 緑魔
   movement_type: 歩行

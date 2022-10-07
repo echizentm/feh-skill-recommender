@@ -676,6 +676,19 @@
   passive_a: 獅子奮迅4
   passive_b: 攻撃隊形3
   passive_c: メガクェイク・神
+- name: ドーマ2
+  weapon_type: 赤竜
+  movement_type: 重装
+  hp: 47
+  attack: 62
+  speed: 19
+  defence: 40
+  resist: 43
+  weapon: 赤と青の奇なる鬼火
+  special: 凶星
+  passive_a: 遠反・鬼神の構え
+  passive_b: 竜鱗障壁3
+  passive_c: 試練メガクェイク
 - name: ミラ
   weapon_type: 竜
   movement_type: 歩行

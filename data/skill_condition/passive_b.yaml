@@ -399,6 +399,9 @@
 - name: 竜の逆鱗3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 竜の逆鱗4
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 竜鱗障壁3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]

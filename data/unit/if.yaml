@@ -60,6 +60,18 @@
   special: 竜裂
   passive_a: 鬼神飛燕の一撃2
   passive_b: 奥義の螺旋3
+- name: 男カムイ6
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 44
+  attack: 60
+  speed: 21
+  defence: 44
+  resist: 39
+  weapon: 星夜の魔術師の竜石
+  special: 月虹
+  passive_a: 遠反・明鏡の構え
+  passive_b: 竜の逆鱗4
 - name: 女カムイ
   weapon_type: 青竜
   movement_type: 歩行
@@ -134,6 +146,19 @@
   assist: 守備の大応援+
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の遠影3
+  passive_c: 攻撃の相互大紋章
+- name: 女カムイ7
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 40
+  attack: 58
+  speed: 45
+  defence: 36
+  resist: 30
+  weapon: 月夜の魔女の竜石
+  special: 反竜穿
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 竜の魔鱗4
   passive_c: 攻撃の相互大紋章
 - name: アクア
   weapon_type: 槍
