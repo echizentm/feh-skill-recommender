@@ -408,3 +408,6 @@
 - name: 赤い竜騎士の盾
   allow:
     name_list: [ミネルバ2]
+- name: 邪竜の重鱗
+  allow:
+    name_list: [女ルフレ6]

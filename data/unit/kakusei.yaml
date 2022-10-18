@@ -197,6 +197,19 @@
   special: 氷蒼
   passive_b: 追撃隊形・偶数3
   passive_c: 鎧の護り手・遠間3
+- name: 女ルフレ6
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 43
+  attack: 57
+  speed: 44
+  defence: 35
+  resist: 33
+  weapon: 魔器ギムレー
+  special: 大盾
+  passive_a: 邪竜の重鱗
+  passive_b: 盾壁隊形3
+  passive_c: 刃の護り手・近間3
 - name: リズ
   weapon_type: 杖
   movement_type: 歩行
@@ -331,6 +344,18 @@
   assist: 引き寄せ
   passive_a: 攻撃速さの万全3
   passive_b: 速さ魔防の連携3
+- name: リヒト
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 55
+  speed: 39
+  defence: 24
+  resist: 30
+  weapon: グルンラビット+
+  special: 月光
+  passive_a: 攻撃速さの密集3
+  passive_c: 攻撃速さの紋章2
 - name: ティアモ
   weapon_type: 槍
   movement_type: 飛行
@@ -367,6 +392,18 @@
   assist: 一喝
   passive_a: 鬼神金剛の一撃2
   passive_b: 強化無効・近距離3
+- name: フィレイン
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 38
+  attack: 51
+  speed: 42
+  defence: 26
+  resist: 40
+  weapon: 牽制の槍+
+  special: 氷蒼
+  passive_a: 攻撃魔防の大覚醒3
+  passive_b: 天馬行空3
 - name: リベラ
   weapon_type: 斧
   movement_type: 歩行
@@ -621,6 +658,18 @@
   special: 月光
   passive_a: グラニの盾
   passive_b: 守備の封印3
+- name: セルバンテス
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 50
+  attack: 59
+  speed: 31
+  defence: 44
+  resist: 25
+  weapon: 守備逆用の槍+
+  special: 華炎
+  passive_a: 攻撃守備の万全3
+  passive_b: 守備隊形3
 - name: レンハ
   weapon_type: 剣
   movement_type: 歩行
@@ -706,6 +755,18 @@
   passive_a: 攻撃魔防の秘奥4
   passive_b: 新なる神竜王
   passive_c: 守備魔防の脅嚇
+- name: グレゴ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 67
+  speed: 37
+  defence: 50
+  resist: 18
+  weapon: 厚情の剛剣
+  special: 緋炎
+  passive_a: 不壊4
+  passive_c: 歩行の見切り追撃3
 - name: ノノ
   weapon_type: 青竜
   movement_type: 歩行

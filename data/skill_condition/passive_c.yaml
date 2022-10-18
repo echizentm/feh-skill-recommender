@@ -182,6 +182,9 @@
   allow:
     movement_type_list: [重装]
     weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
+- name: 刃の護り手・近間3
+  allow:
+    movement_type_list: [重装]
 - name: 盾の護り手・近間3
   allow:
     movement_type_list: [重装]
@@ -326,6 +329,9 @@
 - name: 炎王の威嚇
   allow:
     name_list: [スルト]
+- name: 生命の輝き
+  allow:
+    name_list: [エイル, エイル3]
 - name: 生命の輝き・神
   allow:
     name_list: [エイル]

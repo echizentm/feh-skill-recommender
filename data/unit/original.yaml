@@ -583,6 +583,19 @@
   assist: 体当たり
   passive_a: 攻撃魔防の大覚醒3
   passive_c: 速さの指揮3
+- name: エイル3
+  weapon_type: 緑暗器
+  movement_type: 騎馬
+  hp: 35
+  attack: 56
+  speed: 45
+  defence: 16
+  resist: 35
+  weapon: 永生ユーミル
+  special: 竜裂
+  passive_a: 攻撃速さの機先4
+  passive_b: 生命の護符4
+  passive_c: 生命の輝き
 - name: ユーミル
   weapon_type: 緑竜
   movement_type: 騎馬
