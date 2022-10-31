@@ -966,6 +966,19 @@
   special: 凶星
   passive_a: 死線3
   passive_b: 強化無効・近距離3
+- name: ラルヴァ
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 40
+  attack: 67
+  speed: 27
+  defence: 23
+  resist: 52
+  weapon: 魂の秘儀
+  special: 氷華
+  passive_a: 陰陽の法則
+  passive_b: 攻撃魔防の拍節3
+  passive_c: 攻撃魔防の信義4
 - name: モニカ
   weapon_type: 青魔
   movement_type: 歩行

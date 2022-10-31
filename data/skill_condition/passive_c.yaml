@@ -61,6 +61,9 @@
 - name: 攻撃魔防の信義3
   deny:
     movement_type_list: [重装, 騎馬]
+- name: 攻撃魔防の信義4
+  deny:
+    movement_type_list: [重装, 騎馬]
 - name: 速さ守備の信義3
   deny:
     movement_type_list: [重装, 騎馬]
