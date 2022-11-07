@@ -350,7 +350,7 @@
 - name: 人の可能性を信じる
   allow:
     name_list: [ロイ5]
-- name: 我が名は混沌
+- name: 我が名は混沌・神
   allow:
     name_list: [ユンヌ]
 - name: みんなと一緒に
@@ -365,7 +365,7 @@
 - name: 神竜王の牙・神
   allow:
     name_list: [ナーガ]
-- name: 理想郷となるように
+- name: 理想郷となる…・承
   allow:
     name_list: [エリウッド3]
 - name: 見通せぬ深き暗闇

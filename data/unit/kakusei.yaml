@@ -1093,11 +1093,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 38
-  attack: 47
+  attack: 48
   speed: 37
   defence: 27
   resist: 29
-  weapon: 火薙ぎの槍+
+  weapon: 正義の直槍
   assist: 体当たり
   passive_b: 速さ守備の連携3
   passive_c: 攻撃の大紋章2

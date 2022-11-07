@@ -202,11 +202,11 @@
   weapon_type: 緑弓
   movement_type: 騎馬
   hp: 38
-  attack: 44
+  attack: 46
   speed: 35
   defence: 31
   resist: 20
-  weapon: 短弓+
+  weapon: 冷笑の遊弓
   special: 月虹
   passive_a: 飛燕金剛の一撃2
   passive_b: 青魔殺し3
