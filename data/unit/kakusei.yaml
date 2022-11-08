@@ -718,6 +718,18 @@
   assist: 回り込み
   passive_a: 攻撃3
   passive_c: 守備の鼓舞3
+- name: セルジュ2
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 43
+  attack: 55
+  speed: 12
+  defence: 49
+  resist: 37
+  weapon: 愛竜への情の竜斧
+  special: 華炎
+  passive_b: 攻撃守備の近影3
+  passive_c: 攻撃守備の大牽制
 - name: 覚醒チキ
   weapon_type: 赤竜
   movement_type: 歩行

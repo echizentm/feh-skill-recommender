@@ -468,6 +468,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 攻撃守備の遠影3
   passive_c: 攻撃速さの奮起4
+- name: レーギャルン5
+  weapon_type: 青弓
+  movement_type: 飛行
+  hp: 40
+  attack: 52
+  speed: 11
+  defence: 42
+  resist: 43
+  weapon: 炎と氷の王女の輝弓
+  special: 月虹
+  passive_a: 攻撃魔防の機先4
+  passive_b: 守備封じ4
+  passive_c: 攻撃の紫煙4
 - name: レーヴァテイン
   weapon_type: 剣
   movement_type: 歩行

@@ -938,6 +938,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 神罰の杖3
   passive_c: 攻撃の指揮3
+- name: カミラ8
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 38
+  attack: 51
+  speed: 11
+  defence: 37
+  resist: 45
+  weapon: 艶花忍法帳
+  special: 凶星
+  passive_a: 近反・攻撃の渾身
+  passive_b: 魔防封じ4
+  passive_c: 攻撃魔防の大牽制
 - name: ルーナ
   weapon_type: 剣
   movement_type: 歩行

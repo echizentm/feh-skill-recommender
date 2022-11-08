@@ -444,6 +444,18 @@
   special: 竜穿
   passive_a: 攻撃守備の渾身3
   passive_b: 離脱の行路3
+- name: ヒース2
+  weapon_type: 弓
+  movement_type: 飛行
+  hp: 42
+  attack: 49
+  speed: 15
+  defence: 45
+  resist: 35
+  weapon: 竜忍の弓+
+  special: 緋炎
+  passive_a: 攻撃守備の機先3
+  passive_c: 鼓動の幻煙3
 - name: フィオーラ
   weapon_type: 剣
   movement_type: 飛行
