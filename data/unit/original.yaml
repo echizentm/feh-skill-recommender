@@ -674,6 +674,19 @@
   passive_a: 柔剣4
   passive_b: 死んでほしいの
   passive_c: 恐慌の幻煙3
+- name: ガングレト
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 30
+  defence: 38
+  resist: 35
+  weapon: 魔器・絶死ヘル
+  special: 氷蒼
+  passive_a: 遠反・明鏡の構え
+  passive_b: 切り返し4
+  passive_c: 遠距離相互警戒
 - name: トール
   weapon_type: 斧
   movement_type: 飛行

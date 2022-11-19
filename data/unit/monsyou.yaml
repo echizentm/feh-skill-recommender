@@ -111,6 +111,19 @@
   passive_a: 獅子奮迅4
   passive_b: 回避・怒り3
   passive_c: 速さ魔防の奮起3
+- name: エリス
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 40
+  attack: 53
+  speed: 35
+  defence: 27
+  resist: 34
+  weapon: トリレンマ+
+  assist: レスト+
+  special: 天照
+  passive_a: 攻撃魔防の万全3
+  passive_c: 攻撃魔防の大開放3
 - name: ジェイガン
   weapon_type: 槍
   movement_type: 騎馬
@@ -330,6 +343,19 @@
   assist: 体当たり
   passive_a: 生命の大地3
   passive_c: 守備の波・奇数3
+- name: ニーナ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 40
+  attack: 46
+  speed: 41
+  defence: 23
+  resist: 38
+  weapon: サンクチュアリ+
+  assist: リブロー+
+  special: 祈り
+  passive_b: 速さの混乱3
+  passive_c: 守備の大紋章2
 - name: リンダ
   weapon_type: 青魔
   movement_type: 歩行
@@ -562,6 +588,18 @@
   special: 天照
   passive_a: 守備魔防2
   passive_c: 攻撃の謀策3
+- name: マチス
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 57
+  speed: 32
+  defence: 38
+  resist: 25
+  weapon: 禿鷹の槍+
+  special: 烈風
+  passive_b: 攻撃守備の封印2
+  passive_c: 守備魔防の奮起3
 - name: リカード
   weapon_type: 剣
   movement_type: 飛行
@@ -611,6 +649,18 @@
   special: 復讐
   passive_a: 守備魔防の大覚醒3
   passive_b: 攻撃隊形3
+- name: ハーディン2
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 57
+  speed: 44
+  defence: 32
+  resist: 21
+  weapon: 草原の狼の白槍
+  special: 竜裂
+  passive_a: 鬼神飛燕の迫撃
+  passive_b: 攻撃速さの近影3
 - name: ウルフ
   weapon_type: 弓
   movement_type: 騎馬
@@ -760,6 +810,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 曲技飛行3
   passive_c: みんなと一緒に
+- name: 紋章チキ6
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 38
+  attack: 58
+  speed: 44
+  defence: 32
+  resist: 36
+  weapon: 目覚めし竜のブレス
+  special: 氷蒼
+  passive_a: 速さ魔防の秘奥4
+  passive_b: 速さ魔防の防壁3
+  passive_c: ずっとみんなと一緒
 - name: ナギ
   weapon_type: 緑竜
   movement_type: 重装

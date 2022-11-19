@@ -362,6 +362,9 @@
 - name: みんなと一緒に・承
   allow:
     name_list: [紋章チキ3]
+- name: ずっとみんなと一緒
+  allow:
+    name_list: [紋章チキ6]
 - name: ひとりぼっちのゆめ
   allow:
     name_list: [紋章チキ4]
