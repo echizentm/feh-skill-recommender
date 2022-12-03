@@ -180,6 +180,9 @@
 - name: 開世
   allow:
     name_list: [アルフォンス3, リーヴ, リーヴ3]
+- name: 閉界
+  allow:
+    name_list: [ヴェロニカ5]
 - name: 英雄の血脈
   allow:
     name_list: [マルス5]

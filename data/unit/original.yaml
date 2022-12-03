@@ -198,6 +198,19 @@
   special: 爆雷
   passive_a: HP速さ2
   passive_b: 速さの封印3
+- name: ヴェロニカ5
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 38
+  attack: 56
+  speed: 45
+  defence: 19
+  resist: 25
+  weapon: 絶闇エンブラ
+  special: 閉界
+  passive_a: 攻撃速さの機先4
+  passive_b: 速さ魔防の遠影3
+  passive_c: 恐慌の幻煙4
 - name: ニフル
   weapon_type: 青竜
   movement_type: 騎馬
@@ -996,6 +1009,19 @@
   passive_a: 攻撃守備の連帯
   passive_b: 攻撃守備の凪3
   passive_c: 開神の眷属
+- name: エンブラ
+  weapon_type: 赤獣
+  movement_type: 飛行
+  hp: 41
+  attack: 57
+  speed: 44
+  defence: 31
+  resist: 24
+  weapon: 絶闇の翼爪
+  special: 竜裂
+  passive_a: 攻撃速さの激突4
+  passive_b: 絶対化身・敏捷3
+  passive_c: すべてが閉じた世界
 - name: レティシア
   weapon_type: 緑魔
   movement_type: 騎馬

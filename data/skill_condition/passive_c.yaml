@@ -90,6 +90,9 @@
 - name: 恐慌の幻煙3
   deny:
     weapon_type_list: [杖]
+- name: 恐慌の幻煙4
+  deny:
+    weapon_type_list: [杖]
 - name: 不治の幻煙3
   deny:
     weapon_type_list: [杖]
@@ -419,6 +422,15 @@
 - name: みんなが繋がる世界
   allow:
     name_list: [アスク]
+- name: すべてが閉じた世界
+  allow:
+    name_list: [エンブラ]
+- name: 光をつぐもの
+  allow:
+    name_list: [セリス3]
+- name: 試練メガクェイク
+  allow:
+    name_list: [ドーマ2]
 - name: 光をつぐもの
   allow:
     name_list: [セリス3]

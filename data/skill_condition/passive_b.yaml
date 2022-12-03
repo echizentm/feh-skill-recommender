@@ -425,6 +425,9 @@
 - name: 竜の魔鱗4
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 絶対化身・敏捷3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: ご奉仕の喜び3
   allow:
     weapon_type_list: [杖]
