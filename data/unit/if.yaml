@@ -1170,6 +1170,18 @@
   special: 烈風
   passive_a: HP攻撃2
   passive_c: 攻撃の開放3
+- name: ガンズ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 46
+  attack: 64
+  speed: 39
+  defence: 35
+  resist: 21
+  weapon: アウルゲルミル
+  special: 竜穿
+  passive_a: 攻撃速さの万全3
+  passive_c: 攻撃速さの奮起3
 - name: フローラ
   weapon_type: 赤暗器
   movement_type: 歩行
@@ -1280,6 +1292,19 @@
   special: 夕陽
   passive_a: 飛燕の構え3
   passive_c: 飛盾の紋章
+- name: ディーア
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 40
+  attack: 49
+  speed: 35
+  defence: 25
+  resist: 39
+  weapon: エイド+
+  assist: セインツ+
+  special: 天照
+  passive_a: 攻撃魔防の防城戦3
+  passive_c: 速さの指揮3
 - name: ミドリコ
   weapon_type: 赤弓
   movement_type: 歩行
@@ -1304,6 +1329,18 @@
   assist: 入れ替え
   passive_a: 金剛の構え3
   passive_c: 守備の指揮3
+- name: キサラギ
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 40
+  attack: 50
+  speed: 43
+  defence: 37
+  resist: 23
+  weapon: 孤絶の弓+
+  special: 月光
+  passive_a: 鬼神飛燕の一撃2
+  passive_c: 速さの大紋章2
 - name: キヌ
   weapon_type: 青獣
   movement_type: 騎馬
@@ -1330,6 +1367,18 @@
   passive_a: 明鏡の反撃・遠距離
   passive_b: 速さの混乱3
   passive_c: 魔防の波・奇数3
+- name: マトイ
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 39
+  attack: 56
+  speed: 44
+  defence: 30
+  resist: 31
+  weapon: 天才肌の薄薙刀
+  special: 竜裂
+  passive_a: 攻撃速さの機先4
+  passive_c: 攻撃速さの大牽制
 - name: シャラ
   weapon_type: 緑魔
   movement_type: 歩行
@@ -1404,6 +1453,19 @@
   special: 烈光
   passive_a: 鬼神金剛の一撃2
   passive_b: 魔防の封印3
+- name: オフェリア2
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 39
+  attack: 58
+  speed: 36
+  defence: 25
+  resist: 32
+  weapon: 魔器ルナイクリプス
+  special: 月光
+  passive_a: 攻撃魔防の秘奥4
+  passive_b: 奥義の螺旋4
+  passive_c: 始まりの鼓動3
 - name: ソレイユ
   weapon_type: 剣
   movement_type: 歩行

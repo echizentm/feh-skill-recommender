@@ -389,6 +389,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [騎馬, 飛行]
+- name: 奥義の螺旋4
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 飛行]
 - name: 見切り・追撃効果3
   allow:
     movement_type_list: [歩行]

@@ -222,11 +222,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 41
-  attack: 51
+  attack: 53
   speed: 32
   defence: 19
   resist: 25
-  weapon: ラウアフォックス+
+  weapon: 参謀役の書
   special: 爆雷
   passive_b: 魔防の封印3
   passive_c: 歩行の魔刃3

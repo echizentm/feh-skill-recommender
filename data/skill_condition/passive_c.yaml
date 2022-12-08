@@ -236,6 +236,12 @@
 - name: 速さ魔防の牽制3
   allow:
     movement_type_list: [飛行]
+- name: 守備魔防の牽制3
+  allow:
+    movement_type_list: [飛行]
+- name: 攻撃速さの大牽制
+  allow:
+    movement_type_list: [飛行]
 - name: 攻撃守備の大牽制
   allow:
     movement_type_list: [飛行]
@@ -246,9 +252,6 @@
   allow:
     movement_type_list: [飛行]
 - name: 速さ魔防の大牽制
-  allow:
-    movement_type_list: [飛行]
-- name: 守備魔防の牽制3
   allow:
     movement_type_list: [飛行]
 - name: 剣の技量3
@@ -431,3 +434,6 @@
 - name: 試練メガクェイク
   allow:
     name_list: [ドーマ2]
+- name: 共に未来を見つめて
+  allow:
+    name_list: [セイズ]

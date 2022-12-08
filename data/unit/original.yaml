@@ -1035,3 +1035,16 @@
   passive_a: 攻撃魔防の機先4
   passive_b: 攻撃魔防の遠影3
   passive_c: 攻撃魔防の奮起4
+- name: セイズ
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 39
+  attack: 64
+  speed: 30
+  defence: 12
+  resist: 47
+  weapon: セイズ
+  special: 氷蒼
+  passive_a: 止水4
+  passive_b: 攻撃魔防の封印3
+  passive_c: 共に未来を見つめて
