@@ -392,6 +392,19 @@
   assist: 一喝
   passive_a: 鬼神金剛の一撃2
   passive_b: 強化無効・近距離3
+- name: ティアモ4
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 40
+  attack: 60
+  speed: 43
+  defence: 33
+  resist: 23
+  weapon: 母娘の静やかな祝福
+  special: 疾風迅雷
+  passive_a: 攻撃速さの激突4
+  passive_b: 怒涛・キャンセル3
+  passive_c: 守備魔防の大牽制
 - name: フィレイン
   weapon_type: 槍
   movement_type: 飛行

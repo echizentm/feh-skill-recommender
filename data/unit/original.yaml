@@ -148,6 +148,18 @@
   special: 祈り
   passive_a: 攻撃守備の渾身3
   passive_b: 幻惑の杖3
+- name: ブルーノ2
+  weapon_type: 緑魔
+  movement_type: 重装
+  hp: 43
+  attack: 58
+  speed: 41
+  defence: 32
+  resist: 37
+  weapon: 聖夜のステッキ+
+  assist: 相互援助
+  passive_a: 獅子奮迅3
+  passive_c: 攻撃魔防の威嚇2
 - name: ヴェロニカ
   weapon_type: 杖
   movement_type: 騎馬

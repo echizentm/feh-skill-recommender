@@ -442,6 +442,19 @@
   special: 黒の月光
   passive_a: 金剛の構え3
   passive_b: 救援の行路3
+- name: 漆黒の騎士2
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 43
+  attack: 60
+  speed: 44
+  defence: 35
+  resist: 30
+  weapon: 荘厳なる祝福の聖斧
+  special: 黒の月光
+  passive_a: 遠反・飛燕の構え3
+  passive_b: 奥義隊形4
+  passive_c: 盾の護り手・遠間3
 - name: プラハ
   weapon_type: 槍
   movement_type: 騎馬

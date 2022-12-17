@@ -318,6 +318,18 @@
   passive_a: 飛燕明鏡の瞬撃
   passive_b: 業火疾風の舞い2
   passive_c: 攻撃速さの牽制3
+- name: ドロテア3
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 36
+  attack: 54
+  speed: 44
+  defence: 16
+  resist: 25
+  weapon: 皆への七つの贈り物
+  assist: 歌う
+  passive_b: 速さ魔防の遠影3
+  passive_c: 速指揮・歩行重視
 - name: ペトラ
   weapon_type: 青暗器
   movement_type: 飛行
@@ -481,6 +493,18 @@
   assist: 攻撃速さの応援+
   passive_b: 守備魔防の大共謀3
   passive_c: 攻撃守備の大開放3
+- name: アネット2
+  weapon_type: 弓
+  movement_type: 重装
+  hp: 43
+  attack: 55
+  speed: 23
+  defence: 40
+  resist: 41
+  weapon: 聖夜の弓+
+  special: 月虹
+  passive_a: 攻撃魔防の万全3
+  passive_b: 抑止隊形3
 - name: イングリット
   weapon_type: 槍
   movement_type: 飛行

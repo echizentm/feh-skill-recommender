@@ -31,6 +31,9 @@
 - name: 奥義隊形3
   allow:
     movement_type_list: [重装]
+- name: 奥義隊形4
+  allow:
+    movement_type_list: [重装]
 - name: 追撃隊形・奇数3
   allow:
     movement_type_list: [重装]
