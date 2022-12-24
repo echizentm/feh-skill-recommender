@@ -420,3 +420,6 @@
 - name: 陰陽の法則
   allow:
     name_list: [ラルヴァ]
+- name: 連閃
+  allow:
+    name_list: [女シェズ2]

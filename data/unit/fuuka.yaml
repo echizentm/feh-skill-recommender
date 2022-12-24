@@ -990,6 +990,19 @@
   special: 凶星
   passive_a: 死線3
   passive_b: 強化無効・近距離3
+- name: 女シェズ2
+  weapon_type: 青暗器
+  movement_type: 歩行
+  hp: 40
+  attack: 51
+  speed: 49
+  defence: 31
+  resist: 25
+  weapon: アスラの双刃
+  special: 凶星
+  passive_a: 連閃
+  passive_b: 速さ封じ4
+  passive_c: 攻撃速さの信義4
 - name: ラルヴァ
   weapon_type: 魔
   movement_type: 歩行

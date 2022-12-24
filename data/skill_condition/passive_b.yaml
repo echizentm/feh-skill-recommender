@@ -107,6 +107,9 @@
 - name: 速さ封じ3
   deny:
     weapon_type_list: [杖]
+- name: 速さ封じ4
+  deny:
+    weapon_type_list: [杖]
 - name: 守備封じ3
   deny:
     weapon_type_list: [杖]
