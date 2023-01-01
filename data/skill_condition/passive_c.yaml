@@ -412,7 +412,7 @@
     name_list: [トール, トール2]
 - name: 開神の眷属
   allow:
-    name_list: [アシュ]
+    name_list: [アシュ, アシュ2]
 - name: 女神を宿せし者
   allow:
     name_list: [ベレス3]
@@ -427,7 +427,7 @@
     name_list: [ユーミル]
 - name: みんなが繋がる世界
   allow:
-    name_list: [アスク]
+    name_list: [アスク, アスク2]
 - name: すべてが閉じた世界
   allow:
     name_list: [エンブラ]

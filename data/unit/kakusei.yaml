@@ -829,6 +829,18 @@
   special: 流星
   passive_b: 速さの封印3
   passive_c: 守備の紫煙3
+- name: ベルベット2
+  weapon_type: 赤獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 55
+  speed: 44
+  defence: 32
+  resist: 21
+  weapon: 賀正の母兎の爪牙
+  special: 月光
+  passive_a: 攻撃速さの激突3
+  passive_b: 速さ守備の凪3
 - name: パリス
   weapon_type: 剣
   movement_type: 歩行
@@ -1013,6 +1025,18 @@
   passive_a: 攻撃速さの弧軍3
   passive_b: 離脱の行路3
   passive_c: 速さの波・奇数3
+- name: シャンブレー2
+  weapon_type: 緑獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 43
+  defence: 35
+  resist: 21
+  weapon: 賀正の子兎の爪牙
+  special: 疾風迅雷
+  passive_a: 速さ守備の弧軍3
+  passive_c: 攻撃速さの威嚇2
 - name: 男マーク
   weapon_type: 赤魔
   movement_type: 歩行

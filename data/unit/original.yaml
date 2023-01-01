@@ -1008,6 +1008,19 @@
   passive_a: 攻撃守備の万全4
   passive_b: 攻撃守備の防壁3
   passive_c: みんなが繋がる世界
+- name: アスク2
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 16
+  defence: 42
+  resist: 37
+  weapon: 開神と閉神の祭器
+  special: 緋炎
+  passive_a: 守備魔防の秘奥4
+  passive_b: 攻撃魔防の拍節3
+  passive_c: みんなが繋がる世界
 - name: アシュ
   weapon_type: 獣
   movement_type: 歩行
@@ -1020,6 +1033,19 @@
   special: 緋炎
   passive_a: 攻撃守備の連帯
   passive_b: 攻撃守備の凪3
+  passive_c: 開神の眷属
+- name: アシュ2
+  weapon_type: 青獣
+  movement_type: 歩行
+  hp: 41
+  attack: 58
+  speed: 19
+  defence: 44
+  resist: 40
+  weapon: 新年を開く角
+  special: 緋炎
+  passive_a: 遠反・金剛の構え
+  passive_b: 攻撃守備の防壁3
   passive_c: 開神の眷属
 - name: エンブラ
   weapon_type: 赤獣
@@ -1034,6 +1060,18 @@
   passive_a: 攻撃速さの激突4
   passive_b: 絶対化身・敏捷3
   passive_c: すべてが閉じた世界
+- name: エルム
+  weapon_type: 緑獣
+  movement_type: 飛行
+  hp: 41
+  attack: 54
+  speed: 45
+  defence: 27
+  resist: 31
+  weapon: 旧年を閉ざす爪牙
+  special: 月光
+  passive_b: 絶対化身・近影3
+  passive_c: 無への暗闘3
 - name: レティシア
   weapon_type: 緑魔
   movement_type: 騎馬
