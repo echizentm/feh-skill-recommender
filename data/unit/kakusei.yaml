@@ -1026,7 +1026,7 @@
   passive_b: 離脱の行路3
   passive_c: 速さの波・奇数3
 - name: シャンブレー2
-  weapon_type: 緑獣
+  weapon_type: 青獣
   movement_type: 騎馬
   hp: 40
   attack: 57
