@@ -520,9 +520,9 @@
   resist: 36
   weapon: ラグネル&エタルド
   special: 双刃
-  passive_a: 女神の三雄
+  passive_a: 女神の三雄・神
   passive_b: 待ち伏せ3
-  passive_c: 攻撃守備の信義3
+  passive_c: 攻撃守備の大牽制
 - name: オルティナ2
   weapon_type: 剣
   movement_type: 歩行

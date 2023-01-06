@@ -20,10 +20,10 @@
   defence: 29
   resist: 27
   weapon: マスターボウ
-  special: ノヴァの聖騎士
+  special: ノヴァの聖騎士・承
   passive_a: 攻撃魔防の渾身4
   passive_b: Sドリンク
-  passive_c: 守備の紫煙3
+  passive_c: 攻撃の相互大紋章
 - name: リーフ3
   weapon_type: 弓
   movement_type: 騎馬
