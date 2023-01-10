@@ -773,6 +773,18 @@
   assist: 攻撃速さの応援+
   passive_b: 守備魔防の大共謀3
   passive_c: 魔防の波・偶数3
+- name: ウルスラ3
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 56
+  speed: 46
+  defence: 18
+  resist: 22
+  weapon: 魔宿す蒼鴉の水晶球
+  special: 月虹
+  passive_b: 速さ魔防の封印3
+  passive_c: 恐慌の幻煙4
 - name: ニノ
   weapon_type: 緑魔
   movement_type: 歩行
@@ -811,6 +823,19 @@
   passive_a: 攻撃速さの密集3
   passive_b: 攻撃隊形3
   passive_c: 重装の行軍3
+- name: ニノ4
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 38
+  attack: 55
+  speed: 46
+  defence: 20
+  resist: 32
+  weapon: 魔道の寵子の羅針盤
+  special: 凶星
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 速さの先制3
+  passive_c: 始まりの鼓動4
 - name: ラガルト
   weapon_type: 暗器
   movement_type: 歩行

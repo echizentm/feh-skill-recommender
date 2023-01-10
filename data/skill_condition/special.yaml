@@ -209,7 +209,7 @@
     name_list: [シグルド3]
 - name: 覇天
   allow:
-    name_list: [ベレト2]
+    name_list: [ベレト2, ベレト3]
 - name: 鎮魂の舞
   allow:
     name_list: [マリアンヌ2]

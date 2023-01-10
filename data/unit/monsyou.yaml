@@ -380,6 +380,19 @@
   assist: 献身
   passive_a: 攻撃魔防の大覚醒3
   passive_b: 相性相殺3
+- name: リンダ3
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 37
+  attack: 58
+  speed: 45
+  defence: 16
+  resist: 27
+  weapon: 魔継ぐ少女の天球儀
+  special: 月光
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 速さ魔防の遠影3
+  passive_c: 守備魔防の紫煙3
 - name: ジョルジュ
   weapon_type: 弓
   movement_type: 歩行

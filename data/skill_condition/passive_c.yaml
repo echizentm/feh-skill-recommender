@@ -171,6 +171,9 @@
 - name: 始まりの鼓動3
   allow:
     movement_type_list: [歩行]
+- name: 始まりの鼓動4
+  allow:
+    movement_type_list: [歩行]
 - name: 再移動制限3
   allow:
     movement_type_list: [歩行]
