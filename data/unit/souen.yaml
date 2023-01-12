@@ -73,7 +73,7 @@
   assist: 入れ替え
   passive_a: 相性激化3
   passive_b: 攻撃魔防の連携3
-- name: セネリオ
+- name: 蒼炎セネリオ
   weapon_type: 緑魔
   movement_type: 歩行
   hp: 36
@@ -85,7 +85,7 @@
   special: 爆風
   passive_b: 水薙ぎ3
   passive_c: 魔防の鼓舞3
-- name: セネリオ2
+- name: 蒼炎セネリオ2
   weapon_type: 青魔
   movement_type: 騎馬
   hp: 37
@@ -98,7 +98,7 @@
   passive_a: 攻撃魔防の絆3
   passive_b: 速さの共謀3
   passive_c: 魔防の開放3
-- name: セネリオ3
+- name: 蒼炎セネリオ3
   weapon_type: 魔
   movement_type: 歩行
   hp: 36
