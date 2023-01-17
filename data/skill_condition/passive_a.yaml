@@ -147,6 +147,12 @@
 - name: 速さ守備の万全4
   deny:
     movement_type_list: [騎馬, 飛行]
+- name: 速さ魔防の万全3
+  deny:
+    movement_type_list: [騎馬, 飛行]
+- name: 速さ魔防の万全4
+  deny:
+    movement_type_list: [騎馬, 飛行]
 - name: 守備魔防の万全3
   deny:
     movement_type_list: [騎馬, 飛行]
@@ -435,3 +441,6 @@
 - name: 連閃
   allow:
     name_list: [女シェズ2]
+- name: 自己研鑽
+  allow:
+    name_list: [アルフレッド]

@@ -298,6 +298,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 回避・一撃離脱4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 回避・叩き込み3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -336,6 +340,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]
+- name: 天馬行空4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [飛行]
 - name: 飛竜行空3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -357,6 +365,10 @@
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [騎馬, 飛行]
 - name: 怒涛・不屈3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [騎馬, 飛行]
+- name: 怒涛・近影3
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [騎馬, 飛行]
