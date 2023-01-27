@@ -741,3 +741,16 @@
   assist: 相互援助
   passive_a: HP魔防2
   passive_c: 攻撃魔防の奮起3
+- name: フォデス
+  weapon_type: 獣
+  movement_type: 重装
+  hp: 40
+  attack: 58
+  speed: 15
+  defence: 46
+  resist: 44
+  weapon: 滅びの魔拳
+  special: 緋炎
+  passive_a: 漆黒の悪夢
+  passive_b: 絶対化身・追撃3
+  passive_c: 鎧の護り手・遠間3

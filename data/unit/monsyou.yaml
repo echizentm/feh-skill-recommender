@@ -849,6 +849,19 @@
   passive_a: 遠距離反撃
   passive_b: 奥義隊形3
   passive_c: 竜の技量3
+- name: ガトー
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 14
+  defence: 38
+  resist: 42
+  weapon: 聖光スターライト
+  special: 氷蒼
+  passive_a: 人に魔道を授けし者
+  passive_b: キャンセル4
+  passive_c: 遠距離相互警戒
 - name: チェイニー
   weapon_type: 魔
   movement_type: 歩行

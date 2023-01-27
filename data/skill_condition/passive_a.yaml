@@ -444,3 +444,9 @@
 - name: 自己研鑽
   allow:
     name_list: [アルフレッド]
+- name: 漆黒の悪夢
+  allow:
+    name_list: [フォデス]
+- name: 人に魔道を授けし者
+  allow:
+    name_list: [ガトー]
