@@ -696,8 +696,8 @@
   resist: 27
   weapon: イーヴィングル
   special: 月虹
-  passive_a: 柔剣4
-  passive_b: 死んでほしいの
+  passive_a: 攻撃速さの万全4
+  passive_b: 死んでほしいの・神
   passive_c: 恐慌の幻煙3
 - name: ガングレト
   weapon_type: 斧
@@ -772,10 +772,10 @@
   defence: 16
   resist: 27
   weapon: 幸福の花
-  assist: やさしいゆめ
+  assist: やさしいゆめ・神
   passive_a: 青の死闘・飛行3
   passive_b: 曲技飛行3
-  passive_c: 魔防の鼓舞4
+  passive_c: 魔防の十字紋章
 - name: ピアニー2
   weapon_type: 緑魔
   movement_type: 飛行

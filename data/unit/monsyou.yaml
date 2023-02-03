@@ -212,11 +212,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 42
-  attack: 44
+  attack: 46
   speed: 36
   defence: 31
   resist: 27
-  weapon: 遠距離防御の弓+
+  weapon: 義勇兵の弓
   assist: 引き戻し
   passive_a: 速さ守備の大覚醒3
   passive_b: 速さ守備の連携3

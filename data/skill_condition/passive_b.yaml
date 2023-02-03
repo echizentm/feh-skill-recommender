@@ -517,7 +517,7 @@
 - name: 光と闇と・承
   allow:
     name_list: [ユリア2]
-- name: 死んでほしいの
+- name: 死んでほしいの・神
   allow:
     name_list: [スラシル]
 - name: ソフィアの魂

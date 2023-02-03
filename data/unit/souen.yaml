@@ -322,11 +322,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 37
-  attack: 46
+  attack: 48
   speed: 36
   defence: 28
   resist: 34
-  weapon: 反攻の槍+
+  weapon: 神使親衛隊隊長の槍
   assist: 入れ替え
   passive_b: 守備魔防の連携3
   passive_c: 飛刃の鼓舞

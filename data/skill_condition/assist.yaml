@@ -150,6 +150,9 @@
 - name: やさしいゆめ
   allow:
     name_list: [ピアニー, ピアニー2]
+- name: やさしいゆめ・神
+  allow:
+    name_list: [ピアニー2]
 - name: 運命を変える！
   allow:
     name_list: [クロム5, クロム6]
