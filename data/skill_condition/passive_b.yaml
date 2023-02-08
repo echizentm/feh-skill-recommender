@@ -466,6 +466,9 @@
 - name: 神罰の杖3
   allow:
     weapon_type_list: [杖]
+- name: 神罰・因果応報
+  allow:
+    weapon_type_list: [杖]
 - name: 氷の封印・承
   allow:
     name_list: [スリーズ]

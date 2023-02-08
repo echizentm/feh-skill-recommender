@@ -558,6 +558,19 @@
   special: 凶星
   passive_a: 獅子奮迅3
   passive_c: 魔防の波・奇数3
+- name: タクミ5
+  weapon_type: 青魔
+  movement_type: 重装
+  hp: 40
+  attack: 54
+  speed: 46
+  defence: 28
+  resist: 31
+  weapon: 白夜の王子の菓子箱
+  special: 月光
+  passive_a: 飛燕明鏡の構え3
+  passive_b: 慧眼隊形3
+  passive_c: 刃の護り手・遠間3
 - name: ヒナタ
   weapon_type: 剣
   movement_type: 歩行
@@ -668,6 +681,18 @@
   special: 凶星
   passive_a: 死線3
   passive_b: 怒り3
+- name: カザハナ3
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 40
+  attack: 56
+  speed: 46
+  defence: 41
+  resist: 27
+  weapon: 桜と薔薇の刀+
+  special: 華炎
+  passive_b: 奥義隊形3
+  passive_c: 重装の遊撃3
 - name: ツバキ
   weapon_type: 槍
   movement_type: 飛行
@@ -1011,6 +1036,18 @@
   special: 凶星
   passive_a: 遠距離防御3
   passive_b: 切り返し3
+- name: レオン4
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 37
+  attack: 59
+  speed: 31
+  defence: 16
+  resist: 45
+  weapon: 暗夜の王子の花弓
+  special: 氷蒼
+  passive_a: 鬼神明鏡の離撃
+  passive_b: 攻撃守備の遠影3
 - name: オーディン
   weapon_type: 青魔
   movement_type: 歩行
@@ -1085,6 +1122,20 @@
   passive_a: 鬼神飛燕の一撃2
   passive_b: 攻撃の共謀3
   passive_c: 暗器の技量3
+- name: エリーゼ4
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 37
+  attack: 57
+  speed: 46
+  defence: 16
+  resist: 27
+  weapon: 白夜暗夜の姫の花杖
+  assist: リターン+
+  special: 重圧の聖光
+  passive_a: 攻撃速さの機先4
+  passive_b: 神罰・因果応報
+  passive_c: 快癒・奇数3
 - name: ハロルド
   weapon_type: 斧
   movement_type: 歩行
@@ -1109,6 +1160,18 @@
   assist: ぶちかまし
   passive_a: 鬼神の一撃3
   passive_b: 守備隊形3
+- name: エルフィ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 43
+  attack: 60
+  speed: 43
+  defence: 32
+  resist: 23
+  weapon: 桜と薔薇の花瓶+
+  assist: ぶちかまし
+  passive_a: 攻撃速さの渾身3
+  passive_c: 歩行の柔撃3
 - name: サイラス
   weapon_type: 槍
   movement_type: 騎馬
