@@ -135,6 +135,9 @@
 - name: 重圧の聖光
   allow:
     weapon_type_list: [杖]
+- name: 抑制の聖光
+  allow:
+    weapon_type_list: [杖]
 - name: 氷の聖鏡
   allow:
     name_list: [フィヨルム, フィヨルム4]

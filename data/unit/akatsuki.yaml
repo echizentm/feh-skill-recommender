@@ -238,6 +238,57 @@
   assist: 引き寄せ
   passive_a: 攻撃速さの絆3
   passive_b: 攻撃速さの連携3
+- name: 暁エリンシア3
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 38
+  attack: 58
+  speed: 45
+  defence: 18
+  resist: 28
+  weapon: クリミア女王の王笏
+  assist: レスキュー+
+  special: 抑制の聖光
+  passive_a: 攻撃速さの渾身4
+  passive_b: 幻惑・転移
+  passive_c: 速さ魔防の大牽制
+- name: ルキノ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 67
+  speed: 52
+  defence: 24
+  resist: 27
+  weapon: 女王の護衛の怜剣
+  assist: 一喝+
+  passive_a: 死線4
+  passive_b: 回避・叩き込み4
+  passive_c: 迅雷風烈・偶数3
+- name: ジョフレ
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 62
+  speed: 40
+  defence: 29
+  resist: 25
+  weapon: 女王の騎士の勇槍
+  special: 月光
+  passive_b: 怒涛・不屈3
+  passive_c: 攻撃守備の脅嚇
+- name: ユリシーズ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 28
+  defence: 20
+  resist: 45
+  weapon: グルンディア+
+  special: 氷蒼
+  passive_b: 魔防の混乱3
+  passive_c: 攻撃の謀策3
 - name: カイネギス
   weapon_type: 獣
   movement_type: 重装

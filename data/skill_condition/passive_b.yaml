@@ -306,6 +306,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 回避・叩き込み4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 回避・怒り3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -461,6 +465,9 @@
   allow:
     weapon_type_list: [杖]
 - name: 幻惑の杖3
+  allow:
+    weapon_type_list: [杖]
+- name: 幻惑・転移
   allow:
     weapon_type_list: [杖]
 - name: 神罰の杖3
