@@ -289,6 +289,18 @@
   special: 氷蒼
   passive_b: 魔防の混乱3
   passive_c: 攻撃の謀策3
+- name: ルドベック
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 46
+  attack: 58
+  speed: 32
+  defence: 45
+  resist: 28
+  weapon: 守備逆用の斧+
+  special: 華炎
+  passive_a: 鬼神金剛の構え2
+  passive_b: 迎撃隊形3
 - name: カイネギス
   weapon_type: 獣
   movement_type: 重装
