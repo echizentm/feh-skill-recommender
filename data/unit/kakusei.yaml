@@ -135,6 +135,19 @@
   passive_a: 鬼神金剛の構え3
   passive_b: 正面隊形・自己3
   passive_c: 兜の護り手・近間3
+- name: 男ルフレ5
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 30
+  defence: 31
+  resist: 31
+  weapon: 神軍師の書
+  special: 華炎
+  passive_a: これも策のうちだよ
+  passive_b: 攻撃封じ4
+  passive_c: 再移動制限3
 - name: 女ルフレ
   weapon_type: 緑魔
   movement_type: 歩行

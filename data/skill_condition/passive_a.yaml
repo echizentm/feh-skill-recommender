@@ -453,3 +453,6 @@
 - name: 人に魔道を授けし者
   allow:
     name_list: [ガトー]
+- name: これも策のうちだよ
+  allow:
+    name_list: [男ルフレ5]
