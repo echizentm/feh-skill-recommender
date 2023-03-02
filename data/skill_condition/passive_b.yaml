@@ -536,6 +536,9 @@
 - name: ソフィアの魂
   allow:
     name_list: [セリカ4, セリカ5]
+- name: ソフィアの魂・承
+  allow:
+    name_list: [セリカ4]
 - name: 死者の帳尻を
   allow:
     name_list: [リーヴ, リーヴ3]

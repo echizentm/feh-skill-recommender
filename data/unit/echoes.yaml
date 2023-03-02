@@ -258,8 +258,8 @@
   weapon: 天聖エンジェル
   special: 祈り
   passive_a: 鬼神飛燕の一撃3
-  passive_b: ソフィアの魂
-  passive_c: 攻撃速さの信義3
+  passive_b: ソフィアの魂・承
+  passive_c: 攻撃速さの脅嚇
 - name: セリカ5
   weapon_type: 魔
   movement_type: 歩行
@@ -700,8 +700,8 @@
   weapon: 大地母神のブレス
   assist: 守備魔防の応援+
   passive_a: 金剛明鏡の構え3
-  passive_b: 攻撃の混乱3
-  passive_c: ミラの歯車
+  passive_b: 竜鱗障壁3
+  passive_c: ミラの歯車・神
 - name: 盗賊頭
   weapon_type: 斧
   movement_type: 歩行

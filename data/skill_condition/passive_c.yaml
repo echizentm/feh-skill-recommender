@@ -392,7 +392,7 @@
 - name: 見通せぬ深き暗闇
   allow:
     name_list: [ブラミモンド]
-- name: ミラの歯車
+- name: ミラの歯車・神
   allow:
     name_list: [ミラ]
 - name: 死からは逃れられぬ
