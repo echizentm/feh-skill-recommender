@@ -74,6 +74,9 @@
 - name: 業火疾風の舞い2
   deny:
     weapon_type_list: [杖]
+- name: 業火疾風の舞い3
+  deny:
+    weapon_type_list: [杖]
 - name: 業火大地の舞い2
   deny:
     weapon_type_list: [杖]

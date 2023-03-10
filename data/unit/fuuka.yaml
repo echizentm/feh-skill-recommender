@@ -305,6 +305,19 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 速さ魔防の凪3
   passive_c: 攻撃速さの奮起3
+- name: ベルナデッタ3
+  weapon_type: 青弓
+  movement_type: 騎馬
+  hp: 39
+  attack: 57
+  speed: 47
+  defence: 20
+  resist: 25
+  weapon: うたた寝の春の弓
+  special: 竜裂
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 離脱の行路4
+  passive_c: 守備魔防の紫煙3
 - name: ドロテア
   weapon_type: 暗器
   movement_type: 歩行
@@ -456,6 +469,18 @@
   passive_a: 青の死闘・騎馬4
   passive_b: 速さ守備の近影3
   passive_c: 速さの相互鼓舞
+- name: アッシュ2
+  weapon_type: 赤弓
+  movement_type: 飛行
+  hp: 40
+  attack: 55
+  speed: 46
+  defence: 32
+  resist: 17
+  weapon: 白兎の卵+
+  assist: 速さの大応援+
+  passive_a: 攻撃速さの機先3
+  passive_c: 攻撃速さの牽制3
 - name: シルヴァン
   weapon_type: 緑魔
   movement_type: 騎馬

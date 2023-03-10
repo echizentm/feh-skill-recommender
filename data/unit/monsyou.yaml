@@ -429,6 +429,18 @@
   special: 烈雷
   passive_a: アイオテの盾
   passive_c: 守備の威嚇3
+- name: ミシェイル2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 43
+  attack: 59
+  speed: 32
+  defence: 47
+  resist: 17
+  weapon: 黒兎の槍+
+  assist: 入れ替え
+  passive_a: アイオテの盾
+  passive_b: 攻撃速さの干渉3
 - name: ミネルバ
   weapon_type: 斧
   movement_type: 飛行

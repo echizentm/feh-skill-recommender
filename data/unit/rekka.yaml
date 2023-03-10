@@ -566,6 +566,19 @@
   special: 竜裂
   passive_b: 奥義の螺旋3
   passive_c: 迅雷風烈・奇数3
+- name: カアラ3
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 40
+  attack: 61
+  speed: 47
+  defence: 24
+  resist: 22
+  weapon: 想い宿す妹達の重斧
+  special: 竜裂
+  passive_a: 攻撃速さの激突4
+  passive_b: 怒涛・近影3
+  passive_c: 速さの紫煙4
 - name: ギィ 
   weapon_type: 剣
   movement_type: 歩行

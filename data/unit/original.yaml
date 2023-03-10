@@ -866,6 +866,18 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 曲技飛行3
   passive_c: 速さ魔防の牽制3
+- name: スカビオサ2
+  weapon_type: 魔
+  movement_type: 飛行
+  hp: 37
+  attack: 57
+  speed: 49
+  defence: 18
+  resist: 18
+  weapon: 春に微睡む悪夢の卵
+  assist: こわいゆめ
+  passive_b: 業火疾風の舞い3
+  passive_c: 守備魔防の大牽制
 - name: フレイヤ
   weapon_type: 緑獣
   movement_type: 騎馬
