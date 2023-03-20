@@ -218,6 +218,9 @@
 - name: 空からの先導3
   allow:
     movement_type_list: [飛行]
+- name: 空からの先導4
+  allow:
+    movement_type_list: [飛行]
 - name: 飛行の先導3
   allow:
     movement_type_list: [飛行]

@@ -186,6 +186,12 @@
 - name: 速さ守備の機先4
   deny:
     movement_type_list: [歩行, 重装]
+- name: 速さ魔防の機先3
+  deny:
+    movement_type_list: [歩行, 重装]
+- name: 速さ魔防の機先4
+  deny:
+    movement_type_list: [歩行, 重装]
 - name: 守備魔防の機先3
   deny:
     movement_type_list: [歩行, 重装]

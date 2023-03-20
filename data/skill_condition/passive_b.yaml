@@ -25,6 +25,9 @@
 - name: 迎撃隊形3
   allow:
     movement_type_list: [重装]
+- name: 迎撃隊形4
+  allow:
+    movement_type_list: [重装]
 - name: 守備隊形3
   allow:
     movement_type_list: [重装]
@@ -617,3 +620,6 @@
 - name: 新たなる神竜王
   allow:
     name_list: [チキ3]
+- name: 天かける翼
+  allow:
+    name_list: [ターナ5]
