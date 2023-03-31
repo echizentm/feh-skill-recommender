@@ -170,7 +170,7 @@
     name_list: [スカビオサ]
 - name: トリック
   allow:
-    name_list: [ユーリス]
+    name_list: [ユーリス, ユーリス2]
 - name: オイデ、ヒノコタチ
   allow:
     name_list: [ニニアン3]

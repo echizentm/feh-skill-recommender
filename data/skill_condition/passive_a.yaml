@@ -408,6 +408,14 @@
 - name: 守備魔防の秘奥4
   allow:
     movement_type_list: [歩行]
+- name: 魔道の刃3
+  allow:
+    weapon_type_list: [剣, 赤弓, 赤暗器, 槍, 青弓, 青暗器, 斧, 緑弓, 緑暗器, 弓, 暗器]
+    movement_type_list: [歩行]
+- name: 攻撃速さの魔刃3
+  allow:
+    weapon_type_list: [剣, 赤弓, 赤暗器, 槍, 青弓, 青暗器, 斧, 緑弓, 緑暗器, 弓, 暗器]
+    movement_type_list: [歩行]
 - name: スヴェルの盾
   allow:
     movement_type_list: [重装]

@@ -449,3 +449,6 @@
 - name: 共に未来を見つめて
   allow:
     name_list: [セイズ]
+- name: ドローミの鎖環
+  allow:
+    name_list: [ユーリス2]

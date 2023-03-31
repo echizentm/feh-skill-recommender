@@ -795,6 +795,19 @@
   special: 凶星
   passive_a: 無の死闘・歩行4
   passive_c: 始まりの鼓動3
+- name: ユーリス2
+  weapon_type: 赤暗器
+  movement_type: 歩行
+  hp: 41
+  attack: 58
+  speed: 47
+  defence: 24
+  resist: 26
+  weapon: 薄闇の王の刃
+  assist: トリック
+  passive_a: 攻撃速さの魔刃
+  passive_b: 速さ封じ4
+  passive_c: ドローミの鎖環
 - name: バルタザール
   weapon_type: 斧
   movement_type: 歩行
