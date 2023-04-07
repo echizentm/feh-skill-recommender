@@ -139,11 +139,11 @@
   weapon_type: 杖
   movement_type: 歩行
   hp: 39
-  attack: 45
+  attack: 47
   speed: 23
   defence: 35
   resist: 31
-  weapon: メランコリー+
+  weapon: 白百合の杖
   assist: リカバー+
   special: 業火大地の祝福+
   passive_b: 幻惑の杖3
@@ -571,11 +571,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 40
-  attack: 45
+  attack: 47
   speed: 22
   defence: 34
   resist: 35
-  weapon: バリアの槍+
+  weapon: 仮面の騎士の槍
   special: 氷華
   passive_a: 金剛明鏡の構え2
   passive_b: 攻撃の封印3

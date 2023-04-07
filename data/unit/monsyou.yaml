@@ -903,11 +903,11 @@
   weapon_type: 赤竜
   movement_type: 歩行
   hp: 45
-  attack: 47
+  attack: 50
   speed: 28
   defence: 35
   resist: 26
-  weapon: 闇のブレス+
+  weapon: 老朽のブレス
   special: 竜穿
   passive_a: 鬼神の構え3
   passive_c: 死の吐息3

@@ -452,3 +452,6 @@
 - name: ドローミの鎖環
   allow:
     name_list: [ユーリス2]
+- name: 理想への天質
+  allow:
+    name_list: [エリウッド5]

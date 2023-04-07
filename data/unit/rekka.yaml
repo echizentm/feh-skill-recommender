@@ -1,3 +1,16 @@
+- name: 烈火マーク
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 58
+  speed: 27
+  defence: 20
+  resist: 46
+  weapon: 戦神の破界の戦記
+  special: 氷蒼
+  passive_a: 鬼神明鏡の離撃
+  passive_b: 攻撃魔防の混乱3
+  passive_c: 再移動制限3
 - name: エリウッド
   weapon_type: 剣
   movement_type: 騎馬
@@ -48,6 +61,19 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 攻撃速さの大共謀3
   passive_c: 速さの開放
+- name: エリウッド5
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 39
+  attack: 61
+  speed: 46
+  defence: 29
+  resist: 20
+  weapon: 戦神の烈剣
+  special: 月光
+  passive_a: 速さ守備の激突4
+  passive_b: 速さ守備の近影3
+  passive_c: 理想への天質
 - name: リン
   weapon_type: 剣
   movement_type: 歩行
@@ -213,6 +239,19 @@
   passive_a: 遠距離反撃
   passive_b: 追撃隊形・奇数3
   passive_c: 重刃の鼓舞
+- name: ヘクトル6
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 47
+  attack: 61
+  speed: 16
+  defence: 47
+  resist: 41
+  weapon: 戦神の勇斧
+  special: 重装の聖炎
+  passive_a: オスティアの心魂
+  passive_b: 迎撃隊形4
+  passive_c: 盾の護り手・遠間3
 - name: マシュー
   weapon_type: 暗器
   movement_type: 歩行
@@ -310,6 +349,19 @@
   assist: セインツ+
   special: 祈り
   passive_a: HP3
+- name: ルセア2
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 38
+  attack: 62
+  speed: 31
+  defence: 17
+  resist: 47
+  weapon: 戦神の天杖
+  assist: セインツ+
+  special: 天照
+  passive_a: 攻撃魔防の万全3
+  passive_c: 遠距離警戒3
 - name: レベッカ
   weapon_type: 弓
   movement_type: 歩行
@@ -322,6 +374,18 @@
   assist: 献身
   passive_a: 飛燕の一撃3
   passive_b: 攻撃封じ3
+- name: レベッカ2
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 39
+  attack: 58
+  speed: 45
+  defence: 22
+  resist: 33
+  weapon: 戦神の風弓
+  special: 月虹
+  passive_a: 攻撃速さの秘奥3
+  passive_b: 見切り・追撃効果3
 - name: パント
   weapon_type: 青魔
   movement_type: 騎馬

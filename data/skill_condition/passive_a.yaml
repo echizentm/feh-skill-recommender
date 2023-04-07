@@ -214,6 +214,14 @@
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
     movement_type_list: [重装]
+- name: 速さ守備の激突3
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+    movement_type_list: [重装]
+- name: 速さ守備の激突4
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+    movement_type_list: [重装]
 - name: 獅子奮迅3
   deny:
     weapon_type_list: [杖]
@@ -470,3 +478,6 @@
 - name: これも策のうちだよ
   allow:
     name_list: [男ルフレ5]
+- name: オスティアの心魂
+  allow:
+    name_list: [ヘクトル6]
