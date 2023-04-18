@@ -165,6 +165,18 @@
   passive_a: 金剛明鏡の構え3
   passive_b: 真竜麟障壁
   passive_c: 盾の護り手・近間3
+- name: レア3
+  weapon_type: 竜
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 16
+  defence: 42
+  resist: 46
+  weapon: 福音のブレス
+  special: 凶星
+  passive_a: 攻撃魔防の竜眼4
+  passive_b: 真竜麟障壁
 - name: エーデルガルト
   weapon_type: 斧
   movement_type: 歩行
@@ -456,6 +468,19 @@
   special: 凶星
   passive_a: 鬼神飛燕の一撃2
   passive_b: 強化無効・遠距離3
+- name: フェリクス2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 62
+  speed: 46
+  defence: 31
+  resist: 25
+  weapon: 一匹狼の鋭剣
+  special: 神速回避
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 攻撃速さの防壁3
+  passive_c: 速さの紫煙4
 - name: アッシュ
   weapon_type: 槍
   movement_type: 騎馬
@@ -493,6 +518,18 @@
   assist: 引き寄せ
   passive_b: 魔防の封印3
   passive_c: 攻撃守備の奮起3
+- name: シルヴァン2
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 40
+  attack: 58
+  speed: 35
+  defence: 37
+  resist: 23
+  weapon: 共闘の斧+
+  special: 月虹
+  passive_a: 攻撃守備の機先3
+  passive_c: 攻撃守備の紋章2
 - name: メルセデス
   weapon_type: 杖
   movement_type: 歩行
@@ -568,6 +605,19 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 速さ守備の凪3
   passive_c: 攻撃速さの奮起3
+- name: イングリット3
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 38
+  attack: 60
+  speed: 47
+  defence: 30
+  resist: 25
+  weapon: 魔器・魔槍ルーン
+  special: 月光
+  passive_a: 忠義の槍
+  passive_b: 警戒姿勢4
+  passive_c: 速さ守備の大牽制
 - name: クロード
   weapon_type: 弓
   movement_type: 騎馬
@@ -980,6 +1030,19 @@
   special: 氷華
   passive_b: 魔防の混乱3
   passive_c: 攻撃の謀策3
+- name: コルネリア
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 42
+  attack: 60
+  speed: 23
+  defence: 26
+  resist: 43
+  weapon: アスクレピオス
+  assist: リバース+
+  special: 祈り
+  passive_a: 攻撃魔防の孤軍3
+  passive_b: 守備の混乱3
 - name: 死神騎士
   weapon_type: 槍
   movement_type: 騎馬
