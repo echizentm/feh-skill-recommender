@@ -631,3 +631,6 @@
 - name: 天かける翼
   allow:
     name_list: [ターナ5]
+- name: 地に生まれ地に還る
+  allow:
+    name_list: [ネルトゥス]
