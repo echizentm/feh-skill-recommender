@@ -556,12 +556,18 @@
 - name: 死者の帳尻を
   allow:
     name_list: [リーヴ, リーヴ3]
+- name: 死者の帳尻を・神
+  allow:
+    name_list: [リーヴ]
 - name: 愛を信じますか？
   allow:
     name_list: [シーダ3]
 - name: 狂嵐
   allow:
     name_list: [エーデルガルト2, エーデルガルト5]
+- name: 狂嵐・承
+  allow:
+    name_list: [エーデルガルト2]
 - name: 最後の聖戦
   allow:
     name_list: [セリス2]

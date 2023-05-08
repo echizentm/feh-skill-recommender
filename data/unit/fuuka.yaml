@@ -200,8 +200,8 @@
   resist: 36
   weapon: アイムール
   special: 緋炎
-  passive_a: 攻撃魔防の孤軍3
-  passive_b: 狂嵐
+  passive_a: 攻撃魔防の万全4
+  passive_b: 狂嵐・承
   passive_c: 重装の遊撃3
 - name: エーデルガルト3
   weapon_type: 斧

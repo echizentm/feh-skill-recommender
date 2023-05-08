@@ -658,8 +658,8 @@
   weapon: セクヴァベク
   special: 開世
   passive_a: 遠距離反撃
-  passive_b: 死者の帳尻を
-  passive_c: 始まりの鼓動3
+  passive_b: 死者の帳尻を・神
+  passive_c: 迅雷風烈・偶数3
 - name: リーヴ2
   weapon_type: 赤魔
   movement_type: 騎馬

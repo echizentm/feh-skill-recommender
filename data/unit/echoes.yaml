@@ -338,11 +338,11 @@
   weapon_type: 槍
   movement_type: 重装
   hp: 53
-  attack: 45
-  speed: 20
+  attack: 53
+  speed: 25
   defence: 38
   resist: 26
-  weapon: 勇者の槍+
+  weapon: バルボの勇槍
   special: 復讐
   passive_a: HP攻撃2
   passive_b: 進軍阻止3

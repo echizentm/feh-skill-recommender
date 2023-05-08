@@ -536,11 +536,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 42
-  attack: 50
+  attack: 52
   speed: 32
   defence: 34
   resist: 23
-  weapon: キラーランス鍛+
+  weapon: 復讐の烈槍
   special: 華炎
   passive_b: 強化無効・近距離3
   passive_c: 守備の開放3
@@ -671,11 +671,11 @@
   weapon_type: 赤魔
   movement_type: 歩行
   hp: 38
-  attack: 49
+  attack: 51
   speed: 33
   defence: 23
   resist: 35
-  weapon: ラウアサーペント+
+  weapon: 見習い魔道士の書
   special: 氷華
   passive_a: 飛燕明鏡の構え2
   passive_b: 速さの混乱3

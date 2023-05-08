@@ -92,11 +92,11 @@
   weapon_type: 剣
   movement_type: 歩行
   hp: 41
-  attack: 47
+  attack: 49
   speed: 35
   defence: 38
   resist: 25
-  weapon: キャンセルの剣+
+  weapon: 義勇軍の正剣
   special: 華炎
   passive_a: 攻撃守備の密集3
   passive_b: 攻撃の封印3
