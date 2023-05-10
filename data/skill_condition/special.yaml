@@ -143,6 +143,9 @@
 - name: 抑制の聖光
   allow:
     weapon_type_list: [杖]
+- name: 恐慌の聖光
+  allow:
+    weapon_type_list: [杖]
 - name: 氷の聖鏡
   allow:
     name_list: [フィヨルム, フィヨルム4]
@@ -232,7 +235,7 @@
     name_list: [ファ3]
 - name: 天刻の拍動
   allow:
-    name_list: [ベレス4]
+    name_list: [ベレス4, べレス5]
 - name: 聖神と暗黒神の冠
   allow:
     name_list: [ディアドラ2]

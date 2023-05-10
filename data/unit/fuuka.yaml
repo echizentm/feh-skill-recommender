@@ -88,6 +88,19 @@
   passive_a: 攻撃速さの機先4
   passive_b: 速さの先制3
   passive_c: 速さ魔防の大牽制
+- name: ベレス5
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 47
+  defence: 32
+  resist: 25
+  weapon: 白銀の剣
+  special: 天刻の拍動
+  passive_a: 遠反・攻速の孤軍
+  passive_b: 回避・一撃離脱4
+  passive_c: 始まりの鼓動4
 - name: ソティス
   weapon_type: 赤竜
   movement_type: 歩行

@@ -1579,3 +1579,16 @@
   special: 氷華
   passive_a: 攻撃魔防の渾身3
   passive_c: 魔防の謀策3
+- name: ハイドラ
+  weapon_type: 青竜
+  movement_type: 重装
+  hp: 42
+  attack: 59
+  speed: 44
+  defence: 36
+  resist: 31
+  weapon: 透魔竜のブレス
+  special: 夕陽
+  passive_a: 鬼神飛燕の構え3
+  passive_b: 慧眼隊形4
+  passive_c: 刃の護り手・近間3

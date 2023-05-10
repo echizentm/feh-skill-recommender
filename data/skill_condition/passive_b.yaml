@@ -62,6 +62,9 @@
 - name: 慧眼隊形3
   allow:
     movement_type_list: [重装]
+- name: 慧眼隊形4
+  allow:
+    movement_type_list: [重装]
 - name: 業火の舞い3
   deny:
     weapon_type_list: [杖]
@@ -216,6 +219,10 @@
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
 - name: 速さ守備の干渉3
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
+- name: 速さ守備の干渉4
   deny:
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]

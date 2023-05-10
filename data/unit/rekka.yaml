@@ -802,6 +802,18 @@
   special: 月光
   passive_a: 攻撃速さの大覚醒3
   passive_c: 守備の大紋章2
+- name: ライナス2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 62
+  speed: 46
+  defence: 36
+  resist: 20
+  weapon: 命なき狂牙の斧
+  special: 竜穿
+  passive_b: キャンセル3
+  passive_c: 恐慌の幻煙3
 - name: ジャファル
   weapon_type: 暗器
   movement_type: 歩行

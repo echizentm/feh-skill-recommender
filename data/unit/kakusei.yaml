@@ -86,6 +86,20 @@
   passive_a: 鬼神飛燕の迫撃
   passive_b: 速さ守備の近影3
   passive_c: 速指揮・歩行重視
+- name: クロム8
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 61
+  speed: 46
+  defence: 29
+  resist: 18
+  weapon: 魔器・屍王の絶剣
+  assist: 運命ハ変ワラナイ…
+  special: 疾風迅雷
+  passive_a: 攻撃速さの激突4
+  passive_b: 速さ守備の干渉4
+  passive_c: 速指揮・歩行重視
 - name: 男ルフレ
   weapon_type: 青魔
   movement_type: 歩行

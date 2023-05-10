@@ -501,6 +501,20 @@
   assist: 速さ守備の応援+
   passive_a: 攻撃守備の渾身4
   passive_b: 怒涛・飛竜行空3
+- name: マリア3
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 37
+  attack: 58
+  speed: 45
+  defence: 16
+  resist: 35
+  weapon: 暗黒竜の生贄の杖
+  assist: プッシュ+
+  special: 恐慌の聖光
+  passive_a: 攻撃速さの連帯
+  passive_b: 神罰・因果応報
+  passive_c: 快癒・偶数3
 - name: 紋章パオラ
   weapon_type: 剣
   movement_type: 飛行
