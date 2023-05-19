@@ -640,7 +640,7 @@
     name_list: [マークス5]
 - name: 新たなる神竜王
   allow:
-    name_list: [チキ3]
+    name_list: [覚醒チキ3, 覚醒チキ4]
 - name: 天かける翼
   allow:
     name_list: [ターナ5]

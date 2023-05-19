@@ -162,6 +162,18 @@
   passive_a: これも策のうちだよ
   passive_b: 攻撃封じ4
   passive_c: 再移動制限3
+- name: 男ルフレ6
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 58
+  speed: 35
+  defence: 23
+  resist: 24
+  weapon: エンゲージリング+
+  assist: 引き寄せ
+  passive_a: 速さ魔防の機先3
+  passive_b: 速さ魔防の干渉3
 - name: 女ルフレ
   weapon_type: 緑魔
   movement_type: 歩行
@@ -516,6 +528,18 @@
   special: 竜裂
   passive_a: 攻撃速さの渾身4
   passive_c: 赤への暗闘3
+- name: フラヴィア2
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 58
+  speed: 45
+  defence: 31
+  resist: 18
+  weapon: 花嫁の剣+
+  assist: 一喝+
+  passive_a: 攻撃守備の激突3
+  passive_c: 攻撃速さの奮起3
 - name: ロンクー
   weapon_type: 剣
   movement_type: 歩行
@@ -734,6 +758,18 @@
   special: 氷蒼
   passive_a: 鬼神飛燕の構え3
   passive_b: 回避・一撃離脱3
+- name: サイリ2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 40
+  attack: 67
+  speed: 53
+  defence: 23
+  resist: 21
+  weapon: ソンシンの花嫁の槍
+  special: 竜裂
+  passive_a: 死線4
+  passive_c: 速守牽制・運び手
 - name: ヴィオール
   weapon_type: 弓
   movement_type: 歩行
@@ -807,6 +843,19 @@
   passive_a: 攻撃魔防の秘奥4
   passive_b: 新なる神竜王
   passive_c: 守備魔防の脅嚇
+- name: 覚醒チキ4
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 42
+  attack: 58
+  speed: 26
+  defence: 40
+  resist: 45
+  weapon: 神竜王女二人の竜石
+  special: 重装の聖氷
+  passive_a: 鬼神明鏡の構え3
+  passive_b: 新なる神竜王
+  passive_c: 兜の護り手・遠間3
 - name: グレゴ
   weapon_type: 剣
   movement_type: 歩行
@@ -894,6 +943,19 @@
   passive_a: 攻撃速さの密集3
   passive_b: 攻撃速さの大共謀3
   passive_c: 速さの相互大紋章
+- name: 覚醒アンナ2
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 38
+  attack: 57
+  speed: 46
+  defence: 22
+  resist: 25
+  weapon: 射止める花嫁の花弓
+  special: 月光
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 守備封じ4
+  passive_c: 無への暗闘3
 - name: ルキナ
   weapon_type: 剣
   movement_type: 歩行
