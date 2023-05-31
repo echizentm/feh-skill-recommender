@@ -463,3 +463,6 @@
 - name: 理想への天質
   allow:
     name_list: [エリウッド5]
+- name: 叱咤激励
+  allow:
+    name_list: [ヒノカ5]

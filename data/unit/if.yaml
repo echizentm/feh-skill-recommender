@@ -486,6 +486,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の遠影3
   passive_c: 守備魔防の牽制3
+- name: ヒノカ5
+  weapon_type: 赤弓
+  movement_type: 飛行
+  hp: 40
+  attack: 60
+  speed: 46
+  defence: 23
+  resist: 22
+  weapon: 風神雷神弓
+  special: 狙撃
+  passive_a: 攻撃速さの機先4
+  passive_b: 救援の行路4
+  passive_c: 叱咤激励
 - name: アサマ
   weapon_type: 杖
   movement_type: 歩行
