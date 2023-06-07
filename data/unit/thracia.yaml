@@ -155,11 +155,11 @@
   weapon_type: 弓
   movement_type: 歩行
   hp: 41
-  attack: 42
+  attack: 44
   speed: 37
   defence: 25
   resist: 28
-  weapon: シャイニングボウ+
+  weapon: 紫竜山の荒弓
   assist: 献身
   passive_b: すり抜け3
   passive_c: 速さ魔防の紋章2
