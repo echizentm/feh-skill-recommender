@@ -442,6 +442,14 @@
 - name: 見切り・追撃効果3
   allow:
     movement_type_list: [歩行]
+- name: 理の見切り・追撃
+  allow:
+    weapon_type_list: [剣, 赤獣, 赤弓, 赤暗器, 槍, 青獣, 青弓, 青暗器, 斧, 緑獣, 緑弓, 緑暗器, 獣, 弓, 暗器]
+    movement_type_list: [歩行]
+- name: 魔の見切り・追撃
+  allow:
+    weapon_type_list: [赤竜, 赤魔, 青竜, 青魔, 緑竜, 緑魔, 竜, 魔, 杖]
+    movement_type_list: [歩行]
 - name: 見切り・反撃不可3
   allow:
     movement_type_list: [歩行]

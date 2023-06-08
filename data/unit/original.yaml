@@ -1110,6 +1110,19 @@
   passive_a: 止水4
   passive_b: 攻撃魔防の封印3
   passive_c: 共に未来を見つめて
+- name: ヘイズ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 38
+  attack: 59
+  speed: 45
+  defence: 29
+  resist: 20
+  weapon: ヘイズ
+  assist: 黄金の蛇
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 魔の見切り・追撃
+  passive_c: 恐慌の幻煙4
 - name: ネルトゥス
   weapon_type: 青獣
   movement_type: 騎馬

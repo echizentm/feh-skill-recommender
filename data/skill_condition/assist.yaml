@@ -180,3 +180,6 @@
 - name: 尊き竜の血を継ぐ娘
   allow:
     name_list: [ニニアン4]
+- name: 黄金の蛇
+  allow:
+    name_list: [ヘイズ]
