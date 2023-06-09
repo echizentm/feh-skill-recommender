@@ -280,6 +280,18 @@
   special: 血讐
   passive_a: 死線3
   passive_b: 守備隊形3
+- name: マードック
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 47
+  attack: 61
+  speed: 23
+  defence: 48
+  resist: 35
+  weapon: 竜将トマホーク
+  special: 華炎
+  passive_a: 攻撃守備の万全3
+  passive_b: 奥義隊形3
 - name: ブルーニャ
   weapon_type: 青魔
   movement_type: 歩行
