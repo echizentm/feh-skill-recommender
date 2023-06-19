@@ -35,6 +35,10 @@
 - name: 攻撃守備の奮起4
   deny:
     movement_type_list: [重装, 飛行]
+- name: 攻撃守備の奮進
+  allow:
+    movement_type_list: [騎馬]
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
 - name: 攻撃魔防の奮起3
   deny:
     movement_type_list: [重装, 飛行]

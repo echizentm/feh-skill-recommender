@@ -994,6 +994,19 @@
   special: 凶星
   passive_a: 攻撃速さ2
   passive_c: 攻撃速さの信義3
+- name: シャミア3
+  weapon_type: 青弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 46
+  defence: 25
+  resist: 20
+  weapon: 生涯の相棒の鋭弓
+  special: 狙撃
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 差し違え4
+  passive_c: 不治の幻煙3
 - name: ジェラルト
   weapon_type: 槍
   movement_type: 騎馬
@@ -1104,6 +1117,18 @@
   special: 月虹
   passive_b: 速さ守備の防壁3
   passive_c: 攻撃速さの信義4
+- name: 男シェズ2
+  weapon_type: 槍
+  movement_type: 飛行
+  hp: 41
+  attack: 55
+  speed: 49
+  defence: 31
+  resist: 23
+  weapon: 深き海の底の双槍
+  special: 月光
+  passive_a: 攻撃速さの孤軍3
+  passive_b: 守備の封印3
 - name: 女シェズ
   weapon_type: 斧
   movement_type: 歩行
@@ -1129,6 +1154,19 @@
   passive_a: 連閃
   passive_b: 速さ封じ4
   passive_c: 攻撃速さの信義4
+- name: 女シェズ3
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 50
+  defence: 30
+  resist: 18
+  weapon: 深き海の底の双槍
+  special: 凶星
+  passive_a: 連閃
+  passive_b: 速さ守備の凪4
+  passive_c: 攻撃守備の脅嚇
 - name: ラルヴァ
   weapon_type: 魔
   movement_type: 歩行

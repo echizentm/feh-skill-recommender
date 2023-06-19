@@ -152,6 +152,19 @@
   passive_a: 剛剣4
   passive_b: 攻撃守備の凪3
   passive_c: 攻撃の波・奇数3
+- name: エフラム6
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 63
+  speed: 16
+  defence: 44
+  resist: 31
+  weapon: 蒼海割る裂帛の斧
+  special: 緋炎
+  passive_a: 攻撃守備の激突4
+  passive_b: 華日の腕輪
+  passive_c: 攻撃守備の奮進
 - name: ゼト
   weapon_type: 剣
   movement_type: 騎馬
@@ -716,6 +729,19 @@
   special: 業火疾風の祝福+
   passive_a: 攻撃速さの渾身4
   passive_b: 速さ魔防の遠影3
+- name: ラーチェル4
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 37
+  attack: 58
+  speed: 44
+  defence: 16
+  resist: 30
+  weapon: 海辺の日傘+
+  assist: リカバー+
+  special: 疾風大地の祝福+
+  passive_a: 刃のセッション3
+  passive_a: 神罰の杖3
 - name: ドズラ
   weapon_type: 暗器
   movement_type: 重装

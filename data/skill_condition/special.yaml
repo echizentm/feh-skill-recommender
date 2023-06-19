@@ -136,6 +136,9 @@
 - name: 業火静水の祝福+
   allow:
     weapon_type_list: [杖]
+- name: 疾風大地の祝福+
+  allow:
+    weapon_type_list: [杖]
 - name: 疾風静水の祝福+
   allow:
     weapon_type_list: [杖]
