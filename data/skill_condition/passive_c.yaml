@@ -474,3 +474,6 @@
 - name: 叱咤激励
   allow:
     name_list: [ヒノカ5]
+- name: 新たなるベルンの道
+  allow:
+    name_list: [ギネヴィア2]
