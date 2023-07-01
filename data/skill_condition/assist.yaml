@@ -156,6 +156,9 @@
 - name: 運命を変える！
   allow:
     name_list: [クロム5, クロム6]
+- name: 運命を変える！・承
+  allow:
+    name_list: [クロム5]
 - name: 運命は変わった！
   allow:
     name_list: [クロム7]
