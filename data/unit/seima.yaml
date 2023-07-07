@@ -266,11 +266,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 47
-  attack: 46
+  attack: 48
   speed: 26
   defence: 32
   resist: 24
-  weapon: 勇者の斧+
+  weapon: ガルシアの子の斧
   assist: ぶちかまし
   passive_a: 生命の業火3
   passive_c: 守備の威嚇3
@@ -635,11 +635,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 47
-  attack: 52
+  attack: 53
   speed: 36
   defence: 30
   resist: 22
-  weapon: 火薙ぎの斧+
+  weapon: 砂漠の虎の戦斧
   special: 月虹
   passive_a: 飛燕の一撃4
   passive_b: 恐怖の惑乱3
