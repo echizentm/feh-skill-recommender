@@ -333,6 +333,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 回避・怒り4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 回避・攻め立て3
   allow:
     weapon_type_list: [剣, 槍, 斧]

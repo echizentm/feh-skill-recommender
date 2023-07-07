@@ -72,3 +72,16 @@
   special: 凶星
   passive_a: 遠反・明鏡の構え
   passive_b: 天馬行空4
+- name: アイビー
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 38
+  attack: 67
+  speed: 25
+  defence: 15
+  resist: 51
+  weapon: 喉潤す水神の杯
+  special: 凶星
+  passive_a: 止水4
+  passive_b: 攻撃魔防の混乱3
+  passive_c: 飛走の先導

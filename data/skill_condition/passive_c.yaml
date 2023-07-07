@@ -236,6 +236,9 @@
 - name: 飛行の先導3
   allow:
     movement_type_list: [飛行]
+- name: 飛走の先導
+  allow:
+    movement_type_list: [飛行]
 - name: 先導の伝令・天3
   allow:
     movement_type_list: [飛行]
@@ -449,7 +452,7 @@
     name_list: [ミルラ4]
 - name: 永生結界
   allow:
-    name_list: [ユーミル]
+    name_list: [ユーミル, ユーミル2]
 - name: みんなが繋がる世界
   allow:
     name_list: [アスク, アスク2]

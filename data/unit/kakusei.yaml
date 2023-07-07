@@ -504,6 +504,18 @@
   assist: 相互援助
   passive_a: HP3
   passive_b: 引き込み
+- name: ドニ2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 46
+  attack: 59
+  speed: 31
+  defence: 40
+  resist: 30
+  weapon: 木の漁具+
+  assist: 相互援助
+  passive_a: 攻撃守備の密集3
+  passive_b: 守備魔防の封印2
 - name: バジーリオ
   weapon_type: 斧
   movement_type: 歩行
@@ -686,6 +698,18 @@
   special: 血讐
   passive_a: 鬼神飛燕の一撃3
   passive_c: 速さ魔防の牽制3
+- name: サーリャ5
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 44
+  defence: 19
+  resist: 20
+  weapon: 硝子の小鉢+
+  assist: 引き寄せ
+  passive_b: 速さ魔防の遠影3
+  passive_c: 攻撃速さの大開放3
 - name: ムスタファー
   weapon_type: 斧
   movement_type: 歩行

@@ -160,6 +160,9 @@
 - name: 氷の聖鏡・承
   allow:
     name_list: [フィヨルム]
+- name: 絶氷の聖鏡
+  allow:
+    name_list: [フィヨルム5]
 - name: 剣姫の流星
   allow:
     name_list: [アイラ, ラクチェ, ラクチェ2]
