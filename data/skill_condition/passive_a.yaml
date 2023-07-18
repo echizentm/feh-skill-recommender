@@ -28,6 +28,10 @@
 - name: 鬼神飛燕の離撃
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 杖, 竜, 獣]
+- name: 鬼神飛燕の柔撃
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 飛行]
 - name: 鬼神金剛の一撃2
   deny:
     weapon_type_list: [杖]
@@ -401,6 +405,12 @@
 - name: 攻撃速さの秘奥4
   allow:
     movement_type_list: [歩行]
+- name: 攻撃守備の秘奥3
+  allow:
+    movement_type_list: [歩行]
+- name: 攻撃守備の秘奥4
+  allow:
+    movement_type_list: [歩行]
 - name: 攻撃魔防の秘奥3
   allow:
     movement_type_list: [歩行]
@@ -493,3 +503,6 @@
 - name: 忠義の槍
   allow:
     name_list: [イングリット3]
+- name: 虚無の力
+  allow:
+    name_list: [アイト]

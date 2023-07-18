@@ -1,3 +1,16 @@
+- name: 男リュール
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 45
+  defence: 33
+  resist: 25
+  weapon: リベラシオン
+  special: 竜裂
+  passive_a: 攻撃速さの万全4
+  passive_b: 回避・叩き込み4
+  passive_c: 緑への暗闘3
 - name: 女リュール
   weapon_type: 剣
   movement_type: 歩行
@@ -72,6 +85,56 @@
   special: 凶星
   passive_a: 遠反・明鏡の構え
   passive_b: 天馬行空4
+- name: ディアマンド
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 62
+  speed: 36
+  defence: 43
+  resist: 21
+  weapon: 真っ向勝負の剛剣
+  special: 緋炎
+  passive_a: 攻撃守備の秘奥4
+  passive_b: 攻撃速さの防壁3
+  passive_c: 始まりの鼓動4
+- name: スタルーク
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 39
+  attack: 57
+  speed: 46
+  defence: 30
+  resist: 24
+  weapon: 魔器・優しさの影弓
+  special: 狙撃
+  passive_a: 鬼神飛燕の柔撃
+  passive_b: 僕が守ります！
+  passive_c: 守備魔防の紫煙3
+- name: ラピス
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 55
+  speed: 45
+  defence: 29
+  resist: 32
+  weapon: 守備逆用の剣+
+  special: 月光
+  passive_a: 魔道の刃3
+  passive_c: 速さ守備の信義3
+- name: シトリニカ
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 38
+  attack: 60
+  speed: 27
+  defence: 22
+  resist: 44
+  weapon: 豪奢な富書
+  special: 氷蒼
+  passive_b: 奥義の螺旋4
+  passive_c: 攻撃魔防の信義4
 - name: アイビー
   weapon_type: 緑魔
   movement_type: 飛行

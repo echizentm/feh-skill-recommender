@@ -503,6 +503,14 @@
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
     movement_type_list: [騎馬, 飛行]
+- name: 絶対化身・察知3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+    movement_type_list: [歩行, 騎馬, 飛行]
+- name: 絶対化身・察知4
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+    movement_type_list: [歩行, 騎馬, 飛行]
 - name: ご奉仕の喜び3
   allow:
     weapon_type_list: [杖]
@@ -668,3 +676,6 @@
 - name: 地に生まれ地に還る
   allow:
     name_list: [ネルトゥス]
+- name: 僕が守ります！
+  allow:
+    name_list: [スタルーク]
