@@ -148,3 +148,15 @@
   passive_a: 止水4
   passive_b: 攻撃魔防の混乱3
   passive_c: 飛走の先導
+- name: セピア
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 41
+  attack: 54
+  speed: 47
+  defence: 23
+  resist: 24
+  weapon: 四狗頭領の魔書
+  special: 竜穿
+  passive_a: 攻撃速さの機先3
+  passive_b: 風薙ぎ3
