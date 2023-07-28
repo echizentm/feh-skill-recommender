@@ -480,3 +480,6 @@
 - name: 新たなるベルンの道
   allow:
     name_list: [ギネヴィア2]
+- name: 人に安らかな夢を
+  allow:
+    name_list: [フロージ2]

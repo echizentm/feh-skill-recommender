@@ -879,6 +879,19 @@
   special: 竜裂
   passive_a: 守備魔防の機先4
   passive_b: 攻撃守備の凪3
+- name: フロージ2
+  weapon_type: 青獣
+  movement_type: 騎馬
+  hp: 41
+  attack: 60
+  speed: 16
+  defence: 41
+  resist: 35
+  weapon: 夢の王の角
+  special: 華炎
+  passive_a: 攻撃守備の激突4
+  passive_b: 攻撃守備の凪4
+  passive_b: 人に安らかな夢を
 - name: スカビオサ
   weapon_type: 緑魔
   movement_type: 飛行
