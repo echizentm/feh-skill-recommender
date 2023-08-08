@@ -410,6 +410,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [騎馬, 飛行]
+- name: 怒涛・攻め立て
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [騎馬, 飛行]
 - name: 怒涛・飛竜行空3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -604,7 +608,7 @@
 - name: 狂嵐・承
   allow:
     name_list: [エーデルガルト2]
-- name: 最後の聖戦
+- name: 最後の聖戦・承
   allow:
     name_list: [セリス2]
 - name: 黒鷲の覇王
@@ -619,6 +623,9 @@
 - name: 束縛の首飾り
   allow:
     name_list: [フレイヤ, フレイヤ2]
+- name: 束縛の首飾り・神
+  allow:
+    name_list: [フレイヤ]
 - name: 落星
   allow:
     name_list: [クロード3, クロード4]

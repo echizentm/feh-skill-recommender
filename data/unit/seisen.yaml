@@ -37,6 +37,18 @@
   passive_a: 攻撃守備の機先4
   passive_b: 聖騎士の加護
   passive_c: 不治の幻煙3
+- name: シグルド4
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 31
+  defence: 35
+  resist: 16
+  weapon: 聖騎士の嗜み
+  special: グランベルの騎士道
+  passive_a: 鬼神金剛の離撃
+  passive_b: 魔防封じ4
 - name: アーダン
   weapon_type: 剣
   movement_type: 重装
@@ -98,6 +110,18 @@
   assist: 速さ魔防の応援
   passive_a: 攻撃魔防2
   passive_c: 速さの大紋章2
+- name: ティルテュ2
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 39
+  attack: 59
+  speed: 44
+  defence: 16
+  resist: 36
+  weapon: お茶菓子+
+  assist: 相互援助
+  passive_a: 止水3
+  passive_c: 攻撃の大紋章2
 - name: レックス
   weapon_type: 斧
   movement_type: 騎馬
@@ -174,6 +198,19 @@
   special: 剣姫の流星
   passive_a: 鬼神飛燕の一撃2
   passive_b: 攻め立て3
+- name: アイラ2
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 46
+  defence: 32
+  resist: 17
+  weapon: 淑女のお茶会の鋭剣
+  special: 無双の流星
+  passive_a: 攻撃速さの激突4
+  passive_b: 怒涛・攻め立て
+  passive_c: 赤への暗闘3
 - name: ジャムカ
   weapon_type: 弓
   movement_type: 歩行
@@ -355,8 +392,8 @@
   resist: 29
   weapon: 至聖ティルフィング
   special: 華炎
-  passive_a: 遠距離反撃
-  passive_b: 最後の聖戦
+  passive_a: 遠反・鬼神の構え
+  passive_b: 最後の聖戦・承
   passive_c: 守備の相互鼓舞
 - name: セリス3
   weapon_type: 剣
@@ -537,11 +574,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 46
-  attack: 51
+  attack: 52
   speed: 26
   defence: 40
   resist: 18
-  weapon: 銀の槍+
+  weapon: トラキアの王槍
   special: 華炎
   passive_b: 待ち伏せ3
   passive_c: 飛行の先導3

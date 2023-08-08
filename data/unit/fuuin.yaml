@@ -603,11 +603,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 45
-  attack: 48
+  attack: 50
   speed: 36
   defence: 30
   resist: 27
-  weapon: 守りの斧+
+  weapon: 西方の勇者の斧
   special: 太陽
   passive_a: 速さ魔防の大覚醒3
   passive_c: 攻撃の大紋章2

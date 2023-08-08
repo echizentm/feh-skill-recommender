@@ -166,6 +166,9 @@
 - name: 剣姫の流星
   allow:
     name_list: [アイラ, ラクチェ, ラクチェ2]
+- name: 無双の流星
+  allow:
+    name_list: [アイラ2]
 - name: 剣皇の流星
   allow:
     name_list: [シャナン]
@@ -232,6 +235,9 @@
 - name: グランベルの聖騎士
   allow:
     name_list: [シグルド3]
+- name: グランベルの騎士道
+  allow:
+    name_list: [シグルド4]
 - name: 覇天
   allow:
     name_list: [ベレト2, ベレト3]

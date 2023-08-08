@@ -928,8 +928,8 @@
   weapon: 悪夢の女王の角
   special: 月光
   passive_a: 攻撃速さの孤軍4
-  passive_b: 束縛の首飾り
-  passive_c: 鼓動の幻煙3
+  passive_b: 束縛の首飾り・神
+  passive_c: 速さの紫煙4
 - name: フレイヤ2
   weapon_type: 獣
   movement_type: 騎馬
