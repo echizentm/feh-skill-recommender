@@ -160,6 +160,19 @@
   passive_a: 攻撃速さの秘奥4
   passive_b: 竜の魔鱗4
   passive_c: 攻撃の相互大紋章
+- name: 女カムイ8
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 42
+  attack: 56
+  speed: 46
+  defence: 37
+  resist: 40
+  weapon: 透魔の竜石
+  special: 重装の聖氷
+  passive_a: 白夜と暗夜と共に
+  passive_b: 反撃の咆哮4
+  passive_c: 刃の護り手・遠間3
 - name: アクア
   weapon_type: 槍
   movement_type: 歩行

@@ -112,6 +112,19 @@
   special: 氷華
   passive_a: 攻撃魔防の密集3
   passive_c: 歩行の呼吸3
+- name: 暁セネリオ2
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 34
+  defence: 16
+  resist: 47
+  weapon: 大賢者の書
+  special: 陽光
+  passive_a: 類稀なる魔道の才
+  passive_b: 魔の見切り・追撃
+  passive_c: 始まりの鼓動4
 - name: 暁シノン
   weapon_type: 赤弓
   movement_type: 歩行

@@ -1032,6 +1032,18 @@
   passive_a: 鬼神飛燕の離撃
   passive_b: 差し違え4
   passive_c: 不治の幻煙3
+- name: ツィリル
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 46
+  attack: 56
+  speed: 47
+  defence: 35
+  resist: 26
+  weapon: 良成長の弓
+  special: 復讐
+  passive_b: 恐慌の惑乱3
+  passive_c: 速さ守備の威嚇2
 - name: ジェラルト
   weapon_type: 槍
   movement_type: 騎馬

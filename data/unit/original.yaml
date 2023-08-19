@@ -1162,6 +1162,19 @@
   passive_a: 止水4
   passive_b: 攻撃魔防の封印3
   passive_c: 共に未来を見つめて
+- name: グルヴェイグ
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 40
+  attack: 59
+  speed: 47
+  defence: 27
+  resist: 19
+  weapon: 円環の力
+  special: 月光
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 時を戻す黄金の魔女
+  passive_c: 攻撃速さの信義4
 - name: ヘイズ
   weapon_type: 緑魔
   movement_type: 歩行

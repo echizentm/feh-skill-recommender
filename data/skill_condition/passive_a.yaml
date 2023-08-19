@@ -32,6 +32,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [騎馬, 飛行]
+- name: 鬼神飛燕の炎撃
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
 - name: 鬼神金剛の一撃2
   deny:
     weapon_type_list: [杖]
@@ -512,3 +516,9 @@
 - name: 天才
   allow:
     name_list: [リシテア4]
+- name: 類稀なる魔道の才
+  allow:
+    name_list: [暁セネリオ2]
+- name: 白夜と暗夜と共に
+  allow:
+    name_list: [女カムイ8]

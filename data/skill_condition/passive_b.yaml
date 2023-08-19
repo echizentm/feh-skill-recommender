@@ -316,6 +316,12 @@
 - name: 一撃離脱
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+- name: 奥の手3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+- name: 奥の手4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
 - name: 回避・一撃離脱3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -518,6 +524,12 @@
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
     movement_type_list: [歩行, 騎馬, 飛行]
+- name: 反撃の咆哮3
+  allow:
+    weapon_type_list: [赤竜, 赤獣, 青竜, 青獣, 緑竜, 緑獣, 竜, 獣]
+- name: 反撃の咆哮4
+  allow:
+    weapon_type_list: [赤竜, 赤獣, 青竜, 青獣, 緑竜, 緑獣, 竜, 獣]
 - name: ご奉仕の喜び3
   allow:
     weapon_type_list: [杖]
@@ -689,3 +701,6 @@
 - name: 僕が守ります！
   allow:
     name_list: [スタルーク]
+- name: 時を戻す黄金の魔女
+  allow:
+    name_list: [グルヴェイグ]

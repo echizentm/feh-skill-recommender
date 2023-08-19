@@ -26,6 +26,10 @@
 - name: 夕陽
   deny:
     weapon_type_list: [杖]
+- name: 陽光
+  allow:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 魔]
+    movement_type_list: [歩行]
 - name: 太陽
   deny:
     weapon_type_list: [杖]
@@ -52,17 +56,17 @@
     weapon_type_list: [杖]
   allow:
     movement_type_list: [重装]
-- name: 重装の聖氷
-  deny:
-    weapon_type_list: [杖]
-  allow:
-    movement_type_list: [重装]
 - name: 華炎
   deny:
     weapon_type_list: [杖]
 - name: 氷蒼
   deny:
     weapon_type_list: [杖]
+- name: 重装の聖氷
+  deny:
+    weapon_type_list: [杖]
+  allow:
+    movement_type_list: [重装]
 - name: 氷華
   deny:
     weapon_type_list: [杖]
