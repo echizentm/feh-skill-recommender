@@ -260,3 +260,6 @@
 - name: 聖神と暗黒神の冠
   allow:
     name_list: [ディアドラ2]
+- name: 神竜破
+  allow:
+    name_list: [女リュール2]

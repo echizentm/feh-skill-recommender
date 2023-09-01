@@ -606,9 +606,9 @@
   resist: 18
   weapon: 死鎌ヘル
   special: 月光
-  passive_a: 遠距離反撃
+  passive_a: 遠反・速さの渾身
   passive_b: 警戒姿勢3
-  passive_c: 死からは逃れられぬ
+  passive_c: 死からは逃れ…・神
 - name: エイル
   weapon_type: 暗器
   movement_type: 飛行
@@ -824,9 +824,9 @@
   defence: 38
   resist: 44
   weapon: 微睡の花の剣
-  assist: しろいゆめ
+  assist: しろいゆめ・神
   passive_a: 守備魔防の城塞3
-  passive_b: 守備の混乱3
+  passive_b: 守備魔防の封印3
   passive_c: 守備魔防の大開放3
 - name: ルピナス2
   weapon_type: 青暗器
