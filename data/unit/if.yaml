@@ -448,6 +448,19 @@
   passive_a: 鬼神明鏡の一撃2
   passive_b: 攻撃隊形3
   passive_c: 攻撃の波・偶数3
+- name: カゲロウ4
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 43
+  attack: 61
+  speed: 45
+  defence: 20
+  resist: 23
+  weapon: 風舞う白夜の呪扇
+  special: 滅殺
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 罠解除4
+  passive_c: 無への暗闘3
 - name: ヒノカ
   weapon_type: 槍
   movement_type: 飛行
@@ -780,6 +793,18 @@
   assist: 回り込み
   passive_a: 攻撃速さの万全3
   passive_c: 迅雷風烈・奇数3
+- name: フウガ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 60
+  speed: 30
+  defence: 45
+  resist: 30
+  weapon: 風の部族の金棒+
+  special: 緋炎
+  passive_a: 剛剣3
+  passive_c: 攻撃守備の威嚇2
 - name: ニシキ
   weapon_type: 緑獣
   movement_type: 騎馬

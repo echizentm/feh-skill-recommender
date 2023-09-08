@@ -491,6 +491,9 @@
 - name: 罠解除3
   allow:
     weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
+- name: 罠解除4
+  allow:
+    weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
 - name: 竜の逆鱗3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
@@ -641,9 +644,15 @@
 - name: 落星
   allow:
     name_list: [クロード3, クロード4]
+- name: 真落星
+  allow:
+    name_list: [クロード5]
 - name: 双姫の陽翼
   allow:
-    name_list: [ダグ]
+    name_list: [ダグ, ダグ2]
+- name: 双姫の天翼
+  allow:
+    name_list: [ダグ3]
 - name: 蒼き殺人鬼
   allow:
     name_list: [ディミトリ4]

@@ -693,6 +693,19 @@
   special: 月虹
   passive_b: 落星
   passive_c: 速さ守備の牽制3
+- name: クロード5
+  weapon_type: 緑暗器
+  movement_type: 飛行
+  hp: 42
+  attack: 58
+  speed: 47
+  defence: 24
+  resist: 26
+  weapon: 風車
+  special: 滅殺
+  passive_a: 攻撃速さの備え4
+  passive_b: 真落星
+  passive_c: 攻撃速さの信義4
 - name: ローレンツ
   weapon_type: 赤魔
   movement_type: 歩行

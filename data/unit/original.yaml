@@ -1033,6 +1033,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 双姫の陽翼
   passive_c: 攻撃守備の牽制3
+- name: ダグ3
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 61
+  speed: 46
+  defence: 30
+  resist: 22
+  weapon: 風神の団扇
+  special: 竜裂
+  passive_a: 攻撃速さの激突4
+  passive_b: 双姫の天翼
+  passive_c: 攻撃速さの奮進
 - name: ノート
   weapon_type: 槍
   movement_type: 歩行

@@ -577,6 +577,18 @@
   assist: 引き寄せ
   passive_b: 魔防の封印3
   passive_c: 速さの大紋章2
+- name: 紋章カチュア3
+  weapon_type: 青弓
+  movement_type: 飛行
+  hp: 39
+  attack: 57
+  speed: 45
+  defence: 25
+  resist: 30
+  weapon: 白き風の弓+
+  assist: 一喝+
+  passive_a: 攻撃速さの機先3
+  passive_b: 速さ守備の遠影3
 - name: 紋章エスト
   weapon_type: 槍
   movement_type: 飛行

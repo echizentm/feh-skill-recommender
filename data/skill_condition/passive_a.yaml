@@ -233,6 +233,12 @@
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
     movement_type_list: [重装]
+- name: 攻撃速さの備え3
+  deny:
+    weapon_type_list: [赤竜, 赤魔, 青竜, 青魔, 緑竜, 緑魔, 竜, 魔, 杖]
+- name: 攻撃速さの備え4
+  deny:
+    weapon_type_list: [赤竜, 赤魔, 青竜, 青魔, 緑竜, 緑魔, 竜, 魔, 杖]
 - name: 獅子奮迅3
   deny:
     weapon_type_list: [杖]
