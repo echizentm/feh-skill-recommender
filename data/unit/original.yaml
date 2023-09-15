@@ -867,6 +867,19 @@
   passive_a: 明鏡の反撃・近距離
   passive_b: 切り返し3
   passive_c: 攻撃守備の牽制3
+- name: プルメリア3
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 40
+  attack: 67
+  speed: 18
+  defence: 14
+  resist: 52
+  weapon: 魔器・恍惚の花
+  assist: あまいみつのゆめ
+  passive_a: 止水4
+  passive_b: 救援の行路4
+  passive_c: 守備魔防の謀策3
 - name: フロージ
   weapon_type: 赤獣
   movement_type: 騎馬

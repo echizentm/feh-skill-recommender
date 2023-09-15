@@ -484,6 +484,30 @@
   passive_a: 獅子奮迅4
   passive_b: 見切り・追撃効果3
   passive_c: 青への暗闘3
+- name: ファバル
+  weapon_type: 青弓
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 45
+  defence: 26
+  resist: 31
+  weapon: 継承イチイバル
+  special: 月光
+  passive_a: 速さ魔防の魔刃
+  passive_b: 理の見切り・追撃
+- name: パティ
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 40
+  attack: 53
+  speed: 45
+  defence: 37
+  resist: 24
+  weapon: 毒煙の暗器+
+  assist: 回り込み
+  passive_a: 速さ守備の万全3
+  passive_b: 強化無効・遠距離3
 - name: ユリア
   weapon_type: 緑魔
   movement_type: 歩行
@@ -570,6 +594,31 @@
   special: 月光
   passive_a: 早さ魔防の孤軍3
   passive_c: 鼓動の幻煙3
+- name: セティ2
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 43
+  attack: 59
+  speed: 46
+  defence: 22
+  resist: 26
+  weapon: 継承フォルセティ
+  special: 烈風
+  passive_a: 攻撃速さの万全4
+  passive_b: 奥義の螺旋4
+  passive_c: 歩行の鼓動4
+- name: フィー
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 37
+  attack: 54
+  speed: 45
+  defence: 26
+  resist: 40
+  weapon: 守護の剣+
+  assist: 引き戻し
+  passive_b: 曲技飛行3
+  passive_c: 速さの大紋章2
 - name: トラバント
   weapon_type: 槍
   movement_type: 飛行

@@ -174,6 +174,9 @@
 - name: あまいゆめ
   allow:
     name_list: [プルメリア, プルメリア2]
+- name: あまいみつのゆめ
+  allow:
+    name_list: [プルメリア3]
 - name: こわいゆめ
   allow:
     name_list: [スカビオサ]
