@@ -400,6 +400,10 @@
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [飛行]
+- name: 空からの猛襲
+  allow:
+    weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
+    movement_type_list: [飛行]
 - name: 怒涛・再起3
   allow:
     weapon_type_list: [剣, 槍, 斧]

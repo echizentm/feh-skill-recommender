@@ -265,6 +265,19 @@
   passive_a: 攻撃速さの渾身4
   passive_b: 幻惑・転移
   passive_c: 速さ魔防の大牽制
+- name: 暁エリンシア4
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 40
+  attack: 56
+  speed: 47
+  defence: 23
+  resist: 34
+  weapon: 清真アミーテ
+  special: 竜穿
+  passive_a: 攻撃速さの激突4
+  passive_b: 空からの猛襲
+  passive_c: クリミアの心
 - name: ルキノ
   weapon_type: 剣
   movement_type: 歩行

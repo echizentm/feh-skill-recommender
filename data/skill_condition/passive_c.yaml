@@ -492,3 +492,6 @@
 - name: 戦局を変える！
   allow:
     name_list: [男ルフレ7]
+- name: クリミアの心
+  allow:
+    name_list: [暁エリンシア4]
