@@ -408,6 +408,18 @@
   special: 月光
   passive_a: 攻撃速さの密集3
   passive_c: 攻撃速さの紋章2
+- name: カラム
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 48
+  attack: 60
+  speed: 31
+  defence: 48
+  resist: 27
+  weapon: 農具+
+  special: 華炎
+  passive_a: 攻撃守備の万全3
+  passive_b: 迎撃隊形3
 - name: ティアモ
   weapon_type: 槍
   movement_type: 飛行

@@ -546,6 +546,10 @@
 - name: 幻惑・転移
   allow:
     weapon_type_list: [杖]
+- name: 幻惑・遠影
+  allow:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 飛行]
 - name: 神罰の杖3
   allow:
     weapon_type_list: [杖]

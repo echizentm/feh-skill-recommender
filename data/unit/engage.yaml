@@ -161,6 +161,44 @@
   passive_a: 止水4
   passive_b: 攻撃魔防の混乱3
   passive_c: 飛走の先導
+- name: ミスティラ
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 37
+  attack: 57
+  speed: 46
+  defence: 46
+  resist: 23
+  weapon: 舞い踊る満月の宝槍
+  special: 心流星
+  passive_a: 強化増幅4
+  passive_b: 回避・怒り4
+  passive_c: 始まりの鼓動4
+- name: アンナ
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 60
+  speed: 50
+  defence: 31
+  resist: 27
+  weapon: 一攫千金の巨大袋
+  special: 祈り
+  passive_a: 攻撃速さの備え4
+  passive_b: 奥の手4
+  passive_c: 攻守牽制・運び手
+- name: セアダス
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 46
+  defence: 21
+  resist: 25
+  weapon: カボチャステッキ+
+  assist: 踊る
+  passive_a: 攻撃魔防の秘奥3
+  passive_c: 歩行の見切り追撃3
 - name: セピア
   weapon_type: 赤魔
   movement_type: 飛行

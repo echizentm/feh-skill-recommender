@@ -412,6 +412,9 @@
 - name: 強化増幅3
   allow:
     movement_type_list: [歩行]
+- name: 強化増幅4
+  allow:
+    movement_type_list: [歩行]
 - name: 攻撃速さの秘奥3
   allow:
     movement_type_list: [歩行]

@@ -983,6 +983,19 @@
   special: 疾風静水の祝福+
   passive_b: 幻惑の杖3
   passive_c: 先導の伝令・地3
+- name: フレン2
+  weapon_type: 杖
+  movement_type: 騎馬
+  hp: 38
+  attack: 60
+  speed: 26
+  defence: 18
+  resist: 46
+  weapon: 妖猫の日傘
+  assist: レスキュー+
+  special: 重圧の聖光
+  passive_a: 攻撃魔防の連帯
+  passive_b: 幻惑・遠影
 - name: マヌエラ
   weapon_type: 剣
   movement_type: 重装
