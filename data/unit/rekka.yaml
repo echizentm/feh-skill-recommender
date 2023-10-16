@@ -500,11 +500,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 40
-  attack: 49
+  attack: 51
   speed: 33
   defence: 33
   resist: 27
-  weapon: ホースキラー+
+  weapon: 傭兵竜騎士の槍
   special: 竜穿
   passive_a: 攻撃守備の渾身3
   passive_b: 離脱の行路3

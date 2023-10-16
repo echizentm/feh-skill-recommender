@@ -187,11 +187,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 45
-  attack: 37
+  attack: 44
   speed: 37
   defence: 26
   resist: 23
-  weapon: 盗賊の暗器+
+  weapon: 山猫の暗器
   assist: 引き寄せ
   passive_b: 離脱の行路3
   passive_c: 速さの紫煙3
