@@ -535,3 +535,6 @@
 - name: 白夜と暗夜と共に
   allow:
     name_list: [女カムイ8]
+- name: 魔女を超える者
+  allow:
+    name_list: [ソニア3]

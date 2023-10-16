@@ -92,6 +92,9 @@
 - name: 疾風大地の舞い2
   deny:
     weapon_type_list: [杖]
+- name: 疾風大地の舞い3
+  deny:
+    weapon_type_list: [杖]
 - name: 疾風静水の舞い2
   deny:
     weapon_type_list: [杖]
@@ -405,6 +408,10 @@
     weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
     movement_type_list: [飛行]
 - name: 怒涛・再起3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [騎馬, 飛行]
+- name: 怒涛・再起4
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [騎馬, 飛行]

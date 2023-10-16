@@ -152,7 +152,10 @@
     name_list: [ピアニー, ピアニー2]
 - name: やさしいゆめ・神
   allow:
-    name_list: [ピアニー2]
+    name_list: [ピアニー]
+- name: やさしいひとのゆめ
+  allow:
+    name_list: [ピアニー3]
 - name: 運命を変える！
   allow:
     name_list: [クロム5, クロム6]
@@ -179,7 +182,10 @@
     name_list: [プルメリア3]
 - name: こわいゆめ
   allow:
-    name_list: [スカビオサ]
+    name_list: [スカビオサ, スカビオサ2]
+- name: こわいかこのゆめ
+  allow:
+    name_list: [スカビオサ3]
 - name: トリック
   allow:
     name_list: [ユーリス, ユーリス2]

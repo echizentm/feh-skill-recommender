@@ -1,0 +1,6 @@
+- name: 響・鬼神の一撃
+  deny:
+    weapon_type_list: [杖]
+- name: 響・攻撃の信義
+  deny:
+    movement_type_list: [重装, 騎馬]

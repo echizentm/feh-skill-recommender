@@ -815,6 +815,20 @@
   passive_a: 攻撃速さの絆4
   passive_b: 魔防の魅了3
   passive_c: 攻撃の相互大紋章
+- name: ピアニー3
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 40
+  attack: 56
+  speed: 45
+  defence: 25
+  resist: 29
+  weapon: 親愛の花
+  assist: やさしいひとのゆめ
+  passive_a: 攻撃速さの連帯
+  passive_b: 疾風大地の舞い3
+  passive_c: 速さの十字紋章
+  passive_x: 響・攻撃の信義
 - name: ルピナス
   weapon_type: 剣
   movement_type: 飛行
@@ -930,6 +944,20 @@
   assist: こわいゆめ
   passive_b: 業火疾風の舞い3
   passive_c: 守備魔防の大牽制
+- name: スカビオサ3
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 39
+  attack: 60
+  speed: 46
+  defence: 27
+  resist: 22
+  weapon: 犠牲の花
+  assist: こわいかこのゆめ
+  passive_a: 攻撃速さの激突4
+  passive_b: 怒涛・再起4
+  passive_c: 速さ守備の大牽制
+  passive_x: 響・鬼神の一撃
 - name: フレイヤ
   weapon_type: 緑獣
   movement_type: 騎馬

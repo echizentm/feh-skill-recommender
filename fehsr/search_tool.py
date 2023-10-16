@@ -62,6 +62,10 @@ def main():
         '--passive_c', '-c', type=str,
         help='Cスキルの検索条件',
     )
+    parser.add_argument(
+        '--passive_x', '-x', type=str,
+        help='Xスキルの検索条件',
+    )
     args = parser.parse_args()
 
     sys.stderr.write("loading data files.\n")
@@ -89,6 +93,8 @@ def main():
         unit_list = [unit for unit in unit_list if args.passive_b in unit.passive_b]
     if args.passive_c:
         unit_list = [unit for unit in unit_list if args.passive_c in unit.passive_c]
+    if args.passive_x:
+        unit_list = [unit for unit in unit_list if args.passive_x in unit.passive_x]
     sys.stderr.write("done.\n")
 
     sys.stderr.write("sorting units.\n")

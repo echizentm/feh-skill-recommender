@@ -17,12 +17,13 @@ class SkillType(Enum):
     PASSIVE_A = 'passive_a'
     PASSIVE_B = 'passive_b'
     PASSIVE_C = 'passive_c'
+    PASSIVE_X = 'passive_x'
 
 
 # 推薦可能なスキルタイプ
 RECOMMENDABLE_SKILL_TYPE_LIST = [
     SkillType.ASSIST, SkillType.SPECIAL,
-    SkillType.PASSIVE_A, SkillType.PASSIVE_B, SkillType.PASSIVE_C,
+    SkillType.PASSIVE_A, SkillType.PASSIVE_B, SkillType.PASSIVE_C, SkillType.PASSIVE_X,
 ]
 
 
@@ -52,6 +53,7 @@ class Unit:
         self.passive_a = NO_SKILL_LABEL
         self.passive_b = NO_SKILL_LABEL
         self.passive_c = NO_SKILL_LABEL
+        self.passive_x = NO_SKILL_LABEL
 
         if 'weapon' in status_dict:
             self.weapon = status_dict['weapon']
@@ -65,6 +67,8 @@ class Unit:
             self.passive_b = status_dict['passive_b']
         if 'passive_c' in status_dict:
             self.passive_c = status_dict['passive_c']
+        if 'passive_x' in status_dict:
+            self.passive_x = status_dict['passive_x']
 
     @property
     def total_parameter(self):
