@@ -727,6 +727,18 @@
   passive_a: 金剛明鏡の構え3
   passive_b: 竜鱗障壁3
   passive_c: ミラの歯車・神
+- name: マーラ
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 38
+  attack: 58
+  speed: 33
+  defence: 20
+  resist: 45
+  weapon: ラウアディア+
+  special: 氷華
+  passive_b: 魔防の混乱3
+  passive_c: 歩行の魔刃3
 - name: ヘステ
   weapon_type: 青魔
   movement_type: 歩行
