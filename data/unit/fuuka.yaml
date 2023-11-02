@@ -440,8 +440,8 @@
   resist: 18
   weapon: アラドヴァル
   special: 烈風
-  passive_a: 鬼神金剛の瞬撃
-  passive_b: 無惨
+  passive_a: 攻撃速さの激突4
+  passive_b: 無惨・承
   passive_c: 迅雷風烈・奇数3
 - name: ディミトリ4
   weapon_type: 槍
@@ -1148,11 +1148,11 @@
   weapon_type: 斧
   movement_type: 重装
   hp: 50
-  attack: 54
+  attack: 56
   speed: 25
   defence: 37
   resist: 26
-  weapon: キャンセルの斧+
+  weapon: 炎帝の烈斧
   special: 華炎
   passive_a: 金剛明鏡の構え2
   passive_b: 守備隊形3

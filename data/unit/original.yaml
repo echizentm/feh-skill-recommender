@@ -864,10 +864,10 @@
   defence: 16
   resist: 40
   weapon: 豊潤の花
-  assist: あまいゆめ
+  assist: あまいゆめ・神
   passive_a: 攻撃魔防の渾身4
   passive_b: 速さの混乱3
-  passive_c: 攻撃魔防の牽制3
+  passive_c: 攻撃魔防の大牽制
 - name: プルメリア2
   weapon_type: 弓
   movement_type: 飛行

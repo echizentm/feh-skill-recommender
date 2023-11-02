@@ -490,6 +490,9 @@
 - name: 攻撃魔防の拍節3
   allow:
     movement_type_list: [歩行]
+- name: 攻撃魔防の拍節4
+  allow:
+    movement_type_list: [歩行]
 - name: 速さ守備の拍節3
   allow:
     movement_type_list: [歩行]
@@ -650,6 +653,9 @@
 - name: 無惨
   allow:
     name_list: [ディミトリ3, ディミトリ5]
+- name: 無惨・承
+  allow:
+    name_list: [ディミトリ3]
 - name: 束縛の首飾り
   allow:
     name_list: [フレイヤ, フレイヤ2]

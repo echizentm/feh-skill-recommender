@@ -499,3 +499,6 @@
 - name: クリミアの心
   allow:
     name_list: [暁エリンシア4]
+- name: 邪竜の救済
+  allow:
+    name_list: [ヴェイル]

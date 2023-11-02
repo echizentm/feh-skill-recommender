@@ -177,6 +177,9 @@
 - name: あまいゆめ
   allow:
     name_list: [プルメリア, プルメリア2]
+- name: あまいゆめ・神
+  allow:
+    name_list: [プルメリア]
 - name: あまいみつのゆめ
   allow:
     name_list: [プルメリア3]

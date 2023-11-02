@@ -199,6 +199,19 @@
   assist: 踊る
   passive_a: 攻撃魔防の秘奥3
   passive_c: 歩行の見切り追撃3
+- name: ヴェイル
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 39
+  attack: 60
+  speed: 30
+  defence: 21
+  resist: 46
+  weapon: オヴスキュリテ
+  special: 氷蒼
+  passive_a: 攻撃魔防の秘奥4
+  passive_b: 攻撃魔防の拍節4
+  passive_c: 邪竜の救済
 - name: セピア
   weapon_type: 赤魔
   movement_type: 飛行
