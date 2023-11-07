@@ -179,6 +179,9 @@
 - name: 黒の月光
   allow:
     name_list: [漆黒の騎士, ゼルギウス, 漆黒の騎士2]
+- name: 漆黒の月光
+  allow:
+    name_list: [ゼルギウス2]
 - name: 蒼の天空
   allow:
     name_list: [暁アイク, 蒼炎アイク3]

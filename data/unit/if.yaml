@@ -408,8 +408,20 @@
   resist: 16
   weapon: サイゾウの爆炎針
   assist: 一喝
-  passive_a: 蛇毒3
+  passive_b: 蛇毒3
   passive_c: 速さの紋章3
+- name: サイゾウ2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 37
+  attack: 50
+  speed: 45
+  defence: 45
+  resist: 25
+  weapon: 白夜忍の薙刀+
+  special: 爆火
+  passive_a: 攻撃守備の孤軍3
+  passive_c: 守備の紫煙3
 - name: カゲロウ
   weapon_type: 暗器
   movement_type: 歩行
@@ -768,6 +780,18 @@
   assist: 引き寄せ
   passive_a: 鬼神明鏡の一撃2
   passive_b: 攻撃魔防の連携3
+- name: ユウギリ
+  weapon_type: 緑弓
+  movement_type: 飛行
+  hp: 40
+  attack: 50
+  speed: 45
+  defence: 24
+  resist: 31
+  weapon: 白夜忍の和弓+
+  special: 凶星
+  passive_a: 攻撃速さの機先3
+  passive_c: 速さ守備の牽制3
 - name: リンカ
   weapon_type: 斧
   movement_type: 歩行

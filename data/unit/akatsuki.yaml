@@ -327,6 +327,18 @@
   special: 華炎
   passive_a: 鬼神金剛の構え2
   passive_b: 迎撃隊形3
+- name: ヘザー
+  weapon_type: 緑暗器
+  movement_type: 歩行
+  hp: 41
+  attack: 51
+  speed: 47
+  defence: 27
+  resist: 30
+  weapon: 密偵忍者の手裏剣
+  assist: 攻撃速さの応援+
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 速さ守備の大共謀4
 - name: カイネギス
   weapon_type: 獣
   movement_type: 重装
@@ -649,6 +661,19 @@
   assist: 一喝
   passive_a: 相性激化3
   passive_c: 攻撃の鼓舞3
+- name: 暁サナキ2
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 55
+  speed: 24
+  defence: 16
+  resist: 47
+  weapon: 光炎の姉妹の忍法帖
+  special: 氷蒼
+  passive_a: 鬼神明鏡の炎撃
+  passive_b: 攻撃魔防の混乱3
+  passive_c: 守備魔防の謀策3
 - name: ゼルギウス
   weapon_type: 剣
   movement_type: 重装
@@ -662,6 +687,19 @@
   passive_a: 鬼神の構え3
   passive_b: 転移の粉
   passive_c: 恐慌の奇策3
+- name: ゼルギウス2
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 49
+  attack: 58
+  speed: 16
+  defence: 47
+  resist: 42
+  weapon: 将軍忍者の紅槍
+  special: 漆黒の月光
+  passive_a: 遠反・守魔の孤軍
+  passive_b: 奥義隊形4
+  passive_c: 一斉突撃3
 - name: オリヴァー
   weapon_type: 青魔
   movement_type: 歩行

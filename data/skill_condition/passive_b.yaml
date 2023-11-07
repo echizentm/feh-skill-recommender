@@ -201,6 +201,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [重装, 飛行]
+- name: 速さ守備の大共謀4
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [重装, 飛行]
 - name: 速さ魔防の大共謀3
   deny:
     weapon_type_list: [杖]
