@@ -252,6 +252,30 @@
   passive_a: オスティアの心魂
   passive_b: 迎撃隊形4
   passive_c: 盾の護り手・遠間3
+- name: ハーケン
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 57
+  speed: 32
+  defence: 46
+  resist: 27
+  weapon: 影の勇者の黒剣
+  special: 緋炎
+  passive_a: 攻撃守備の激突4
+  passive_b: 差し違え4
+- name: イサドラ
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 38
+  attack: 59
+  speed: 46
+  defence: 32
+  resist: 25
+  weapon: 守護騎士の白槍
+  assist: 引き戻し
+  passive_a: 攻撃速さの激突4
+  passive_b: 攻撃守備の干渉4
 - name: マシュー
   weapon_type: 暗器
   movement_type: 歩行
@@ -362,6 +386,18 @@
   special: 天照
   passive_a: 攻撃魔防の万全3
   passive_c: 遠距離警戒3
+- name: ウィル
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 42
+  attack: 57
+  speed: 34
+  defence: 27
+  resist: 40
+  weapon: 制止の弓+
+  assist: 魔防の大応援
+  passive_a: 攻撃魔防の渾身3
+  passive_b: 遠距離警戒3
 - name: レベッカ
   weapon_type: 弓
   movement_type: 歩行
@@ -925,6 +961,20 @@
   passive_a: 攻撃速さの秘奥4
   passive_b: 速さの先制3
   passive_c: 始まりの鼓動4
+- name: ニノ5
+  weapon_type: 緑暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 58
+  speed: 47
+  defence: 26
+  resist: 33
+  weapon: ゴンドゥル
+  special: 竜裂
+  passive_a: 鬼神飛燕の柔撃
+  passive_b: 速さ守備の拍節4
+  passive_c: 牙の絆
+  passive_x: 響・飛燕の離撃
 - name: ラガルト
   weapon_type: 暗器
   movement_type: 歩行

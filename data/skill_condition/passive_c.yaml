@@ -111,6 +111,9 @@
 - name: 不治の幻煙3
   deny:
     weapon_type_list: [杖]
+- name: 不治の幻煙4
+  deny:
+    weapon_type_list: [杖]
 - name: 騎刃の鼓舞
   allow:
     movement_type_list: [騎馬]
@@ -502,3 +505,6 @@
 - name: 邪竜の救済
   allow:
     name_list: [ヴェイル]
+- name: 牙の絆
+  allow:
+    name_list: [ニノ5]

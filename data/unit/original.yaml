@@ -997,6 +997,19 @@
   passive_a: 虚無の力
   passive_b: 絶対化身・察知4
   passive_c: 攻撃速さの奮進
+- name: ギンヌンガガプ
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 45
+  attack: 61
+  speed: 31
+  defence: 30
+  resist: 32
+  weapon: 魔器ギンヌンガガプ
+  special: 滅殺
+  passive_a: 生命の業火静水3
+  passive_b: 虚無の王
+  passive_c: 不治の幻煙4
 - name: レギン
   weapon_type: 剣
   movement_type: 騎馬

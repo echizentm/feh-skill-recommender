@@ -221,6 +221,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
+- name: 攻撃守備の干渉4
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [歩行, 重装]
 - name: 攻撃魔防の干渉3
   deny:
     weapon_type_list: [杖]
@@ -500,6 +504,9 @@
 - name: 速さ守備の拍節3
   allow:
     movement_type_list: [歩行]
+- name: 速さ守備の拍節4
+  allow:
+    movement_type_list: [歩行]
 - name: 速さ魔防の拍節3
   allow:
     movement_type_list: [歩行]
@@ -738,3 +745,6 @@
 - name: 時を戻す黄金の魔女
   allow:
     name_list: [グルヴェイグ]
+- name: 虚無の王
+  allow:
+    name_list: [ギンヌンガガプ]
