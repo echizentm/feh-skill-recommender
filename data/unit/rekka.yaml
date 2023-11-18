@@ -987,6 +987,18 @@
   special: 凶星
   passive_a: 飛燕明鏡の一撃2
   passive_c: 攻撃の指揮3
+- name: ファーガス
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 43
+  attack: 63
+  speed: 31
+  defence: 40
+  resist: 32
+  weapon: 海賊の長の大斧
+  special: 竜穿
+  passive_a: 攻撃守備の万全3
+  passive_c: 歩行の鼓動3
 - name: ブラミモンド
   weapon_type: 魔
   movement_type: 歩行
