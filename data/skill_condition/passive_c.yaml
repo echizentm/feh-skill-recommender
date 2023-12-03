@@ -25,6 +25,9 @@
 - name: 攻撃速さの奮起4
   deny:
     movement_type_list: [重装, 飛行]
+- name: 攻撃速さの奮激
+  deny:
+    movement_type_list: [重装, 飛行]
 - name: 攻撃速さの奮進
   allow:
     movement_type_list: [騎馬]

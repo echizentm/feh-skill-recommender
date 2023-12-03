@@ -266,3 +266,9 @@
 - name: 神竜破
   allow:
     name_list: [女リュール2]
+- name: 時は光
+  allow:
+    name_list: [グルヴェイグ2]
+- name: 光は時
+  allow:
+    name_list: [クワシル]

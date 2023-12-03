@@ -306,6 +306,9 @@
 - name: 速さ魔防の凪3
   deny:
     movement_type_list: [重装, 飛行]
+- name: 速さ魔防の凪4
+  deny:
+    movement_type_list: [重装, 飛行]
 - name: 鼓動の封緘・奇数3
   deny:
     movement_type_list: [重装, 飛行]
@@ -513,6 +516,9 @@
 - name: 蛇毒3
   deny:
     weapon_type_list: [杖]
+- name: 魔の蛇毒
+  allow:
+    weapon_type_list: [赤竜, 赤魔, 青竜, 青魔, 緑竜, 緑魔, 竜, 魔]
 - name: 罠解除3
   allow:
     weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]

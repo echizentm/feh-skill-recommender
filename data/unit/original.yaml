@@ -1242,6 +1242,32 @@
   passive_a: 鬼神飛燕の炎撃
   passive_b: 時を戻す黄金の魔女
   passive_c: 攻撃速さの信義4
+- name: グルヴェイグ2
+  weapon_type: 魔
+  movement_type: 騎馬
+  hp: 37
+  attack: 59
+  speed: 47
+  defence: 27
+  resist: 18
+  weapon: 終端グルヴェイグ
+  special: 時は光
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 魔の蛇毒
+  passive_c: 守備魔防の紫煙3
+- name: クワシル
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 58
+  speed: 47
+  defence: 17
+  resist: 26
+  weapon: 始端クワシル
+  special: 光は時
+  passive_a: 攻撃速さの機先4
+  passive_b: 速さ魔防の凪4
+  passive_c: 攻撃速さの奮激
 - name: ヘイズ
   weapon_type: 緑魔
   movement_type: 歩行
