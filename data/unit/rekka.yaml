@@ -695,11 +695,11 @@
   weapon_type: 緑弓
   movement_type: 騎馬
   hp: 41
-  attack: 45
+  attack: 47
   speed: 35
   defence: 23
   resist: 24
-  weapon: キラーボウ鍛+
+  weapon: 若き狼の鋭弓
   special: 凶星
   passive_a: 速さ魔防の密集3
   passive_c: 守備の紫煙3
