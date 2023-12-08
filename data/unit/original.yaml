@@ -1294,3 +1294,16 @@
   passive_a: 攻撃速さの激突4
   passive_b: 地に生まれ地に還る
   passive_c: 攻撃速さの奮進
+- name: ラタトスク
+  weapon_type: 青獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 58
+  speed: 46
+  defence: 34
+  resist: 21
+  weapon: 世界樹の栗鼠の尻尾
+  special: 月光
+  passive_a: 攻撃速さの激突4
+  passive_b: 絶対化身・敏捷4
+  passive_c: 癒し手の心

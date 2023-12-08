@@ -64,6 +64,10 @@
 - name: 守備魔防の奮起3
   deny:
     movement_type_list: [重装, 飛行]
+- name: 守備魔防の奮進
+  allow:
+    movement_type_list: [騎馬]
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
 - name: 攻撃速さの信義3
   deny:
     movement_type_list: [重装, 騎馬]
@@ -511,3 +515,6 @@
 - name: 牙の絆
   allow:
     name_list: [ニノ5]
+- name: 癒し手の心
+  allow:
+    name_list: [ラタトスク]

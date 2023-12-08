@@ -368,6 +368,14 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 回避・盾の鼓動3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
+- name: 回避・盾の鼓動4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: 攻撃速さの防壁3
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
@@ -541,6 +549,9 @@
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 絶対化身・敏捷3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 絶対化身・敏捷4
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: 絶対化身・追撃3

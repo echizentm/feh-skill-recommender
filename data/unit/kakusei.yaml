@@ -747,6 +747,18 @@
   special: 緋炎
   passive_a: 生命の静水3
   passive_c: 守備の指揮3
+- name: ファウダー
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 42
+  attack: 60
+  speed: 17
+  defence: 35
+  resist: 46
+  weapon: 禁書ギムレー
+  special: 氷菓
+  passive_b: 差し違え3
+  passive_c: 攻撃の謀策3
 - name: インバース
   weapon_type: 赤魔
   movement_type: 飛行
@@ -1076,6 +1088,19 @@
   passive_a: 鬼神飛燕の構え3
   passive_b: 慧眼隊形3
   passive_c: 鎧の護り手・近間3
+- name: ルキナ7
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 40
+  attack: 59
+  speed: 47
+  defence: 31
+  resist: 23
+  weapon: 魔器スリマ
+  assist: 未来を変える瞳
+  passive_a: 攻撃速さの激突4
+  passive_b: 速さ守備の干渉4
+  passive_c: 守備魔防の奮進
 - name: ウード
   weapon_type: 剣
   movement_type: 歩行
@@ -1125,6 +1150,18 @@
   assist: 攻撃速さの応援+
   passive_a: 緑の死闘・飛行4
   passive_c: 攻撃速さの牽制3
+- name: アズール3
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 58
+  speed: 45
+  defence: 34
+  resist: 30
+  weapon: 見切り追撃の剣+
+  special: 月虹
+  passive_a: 攻撃速さの密集3
+  passive_b: 怒り3
 - name: ブレディ
   weapon_type: 杖
   movement_type: 歩行
@@ -1175,6 +1212,18 @@
   special: 疾風迅雷
   passive_a: 速さ守備の弧軍3
   passive_c: 攻撃速さの威嚇2
+- name: ロラン
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 39
+  attack: 58
+  speed: 30
+  defence: 24
+  resist: 43
+  weapon: ヒータディア+
+  special: 氷蒼
+  passive_a: 攻撃魔防の万全3
+  passive_c: 攻撃魔防の奮起3
 - name: 男マーク
   weapon_type: 赤魔
   movement_type: 歩行
@@ -1239,6 +1288,18 @@
   passive_a: 赤の死闘・騎馬4
   passive_b: 速さ魔防の凪3
   passive_c: 攻撃の相互鼓舞
+- name: セレナ2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 59
+  speed: 47
+  defence: 37
+  resist: 24
+  weapon: 憧憬の剣
+  special: 神速回避
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 回避・盾の鼓動4
 - name: ノワール
   weapon_type: 弓
   movement_type: 歩行
