@@ -36,6 +36,19 @@
   special: 覇天
   passive_a: 速さ魔防の秘奥3
   passive_b: 速さ魔防の凪3
+- name: ベレト4
+  weapon_type: 剣
+  movement_type: 重装
+  hp: 52
+  attack: 62
+  speed: 18
+  defence: 45
+  resist: 46
+  weapon: 師の聖夜の剣
+  special: 真覇天
+  passive_a: 生命の業火静水3
+  passive_b: 理の守備隊形
+  passive_c: 兜の護り手・遠間3
 - name: ベレス
   weapon_type: 剣
   movement_type: 歩行
@@ -255,6 +268,19 @@
   passive_a: 攻撃守備の万全4
   passive_b: 狂嵐
   passive_c: 一斉突撃3
+- name: エーデルガルト6
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 46
+  attack: 63
+  speed: 17
+  defence: 47
+  resist: 44
+  weapon: 黒鷲の聖夜の槍
+  special: 重装の大炎
+  passive_a: 攻撃守備の備え4
+  passive_b: 真狂嵐
+  passive_c: 守備魔防の謀策3
 - name: ヒューベルト
   weapon_type: 赤魔
   movement_type: 歩行
@@ -469,6 +495,19 @@
   passive_a: 攻撃速さの機先4
   passive_b: 無惨
   passive_c: 速さ守備の脅嚇
+- name: ディミトリ6
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 63
+  speed: 46
+  defence: 32
+  resist: 19
+  weapon: 蒼獅子の聖夜の斧
+  special: 車懸
+  passive_a: 攻撃速さの備え4
+  passive_b: 真無惨
+  passive_c: 恐慌の幻煙4
 - name: ドゥドゥー
   weapon_type: 斧
   movement_type: 重装
@@ -706,6 +745,18 @@
   passive_a: 攻撃速さの備え4
   passive_b: 真落星
   passive_c: 攻撃速さの信義4
+- name: クロード6
+  weapon_type: 弓
+  movement_type: 重装
+  hp: 41
+  attack: 55
+  speed: 46
+  defence: 32
+  resist: 34
+  weapon: 金鹿の聖夜の弓+
+  special: 太陽
+  passive_a: 攻撃速さの密集3
+  passive_b: 攻撃速さの封印2
 - name: ローレンツ
   weapon_type: 赤魔
   movement_type: 歩行

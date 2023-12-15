@@ -31,6 +31,10 @@
 - name: 守備隊形3
   allow:
     movement_type_list: [重装]
+- name: 理の守備隊形
+  allow:
+    weapon_type_list: [剣, 赤獣, 赤弓, 赤暗器, 槍, 青獣, 青弓, 青暗器, 斧, 緑獣, 緑弓, 緑暗器, 獣, 弓, 暗器]
+    movement_type_list: [重装]
 - name: 奥義隊形3
   allow:
     movement_type_list: [重装]
@@ -524,6 +528,9 @@
 - name: 蛇毒3
   deny:
     weapon_type_list: [杖]
+- name: 理の蛇毒
+  allow:
+    weapon_type_list: [剣, 赤獣, 赤弓, 赤暗器, 槍, 青獣, 青弓, 青暗器, 斧, 緑獣, 緑弓, 緑暗器, 獣, 弓, 暗器]
 - name: 魔の蛇毒
   allow:
     weapon_type_list: [赤竜, 赤魔, 青竜, 青魔, 緑竜, 緑魔, 竜, 魔]
@@ -669,6 +676,9 @@
 - name: 狂嵐・承
   allow:
     name_list: [エーデルガルト2]
+- name: 真狂嵐
+  allow:
+    name_list: [エーデルガルト6]
 - name: 最後の聖戦・承
   allow:
     name_list: [セリス2]
@@ -684,6 +694,9 @@
 - name: 無惨・承
   allow:
     name_list: [ディミトリ3]
+- name: 真無惨
+  allow:
+    name_list: [ディミトリ6]
 - name: 束縛の首飾り
   allow:
     name_list: [フレイヤ, フレイヤ2]

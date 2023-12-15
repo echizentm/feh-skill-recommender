@@ -42,6 +42,10 @@
 - name: 破天
   deny:
     weapon_type_list: [赤竜, 赤獣, 青竜, 青獣, 緑竜, 緑獣, 杖, 竜, 獣]
+- name: 車懸
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行, 飛行, 騎馬]
 - name: 竜穿
   deny:
     weapon_type_list: [杖]
@@ -51,6 +55,11 @@
 - name: ブルーフレイム
   deny:
     weapon_type_list: [杖]
+- name: 重装の大炎
+  deny:
+    weapon_type_list: [杖]
+  allow:
+    movement_type_list: [重装]
 - name: 重装の聖炎
   deny:
     weapon_type_list: [杖]
@@ -248,6 +257,9 @@
 - name: 覇天
   allow:
     name_list: [ベレト2, ベレト3]
+- name: 真覇天
+  allow:
+    name_list: [ベレト4]
 - name: 鎮魂の舞
   allow:
     name_list: [マリアンヌ2]

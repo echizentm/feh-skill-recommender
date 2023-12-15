@@ -187,6 +187,19 @@
   passive_a: 攻撃速さの備え4
   passive_b: 奥の手4
   passive_c: 攻守牽制・運び手
+- name: ユナカ
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 39
+  attack: 57
+  speed: 47
+  defence: 21
+  resist: 30
+  weapon: 見えざる聖夜の刃
+  special: 月光
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 理の蛇毒
+  passive_c: 不治の幻煙4
 - name: セアダス
   weapon_type: 赤魔
   movement_type: 歩行
