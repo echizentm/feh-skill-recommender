@@ -1051,6 +1051,19 @@
   passive_a: 近反・攻撃の渾身
   passive_b: 魔防封じ4
   passive_c: 攻撃魔防の大牽制
+- name: カミラ9
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 40
+  attack: 59
+  speed: 46
+  defence: 22
+  resist: 25
+  weapon: 妖艶なる夜の書
+  special: 竜裂
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 可愛がってあげる
+  passive_c: 死の瘴気
 - name: ルーナ
   weapon_type: 剣
   movement_type: 歩行

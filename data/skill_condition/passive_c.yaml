@@ -305,6 +305,9 @@
   allow:
     movement_type_list: [飛行]
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+- name: 死の瘴気
+  allow:
+    movement_type_list: [飛行]
 - name: 剣の技量3
   allow:
     weapon_type_list: [剣]

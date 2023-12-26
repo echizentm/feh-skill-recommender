@@ -778,3 +778,6 @@
 - name: 虚無の王
   allow:
     name_list: [ギンヌンガガプ]
+- name: 可愛がってあげる
+  allow:
+    name_list: [カミラ9]
