@@ -1407,6 +1407,18 @@
   special: 竜穿
   passive_a: 守備魔防の大覚醒3
   passive_c: 竜盾の鼓舞
+- name: 男カンナ2
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 37
+  attack: 56
+  speed: 46
+  defence: 28
+  resist: 40
+  weapon: 辰年の御子の竜石+
+  special: 月虹
+  passive_a: 攻撃魔防の竜眼3
+  passive_b: 竜鱗障壁3
 - name: 女カンナ
   weapon_type: 緑竜
   movement_type: 歩行
@@ -1419,6 +1431,18 @@
   special: 竜裂
   passive_a: 鬼神の構え3
   passive_c: 竜刃の紋章
+- name: 女カンナ2
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 37
+  attack: 57
+  speed: 45
+  defence: 27
+  resist: 41
+  weapon: 辰年の幼姫の竜石+
+  special: 凶星
+  passive_b: 竜の逆鱗3
+  passive_c: 魔防の大紋章2
 - name: シグレ
   weapon_type: 青魔
   movement_type: 歩行

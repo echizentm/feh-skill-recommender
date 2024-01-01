@@ -768,7 +768,7 @@
     name_list: [ターナ5]
 - name: 地に生まれ地に還る
   allow:
-    name_list: [ネルトゥス]
+    name_list: [ネルトゥス, ネルトゥス2]
 - name: 僕が守ります！
   allow:
     name_list: [スタルーク]

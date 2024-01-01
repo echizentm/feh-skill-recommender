@@ -249,6 +249,12 @@
 - name: 攻撃守備の備え4
   deny:
     weapon_type_list: [赤竜, 赤魔, 青竜, 青魔, 緑竜, 緑魔, 竜, 魔, 杖]
+- name: 攻撃速さの野生3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 攻撃速さの野生4
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: 獅子奮迅3
   deny:
     weapon_type_list: [杖]

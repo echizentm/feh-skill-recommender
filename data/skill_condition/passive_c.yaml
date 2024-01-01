@@ -208,6 +208,9 @@
 - name: 歩行の見切り追撃3
   allow:
     movement_type_list: [歩行]
+- name: 歩行の見切り追撃4
+  allow:
+    movement_type_list: [歩行]
 - name: 歩行の魔刃3
   allow:
     movement_type_list: [歩行]
@@ -491,6 +494,9 @@
 - name: 共に未来を見つめて
   allow:
     name_list: [セイズ]
+- name: 共に未来を変えて
+  allow:
+    name_list: [セイズ2]
 - name: ドローミの鎖環
   allow:
     name_list: [ユーリス2]

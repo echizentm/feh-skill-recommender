@@ -283,4 +283,4 @@
     name_list: [グルヴェイグ2]
 - name: 光は時
   allow:
-    name_list: [クワシル]
+    name_list: [クワシル, クワシル2]
