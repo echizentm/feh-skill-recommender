@@ -176,6 +176,33 @@
   special: 業火静水の祝福+
   passive_a: 守備魔防の絆4
   passive_c: 快癒・偶数3
+- name: サフィ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 38
+  attack: 68
+  speed: 31
+  defence: 16
+  resist: 53
+  weapon: リペア
+  assist: リターン+
+  special: 恐慌の聖光
+  passive_a: 止水4
+  passive_c: 攻撃速さの謀策3
+- name: ティナ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 44
+  attack: 57
+  speed: 46
+  defence: 19
+  resist: 31
+  weapon: シーフ
+  assist: プッシュ+
+  special: 重圧の聖光
+  passive_a: 攻撃速さの万全4
+  passive_b: 神罰・拍節
+  passive_c: 歩行の鼓動4
 - name: アスベル
   weapon_type: 緑魔
   movement_type: 歩行
@@ -189,6 +216,18 @@
   passive_a: 獅子奮迅4
   passive_b: 見切り・追撃効果3
   passive_c: 速さ魔防の信義3
+- name: ラーラ
+  weapon_type: 赤暗器
+  movement_type: 歩行
+  hp: 40
+  attack: 47
+  speed: 44
+  defence: 34
+  resist: 24
+  weapon: 攻防の暗器+
+  assist: 踊る
+  passive_b: 疾風大地の舞い2
+  passive_c: 攻撃の紫煙3
 - name: ロナン
   weapon_type: 青弓
   movement_type: 歩行
@@ -263,6 +302,19 @@
   passive_a: 鬼神の一撃3
   passive_b: 魔防の封印3
   passive_c: 攻撃の相互鼓舞
+- name: ラインハルト4
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 41
+  attack: 60
+  speed: 45
+  defence: 22
+  resist: 20
+  weapon: 魔器・雷公の書
+  special: 月虹
+  passive_a: 雷神の右腕
+  passive_b: 速さ魔防の遠影4
+  passive_c: 守備魔防の紫煙3
 - name: オルエン
   weapon_type: 青魔
   movement_type: 騎馬

@@ -557,3 +557,6 @@
 - name: 魔女を超える者
   allow:
     name_list: [ソニア3]
+- name: 雷神の右腕
+  allow:
+    name_list: [ラインハルト4]
