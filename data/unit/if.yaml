@@ -130,9 +130,9 @@
   defence: 34
   resist: 29
   weapon: 神祖竜のブレス
-  special: 反竜穿
+  special: 反竜穿・承
   passive_a: 遠距離反撃
-  passive_b: 盾の鼓動3
+  passive_b: キャンセル4
   passive_c: 攻撃の相互大紋章
 - name: 女カムイ6
   weapon_type: 緑魔

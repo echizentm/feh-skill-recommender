@@ -239,6 +239,9 @@
 - name: 反竜穿
   allow:
     name_list: [女カムイ5, 女カムイ7]
+- name: 反竜穿・承
+  allow:
+    name_list: [女カムイ5]
 - name: 魔弾
   allow:
     name_list: [レギン, レギン2]
@@ -248,6 +251,9 @@
 - name: 天与の魔道
   allow:
     name_list: [リリーナ4, リリーナ5]
+- name: 天与の魔道・承
+  allow:
+    name_list: [リリーナ4]
 - name: グランベルの聖騎士
   allow:
     name_list: [シグルド3]

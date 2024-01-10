@@ -297,11 +297,11 @@
   weapon_type: 槍
   movement_type: 騎馬
   hp: 41
-  attack: 43
+  attack: 45
   speed: 35
   defence: 35
   resist: 24
-  weapon: 守りの槍+
+  weapon: 自信家の長槍
   assist: 引き戻し
   passive_a: 守備の城塞3
   passive_c: 速さ守備の奮起3
