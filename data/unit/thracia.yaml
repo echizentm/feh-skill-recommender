@@ -389,6 +389,18 @@
   special: 氷華
   passive_a: 攻撃魔防の渾身3
   passive_b: 攻撃の混乱3
+- name: パーン
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 44
+  attack: 52
+  speed: 48
+  defence: 34
+  resist: 21
+  weapon: 王者の刃
+  special: 竜穿
+  passive_b: 見切り・追撃効果3
+  passive_c: 速さの大紋章2
 - name: リフィス
   weapon_type: 斧
   movement_type: 歩行
