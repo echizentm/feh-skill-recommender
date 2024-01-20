@@ -560,6 +560,18 @@
   passive_a: 攻撃速さの孤軍4
   passive_b: 速さ守備の近影3
   passive_c: 空転の奇策3
+- name: トパック
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 40
+  attack: 55
+  speed: 45
+  defence: 25
+  resist: 30
+  weapon: ナバタの燭台+
+  special: 竜裂
+  passive_b: 速さ魔防の拍節3
+  passive_c: 速さ魔防の大開放3
 - name: ムワリム
   weapon_type: 青獣
   movement_type: 歩行
@@ -649,6 +661,19 @@
   passive_a: 攻撃魔防の連帯
   passive_b: 見切り・反撃不可3
   passive_c: 攻撃魔防の信義3
+- name: オルティナ3
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 42
+  attack: 58
+  speed: 16
+  defence: 42
+  resist: 46
+  weapon: 永遠の理想郷の双斧
+  special: 三雄の双刃
+  passive_a: 攻撃魔防の秘奥4
+  passive_b: 攻撃守備の防壁4
+  passive_c: 始まりの鼓動4
 - name: 暁サナキ
   weapon_type: 赤魔
   movement_type: 歩行

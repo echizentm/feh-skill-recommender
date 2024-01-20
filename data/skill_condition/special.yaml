@@ -224,6 +224,9 @@
 - name: 双刃
   allow:
     name_list: [オルティナ, オルティナ2]
+- name: 三雄の双刃
+  allow:
+    name_list: [オルティナ3]
 - name: 開世
   allow:
     name_list: [アルフォンス3, リーヴ, リーヴ3]

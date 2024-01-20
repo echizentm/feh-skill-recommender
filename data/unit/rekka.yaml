@@ -715,6 +715,18 @@
   special: 爆光
   passive_a: 鬼神の一撃3
   passive_c: 攻撃の威嚇3
+- name: ホークアイ2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 45
+  attack: 61
+  speed: 22
+  defence: 41
+  resist: 38
+  weapon: ナバタの槍+
+  special: 華炎
+  passive_a: 守備魔防の万全3
+  passive_c: 恐慌の奇策3
 - name: ニニアン
   weapon_type: 青竜
   movement_type: 歩行
