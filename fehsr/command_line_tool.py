@@ -53,9 +53,9 @@ def main():
 
     # '名前1' で検索した時は '名前2' や '名前3' は取得せずに '名前' だけを取得する
     if re.fullmatch(r'.*[^1]1\Z', args.unit_name):
-        name_pattern = re.compile(r'(男|女|オリジナル|紋章|echoes|聖戦|トラキア|封印|烈火|蒼炎|暁|覚醒|風花)?{}'.format(args.unit_name[:-1]))
+        name_pattern = re.compile(r'(男|女|オリジナル|紋章|echoes|聖戦|トラキア|封印|烈火|蒼炎|暁|覚醒|風花|エンゲージ)?{}'.format(args.unit_name[:-1]))
     else:
-        name_pattern = re.compile(r'(男|女|オリジナル|紋章|echoes|聖戦|トラキア|封印|烈火|蒼炎|暁|覚醒|風花)?{}[0-9]*'.format(args.unit_name))
+        name_pattern = re.compile(r'(男|女|オリジナル|紋章|echoes|聖戦|トラキア|封印|烈火|蒼炎|暁|覚醒|風花|エンゲージ)?{}[0-9]*'.format(args.unit_name))
     searched_unit_list = [
         unit for unit in unit_list if name_pattern.fullmatch(unit.name)
     ]
