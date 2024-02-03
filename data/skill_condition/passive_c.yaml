@@ -533,3 +533,6 @@
 - name: 癒し手の心
   allow:
     name_list: [ラタトスク]
+- name: リトスの神竜王
+  allow:
+    name_list: [ルミエル2]

@@ -928,9 +928,9 @@
   defence: 16
   resist: 22
   weapon: 不幸の花
-  assist: こわいゆめ
+  assist: こわいゆめ・神
   passive_a: 攻撃速さの渾身4
-  passive_b: 曲技飛行3
+  passive_b: 業火疾風の舞い3
   passive_c: 速さ魔防の牽制3
 - name: スカビオサ2
   weapon_type: 魔
@@ -1019,10 +1019,10 @@
   defence: 30
   resist: 24
   weapon: リュングヘイズ
-  special: 魔弾
+  special: 魔弾・神
   passive_a: 鬼神飛燕の一撃3
   passive_b: 速さ守備の凪3
-  passive_c: 恐慌の幻煙3
+  passive_c: 恐慌の幻煙4
 - name: レギン2
   weapon_type: 青魔
   movement_type: 騎馬

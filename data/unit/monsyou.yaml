@@ -73,6 +73,19 @@
   passive_a: 遠反・速さの渾身
   passive_b: 回避・怒り3
   passive_c: 迅雷風烈・偶数3
+- name: マルス7
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 61
+  speed: 47
+  defence: 33
+  resist: 27
+  weapon: 英雄王の剣
+  special: スターラッシュ
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 神速4
+  passive_c: 歩行の見切り追撃4
 - name: 男クリス
   weapon_type: 剣
   movement_type: 歩行

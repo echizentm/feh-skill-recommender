@@ -248,6 +248,9 @@
 - name: 魔弾
   allow:
     name_list: [レギン, レギン2]
+- name: 魔弾・神
+  allow:
+    name_list: [レギン]
 - name: 凶弾
   allow:
     name_list: [オッテル]
@@ -293,3 +296,6 @@
 - name: 光は時
   allow:
     name_list: [クワシル, クワシル2]
+- name: スターラッシュ
+  allow:
+    name_list: [マルス7]

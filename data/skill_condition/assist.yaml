@@ -189,6 +189,9 @@
 - name: こわいゆめ
   allow:
     name_list: [スカビオサ, スカビオサ2]
+- name: こわいゆめ・神
+  allow:
+    name_list: [スカビオサ]
 - name: こわいかこのゆめ
   allow:
     name_list: [スカビオサ3]

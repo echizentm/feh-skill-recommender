@@ -49,6 +49,19 @@
   special: 竜穿
   passive_a: 飛燕明鏡の構え2
   passive_b: 見切り・追撃効果3
+- name: ルミエル2
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 37
+  attack: 59
+  speed: 46
+  defence: 27
+  resist: 40
+  weapon: 白き神竜王のブレス
+  assist: 守備魔防の応援+
+  passive_a: 攻撃速さの竜眼4
+  passive_b: 攻撃速さの大共謀4
+  passive_c: リトスの神竜王
 - name: アルフレッド
   weapon_type: 槍
   movement_type: 騎馬

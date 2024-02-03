@@ -193,6 +193,10 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [重装, 飛行]
+- name: 攻撃速さの大共謀4
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [重装, 飛行]
 - name: 攻撃守備の大共謀3
   deny:
     weapon_type_list: [杖]
@@ -384,6 +388,14 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [歩行]
+- name: 神速3
+  allow:
+    weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
+    movement_type_list: [歩行, 騎馬, 飛行]
+- name: 神速4
+  allow:
+    weapon_type_list: [剣, 赤獣, 槍, 青獣, 斧, 緑獣, 獣]
+    movement_type_list: [歩行, 騎馬, 飛行]
 - name: 攻撃速さの防壁3
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]

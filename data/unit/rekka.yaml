@@ -572,11 +572,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 38
-  attack: 49
+  attack: 51
   speed: 41
   defence: 24
   resist: 40
-  weapon: キャンセルの槍+
+  weapon: 穢れなき白槍
   special: 氷蒼
   passive_a: 獅子奮迅3
   passive_b: 天馬行空3
