@@ -165,6 +165,19 @@
   passive_a: 攻撃守備の激突4
   passive_b: 華日の腕輪
   passive_c: 攻撃守備の奮進
+- name: エフラム7
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 52
+  attack: 64
+  speed: 17
+  defence: 48
+  resist: 41
+  weapon: 強く気高き魂の槍
+  special: 重装の大炎
+  passive_a: 生命の業火大地3
+  passive_b: 華日の腕輪・護
+  passive_c: 鎧の護り手・近間3
 - name: ゼト
   weapon_type: 剣
   movement_type: 騎馬
@@ -423,6 +436,18 @@
   special: 竜穿
   passive_a: 守備魔防の万全3
   passive_b: 守備隊形3
+- name: ヴィガルド2
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 51
+  attack: 59
+  speed: 26
+  defence: 47
+  resist: 31
+  weapon: 愛の祭の斧+
+  special: 華炎
+  passive_a: 攻撃守備の密集3
+  passive_b: 追撃隊形・偶数3
 - name: リオン
   weapon_type: 赤魔
   movement_type: 歩行
@@ -472,6 +497,19 @@
   special: 月虹
   passive_a: 攻撃守備の万全3
   passive_b: 攻撃守備の凪3
+- name: リオン5
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 39
+  attack: 61
+  speed: 16
+  defence: 26
+  resist: 46
+  weapon: 儚く優しい心の器
+  special: 氷蒼
+  passive_a: 鈍色の迷夢
+  passive_b: 魔の蛇毒
+  passive_c: 攻撃魔防の奮激
 - name: デュッセル
   weapon_type: 槍
   movement_type: 騎馬
@@ -509,6 +547,18 @@
   assist: 攻撃魔防の応援+
   passive_a: 死線4
   passive_b: 攻撃魔防の大共謀3
+- name: セライナ3
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 57
+  speed: 46
+  defence: 20
+  resist: 22
+  weapon: 愛の祭の花籠+
+  assist: 攻撃の大応援+
+  passive_a: 攻撃速さの機先3
+  passive_b: 攻撃魔防の遠影3
 - name: アーヴ
   weapon_type: 青魔
   movement_type: 歩行
@@ -817,6 +867,19 @@
   passive_a: 守備魔防の連帯
   passive_b: 竜鱗障壁3
   passive_c: 闇の樹海の守護竜
+- name: ミルラ5
+  weapon_type: 竜
+  movement_type: 重装
+  hp: 50
+  attack: 63
+  speed: 16
+  defence: 48
+  resist: 45
+  weapon: 無垢なる愛のブレス
+  special: 重装の聖炎
+  passive_a: 守備魔防の竜眼4
+  passive_b: 魔の守備隊形
+  passive_c: 闇の樹海の竜神
 - name: サレフ
   weapon_type: 斧
   movement_type: 騎馬
