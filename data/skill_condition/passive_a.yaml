@@ -575,3 +575,6 @@
 - name: 鈍色の迷夢
   allow:
     name_list: [リオン5]
+- name: 執着
+  allow:
+    name_list: [アイビー2]

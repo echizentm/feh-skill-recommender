@@ -289,6 +289,10 @@
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行, 重装]
+- name: 攻撃魔防の遠影4
+  deny:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行, 重装]
 - name: 速さ守備の遠影3
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
@@ -435,6 +439,10 @@
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]
 - name: 飛竜行空3
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [飛行]
+- name: 飛竜裂空
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]

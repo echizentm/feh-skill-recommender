@@ -542,3 +542,6 @@
 - name: リトスの神竜王
   allow:
     name_list: [ルミエル2]
+- name: 煌めく理力
+  allow:
+    name_list: [オルテンシア]

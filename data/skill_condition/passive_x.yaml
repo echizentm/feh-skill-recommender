@@ -7,3 +7,6 @@
 - name: 響・攻撃の信義
   deny:
     movement_type_list: [重装, 騎馬]
+- name: 響・飛走の先導
+  allow:
+    movement_type_list: [飛行]

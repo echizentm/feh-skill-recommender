@@ -174,6 +174,58 @@
   passive_a: 止水4
   passive_b: 攻撃魔防の混乱3
   passive_c: 飛走の先導
+- name: アイビー2
+  weapon_type: 青魔
+  movement_type: 飛行
+  hp: 41
+  attack: 61
+  speed: 34
+  defence: 26
+  resist: 30
+  weapon: 吹き渡る雪書
+  special: 月光
+  passive_a: 執着
+  passive_b: 攻撃魔防の遠影4
+  passive_c: 死の瘴気
+  passive_x: 響・飛走の先導
+- name: カゲツ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 42
+  attack: 57
+  speed: 47
+  defence: 35
+  resist: 25
+  weapon: 強化反転の剣+
+  special: 月虹
+  passive_a: 攻撃速さの万全3
+  passive_b: 見切り・追撃効果3
+- name: オルテンシア
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 36
+  attack: 58
+  speed: 47
+  defence: 16
+  resist: 34
+  weapon: 魔器・愛らしい雪杖
+  assist: レスキュー+
+  special: 輝映の聖光
+  passive_a: 攻撃速さの機先4
+  passive_b: 神罰・因果応報
+  passive_c: 煌めく理力
+- name: ロサード
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 45
+  attack: 59
+  speed: 46
+  defence: 44
+  resist: 16
+  weapon: 可憐の斧
+  special: 緋炎
+  passive_a: 生命の疾風大地3
+  passive_b: 飛竜裂空
 - name: ミスティラ
   weapon_type: 槍
   movement_type: 歩行
