@@ -578,3 +578,6 @@
 - name: 執着
   allow:
     name_list: [アイビー2]
+- name: 紋章の奇跡
+  allow:
+    name_list: [男リュール2]

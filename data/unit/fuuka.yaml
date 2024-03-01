@@ -163,9 +163,9 @@
   resist: 40
   weapon: 極光のブレス
   special: 氷華
-  passive_a: 鬼神明鏡の瞬撃
+  passive_a: 攻撃魔防の竜眼4
   passive_b: 竜麟障壁3
-  passive_c: 光輝く翼
+  passive_c: 光輝く翼・神
 - name: レア
   weapon_type: 緑竜
   movement_type: 歩行

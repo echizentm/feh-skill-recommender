@@ -455,7 +455,7 @@
 - name: 死からは逃れ…・神
   allow:
     name_list: [ヘル]
-- name: 光輝く翼
+- name: 光輝く翼・神
   allow:
     name_list: [セイロス]
 - name: 束縛、秩序、安定

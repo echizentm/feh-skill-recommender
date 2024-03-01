@@ -11,6 +11,19 @@
   passive_a: 攻撃速さの万全4
   passive_b: 回避・叩き込み4
   passive_c: 緑への暗闘3
+- name: 男リュール2
+  weapon_type: 竜
+  movement_type: 歩行
+  hp: 40
+  attack: 52
+  speed: 46
+  defence: 30
+  resist: 41
+  weapon: 神竜王の体術
+  special: 竜の咆哮
+  passive_a: 紋章の奇跡
+  passive_b: 速さ魔防の防壁4
+  passive_c: 攻撃速さの信条
 - name: 女リュール
   weapon_type: 剣
   movement_type: 歩行
@@ -36,7 +49,7 @@
   special: 神竜破
   passive_a: 攻撃速さの秘奥4
   passive_b: 見切り・反撃不可4
-  passive_c: 攻撃速さの信条4
+  passive_c: 攻撃速さの信条
 - name: ルミエル
   weapon_type: 剣
   movement_type: 歩行

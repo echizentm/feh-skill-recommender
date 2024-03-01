@@ -76,6 +76,9 @@
     weapon_type_list: [杖]
   allow:
     movement_type_list: [重装]
+- name: 竜の咆哮
+  allow:
+    movement_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 氷華
   deny:
     weapon_type_list: [杖]

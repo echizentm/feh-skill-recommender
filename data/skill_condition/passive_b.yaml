@@ -424,6 +424,10 @@
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行]
+- name: 速さ魔防の防壁4
+  allow:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行]
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]
@@ -748,6 +752,9 @@
 - name: 双姫の陽翼
   allow:
     name_list: [ダグ, ダグ2]
+- name: 双姫の陽翼・神
+  allow:
+    name_list: [ダグ]
 - name: 双姫の天翼
   allow:
     name_list: [ダグ3]

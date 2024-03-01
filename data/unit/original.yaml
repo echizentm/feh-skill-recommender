@@ -1071,8 +1071,8 @@
   resist: 25
   weapon: スキンファクシ
   special: 竜穿
-  passive_a: 攻撃速さの渾身4
-  passive_b: 双姫の陽翼
+  passive_a: 攻撃速さの魔刃
+  passive_b: 双姫の陽翼・神
   passive_c: 迅雷風烈・偶数3
 - name: ダグ2
   weapon_type: 緑弓
