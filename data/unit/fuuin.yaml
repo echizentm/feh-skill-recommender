@@ -549,7 +549,7 @@
   weapon: バアトルの豪斧
   assist: ぶちかまし
   passive_a: 獅子奮迅3
-  passive_b: 刺し違え3
+  passive_b: 差し違え3
 - name: バアトル2
   weapon_type: 剣
   movement_type: 歩行

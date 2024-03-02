@@ -633,7 +633,7 @@
   weapon: ヒナタの猛刀
   special: 大盾
   passive_a: 獅子奮迅3
-  passive_b: 刺し違え3
+  passive_b: 差し違え3
 - name: ヒナタ2
   weapon_type: 斧
   movement_type: 歩行

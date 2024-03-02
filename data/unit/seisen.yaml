@@ -381,7 +381,7 @@
   weapon: 聖剣ティルフィング
   assist: 速さの応援
   passive_a: HP3
-  passive_b: 刺し違え3
+  passive_b: 差し違え3
 - name: セリス2
   weapon_type: 剣
   movement_type: 騎馬
