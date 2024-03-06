@@ -1484,11 +1484,11 @@
   weapon_type: 赤弓
   movement_type: 歩行
   hp: 41
-  attack: 53
+  attack: 55
   speed: 30
   defence: 34
   resist: 21
-  weapon: お大尽の弓+
+  weapon: おまじないの弓
   assist: 攻撃守備の応援+
   passive_a: 金剛の反撃・近距離
   passive_b: 攻撃の封印
