@@ -75,6 +75,19 @@
   passive_a: 攻撃速さの竜眼4
   passive_b: 攻撃速さの大共謀4
   passive_c: リトスの神竜王
+- name: フラン
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 50
+  attack: 57
+  speed: 46
+  defence: 30
+  resist: 31
+  weapon: 春に跳ぶ白兎の斧
+  special: 竜穿
+  passive_a: 生命の業火疾風3
+  passive_b: 回避・怒り4
+  passive_c: 歩行の鼓動4
 - name: アルフレッド
   weapon_type: 槍
   movement_type: 騎馬
@@ -124,6 +137,19 @@
   special: 凶星
   passive_a: 遠反・明鏡の構え
   passive_b: 天馬行空4
+- name: クロエ2
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 40
+  attack: 57
+  speed: 47
+  defence: 22
+  resist: 26
+  weapon: 春風舞う天馬兎の卵
+  special: 竜裂
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 魔の蛇毒
+  passive_c: 速さ魔防の十字牽制
 - name: ディアマンド
   weapon_type: 剣
   movement_type: 歩行

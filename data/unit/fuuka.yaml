@@ -330,6 +330,18 @@
   special: 祈り
   passive_b: 回復3
   passive_c: 遠距離警戒3
+- name: リンハルト2
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 40
+  attack: 63
+  speed: 31
+  defence: 20
+  resist: 51
+  weapon: ニンジンの弓+
+  special: 氷華
+  passive_a: 止水3
+  passive_b: 守備の混乱3
 - name: カスパル
   weapon_type: 斧
   movement_type: 歩行
@@ -594,6 +606,19 @@
   special: 月虹
   passive_a: 攻撃守備の機先3
   passive_c: 攻撃守備の紋章2
+- name: シルヴァン3
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 63
+  speed: 45
+  defence: 32
+  resist: 21
+  weapon: 春の出会いの槍
+  assist: 攻撃速さの応援+
+  special: 車懸
+  passive_a: 攻撃速さの激突4
+  passive_b: 速さ守備の近影4
 - name: メルセデス
   weapon_type: 杖
   movement_type: 歩行

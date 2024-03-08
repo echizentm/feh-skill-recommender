@@ -177,6 +177,9 @@
 - name: しろいゆめ・神
   allow:
     name_list: [ルピナス]
+- name: しろいはるのゆめ
+  allow:
+    name_list: [ルピナス3]
 - name: あまいゆめ
   allow:
     name_list: [プルメリア, プルメリア2]
