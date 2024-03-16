@@ -160,6 +160,9 @@
 - name: 速さ魔防封じ2
   deny:
     weapon_type_list: [杖]
+- name: 速さ魔防封じ3
+  deny:
+    weapon_type_list: [杖]
 - name: 守備魔防封じ2
   deny:
     weapon_type_list: [杖]
@@ -714,6 +717,9 @@
 - name: 愛を信じますか？
   allow:
     name_list: [シーダ3]
+- name: 愛する人がいますか
+  allow:
+    name_list: [シーダ6]
 - name: 狂嵐
   allow:
     name_list: [エーデルガルト2, エーデルガルト5]

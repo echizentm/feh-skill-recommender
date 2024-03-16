@@ -308,6 +308,19 @@
   passive_a: 遠反・攻撃の渾身
   passive_b: 信じつづける誓い
   passive_c: 攻撃守備の牽制3
+- name: シーダ6
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 58
+  speed: 47
+  defence: 30
+  resist: 34
+  weapon: 純白ウイングスピア
+  special: 月光
+  passive_a: 遠反・強化増幅
+  passive_b: 愛する人がいますか
+  passive_c: 守備魔防の信条
 - name: オグマ
   weapon_type: 剣
   movement_type: 歩行
@@ -356,6 +369,18 @@
   assist: 体当たり
   passive_a: 生命の大地3
   passive_c: 守備の波・奇数3
+- name: カシム
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 45
+  attack: 58
+  speed: 39
+  defence: 33
+  resist: 24
+  weapon: 禿鷲の弓+
+  special: 竜穿
+  passive_b: 恐慌の惑乱3
+  passive_c: 攻撃守備の威嚇2
 - name: ニーナ
   weapon_type: 杖
   movement_type: 歩行
@@ -701,6 +726,31 @@
   passive_a: 鬼神飛燕の一撃3
   passive_b: 風薙ぎ3
   passive_c: 遠距離警戒3
+- name: マリク3
+  weapon_type: 緑魔
+  movement_type: 騎馬
+  hp: 41
+  attack: 57
+  speed: 46
+  defence: 23
+  resist: 20
+  weapon: 柔風エクスカリバー
+  special: 神聖風
+  passive_a: 鬼神飛燕の離撃
+  passive_b: 速さ魔防封じ3
+  passive_c: 攻撃速さの奮激
+- name: エルレーン
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 41
+  attack: 56
+  speed: 45
+  defence: 38
+  resist: 17
+  weapon: 激雷の書
+  special: 華炎
+  passive_a: 近反・強化増幅
+  passive_b: 攻撃魔防の拍節4
 - name: ハーディン
   weapon_type: 槍
   movement_type: 重装
@@ -774,6 +824,19 @@
   assist: 引き寄せ
   passive_a: 速さ守備の密集3
   passive_c: 遠距離警戒3
+- name: ユミナ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 38
+  attack: 53
+  speed: 46
+  defence: 21
+  resist: 36
+  weapon: サンライト+
+  assist: リブロー+
+  special: 疾風静水の祝福
+  passive_a: 速さ魔防の秘奥3
+  passive_c: 攻撃守備の大開放3
 - name: カミュ
   weapon_type: 槍
   movement_type: 騎馬
