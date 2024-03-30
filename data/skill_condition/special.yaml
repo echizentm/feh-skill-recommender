@@ -206,6 +206,9 @@
 - name: 暴の天空
   allow:
     name_list: [暁アイク2]
+- name: 覇克・天空
+  allow:
+    name_list: [暁アイク3]
 - name: 炎の紋章
   allow:
     name_list: [マルス3, マルス4]

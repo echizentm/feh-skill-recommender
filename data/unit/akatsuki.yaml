@@ -226,6 +226,19 @@
   passive_a: 飛燕の呼吸
   passive_b: 回避・叩き込み3
   passive_c: 攻撃速さの信義3
+- name: 暁アイク3
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 63
+  speed: 18
+  defence: 45
+  resist: 42
+  weapon: 蒼炎の勇者の剣
+  special: 覇克・天空
+  passive_a: 守備魔防の秘奥4
+  passive_b: 不動4
+  passive_c: 再移動制限3
 - name: 暁エリンシア
   weapon_type: 緑暗器
   movement_type: 歩行
