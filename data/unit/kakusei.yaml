@@ -187,6 +187,19 @@
   passive_a: 攻撃速さの秘奥4
   passive_b: 奥の手4
   passive_c: 戦局を変える！
+- name: 男ルフレ8
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 48
+  defence: 36
+  resist: 16
+  weapon: 戦神の魔書
+  special: 華炎
+  passive_a: 鬼神飛燕の柔撃
+  passive_b: 奥の手・魔道4
+  passive_c: 戦局を変える！
 - name: 女ルフレ
   weapon_type: 緑魔
   movement_type: 歩行
@@ -262,6 +275,20 @@
   passive_a: 邪竜の重鱗
   passive_b: 盾壁隊形3
   passive_c: 刃の護り手・近間3
+- name: 女ルフレ7
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 46
+  defence: 30
+  resist: 22
+  weapon: 邪痕と聖痕の竜血
+  assist: 引き戻し
+  special: 陽光
+  passive_a: 邪竜の暗鱗
+  passive_b: 攻撃速さの連携4
+  passive_c: 歩行の見切り追撃4
 - name: リズ
   weapon_type: 杖
   movement_type: 歩行
@@ -299,6 +326,18 @@
   special: 天照
   passive_a: 守備魔防の万全3
   passive_c: 魔防の開放3
+- name: リズ4
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 63
+  speed: 17
+  defence: 47
+  resist: 42
+  weapon: 戦神の戦斧
+  special: 緋炎
+  passive_a: 守備魔防の秘奥3
+  passive_c: 始まりの鼓動3
 - name: エメリナ
   weapon_type: 杖
   movement_type: 歩行
@@ -311,6 +350,19 @@
   assist: リバース+
   special: 祈り
   passive_c: 魔防の開放3
+- name: エメリナ2
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 40
+  attack: 61
+  speed: 25
+  defence: 23
+  resist: 47
+  weapon: 戦神の聖杖
+  assist: マジックシールド+
+  special: 抑制の聖光
+  passive_b: 神罰・因果応報
+  passive_c: 攻撃魔防の信義4
 - name: フレデリク
   weapon_type: 斧
   movement_type: 騎馬
@@ -335,6 +387,18 @@
   assist: 献身
   passive_a: 金剛の一撃3
   passive_b: 攻撃速さ封じ2
+- name: フレデリク3
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 62
+  speed: 28
+  defence: 50
+  resist: 23
+  weapon: 戦神の護斧
+  special: 緋炎
+  passive_a: 攻撃守備の激突3
+  passive_c: 近距離警戒3
 - name: ソワレ
   weapon_type: 槍
   movement_type: 騎馬

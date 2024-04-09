@@ -517,6 +517,9 @@
 - name: 邪竜の大鱗
   allow:
     name_list: [女ルフレ4]
+- name: 邪竜の暗鱗
+  allow:
+    name_list: [女ルフレ7]
 - name: サカの掟・承
   allow:
     name_list: [リン5]

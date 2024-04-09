@@ -532,7 +532,7 @@
     name_list: [フロージ2]
 - name: 戦局を変える！
   allow:
-    name_list: [男ルフレ7]
+    name_list: [男ルフレ7, 男ルフレ8]
 - name: クリミアの心
   allow:
     name_list: [暁エリンシア4]

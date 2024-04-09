@@ -169,6 +169,9 @@
 - name: 攻撃速さの連携3
   deny:
     weapon_type_list: [杖]
+- name: 攻撃速さの連携4
+  deny:
+    weapon_type_list: [杖]
 - name: 攻撃守備の連携3
   deny:
     weapon_type_list: [杖]
@@ -363,6 +366,12 @@
 - name: 奥の手4
   allow:
     weapon_type_list: [剣, 槍, 斧]
+- name: 奥の手・魔道3
+  allow:
+    weapon_type_list: [赤魔, 青魔, 緑魔]
+- name: 奥の手・魔道4
+  allow:
+    weapon_type_list: [赤魔, 青魔, 緑魔]
 - name: 回避・一撃離脱3
   allow:
     weapon_type_list: [剣, 槍, 斧]
