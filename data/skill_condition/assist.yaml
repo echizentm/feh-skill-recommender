@@ -138,6 +138,9 @@
 - name: ユラリユルレリ・承
   allow:
     name_list: [アクア5]
+- name: つたうみなすじ
+  allow:
+    name_list: [アクア7]
 - name: 癒しの手
   allow:
     name_list: [ミカヤ, ミカヤ3, ミカヤ4]

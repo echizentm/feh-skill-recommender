@@ -247,6 +247,20 @@
   passive_a: 獅子奮迅4
   passive_b: 速さ魔防の遠影3
   passive_c: 魔防の十字紋章
+- name: アクア7
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 43
+  attack: 61
+  speed: 49
+  defence: 18
+  resist: 28
+  weapon: 三つの道歌う法具
+  assist: つたうみなすじ
+  passive_a: 生命の業火疾風3
+  passive_b: 攻撃守備の魅了3
+  passive_c: 攻撃の十字紋章
+  passive_x: 響・救援の行路
 - name: ギュンター
   weapon_type: 斧
   movement_type: 騎馬
@@ -792,6 +806,31 @@
   special: 凶星
   passive_a: 攻撃速さの機先3
   passive_c: 速さ守備の牽制3
+- name: ユキムラ
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 45
+  attack: 60
+  speed: 16
+  defence: 33
+  resist: 45
+  weapon: 軍略伝授の刃
+  special: 氷蒼
+  passive_a: 生命の業火静水3
+  passive_b: 攻撃守備の混乱3
+- name: モズメ
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 46
+  defence: 41
+  resist: 27
+  weapon: 農地の主の薙刀
+  special: 緋炎
+  passive_a: 強化増幅4
+  passive_b: 攻撃速さの防壁4
+  passive_c: 攻撃速さの信義4
 - name: リンカ
   weapon_type: 斧
   movement_type: 歩行
@@ -829,6 +868,18 @@
   special: 緋炎
   passive_a: 剛剣3
   passive_c: 攻撃守備の威嚇2
+- name: ツクヨミ
+  weapon_type: 赤魔
+  movement_type: 歩行
+  hp: 39
+  attack: 55
+  speed: 45
+  defence: 24
+  resist: 31
+  weapon: ラウアランタン+
+  special: 月虹
+  passive_a: 攻撃速さの万全3
+  passive_b: 風薙ぎ3
 - name: ニシキ
   weapon_type: 緑獣
   movement_type: 騎馬
