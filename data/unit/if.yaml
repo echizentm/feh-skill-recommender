@@ -1446,6 +1446,18 @@
   special: 月光
   passive_a: 速さ魔防の孤軍4
   passive_b: 見切り・追撃效果3
+- name: ドラジェ
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 38
+  attack: 57
+  speed: 36
+  defence: 25
+  resist: 44
+  weapon: 有利状態の弓+
+  special: 氷華
+  passive_a: 魔道の刃3
+  passive_c: 守備の謀策3
 - name: 男カンナ
   weapon_type: 青竜
   movement_type: 歩行
