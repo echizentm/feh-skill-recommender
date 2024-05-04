@@ -789,6 +789,20 @@
   special: 月光
   passive_b: 編隊飛行3
   passive_c: 飛刃の紋章
+- name: ロキ3
+  weapon_type: 杖
+  movement_type: 飛行
+  hp: 39
+  attack: 61
+  speed: 30
+  defence: 16
+  resist: 47
+  weapon: 神杖セック
+  assist: リターン+
+  special: 輝映の聖光
+  passive_a: 攻撃魔防の機先4
+  passive_b: 幻惑・不和の烙印
+  passive_c: 神杖天空を偽る
 - name: ピアニー
   weapon_type: 青魔
   movement_type: 飛行

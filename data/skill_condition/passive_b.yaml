@@ -656,6 +656,9 @@
 - name: 幻惑・転移
   allow:
     weapon_type_list: [杖]
+- name: 幻惑・不和の烙印
+  allow:
+    weapon_type_list: [杖]
 - name: 幻惑・遠影
   allow:
     weapon_type_list: [杖]

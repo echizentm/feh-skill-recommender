@@ -33,9 +33,9 @@
   defence: 37
   resist: 26
   weapon: 聖裁ティルフィング
-  special: グランベルの聖騎士
+  special: グランベルの…・承
   passive_a: 攻撃守備の機先4
-  passive_b: 聖騎士の加護
+  passive_b: 守備封じ4
   passive_c: 不治の幻煙3
 - name: シグルド4
   weapon_type: 青魔

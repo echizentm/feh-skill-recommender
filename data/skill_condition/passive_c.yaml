@@ -551,3 +551,6 @@
 - name: 煌めく理力
   allow:
     name_list: [オルテンシア]
+- name: 神杖天空を偽る
+  allow:
+    name_list: [ロキ3]
