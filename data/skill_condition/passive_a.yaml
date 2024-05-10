@@ -267,6 +267,9 @@
 - name: 死線4
   deny:
     weapon_type_list: [杖]
+- name: 限界死線
+  deny:
+    weapon_type_list: [杖]
 - name: 相性激化3
   deny:
     weapon_type_list: [弓, 暗器, 魔, 杖, 竜, 獣]
@@ -494,6 +497,12 @@
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 攻撃魔防の竜眼4
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 速さ魔防の竜眼3
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 速さ魔防の竜眼4
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 守備魔防の竜眼3

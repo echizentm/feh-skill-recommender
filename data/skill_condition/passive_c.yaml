@@ -101,6 +101,9 @@
 - name: 守備魔防の信義3
   deny:
     movement_type_list: [重装, 騎馬]
+- name: 守備魔防の信義4
+  deny:
+    movement_type_list: [重装, 騎馬]
 - name: 守備魔防の信条
   deny:
     movement_type_list: [重装, 騎馬, 飛行]
@@ -539,6 +542,9 @@
 - name: 邪竜の救済
   allow:
     name_list: [ヴェイル]
+- name: 邪竜の後継者
+  allow:
+    name_list: [ヴェイル2]
 - name: 牙の絆
   allow:
     name_list: [ニノ5]
@@ -548,6 +554,9 @@
 - name: リトスの神竜王
   allow:
     name_list: [ルミエル2]
+- name: 異形なる竜王
+  allow:
+    name_list: [ルミエル3]
 - name: 煌めく理力
   allow:
     name_list: [オルテンシア]

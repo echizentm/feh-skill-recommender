@@ -802,6 +802,19 @@
   assist: 奏でる
   passive_b: 大地静水の舞い2
   passive_c: 竜刃の鼓舞
+- name: ネルガル
+  weapon_type: 緑魔
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 16
+  defence: 39
+  resist: 43
+  weapon: エレシュキガル
+  special: 氷華
+  passive_a: 近反・強化増幅
+  passive_b: 奥義の螺旋4
+  passive_c: 守備魔防の信義4
 - name: リムステラ
   weapon_type: 緑魔
   movement_type: 歩行
@@ -838,6 +851,18 @@
   special: 氷蒼
   passive_b: すり抜け3
   passive_c: 攻撃の威嚇3
+- name: ロイド2
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 59
+  speed: 49
+  defence: 31
+  resist: 32
+  weapon: 命なき狼牙の剣
+  special: 竜穿
+  passive_a: 攻撃速さの万全3
+  passive_b: 回避・叩き込み3
 - name: ライナス
   weapon_type: 斧
   movement_type: 歩行
@@ -922,6 +947,19 @@
   special: 月虹
   passive_b: 速さ魔防の封印3
   passive_c: 恐慌の幻煙4
+- name: ウルスラ4
+  weapon_type: 青魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 65
+  speed: 55
+  defence: 9
+  resist: 19
+  weapon: 魂なき鴉爪の書
+  special: 烈雷
+  passive_a: 限界死線
+  passive_b: 速さ魔防の遠影4
+  passive_c: 守備魔防の紫煙3
 - name: ニノ
   weapon_type: 緑魔
   movement_type: 歩行

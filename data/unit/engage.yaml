@@ -75,6 +75,19 @@
   passive_a: 攻撃速さの竜眼4
   passive_b: 攻撃速さの大共謀4
   passive_c: リトスの神竜王
+- name: ルミエル3
+  weapon_type: 赤竜
+  movement_type: 歩行
+  hp: 36
+  attack: 57
+  speed: 45
+  defence: 26
+  resist: 45
+  weapon: 魔器・歪神竜の竜石
+  special: 氷蒼
+  passive_a: 速さ魔防の竜眼4
+  passive_b: 反撃の咆哮4
+  passive_c: 異形なる竜王
 - name: フラン
   weapon_type: 斧
   movement_type: 歩行
@@ -329,6 +342,19 @@
   passive_a: 攻撃魔防の秘奥4
   passive_b: 攻撃魔防の拍節4
   passive_c: 邪竜の救済
+- name: ヴェイル2
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 40
+  attack: 69
+  speed: 16
+  defence: 24
+  resist: 55
+  weapon: 邪竜ノ娘の力
+  special: 氷蒼
+  passive_a: 明鏡止水
+  passive_b: 攻撃魔防の拍節4
+  passive_c: 邪竜の後継者
 - name: セピア
   weapon_type: 赤魔
   movement_type: 飛行
