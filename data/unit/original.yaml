@@ -72,6 +72,19 @@
   passive_a: 飛燕明鏡の構え2
   passive_b: 豊穣の喜び
   passive_c: 魔防の指揮3
+- name: シャロン3
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 47
+  defence: 32
+  resist: 21
+  weapon: 二国の花嫁のブーケ
+  special: 車懸
+  passive_a: 攻撃速さの突破
+  passive_b: 神速4
+  passive_c: あなたのシャロン
 - name: オリジナルアンナ
   weapon_type: 斧
   movement_type: 歩行
@@ -1217,6 +1230,19 @@
   passive_a: 攻撃速さの激突4
   passive_b: 絶対化身・敏捷3
   passive_c: すべてが閉じた世界
+- name: エンブラ2
+  weapon_type: 獣
+  movement_type: 飛行
+  hp: 40
+  attack: 59
+  speed: 47
+  defence: 35
+  resist: 22
+  weapon: 閉ざす花嫁のブーケ
+  special: 竜穿
+  passive_a: 攻撃速さの野生
+  passive_b: 絶対化身・強襲4
+  passive_c: すべてを鎖す世界
 - name: エルム
   weapon_type: 緑獣
   movement_type: 飛行

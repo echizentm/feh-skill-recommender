@@ -501,6 +501,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [騎馬, 飛行]
+- name: 怒涛・キャンセル4
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [騎馬, 飛行]
 - name: 怒涛・不屈3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -638,6 +642,14 @@
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
     movement_type_list: [歩行, 騎馬, 飛行]
 - name: 絶対化身・察知4
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+    movement_type_list: [歩行, 騎馬, 飛行]
+- name: 絶対化身・強襲3
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+    movement_type_list: [歩行, 騎馬, 飛行]
+- name: 絶対化身・強襲4
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
     movement_type_list: [歩行, 騎馬, 飛行]

@@ -321,6 +321,7 @@
   passive_a: 遠反・強化増幅
   passive_b: 愛する人がいますか
   passive_c: 守備魔防の信条
+  passive_x: 響・キャンセル
 - name: オグマ
   weapon_type: 剣
   movement_type: 歩行

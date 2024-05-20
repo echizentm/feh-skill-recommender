@@ -189,6 +189,18 @@
   passive_a: 鬼神飛燕の柔撃
   passive_b: 僕が守ります！
   passive_c: 守備魔防の紫煙3
+- name: スタルーク2
+  weapon_type: 赤弓
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 46
+  defence: 35
+  resist: 23
+  weapon: ハープの弓+
+  assist: 引き寄せ
+  passive_a: 強化増幅3
+  passive_c: 攻撃速さの信義3
 - name: ラピス
   weapon_type: 剣
   movement_type: 歩行
@@ -201,6 +213,19 @@
   special: 月光
   passive_a: 魔道の刃3
   passive_c: 速さ守備の信義3
+- name: ラピス2
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 41
+  attack: 58
+  speed: 47
+  defence: 30
+  resist: 24
+  weapon: 野花の花嫁の大剣
+  special: 長盾
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 怒涛・キャンセル4
+  passive_c: 恐慌の幻煙4
 - name: シトリニカ
   weapon_type: 緑魔
   movement_type: 歩行
@@ -379,3 +404,15 @@
   special: 華炎
   passive_b: 攻撃封じ3
   passive_c: 攻撃守備の奮起3
+- name: エル
+  weapon_type: 緑竜
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 46
+  defence: 30
+  resist: 36
+  weapon: 竜石のブーケ+
+  assist: 相互援助
+  passive_a: 攻撃速さの竜眼3
+  passive_b: 反撃の咆哮3

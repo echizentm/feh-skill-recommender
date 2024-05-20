@@ -506,6 +506,9 @@
 - name: すべてが閉じた世界
   allow:
     name_list: [エンブラ]
+- name: すべてを鎖す世界
+  allow:
+    name_list: [エンブラ2]
 - name: 光をつぐもの
   allow:
     name_list: [セリス3]
@@ -563,3 +566,6 @@
 - name: 神杖天空を偽る
   allow:
     name_list: [ロキ3]
+- name: あなたのシャロン
+  allow:
+    name_list: [シャロン3]
