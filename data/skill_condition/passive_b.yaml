@@ -618,6 +618,9 @@
 - name: 竜鱗障壁3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
+- name: 竜鱗障壁・対転移
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 竜の魔鱗3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]

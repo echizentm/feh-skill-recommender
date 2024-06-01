@@ -257,6 +257,9 @@
 - name: 反竜穿・承
   allow:
     name_list: [女カムイ5]
+- name: 竜穿射
+  allow:
+    name_list: [男カムイ7]
 - name: 魔弾
   allow:
     name_list: [レギン, レギン2]

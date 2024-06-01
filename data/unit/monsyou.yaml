@@ -657,11 +657,11 @@
   weapon_type: 暗器
   movement_type: 歩行
   hp: 40
-  attack: 50
+  attack: 52
   speed: 38
   defence: 33
   resist: 18
-  weapon: 騎殺の暗器+
+  weapon: 辺境の盗賊の暗器
   special: 月虹
   passive_a: 金剛の反撃・近距離
   passive_b: 攻撃速さの凪3
