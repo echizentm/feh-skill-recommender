@@ -76,6 +76,20 @@
   special: 月虹
   passive_a: 攻撃魔防の機先4
   passive_b: 未来を知る力
+- name: ミカヤ7
+  weapon_type: 緑魔
+  movement_type: 飛行
+  hp: 45
+  attack: 61
+  speed: 16
+  defence: 30
+  resist: 46
+  weapon: 暁星の輝き
+  assist: 癒しの乙女
+  passive_a: 生命の業火静水3
+  passive_b: ユンヌの見守り
+  passive_c: 攻撃魔防の十字牽制
+  passive_x: 響・遠影
 - name: サザ
   weapon_type: 暗器
   movement_type: 歩行
@@ -100,6 +114,43 @@
   assist: 一喝+
   passive_a: 鬼神飛燕の一撃2
   passive_c: 攻撃守備の牽制3
+- name: サザ3
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 43
+  attack: 57
+  speed: 47
+  defence: 30
+  resist: 25
+  weapon: 魔器・暁風の刃
+  special: 瞬殺
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 罠解除・神速
+  passive_c: 攻撃速さの信条
+- name: エディ
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 46
+  defence: 43
+  resist: 21
+  weapon: カラドボルグ
+  special: 神速回避
+  passive_b: 回避・盾の鼓動4
+  passive_c: 生の息吹4
+- name: レオナルド
+  weapon_type: 弓
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 42
+  defence: 26
+  resist: 36
+  weapon: 強化増幅の弓+
+  special: 月光
+  passive_a: 攻撃魔防の秘奥3
+  passive_b: キャンセル3
 - name: 暁セネリオ
   weapon_type: 青魔
   movement_type: 歩行
@@ -750,6 +801,18 @@
   special: 烈光
   passive_a: 鬼神明鏡の一撃2
   passive_c: 攻撃の謀策3
+- name: ジェルド
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 42
+  attack: 60
+  speed: 44
+  defence: 34
+  resist: 27
+  weapon: 見切り追撃の槍+
+  special: 竜穿
+  passive_a: 生命の疾風3
+  passive_c: 鼓動の幻煙3
 - name: ハール
   weapon_type: 斧
   movement_type: 飛行

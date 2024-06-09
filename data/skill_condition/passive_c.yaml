@@ -315,6 +315,9 @@
 - name: 守備魔防の大牽制
   allow:
     movement_type_list: [飛行]
+- name: 攻撃魔防の十字牽制
+  allow:
+    movement_type_list: [飛行]
 - name: 速さ魔防の十字牽制
   allow:
     movement_type_list: [飛行]

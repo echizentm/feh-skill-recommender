@@ -146,7 +146,7 @@
     name_list: [ミカヤ, ミカヤ3, ミカヤ4]
 - name: 癒しの乙女
   allow:
-    name_list: [ミカヤ5, ミカヤ6]
+    name_list: [ミカヤ5, ミカヤ6, ミカヤ7]
 - name: 未来を映す瞳
   allow:
     name_list: [ルキナ5, ルキナ6]

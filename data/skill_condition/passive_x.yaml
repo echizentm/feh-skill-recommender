@@ -4,6 +4,10 @@
 - name: 響・飛燕の離撃
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 杖, 竜, 獣]
+- name: 響・遠影
+  deny:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行, 重装]
 - name: 響・攻撃の信義
   deny:
     movement_type_list: [重装, 騎馬]

@@ -609,6 +609,9 @@
 - name: 罠解除4
   allow:
     weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
+- name: 罠解除・神速
+  allow:
+    weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
 - name: 竜の逆鱗3
   allow:
     weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
@@ -733,6 +736,9 @@
 - name: ユンヌの囁き
   allow:
     name_list: [ミカヤ3]
+- name: ユンヌの見守り
+  allow:
+    name_list: [ミカヤ7]
 - name: 光と闇と
   allow:
     name_list: [ユリア2, ユリア3, ユリア4]
