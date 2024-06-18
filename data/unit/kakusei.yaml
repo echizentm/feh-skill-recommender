@@ -448,6 +448,18 @@
   special: 祈り
   passive_b: 幻惑の杖3
   passive_c: 杖の技量3
+- name: ヴェイク
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 46
+  attack: 61
+  speed: 33
+  defence: 42
+  resist: 24
+  weapon: 南国のほら貝+
+  assist: ぶちかまし
+  passive_a: 攻撃守備の秘奥3
+  passive_b: 攻撃守備の連携3
 - name: ミリエル
   weapon_type: 青魔
   movement_type: 歩行
@@ -690,6 +702,18 @@
   passive_a: 金剛明鏡の構え2
   passive_b: 速さの封印3
   passive_c: 空からの先導3
+- name: オリヴィエ4
+  weapon_type: 魔
+  movement_type: 飛行
+  hp: 37
+  attack: 52
+  speed: 45
+  defence: 21
+  resist: 25
+  weapon: 南国の楽器+
+  assist: 踊る
+  passive_b: 攻撃速さの遠影3
+  passive_c: 攻撃速さの牽制3
 - name: ギャンレル
   weapon_type: 暗器
   movement_type: 歩行

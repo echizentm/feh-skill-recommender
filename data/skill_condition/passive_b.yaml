@@ -733,6 +733,9 @@
 - name: 凍結の封印・承
   allow:
     name_list: [フリーズ]
+- name: 氷王の封印
+  allow:
+    name_list: [フリーズ3]
 - name: ユンヌの囁き
   allow:
     name_list: [ミカヤ3]
@@ -871,6 +874,9 @@
 - name: 地に生まれ地に還る
   allow:
     name_list: [ネルトゥス, ネルトゥス2]
+- name: 日に育ち地に満ちる
+  allow:
+    name_list: [ネルトゥス3]
 - name: 僕が守ります！
   allow:
     name_list: [スタルーク]

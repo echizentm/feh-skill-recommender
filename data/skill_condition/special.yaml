@@ -314,6 +314,9 @@
 - name: 光は時
   allow:
     name_list: [クワシル, クワシル2]
+- name: 時と光
+  allow:
+    name_list: [グルヴェイグ3]
 - name: スターラッシュ
   allow:
     name_list: [マルス7]

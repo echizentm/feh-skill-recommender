@@ -386,11 +386,23 @@
   speed: 19
   defence: 36
   resist: 27
-  weapon:   迎春の剣+
+  weapon: 迎春の剣+
   assist: 入れ替え
   passive_a: 攻撃守備の絆3
   passive_b: 切り返し3
   passive_c: 攻撃の鼓舞4
+- name: フリーズ3
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 40
+  attack: 63
+  speed: 27
+  defence: 47
+  resist: 24
+  weapon: 荒波制す氷王の槍
+  special: 緋炎
+  passive_b: 氷王の封印
+  passive_c: 守備の波・奇数4
 - name: ユルグ
   weapon_type: 青暗器
   movement_type: 歩行
@@ -1320,6 +1332,19 @@
   passive_a: 鬼神飛燕の炎撃
   passive_b: 魔の蛇毒
   passive_c: 守備魔防の紫煙3
+- name: グルヴェイグ3
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 47
+  defence: 24
+  resist: 17
+  weapon: 魔女と女神の夏光
+  special: 時と光
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 速さ魔防の遠影4
+  passive_c: 速さの波・奇数4
 - name: クワシル
   weapon_type: 赤魔
   movement_type: 騎馬
@@ -1385,6 +1410,19 @@
   passive_a: 攻撃速さの野生
   passive_b: 地に生まれ地に還る
   passive_c: 速さの紫煙4
+- name: ネルトゥス3
+  weapon_type: 緑獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 60
+  speed: 47
+  defence: 33
+  resist: 19
+  weapon: 地の女神の溺愛
+  special: 竜穿
+  passive_a: 攻撃速さの突破
+  passive_b: 日に育ち地に満ちる
+  passive_c: 獣の威嚇
 - name: ラタトスク
   weapon_type: 青獣
   movement_type: 騎馬
