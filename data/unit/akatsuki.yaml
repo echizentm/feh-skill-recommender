@@ -848,8 +848,8 @@
   weapon: 正の裁き
   special: 氷華
   passive_a: 攻撃魔防の万全4
-  passive_b: 速さ魔防の凪3
-  passive_c: 束縛、秩序、安定
+  passive_b: 速さ魔防の凪4
+  passive_c: 束縛、秩序、…・神
 - name: ユンヌ
   weapon_type: 緑魔
   movement_type: 飛行

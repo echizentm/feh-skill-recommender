@@ -273,6 +273,19 @@
   passive_a: 死線4
   passive_b: ソフィアの魂
   passive_c: 歩行の見切り追撃3
+- name: セリカ6
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 45
+  attack: 68
+  speed: 54
+  defence: 13
+  resist: 16
+  weapon: 慈愛の王女の魔力
+  special: ワープライナ
+  passive_a: 限界死線
+  passive_b: 共鳴の黒魔法4
+  passive_c: 歩行の見切り追撃4
 - name: メイ
   weapon_type: 青魔
   movement_type: 歩行

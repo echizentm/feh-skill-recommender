@@ -827,11 +827,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 45
-  attack: 52
+  attack: 54
   speed: 25
   defence: 36
   resist: 28
-  weapon: バリアの斧+
+  weapon: ペレジアの将の大斧
   special: 緋炎
   passive_a: 生命の静水3
   passive_c: 守備の指揮3

@@ -370,11 +370,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 46
-  attack: 52
+  attack: 54
   speed: 22
   defence: 38
   resist: 28
-  weapon: キャンセルの槍+
+  weapon: 蒼穹の竜槍
   special: 竜穿
   passive_a: 攻撃守備の大覚醒3
   passive_c: 攻撃の波・奇数3

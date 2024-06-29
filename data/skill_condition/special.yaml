@@ -323,3 +323,6 @@
 - name: 瞬殺
   allow:
     name_list: [サザ3]
+- name: ワープライナ
+  allow:
+    name_list: [セリカ6]

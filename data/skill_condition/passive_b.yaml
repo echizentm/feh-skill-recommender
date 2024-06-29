@@ -371,10 +371,16 @@
     weapon_type_list: [剣, 槍, 斧]
 - name: 奥の手・魔道3
   allow:
-    weapon_type_list: [赤魔, 青魔, 緑魔]
+    weapon_type_list: [赤魔, 青魔, 緑魔, 魔]
 - name: 奥の手・魔道4
   allow:
-    weapon_type_list: [赤魔, 青魔, 緑魔]
+    weapon_type_list: [赤魔, 青魔, 緑魔, 魔]
+- name: 共鳴の黒魔法3
+  allow:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 魔, 杖]
+- name: 共鳴の黒魔法4
+  allow:
+    weapon_type_list: [赤魔, 青魔, 緑魔, 魔, 杖]
 - name: 回避・一撃離脱3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -823,7 +829,7 @@
 - name: 覇鎧障壁
   allow:
     name_list: [エーデルガルト4]
-- name: 双姫の月翼
+- name: 双姫の月翼・神
   allow:
     name_list: [ノート]
 - name: ユングヴィの祖

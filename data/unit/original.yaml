@@ -1161,8 +1161,8 @@
   resist: 27
   weapon: フリムファクシ
   special: 竜穿
-  passive_a: 遠距離反撃
-  passive_b: 双姫の月翼
+  passive_a: 遠反・飛燕の構え
+  passive_b: 双姫の月翼・神
   passive_c: 攻撃速さの脅嚇
 - name: エイトリ
   weapon_type: 緑魔
