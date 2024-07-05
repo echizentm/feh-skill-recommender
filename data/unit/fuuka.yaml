@@ -443,6 +443,18 @@
   passive_a: 攻撃速さの密集3
   passive_b: 曲技飛行3
   passive_c: 先導の伝令・地3
+- name: ペトラ2
+  weapon_type: 赤暗器
+  movement_type: 飛行
+  hp: 40
+  attack: 59
+  speed: 47
+  defence: 28
+  resist: 24
+  weapon: 波間の欠片の鋭弓
+  special: 狙撃
+  passive_b: 攻め立て4
+  passive_c: 速さ守備の十字牽制
 - name: ディミトリ
   weapon_type: 槍
   movement_type: 騎馬
@@ -532,6 +544,18 @@
   special: 大盾
   passive_a: 鬼神金剛の構え3
   passive_c: 鎧の護り手・近間3
+- name: ドゥドゥー2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 45
+  attack: 65
+  speed: 20
+  defence: 52
+  resist: 30
+  weapon: 錨の斧+
+  special: 大盾
+  passive_a: 不壊3
+  passive_c: 守備の波・偶数3
 - name: フェリクス
   weapon_type: 青弓
   movement_type: 重装

@@ -50,6 +50,19 @@
   passive_a: 攻撃速さの秘奥4
   passive_b: 見切り・反撃不可4
   passive_c: 攻撃速さの信条
+- name: 女リュール3
+  weapon_type: 竜
+  movement_type: 歩行
+  hp: 39
+  attack: 53
+  speed: 47
+  defence: 32
+  resist: 38
+  weapon: 海水浴の体術
+  special: 絆・神竜破
+  passive_a: 速さ魔防の秘奥4
+  passive_b: 見切り・反撃不可4
+  passive_c: 竜の魔防の波・偶
 - name: ルミエル
   weapon_type: 剣
   movement_type: 歩行
@@ -88,6 +101,18 @@
   passive_a: 速さ魔防の竜眼4
   passive_b: 反撃の咆哮4
   passive_c: 異形なる竜王
+- name: クラン
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 52
+  speed: 46
+  defence: 19
+  resist: 45
+  weapon: 小さなスコップ+
+  special: 月虹
+  passive_a: 攻撃速さの秘奥3
+  passive_b: 速さ守備の拍節3
 - name: フラン
   weapon_type: 斧
   movement_type: 歩行
@@ -303,6 +328,19 @@
   special: 緋炎
   passive_a: 生命の疾風大地3
   passive_b: 飛竜裂空
+- name: ゴルドマリー
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 46
+  defence: 47
+  resist: 16
+  weapon: 耳目集める二人の傘
+  special: 神速回避
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 不動4
+  passive_c: 近間の攻撃の波・偶
 - name: ミスティラ
   weapon_type: 槍
   movement_type: 歩行

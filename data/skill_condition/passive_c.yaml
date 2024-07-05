@@ -107,6 +107,12 @@
 - name: 守備魔防の信条
   deny:
     movement_type_list: [重装, 騎馬, 飛行]
+- name: 近間の攻撃の波・偶
+  deny:
+    weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
+- name: 竜の魔防の波・偶
+  allow:
+    weapon_type_list: [赤竜, 青竜, 緑竜, 竜]
 - name: 迅雷風烈・奇数3
   deny:
     weapon_type_list: [赤弓, 赤暗器, 赤魔, 青弓, 青暗器, 青魔, 緑弓, 緑暗器, 緑魔, 弓, 暗器, 魔, 杖]
@@ -316,6 +322,9 @@
   allow:
     movement_type_list: [飛行]
 - name: 攻撃魔防の十字牽制
+  allow:
+    movement_type_list: [飛行]
+- name: 速さ守備の十字牽制
   allow:
     movement_type_list: [飛行]
 - name: 速さ魔防の十字牽制
