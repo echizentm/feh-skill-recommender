@@ -73,6 +73,9 @@
 - name: 慧眼隊形4
   allow:
     movement_type_list: [重装]
+- name: 慧敏隊形
+  allow:
+    movement_type_list: [重装]
 - name: 業火の舞い3
   deny:
     weapon_type_list: [杖]
@@ -167,6 +170,9 @@
   deny:
     weapon_type_list: [杖]
 - name: 守備魔防封じ2
+  deny:
+    weapon_type_list: [杖]
+- name: 守備魔防封じ3
   deny:
     weapon_type_list: [杖]
 - name: 攻撃速さの連携3
@@ -844,6 +850,9 @@
 - name: 華月の腕輪・遠
   allow:
     name_list: [エイリーク7]
+- name: 華月の腕輪・先
+  allow:
+    name_list: [エイリーク8]
 - name: 華日の腕輪
   allow:
     name_list: [エフラム6]

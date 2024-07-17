@@ -88,6 +88,20 @@
   passive_a: 飛燕金剛の瞬撃
   passive_b: 華月の腕輪・遠
   passive_c: 攻撃速さの信義4
+- name: エイリーク8
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 60
+  speed: 47
+  defence: 35
+  resist: 27
+  weapon: 優しさと強さの絆斧
+  special: 陣風
+  passive_a: 遠反・強化増幅
+  passive_b: 華月の腕輪・先
+  passive_c: 始まりの鼓動4
+  passive_x: 響・見切り反撃不可
 - name: エフラム
   weapon_type: 槍
   movement_type: 歩行
@@ -202,6 +216,30 @@
   assist: 速さの大応援
   passive_a: 速さ守備の機先3
   passive_c: 守備の指揮3
+- name: カイル
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 61
+  speed: 31
+  defence: 45
+  resist: 21
+  weapon: 追撃の槍+
+  assist: 引き戻し
+  passive_a: 攻撃守備の激突3
+  passive_b: 攻撃守備の干渉3
+- name: フォルデ
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 40
+  attack: 61
+  speed: 45
+  defence: 37
+  resist: 18
+  weapon: 奔放なる風の剣
+  special: 月光
+  passive_a: 速さ守備の連帯
+  passive_b: 速さ守備の近影4
 - name: オルソン
   weapon_type: 槍
   movement_type: 騎馬
@@ -559,6 +597,18 @@
   assist: 攻撃の大応援+
   passive_a: 攻撃速さの機先3
   passive_b: 攻撃魔防の遠影3
+- name: グレン
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 43
+  attack: 61
+  speed: 34
+  defence: 50
+  resist: 20
+  weapon: 日長石の剣
+  special: 華炎
+  passive_b: 飛竜行空3
+  passive_c: 飛行の先導3
 - name: アーヴ
   weapon_type: 青魔
   movement_type: 歩行
@@ -644,6 +694,19 @@
   special: 聖兜
   passive_a: 生命の大地3
   passive_c: 重装の行軍3
+- name: アメリア2
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 45
+  attack: 62
+  speed: 46
+  defence: 37
+  resist: 33
+  weapon: グラドの将の重槍
+  special: 重装の聖炎
+  passive_a: 黒曜石の教え
+  passive_b: 慧敏隊形
+  passive_c: 刃の護り手・遠間3
 - name: ヨシュア
   weapon_type: 剣
   movement_type: 歩行

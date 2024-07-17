@@ -1061,6 +1061,18 @@
   passive_a: 生命の業火静水3
   passive_b: 虚無の王
   passive_c: 不治の幻煙4
+- name: ニザヴェリル
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 67
+  speed: 55
+  defence: 19
+  resist: 13
+  weapon: ニザヴェリルの弩弓
+  special: 烈雷
+  passive_a: 限界死線
+  passive_b: 守備魔防封じ3
 - name: レギン
   weapon_type: 剣
   movement_type: 騎馬

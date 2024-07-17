@@ -8,6 +8,9 @@
   deny:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行, 重装]
+- name: 響・見切り反撃不可
+  allow:
+    movement_type_list: [歩行]
 - name: 響・攻撃の信義
   deny:
     movement_type_list: [重装, 騎馬]

@@ -605,3 +605,6 @@
 - name: 紋章の奇跡
   allow:
     name_list: [男リュール2]
+- name: 黒曜石の教え
+  allow:
+    name_list: [アメリア2]
