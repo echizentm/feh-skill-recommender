@@ -1448,3 +1448,29 @@
   passive_a: 攻撃速さの激突4
   passive_b: 絶対化身・敏捷4
   passive_c: 癒し手の心
+- name: ヘイズルーン
+  weapon_type: 緑獣
+  movement_type: 歩行
+  hp: 40
+  attack: 56
+  speed: 16
+  defence: 52
+  resist: 54
+  weapon: 蜜の癒し手の角
+  special: 聖盾
+  passive_a: 堅牢城塞
+  passive_b: 攻撃守備の防壁4
+  passive_c: 神獣の蜜
+- name: エイクスルニル
+  weapon_type: 獣
+  movement_type: 騎馬
+  hp: 45
+  attack: 61
+  speed: 16
+  defence: 47
+  resist: 30
+  weapon: 体の葬り手の角
+  special: 猛獣
+  passive_a: 攻撃守備の突破
+  passive_b: 神獣の肉体
+  passive_c: 獣の威嚇

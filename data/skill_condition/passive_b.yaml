@@ -477,6 +477,10 @@
   allow:
     weapon_type_list: [剣, 槍, 斧]
     movement_type_list: [飛行]
+- name: 天馬裂空
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [飛行]
 - name: 飛竜行空3
   allow:
     weapon_type_list: [剣, 槍, 斧]
@@ -817,6 +821,9 @@
 - name: 落星
   allow:
     name_list: [クロード3, クロード4]
+- name: 落星・承
+  allow:
+    name_list: [クロード3]
 - name: 真落星
   allow:
     name_list: [クロード5]
@@ -838,7 +845,7 @@
 - name: 双姫の月翼・神
   allow:
     name_list: [ノート]
-- name: ユングヴィの祖
+- name: ユングヴィの祖・神
   allow:
     name_list: [ウル]
 - name: 異常なしであります
@@ -904,3 +911,6 @@
 - name: 可愛がってあげる
   allow:
     name_list: [カミラ9]
+- name: 神獣の肉体
+  allow:
+    name_list: [エイクスルニル]

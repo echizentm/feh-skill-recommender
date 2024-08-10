@@ -637,11 +637,11 @@
   weapon_type: 斧
   movement_type: 歩行
   hp: 45
-  attack: 54
+  attack: 56
   speed: 27
   defence: 31
   resist: 33
-  weapon: 反攻の斧+
+  weapon: 虎目石の荒斧
   special: 竜穿
   passive_b: キャンセル3
   passive_c: 守備の波・偶数3

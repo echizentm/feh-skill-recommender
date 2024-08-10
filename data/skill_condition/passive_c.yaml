@@ -226,6 +226,9 @@
 - name: 再移動制限3
   allow:
     movement_type_list: [歩行]
+- name: 再移動制限・不惑
+  allow:
+    movement_type_list: [歩行]
 - name: 歩行の見切り追撃3
   allow:
     movement_type_list: [歩行]
@@ -584,3 +587,6 @@
 - name: あなたのシャロン
   allow:
     name_list: [シャロン3]
+- name: 神獣の蜜
+  allow:
+    name_list: [ヘイズルーン]

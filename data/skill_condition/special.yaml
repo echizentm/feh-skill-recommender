@@ -53,6 +53,9 @@
 - name: 竜穿
   deny:
     weapon_type_list: [杖]
+- name: 猛獣
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: 緋炎
   deny:
     weapon_type_list: [杖]

@@ -201,11 +201,11 @@
   weapon_type: 槍
   movement_type: 重装
   hp: 47
-  attack: 54
+  attack: 56
   speed: 17
   defence: 50
   resist: 41
-  weapon: 士気旺盛の槍+
+  weapon: 重歩傭兵の槍
   special: 月虹
   passive_a: 守備魔防の城塞3
   passive_b: 抑止隊形3
@@ -234,6 +234,19 @@
   passive_a: 柔剣4
   passive_b: 速さ守備の拍節3
   passive_c: 迅雷風烈・奇数3
+- name: 蒼炎ワユ3
+  weapon_type: 斧
+  movement_type: 飛行
+  hp: 38
+  attack: 63
+  speed: 52
+  defence: 32
+  resist: 40
+  weapon: 意気軒昂の夏祭の斧
+  special: 月光
+  passive_a: 速さ守備の備え4
+  passive_b: 天馬裂空
+  passive_c: 攻速牽制・運び手
 - name: 蒼炎エリンシア
   weapon_type: 剣
   movement_type: 飛行
@@ -246,6 +259,18 @@
   assist: 献身
   passive_a: 鬼神の一撃3
   passive_b: 編隊飛行3
+- name: 蒼炎ルキノ
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 41
+  attack: 61
+  speed: 46
+  defence: 30
+  resist: 34
+  weapon: 清風明月の夏祭の槍
+  assist: 速さの大応援+
+  passive_b: 攻撃速さの防壁4
+  passive_c: 再移動制限・不惑
 - name: ネフェニー
   weapon_type: 槍
   movement_type: 歩行
@@ -270,6 +295,19 @@
   assist: 踊る
   passive_b: 業火大地の舞い2
   passive_c: 速さの指揮3
+- name: ネフェニー3
+  weapon_type: 赤魔
+  movement_type: 飛行
+  hp: 45
+  attack: 59
+  speed: 47
+  defence: 21
+  resist: 20
+  weapon: 人見知りの縁の祭器
+  special: 月虹
+  passive_a: 攻撃速さの制空
+  passive_b: 共鳴の黒魔法4
+  passive_c: 速さ魔防の十字牽制
 - name: ベウフォレス
   weapon_type: 剣
   movement_type: 騎馬
