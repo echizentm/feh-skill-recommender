@@ -47,6 +47,19 @@
   special: 月虹
   passive_a: 守備魔防の密集3
   passive_b: 攻撃隊形3
+- name: アルフォンス5
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 57
+  speed: 16
+  defence: 54
+  resist: 47
+  weapon: 王斧グリトニル
+  special: 王器
+  passive_a: 野戦築城
+  passive_b: 一新
+  passive_c: 生の息吹4
 - name: シャロン
   weapon_type: 槍
   movement_type: 歩行

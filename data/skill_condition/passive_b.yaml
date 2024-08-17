@@ -463,6 +463,10 @@
   allow:
     weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
     movement_type_list: [歩行]
+- name: 一新
+  allow:
+    weapon_type_list: [剣, 赤竜, 赤獣, 槍, 青竜, 青獣, 斧, 緑竜, 緑獣, 竜, 獣]
+    movement_type_list: [歩行]
 - name: 編隊飛行3
   allow:
     movement_type_list: [飛行]
@@ -914,3 +918,9 @@
 - name: 神獣の肉体
   allow:
     name_list: [エイクスルニル]
+- name: 読み通りです！
+  allow:
+    name_list: [ルフレ8]
+- name: 一匹狼
+  allow:
+    name_list: [フェリクス3]

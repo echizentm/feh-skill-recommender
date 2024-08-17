@@ -4,6 +4,9 @@
 - name: 狙撃
   allow:
     weapon_type_list: [赤弓, 青弓, 緑弓, 弓]
+- name: 曲射
+  allow:
+    weapon_type_list: [赤弓, 青弓, 緑弓, 弓]
 - name: 流星
   deny:
     weapon_type_list: [杖]
@@ -336,3 +339,6 @@
 - name: ワープライナ
   allow:
     name_list: [セリカ6]
+- name: 王器
+  allow:
+    name_list: [アルフォンス5]

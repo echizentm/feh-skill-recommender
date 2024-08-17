@@ -354,6 +354,18 @@
   passive_a: 強化増幅4
   passive_b: 回避・怒り4
   passive_c: 始まりの鼓動4
+- name: パネトネ
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 49
+  attack: 64
+  speed: 41
+  defence: 35
+  resist: 24
+  weapon: ベルセルクの斧
+  special: 竜穿
+  passive_a: 生命の業火3
+  passive_c: 恐慌の幻煙3
 - name: エンゲージアンナ
   weapon_type: 斧
   movement_type: 飛行

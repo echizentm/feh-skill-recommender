@@ -289,6 +289,19 @@
   passive_a: 邪竜の暗鱗
   passive_b: 攻撃速さの連携4
   passive_c: 歩行の見切り追撃4
+- name: 女ルフレ8
+  weapon_type: 魔
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 47
+  defence: 30
+  resist: 26
+  weapon: 聖王の参謀の術書
+  special: 陽光
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 読み通りです！
+  passive_c: 開闢の鼓動
 - name: リズ
   weapon_type: 杖
   movement_type: 歩行
