@@ -131,6 +131,9 @@
 - name: 鼓動の幻煙3
   deny:
     weapon_type_list: [杖]
+- name: 鼓動の暗煙
+  allow:
+    weapon_type_list: [赤暗器, 青暗器, 緑暗器, 暗器]
 - name: 恐慌の幻煙3
   deny:
     weapon_type_list: [杖]

@@ -1318,6 +1318,19 @@
   special: 月光
   passive_a: 攻撃速さの孤軍3
   passive_b: 守備の封印3
+- name: 男シェズ3
+  weapon_type: 赤暗器
+  movement_type: 歩行
+  hp: 41
+  attack: 55
+  speed: 47
+  defence: 32
+  resist: 27
+  weapon: 修羅の双刃
+  special: 破天
+  passive_a: 攻撃速さの秘奥4
+  passive_b: 無間の瞬動
+  passive_c: 鼓動の暗煙
 - name: 女シェズ
   weapon_type: 斧
   movement_type: 歩行

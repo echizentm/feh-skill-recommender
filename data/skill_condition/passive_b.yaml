@@ -924,3 +924,6 @@
 - name: 一匹狼
   allow:
     name_list: [フェリクス3]
+- name: 無間の瞬動
+  allow:
+    name_list: [男シェズ3]
