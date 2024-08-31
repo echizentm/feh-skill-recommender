@@ -873,7 +873,7 @@
 - name: 未来を知る力
   allow:
     name_list: [ミカヤ5, ミカヤ6]
-- name: それは興味深いね
+- name: それは興味深…・承
   allow:
     name_list: [エイトリ]
 - name: 信じつづける誓い

@@ -513,7 +513,7 @@
 - name: 開神の眷属
   allow:
     name_list: [アシュ, アシュ2]
-- name: 女神を宿せし者
+- name: 女神を宿せし者・承
   allow:
     name_list: [ベレス3]
 - name: 地上の最後の女神
