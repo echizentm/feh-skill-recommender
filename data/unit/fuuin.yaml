@@ -476,6 +476,18 @@
   special: 華炎
   passive_a: 飛燕金剛の構え2
   passive_b: 速さ守備封じ2
+- name: ティト2
+  weapon_type: 剣
+  movement_type: 飛行
+  hp: 39
+  attack: 59
+  speed: 47
+  defence: 27
+  resist: 39
+  weapon: イリアの吹雪の剣
+  special: 氷蒼
+  passive_b: 天馬裂空
+  passive_c: 先導の伝令・天4
 - name: シャニー
   weapon_type: 槍
   movement_type: 飛行

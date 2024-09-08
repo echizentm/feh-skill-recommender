@@ -311,6 +311,19 @@
   passive_a: 速さ守備の絆3
   passive_b: 奥義隊形3
   passive_c: 近距離警戒3
+- name: フェリシア3
+  weapon_type: 斧
+  movement_type: 騎馬
+  hp: 41
+  attack: 59
+  speed: 47
+  defence: 35
+  resist: 24
+  weapon: 氷の部族の雪斧
+  special: 月光
+  passive_a: 攻撃速さの突破
+  passive_b: 速さ魔防の近影4
+  passive_c: 速さの波・奇数4
 - name: ジョーカー
   weapon_type: 暗器
   movement_type: 歩行
@@ -1447,6 +1460,18 @@
   passive_a: 攻撃魔防の防城戦3
   passive_b: 攻撃隊形3
   passive_c: 重装の行軍3
+- name: フローラ3
+  weapon_type: 暗器
+  movement_type: 騎馬
+  hp: 40
+  attack: 59
+  speed: 21
+  defence: 31
+  resist: 46
+  weapon: 氷の暗器+
+  special: 氷華
+  passive_a: 攻撃魔防の機先3
+  passive_b: 罠解除3
 - name: フランネル
   weapon_type: 赤獣
   movement_type: 歩行

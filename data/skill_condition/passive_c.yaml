@@ -295,6 +295,9 @@
 - name: 先導の伝令・天3
   allow:
     movement_type_list: [飛行]
+- name: 先導の伝令・天4
+  allow:
+    movement_type_list: [飛行]
 - name: 先導の伝令・地3
   allow:
     movement_type_list: [飛行]

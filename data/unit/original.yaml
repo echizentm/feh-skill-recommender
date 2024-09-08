@@ -340,6 +340,19 @@
   passive_a: 攻撃速さの秘奥4
   passive_b: 回避・怒り4
   passive_c: 始まりの鼓動4
+- name: フィヨルム6
+  weapon_type: 槍
+  movement_type: 重装
+  hp: 48
+  attack: 58
+  speed: 47
+  defence: 35
+  resist: 40
+  weapon: ニルスの氷晶の槍
+  special: 双氷の聖鏡
+  passive_a: 生命の疾風静水3
+  passive_b: 連盾隊形
+  passive_c: 刃の護り手・遠間3
 - name: スリーズ
   weapon_type: 緑魔
   movement_type: 騎馬

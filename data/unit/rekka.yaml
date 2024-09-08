@@ -802,6 +802,18 @@
   assist: 奏でる
   passive_b: 大地静水の舞い2
   passive_c: 竜刃の鼓舞
+- name: ニルス3
+  weapon_type: 青竜
+  movement_type: 歩行
+  hp: 40
+  attack: 49
+  speed: 43
+  defence: 30
+  resist: 40
+  weapon: 氷竜の竜石+
+  assist: 奏でる
+  passive_b: 魔防の魅了3
+  passive_c: 速さ魔防の紋章2
 - name: ネルガル
   weapon_type: 緑魔
   movement_type: 歩行
