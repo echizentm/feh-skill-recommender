@@ -11,9 +11,12 @@
 - name: 響・見切り反撃不可
   allow:
     movement_type_list: [歩行]
+- name: 響・始まりの鼓動
+  allow:
+    movement_type_list: [歩行]
 - name: 響・攻撃の信義
-  deny:
-    movement_type_list: [重装, 騎馬]
+  allow:
+    movement_type_list: [歩行, 飛行]
 - name: 響・飛走の先導
   allow:
     movement_type_list: [飛行]

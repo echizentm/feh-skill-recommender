@@ -441,6 +441,9 @@
 - name: 緑への暗闘3
   deny:
     weapon_type_list: [槍, 青弓, 青暗器, 青魔, 青竜, 青獣]
+- name: 影助・引き戻し4
+  allow:
+    movement_type_list: [騎馬, 飛行]
 - name: 盟主の鼓動・承
   allow:
     name_list: [ヘクトル3]

@@ -354,6 +354,32 @@
   passive_a: 強化増幅4
   passive_b: 回避・怒り4
   passive_c: 始まりの鼓動4
+- name: ミスティラ2
+  weapon_type: 槍
+  movement_type: 歩行
+  hp: 40
+  attack: 50
+  speed: 47
+  defence: 47
+  resist: 31
+  weapon: 闘いの熱砂の槍
+  special: 砂陣
+  passive_a: 速さ守備の秘奥4
+  passive_b: 不動4
+  passive_c: 生の息吹4
+  passive_x: 響・始まりの鼓動
+- name: メリン
+  weapon_type: 剣
+  movement_type: 騎馬
+  hp: 39
+  attack: 61
+  speed: 47
+  defence: 36
+  resist: 23
+  weapon: 珍獣騎士の剣
+  assist: 引き戻し
+  passive_b: 速さ守備の連携4
+  passive_c: 近間の攻撃の波・偶
 - name: パネトネ
   weapon_type: 斧
   movement_type: 歩行
@@ -366,6 +392,31 @@
   special: 竜穿
   passive_a: 生命の業火3
   passive_c: 恐慌の幻煙3
+- name: フォガート
+  weapon_type: 緑弓
+  movement_type: 騎馬
+  hp: 38
+  attack: 59
+  speed: 47
+  defence: 25
+  resist: 30
+  weapon: 自警団長の弓
+  special: 月光
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 速さ守備の遠影4
+- name: パンドロ
+  weapon_type: 杖
+  movement_type: 歩行
+  hp: 45
+  attack: 55
+  speed: 43
+  defence: 18
+  resist: 50
+  weapon: サンクチュアリ+
+  assist: セインツ+
+  special: 業火静水の祝福
+  passive_a: 守備魔防の秘奥3
+  passive_c: 魔防の大紋章2
 - name: エンゲージアンナ
   weapon_type: 斧
   movement_type: 飛行
@@ -454,6 +505,18 @@
   special: 華炎
   passive_b: 攻撃封じ3
   passive_c: 攻撃守備の奮起3
+- name: マロン
+  weapon_type: 斧
+  movement_type: 重装
+  hp: 49
+  attack: 62
+  speed: 20
+  defence: 53
+  resist: 40
+  weapon: 称賛の希求の大斧
+  special: 華炎
+  passive_a: 攻撃守備の備え3
+  passive_b: 守備隊形3
 - name: エル
   weapon_type: 緑竜
   movement_type: 歩行

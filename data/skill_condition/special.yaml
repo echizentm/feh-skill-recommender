@@ -279,6 +279,9 @@
 - name: 魔弾・神
   allow:
     name_list: [レギン]
+- name: 連魔弾
+  allow:
+    name_list: [レギン3]
 - name: 凶弾
   allow:
     name_list: [オッテル]
@@ -345,3 +348,6 @@
 - name: 王器
   allow:
     name_list: [アルフォンス5]
+- name: 砂陣
+  allow:
+    name_list: [ミスティラ2]

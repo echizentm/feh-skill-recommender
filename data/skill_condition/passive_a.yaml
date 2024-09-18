@@ -483,6 +483,12 @@
 - name: 攻撃魔防の秘奥4
   allow:
     movement_type_list: [歩行]
+- name: 速さ守備の秘奥3
+  allow:
+    movement_type_list: [歩行]
+- name: 速さ守備の秘奥4
+  allow:
+    movement_type_list: [歩行]
 - name: 速さ魔防の秘奥3
   allow:
     movement_type_list: [歩行]

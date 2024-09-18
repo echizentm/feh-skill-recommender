@@ -1124,6 +1124,19 @@
   special: 魔弾
   passive_a: 鬼神飛燕の一撃3
   passive_c: 攻撃の十字紋章
+- name: レギン3
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 62
+  speed: 48
+  defence: 38
+  resist: 22
+  weapon: ニザヴェリルの理槍
+  special: 連魔弾
+  passive_a: 攻撃速さの突破
+  passive_b: 怒涛・キャンセル4
+  passive_c: 影助・引き戻し4
 - name: オッテル
   weapon_type: 斧
   movement_type: 騎馬
