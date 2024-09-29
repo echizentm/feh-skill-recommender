@@ -49,6 +49,19 @@
   special: グランベルの騎士道
   passive_a: 鬼神金剛の離撃
   passive_b: 魔防封じ4
+- name: シグルド5
+  weapon_type: 槍
+  movement_type: 騎馬
+  hp: 41
+  attack: 64
+  speed: 37
+  defence: 47
+  resist: 17
+  weapon: 聖騎士の槍
+  special: オーバードライヴ
+  passive_a: 攻撃守備の突破
+  passive_b: 助走4
+  passive_c: 不治の幻煙4
 - name: アーダン
   weapon_type: 剣
   movement_type: 重装

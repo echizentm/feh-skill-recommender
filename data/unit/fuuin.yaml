@@ -358,11 +358,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 41
-  attack: 54
+  attack: 56
   speed: 33
   defence: 41
   resist: 17
-  weapon: 瞬撃の槍+
+  weapon: 紅蓮の竜槍
   special: 緋炎
   passive_a: 攻撃守備の孤軍4
   passive_b: 飛竜行空3

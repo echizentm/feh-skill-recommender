@@ -521,11 +521,11 @@
   weapon_type: 青魔
   movement_type: 歩行
   hp: 39
-  attack: 50
+  attack: 52
   speed: 32
   defence: 17
   resist: 40
-  weapon: ブラーフォックス+
+  weapon: 空腹の魔道士の書
   special: 氷蒼
   passive_a: 鬼神明鏡の一撃2
   passive_c: 魔防の謀策3

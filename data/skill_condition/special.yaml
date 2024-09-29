@@ -297,6 +297,9 @@
 - name: グランベルの騎士道
   allow:
     name_list: [シグルド4]
+- name: オーバードライヴ
+  allow:
+    name_list: [シグルド5]
 - name: 覇天
   allow:
     name_list: [ベレト2, ベレト3]
