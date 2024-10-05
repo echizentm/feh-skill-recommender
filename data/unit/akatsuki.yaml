@@ -476,6 +476,18 @@
   special: 凶星
   passive_a: 攻撃速さの孤軍3
   passive_b: 速さ守備の凪3
+- name: レテ3
+  weapon_type: 青獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 58
+  speed: 47
+  defence: 35
+  resist: 24
+  weapon: 感謝の戦猫の爪牙
+  special: 竜穿
+  passive_a: 攻撃速さの激突3
+  passive_b: 速さ守備の近影3
 - name: キサ
   weapon_type: 赤獣
   movement_type: 歩行

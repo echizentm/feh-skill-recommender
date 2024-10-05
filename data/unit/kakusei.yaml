@@ -1313,6 +1313,18 @@
   special: 疾風迅雷
   passive_a: 速さ守備の弧軍3
   passive_c: 攻撃速さの威嚇2
+- name: シャンブレー3
+  weapon_type: 赤獣
+  movement_type: 騎馬
+  hp: 40
+  attack: 61
+  speed: 48
+  defence: 36
+  resist: 21
+  weapon: 豊穣の子兎の爪牙
+  special: 疾風迅雷
+  passive_b: 絶対化身・察知3
+  passive_c: 速さ守備の奮起3
 - name: ロラン
   weapon_type: 魔
   movement_type: 歩行
@@ -1426,6 +1438,19 @@
   passive_a: 強化増幅3
   passive_b: 切り返し3
   passive_c: 歩行の呼吸3
+- name: ンン2
+  weapon_type: 緑竜
+  movement_type: 重装
+  hp: 58
+  attack: 63
+  speed: 18
+  defence: 49
+  resist: 45
+  weapon: 収穫の喜びの竜石
+  special: 重装の大炎
+  passive_a: 生命の業火大地3
+  passive_b: 竜の堅鱗
+  passive_c: 盾の護り手・近・双
 - name: デジェル
   weapon_type: 槍
   movement_type: 重装

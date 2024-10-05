@@ -964,6 +964,19 @@
   passive_a: 遠距離反撃
   passive_b: 奥義隊形3
   passive_c: 竜の技量3
+- name: ナギ2
+  weapon_type: 赤竜
+  movement_type: 重装
+  hp: 49
+  attack: 64
+  speed: 17
+  defence: 45
+  resist: 48
+  weapon: 神魔の双竜の竜石
+  special: 竜の咆哮
+  passive_a: 攻撃魔防の竜眼4
+  passive_b: 竜の堅鱗
+  passive_c: 兜の護り手・遠・双
 - name: ガトー
   weapon_type: 魔
   movement_type: 歩行

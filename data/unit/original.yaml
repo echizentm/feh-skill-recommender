@@ -1254,6 +1254,19 @@
   passive_a: 守備魔防の秘奥4
   passive_b: 攻撃魔防の拍節3
   passive_c: みんなが繋がる世界
+- name: アスク3
+  weapon_type: 獣
+  movement_type: 歩行
+  hp: 42
+  attack: 62
+  speed: 16
+  defence: 48
+  resist: 45
+  weapon: 開かれし祭の角
+  special: 堅固なる獣
+  passive_a: 遠反・強化増幅
+  passive_b: 一新
+  passive_c: 人と神が繋がる世界
 - name: アシュ
   weapon_type: 獣
   movement_type: 歩行

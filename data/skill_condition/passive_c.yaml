@@ -265,6 +265,9 @@
 - name: 盾の護り手・近間3
   allow:
     movement_type_list: [重装]
+- name: 盾の護り手・近・双
+  allow:
+    movement_type_list: [重装]
 - name: 盾の護り手・遠間3
   allow:
     movement_type_list: [重装]
@@ -278,6 +281,9 @@
   allow:
     movement_type_list: [重装]
 - name: 兜の護り手・遠間3
+  allow:
+    movement_type_list: [重装]
+- name: 兜の護り手・遠・双
   allow:
     movement_type_list: [重装]
 - name: 空からの先導3
@@ -537,6 +543,9 @@
 - name: みんなが繋がる世界
   allow:
     name_list: [アスク, アスク2]
+- name: 人と神が繋がる世界
+  allow:
+    name_list: [アスク3]
 - name: すべてが閉じた世界
   allow:
     name_list: [エンブラ]
