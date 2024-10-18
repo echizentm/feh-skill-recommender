@@ -315,6 +315,9 @@
 - name: 鎮魂の舞
   allow:
     name_list: [マリアンヌ2]
+- name: 鎮魂の願い
+  allow:
+    name_list: [マリアンヌ3]
 - name: 光炎の紋章
   allow:
     name_list: [マルス3, マルス6]

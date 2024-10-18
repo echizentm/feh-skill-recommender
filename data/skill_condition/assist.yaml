@@ -40,6 +40,10 @@
 - name: 引き戻し
   deny:
     weapon_type_list: [杖]
+- name: 引き戻し・歩法
+  deny:
+    weapon_type_list: [杖]
+    movement_type_list: [騎馬, 飛行]
 - name: 回り込み
   deny:
     weapon_type_list: [杖]
@@ -128,7 +132,11 @@
     ]
 - name: 歌う
   allow:
-    name_list: [アクア, アクア2, アクア3, アクア4, アクア5, アクア6, シグレ, リュシオン, リアーネ, ラフィエル, ドロテア3]
+    name_list: [
+      アクア, アクア2, アクア3, アクア4, アクア5, アクア6, シグレ,
+      リュシオン, リアーネ, ラフィエル,
+      ドロテア3, ドロテア4
+    ]
 - name: 奏でる
   allow:
     name_list: [ニルス, ニルス2, ニルス3]

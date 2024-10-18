@@ -1202,6 +1202,19 @@
   passive_a: 攻撃速さの激突4
   passive_b: 双姫の天翼
   passive_c: 攻撃速さの奮進
+- name: ダグ4
+  weapon_type: 剣
+  movement_type: 歩行
+  hp: 41
+  attack: 62
+  speed: 48
+  defence: 38
+  resist: 31
+  weapon: 始まりの巨人の剣
+  assist: 引き戻し・歩法
+  passive_a: 攻撃速さの突破
+  passive_b: 始祖の炎翼
+  passive_c: 再移動制限・不惑
 - name: ノート
   weapon_type: 槍
   movement_type: 歩行

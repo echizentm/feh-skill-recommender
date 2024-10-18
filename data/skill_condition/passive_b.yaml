@@ -167,6 +167,9 @@
 - name: 速さ守備封じ2
   deny:
     weapon_type_list: [杖]
+- name: 速さ守備封じ3
+  deny:
+    weapon_type_list: [杖]
 - name: 速さ魔防封じ2
   deny:
     weapon_type_list: [杖]
@@ -737,6 +740,9 @@
   allow:
     weapon_type_list: [杖]
     movement_type_list: [歩行]
+- name: 速さ魔防の不和
+  allow:
+    movement_type_list: [歩行, 飛行]
 - name: 氷の封印・承
   allow:
     name_list: [スリーズ]
@@ -866,6 +872,9 @@
 - name: 双姫の天翼
   allow:
     name_list: [ダグ3]
+- name: 始祖の炎翼
+  allow:
+    name_list: [ダグ4]
 - name: 蒼き殺人鬼
   allow:
     name_list: [ディミトリ4]
