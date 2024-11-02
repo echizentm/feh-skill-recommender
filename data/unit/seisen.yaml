@@ -277,11 +277,11 @@
   weapon_type: 槍
   movement_type: 飛行
   hp: 43
-  attack: 50
+  attack: 52
   speed: 38
   defence: 23
   resist: 33
-  weapon: 火薙ぎの槍+
+  weapon: 四天馬騎士の冷槍
   special: 氷華
   passive_b: 編隊飛行3
   passive_c: 速さ魔防の信義3

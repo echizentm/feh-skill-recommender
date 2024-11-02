@@ -522,6 +522,9 @@
 - name: 神槌大地を穿つ
   allow:
     name_list: [トール, トール2]
+- name: 神槌大地を穿つ・神
+  allow:
+    name_list: [トール]
 - name: 開神の眷属
   allow:
     name_list: [アシュ, アシュ2]
@@ -618,3 +621,6 @@
 - name: 被害妄想
   allow:
     name_list: [ベルナデッタ4]
+- name: 神獣の鋭爪
+  allow:
+    name_list: [フレスベルグ]

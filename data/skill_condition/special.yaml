@@ -62,6 +62,9 @@
 - name: 堅固なる獣
   allow:
     weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
+- name: 敏捷なる獣
+  allow:
+    weapon_type_list: [赤獣, 青獣, 緑獣, 獣]
 - name: 緋炎
   deny:
     weapon_type_list: [杖]
@@ -285,7 +288,7 @@
 - name: 連魔弾
   allow:
     name_list: [レギン3]
-- name: 凶弾
+- name: 凶弾・神
   allow:
     name_list: [オッテル]
 - name: 天与の魔道

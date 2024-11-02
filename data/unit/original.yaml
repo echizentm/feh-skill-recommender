@@ -800,8 +800,8 @@
   weapon: 神槌ミョルニル
   special: 緋炎
   passive_a: 攻撃守備の渾身4
-  passive_b: 怒涛・キャンセル3
-  passive_c: 神槌大地を穿つ
+  passive_b: 警戒姿勢4
+  passive_c: 神槌大地を穿つ・神
 - name: トール2
   weapon_type: 青魔
   movement_type: 飛行
@@ -1140,14 +1140,14 @@
 - name: オッテル
   weapon_type: 斧
   movement_type: 騎馬
-  hp: 46
-  attack: 62
-  speed: 19
-  defence: 42
-  resist: 37
+  hp: 41
+  attack: 60
+  speed: 17
+  defence: 40
+  resist: 35
   weapon: 機斧ロヴンヘイズ
-  special: 凶弾
-  passive_a: 緑の死闘・騎馬4
+  special: 凶弾・神
+  passive_a: 攻撃守備の突破
   passive_b: 怒濤・再起3
   passive_c: 攻撃守備の脅嚇
 - name: ファフニール
@@ -1513,6 +1513,19 @@
   passive_a: 攻撃速さの激突4
   passive_b: 絶対化身・敏捷4
   passive_c: 癒し手の心
+- name: フレスベルグ
+  weapon_type: 青獣
+  movement_type: 飛行
+  hp: 40
+  attack: 59
+  speed: 48
+  defence: 36
+  resist: 25
+  weapon: 刃の葬り手の爪
+  special: 敏捷なる獣
+  passive_a: 攻撃速さの共栄
+  passive_b: 速さ守備の近影4
+  passive_c: 神獣の鋭爪
 - name: ヘイズルーン
   weapon_type: 緑獣
   movement_type: 歩行
