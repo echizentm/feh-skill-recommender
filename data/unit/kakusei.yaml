@@ -836,6 +836,19 @@
   assist: 引き寄せ
   passive_b: 速さ魔防の遠影3
   passive_c: 攻撃速さの大開放3
+- name: サーリャ6
+  weapon_type: 赤魔
+  movement_type: 騎馬
+  hp: 45
+  attack: 55
+  speed: 47
+  defence: 20
+  resist: 21
+  weapon: 呪いの忍者の忍法帳
+  special: 月光
+  passive_a: 鬼神飛燕の掩撃3
+  passive_b: 共鳴の黒魔法4
+  passive_c: 守備魔防の紫煙3
 - name: ムスタファー
   weapon_type: 斧
   movement_type: 歩行
@@ -1202,6 +1215,20 @@
   passive_a: 攻撃速さの激突4
   passive_b: 速さ守備の干渉4
   passive_c: 守備魔防の奮進
+- name: ルキナ8
+  weapon_type: 弓
+  movement_type: 騎馬
+  hp: 40
+  attack: 53
+  speed: 48
+  defence: 28
+  resist: 24
+  weapon: 聖王国の父娘の忍弓
+  assist: 未来を叶える瞳
+  special: 曲射
+  passive_a: 鬼神飛燕の炎撃
+  passive_b: 速さ守備の看破
+  passive_c: 影助・引き戻し4
 - name: ウード
   weapon_type: 剣
   movement_type: 歩行
@@ -1425,6 +1452,18 @@
   assist: 献身
   passive_a: 攻撃速さ2
   passive_c: 歩行の剛撃3
+- name: ノワール2
+  weapon_type: 暗器
+  movement_type: 歩行
+  hp: 38
+  attack: 51
+  speed: 47
+  defence: 36
+  resist: 28
+  weapon: 大手裏剣+
+  special: 月虹
+  passive_b: 攻撃速さ封じ2
+  passive_c: 歩行の柔撃3
 - name: ンン
   weapon_type: 赤竜
   movement_type: 歩行

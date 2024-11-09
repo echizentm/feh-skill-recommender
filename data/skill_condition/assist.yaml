@@ -164,6 +164,9 @@
 - name: 未来を変える瞳
   allow:
     name_list: [ルキナ7]
+- name: 未来を叶える瞳
+  allow:
+    name_list: [ルキナ7]
 - name: やさしいゆめ
   allow:
     name_list: [ピアニー, ピアニー2]

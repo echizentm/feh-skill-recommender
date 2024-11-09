@@ -68,6 +68,10 @@
 - name: 緋炎
   deny:
     weapon_type_list: [杖]
+- name: 巨岩
+  allow:
+    weapon_type_list: [剣, 槍, 斧]
+    movement_type_list: [歩行]
 - name: ブルーフレイム
   deny:
     weapon_type_list: [杖]

@@ -163,6 +163,18 @@
   special: 氷蒼
   passive_a: 速さ魔防の万全4
   passive_c: 再移動制限3
+- name: セリーヌ2
+  weapon_type: 青魔
+  movement_type: 歩行
+  hp: 36
+  attack: 52
+  speed: 47
+  defence: 16
+  resist: 45
+  weapon: 花と茶の忍法帳
+  special: 氷華
+  passive_b: 速さ魔防の拍節4
+  passive_c: 速さ魔防の謀策3
 - name: クロエ
   weapon_type: 槍
   movement_type: 飛行
@@ -201,6 +213,19 @@
   passive_a: 攻撃守備の秘奥4
   passive_b: 攻撃速さの防壁3
   passive_c: 始まりの鼓動4
+- name: ディアマンド2
+  weapon_type: 斧
+  movement_type: 歩行
+  hp: 40
+  attack: 59
+  speed: 38
+  defence: 48
+  resist: 25
+  weapon: 武と勇の鎖鎌
+  special: 巨岩
+  passive_a: 攻撃守備の秘奥4
+  passive_b: 攻撃守備の刃壁
+  passive_c: 迅雷風烈・無極
 - name: スタルーク
   weapon_type: 弓
   movement_type: 歩行

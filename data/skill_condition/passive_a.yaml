@@ -36,6 +36,9 @@
   deny:
     weapon_type_list: [杖]
     movement_type_list: [歩行, 重装]
+- name: 鬼神飛燕の掩撃
+  deny:
+    weapon_type_list: [杖]
 - name: 鬼神金剛の一撃2
   deny:
     weapon_type_list: [杖]
